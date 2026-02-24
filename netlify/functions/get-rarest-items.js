@@ -1,6 +1,14 @@
 import { getProfile, refreshAccessToken } from './lib/bungie-api.js';
 import { decrypt, COOKIE_NAME } from './lib/cookie.js';
 import { matchRarestItems, getMatcherData } from './lib/matcher.js';
+import { appendFileSync } from 'fs';
+import { join } from 'path';
+
+function debugLog(payload) {
+  try {
+    appendFileSync(join(process.cwd(), 'debug-5ae389.log'), JSON.stringify({ ...payload, timestamp: Date.now(), sessionId: '5ae389' }) + '\n');
+  } catch (_) {}
+}
 
 export const handler = async (event) => {
   const cookies = event.headers.cookie || '';
@@ -8,6 +16,9 @@ export const handler = async (event) => {
   const cookieValue = match ? match[1].trim() : null;
 
   if (!cookieValue) {
+    // #region agent log
+    debugLog({ hypothesisId: 'H3,H5', location: 'get-rarest-items.js:no-cookie', message: '401 no bungie_auth cookie', data: { hasAnyCookies: !!cookies } });
+    // #endregion
     return {
       statusCode: 401,
       headers: { 'Content-Type': 'application/json' },
@@ -19,6 +30,9 @@ export const handler = async (event) => {
   try {
     auth = decrypt(cookieValue);
   } catch (err) {
+    // #region agent log
+    debugLog({ hypothesisId: 'H5', location: 'get-rarest-items.js:decrypt-fail', message: '401 decrypt failed Invalid session', data: { errMessage: err.message } });
+    // #endregion
     return {
       statusCode: 401,
       headers: { 'Content-Type': 'application/json' },

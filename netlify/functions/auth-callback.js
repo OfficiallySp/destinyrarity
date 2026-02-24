@@ -1,5 +1,13 @@
 import { exchangeCodeForToken, getMembershipData } from './lib/bungie-api.js';
 import { encrypt, COOKIE_NAME, COOKIE_OPTS } from './lib/cookie.js';
+import { appendFileSync } from 'fs';
+import { join } from 'path';
+
+function debugLog(payload) {
+  try {
+    appendFileSync(join(process.cwd(), 'debug-5ae389.log'), JSON.stringify({ ...payload, timestamp: Date.now(), sessionId: '5ae389' }) + '\n');
+  } catch (_) {}
+}
 
 export const handler = async (event) => {
   const siteUrl = process.env.SITE_URL || (event.headers['x-forwarded-proto'] && event.headers['x-forwarded-host']
@@ -10,8 +18,18 @@ export const handler = async (event) => {
   const code = params.code;
   const state = params.state;
   const error = params.error;
+  const cookies = event.headers.cookie || '';
+  const stateMatch = cookies.match(/oauth_state=([^;]+)/);
+  const storedState = stateMatch ? stateMatch[1].trim() : null;
+
+  // #region agent log
+  debugLog({ hypothesisId: 'H1,H2', location: 'auth-callback.js:entry', message: 'auth-callback invoked', data: { hasError: !!error, hasCode: !!code, hasState: !!state, hasOauthStateCookie: !!storedState, stateMatch: storedState === state, cookieCount: (cookies.match(/;/g) || []).length + (cookies ? 1 : 0) } });
+  // #endregion
 
   if (error) {
+    // #region agent log
+    debugLog({ hypothesisId: 'H1', location: 'auth-callback.js:error-branch', message: 'redirecting to home with error param', data: { error } });
+    // #endregion
     return {
       statusCode: 302,
       headers: { Location: `${siteUrl}/?error=${encodeURIComponent(error)}` },
@@ -20,6 +38,9 @@ export const handler = async (event) => {
   }
 
   if (!code || !state) {
+    // #region agent log
+    debugLog({ hypothesisId: 'H1', location: 'auth-callback.js:missing-params', message: 'redirecting to home missing code/state', data: {} });
+    // #endregion
     return {
       statusCode: 302,
       headers: { Location: `${siteUrl}/?error=missing_params` },
@@ -27,11 +48,10 @@ export const handler = async (event) => {
     };
   }
 
-  const cookies = event.headers.cookie || '';
-  const stateMatch = cookies.match(/oauth_state=([^;]+)/);
-  const storedState = stateMatch ? stateMatch[1].trim() : null;
-
   if (!storedState || storedState !== state) {
+    // #region agent log
+    debugLog({ hypothesisId: 'H1,H2', location: 'auth-callback.js:invalid-state', message: 'redirecting to home invalid_state', data: { hasStoredState: !!storedState, stateLengths: { stored: (storedState || '').length, param: (state || '').length } } });
+    // #endregion
     return {
       statusCode: 302,
       headers: { Location: `${siteUrl}/?error=invalid_state` },
@@ -52,6 +72,9 @@ export const handler = async (event) => {
       membershipType: membershipData.membershipType,
     });
 
+    // #region agent log
+    debugLog({ hypothesisId: 'H3', location: 'auth-callback.js:success', message: 'auth success redirecting to dashboard', data: { siteUrl } });
+    // #endregion
     return {
       statusCode: 302,
       headers: {
@@ -65,6 +88,9 @@ export const handler = async (event) => {
     };
   } catch (err) {
     console.error('Auth callback error:', err);
+    // #region agent log
+    debugLog({ hypothesisId: 'H1,H4', location: 'auth-callback.js:catch', message: 'auth-callback error redirecting to home', data: { errMessage: err.message } });
+    // #endregion
     return {
       statusCode: 302,
       headers: { Location: `${siteUrl}/?error=${encodeURIComponent(err.message)}` },

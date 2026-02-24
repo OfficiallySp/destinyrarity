@@ -106,9 +106,9 @@
           window.location.href = '/';
           return null;
         }
-        const ct = r.headers.get('Content-Type') || '';
         const text = await r.text();
-        if (!ct.includes('application/json') || text.trim().startsWith('<')) {
+        const trimmed = text.trim();
+        if (!trimmed || (trimmed[0] !== '{' && trimmed[0] !== '[')) {
           throw new Error(r.ok ? 'Invalid response format' : `Request failed (${r.status})`);
         }
         try {

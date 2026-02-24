@@ -6,6 +6,10 @@
   included_files = ["data/**"]
   node_bundler = "esbuild"
 
+# get-rarest-items loads ~2MB manifest + Bungie API; default 10s often causes 502
+[functions."get-rarest-items"]
+  timeout = 26
+
 [[redirects]]
   from = "/api/auth-login"
   to = "/.netlify/functions/auth-login"

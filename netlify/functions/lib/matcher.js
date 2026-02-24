@@ -59,18 +59,21 @@ function loadManifest() {
   return { collectibles, records };
 }
 
-function findRarity(rarityData, name) {
-  if (!name) return null;
-  const normalized = normalizeName(name);
-
+/** Build a Map of normalized name -> { ...item, category } for O(1) lookup */
+function buildRarityLookup(rarityData) {
+  const map = new Map();
   for (const cat of Object.keys(rarityData)) {
     for (const item of rarityData[cat]) {
-      if (normalizeName(item.name) === normalized) {
-        return { ...item, category: cat };
-      }
+      const key = normalizeName(item.name);
+      if (key && !map.has(key)) map.set(key, { ...item, category: cat });
     }
   }
-  return null;
+  return map;
+}
+
+function findRarity(rarityLookup, name) {
+  if (!name) return null;
+  return rarityLookup.get(normalizeName(name)) ?? null;
 }
 
 // DestinyCollectibleState: bit 0 = NotAcquired (0 = owned, 1 = not owned)
@@ -87,6 +90,7 @@ function isRecordCompleted(state) {
 
 export function matchRarestItems(profileData, manifest, rarityData) {
   const { collectibles: manifestCollectibles, records: manifestRecords } = manifest;
+  const rarityLookup = buildRarityLookup(rarityData);
   const results = {};
 
   const profileCollectibles = profileData.profileCollectibles || profileData.ProfileCollectibles;
@@ -99,7 +103,7 @@ export function matchRarestItems(profileData, manifest, rarityData) {
       const name = def?.name;
       const icon = def?.icon ? `https://www.bungie.net${def.icon}` : null;
 
-      const rarity = name ? findRarity(rarityData, name) : null;
+      const rarity = name ? findRarity(rarityLookup, name) : null;
       const category = rarity?.category || 'other';
       if (!results[category]) results[category] = [];
 
@@ -124,7 +128,7 @@ export function matchRarestItems(profileData, manifest, rarityData) {
       const name = def?.name;
       const icon = def?.icon ? `https://www.bungie.net${def.icon}` : null;
 
-      const rarity = name ? findRarity(rarityData, name) : null;
+      const rarity = name ? findRarity(rarityLookup, name) : null;
       const category = 'titles';
       if (!results[category]) results[category] = [];
 

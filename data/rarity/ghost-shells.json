@@ -3,7 +3,7 @@
   "items": [
     {
       "name": "Luminous Equine Shell",
-      "totalRedeemed": 540,
+      "totalRedeemed": 543,
       "globalRarity": 0.001,
       "adjustedRarity": 0
     },
@@ -27,7 +27,7 @@
     },
     {
       "name": "Tyrian Shell",
-      "totalRedeemed": 1439,
+      "totalRedeemed": 1440,
       "globalRarity": 0.002,
       "adjustedRarity": 0
     },
@@ -171,7 +171,7 @@
     },
     {
       "name": "Tagged Shell",
-      "totalRedeemed": 5830,
+      "totalRedeemed": 5831,
       "globalRarity": 0.008,
       "adjustedRarity": 0
     },
@@ -183,7 +183,7 @@
     },
     {
       "name": "Festive Lantern Shell",
-      "totalRedeemed": 6538,
+      "totalRedeemed": 6552,
       "globalRarity": 0.009,
       "adjustedRarity": 0
     },
@@ -219,7 +219,7 @@
     },
     {
       "name": "Restored Future Shell",
-      "totalRedeemed": 8158,
+      "totalRedeemed": 8159,
       "globalRarity": 0.011,
       "adjustedRarity": 0
     },
@@ -273,7 +273,7 @@
     },
     {
       "name": "Loyal Rover Shell",
-      "totalRedeemed": 12149,
+      "totalRedeemed": 12151,
       "globalRarity": 0.017,
       "adjustedRarity": 0
     },
@@ -321,7 +321,7 @@
     },
     {
       "name": "Keramos Shell",
-      "totalRedeemed": 14823,
+      "totalRedeemed": 14825,
       "globalRarity": 0.021,
       "adjustedRarity": 0.1
     },
@@ -411,7 +411,7 @@
     },
     {
       "name": "UESC Echo-type Shell",
-      "totalRedeemed": 21651,
+      "totalRedeemed": 21664,
       "globalRarity": 0.03,
       "adjustedRarity": 0.1
     },
@@ -459,13 +459,13 @@
     },
     {
       "name": "Taurus Shell",
-      "totalRedeemed": 23775,
+      "totalRedeemed": 23784,
       "globalRarity": 0.033,
       "adjustedRarity": 0.1
     },
     {
       "name": "Hieratic Shell",
-      "totalRedeemed": 24139,
+      "totalRedeemed": 24145,
       "globalRarity": 0.034,
       "adjustedRarity": 0.1
     },
@@ -561,7 +561,7 @@
     },
     {
       "name": "Inferno Shell",
-      "totalRedeemed": 32818,
+      "totalRedeemed": 32820,
       "globalRarity": 0.046,
       "adjustedRarity": 0.1
     },
@@ -573,7 +573,7 @@
     },
     {
       "name": "Shatter Shell",
-      "totalRedeemed": 35221,
+      "totalRedeemed": 35223,
       "globalRarity": 0.049,
       "adjustedRarity": 0.1
     },
@@ -735,7 +735,7 @@
     },
     {
       "name": "Scribe's Shell",
-      "totalRedeemed": 58448,
+      "totalRedeemed": 58451,
       "globalRarity": 0.081,
       "adjustedRarity": 0.2
     },
@@ -753,7 +753,7 @@
     },
     {
       "name": "Saturniid Shell",
-      "totalRedeemed": 60835,
+      "totalRedeemed": 60837,
       "globalRarity": 0.085,
       "adjustedRarity": 0.2
     },
@@ -789,7 +789,7 @@
     },
     {
       "name": "Skidder Shell",
-      "totalRedeemed": 63588,
+      "totalRedeemed": 63590,
       "globalRarity": 0.089,
       "adjustedRarity": 0.2
     },
@@ -831,7 +831,7 @@
     },
     {
       "name": "Soloist Shell",
-      "totalRedeemed": 72980,
+      "totalRedeemed": 72984,
       "globalRarity": 0.102,
       "adjustedRarity": 0.3
     },
@@ -855,7 +855,7 @@
     },
     {
       "name": "DS-2 Shell",
-      "totalRedeemed": 79513,
+      "totalRedeemed": 79516,
       "globalRarity": 0.111,
       "adjustedRarity": 0.3
     },
@@ -2050,7 +2050,7 @@
     {
       "name": "Harper's Shell",
       "totalRedeemed": 0,
-      "globalRarity": 1.247,
+      "globalRarity": 1.246,
       "adjustedRarity": 3.3
     },
     {
@@ -2488,7 +2488,7 @@
     {
       "name": "Classic Waveform Shell For Ghosts who like the classics—with a twist.",
       "totalRedeemed": 0,
-      "globalRarity": 3.067,
+      "globalRarity": 3.066,
       "adjustedRarity": 8.1
     },
     {
@@ -2590,7 +2590,7 @@
     {
       "name": "City Courier Shell",
       "totalRedeemed": 0,
-      "globalRarity": 3.378,
+      "globalRarity": 3.377,
       "adjustedRarity": 8.9
     },
     {
@@ -2614,7 +2614,7 @@
     {
       "name": "Dolphin Wave Shell",
       "totalRedeemed": 0,
-      "globalRarity": 3.433,
+      "globalRarity": 3.432,
       "adjustedRarity": 9.1
     },
     {
@@ -3004,7 +3004,7 @@
     {
       "name": "Two of Diamonds Shell",
       "totalRedeemed": 0,
-      "globalRarity": 5.03,
+      "globalRarity": 5.029,
       "adjustedRarity": 13.3
     },
     {
@@ -3046,7 +3046,7 @@
     {
       "name": "Commanding Star Shell",
       "totalRedeemed": 0,
-      "globalRarity": 7.25,
+      "globalRarity": 7.249,
       "adjustedRarity": 19.2
     },
     {
@@ -3116,6 +3116,12 @@
       "adjustedRarity": 244.4
     },
     {
+      "name": "Nessus Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
       "name": "Moon of Saturn Shell",
       "totalRedeemed": 0,
       "globalRarity": 92.444,
@@ -3129,12 +3135,6 @@
     },
     {
       "name": "Io Shell",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Nessus Shell",
       "totalRedeemed": 0,
       "globalRarity": 92.444,
       "adjustedRarity": 244.4

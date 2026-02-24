@@ -106,7 +106,7 @@
     {
       "name": "Unfall",
       "totalRedeemed": 0,
-      "globalRarity": 1.532,
+      "globalRarity": 1.531,
       "adjustedRarity": 4
     },
     {
@@ -118,7 +118,7 @@
     {
       "name": "Evening SI4",
       "totalRedeemed": 0,
-      "globalRarity": 1.655,
+      "globalRarity": 1.656,
       "adjustedRarity": 4.4
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "Empirical Evidence",
       "totalRedeemed": 0,
-      "globalRarity": 7.389,
+      "globalRarity": 7.388,
       "adjustedRarity": 19.5
     },
     {
@@ -478,49 +478,49 @@
     {
       "name": "Dissonance-34",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Roderic-C",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Spiderbite-1si",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Victoire SI2",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Vinegaroon-2si",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Recital-17",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Spiderbite-1si",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Vinegaroon-2si",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Victoire SI2",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Requiem SI2",
       "totalRedeemed": 0,
-      "globalRarity": 92.447,
+      "globalRarity": 92.446,
       "adjustedRarity": 244.4
     },
     {
       "name": "Traveler's Chosen (Damaged)",
       "totalRedeemed": 0,
-      "globalRarity": 92.447,
+      "globalRarity": 92.446,
       "adjustedRarity": 244.4
     }
   ]

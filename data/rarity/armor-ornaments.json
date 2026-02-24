@@ -32,7 +32,7 @@
       "adjustedRarity": 0.2
     },
     {
-      "name": "Fire-Forged Titan Chest Ornament Defeat enemies with Hand Cannon headshots in the Crucible during Season 3 to unlock and equip this ornament.",
+      "name": "Fire-Forged Warlock Chest Ornament Defeat enemies with Hand Cannon headshots in the Crucible during Season 3 to unlock and equip this ornament.",
       "totalRedeemed": 62512,
       "globalRarity": 0.087,
       "adjustedRarity": 0.2
@@ -44,7 +44,7 @@
       "adjustedRarity": 0.2
     },
     {
-      "name": "Fire-Forged Warlock Chest Ornament Defeat enemies with Hand Cannon headshots in the Crucible during Season 3 to unlock and equip this ornament.",
+      "name": "Fire-Forged Titan Chest Ornament Defeat enemies with Hand Cannon headshots in the Crucible during Season 3 to unlock and equip this ornament.",
       "totalRedeemed": 62512,
       "globalRarity": 0.087,
       "adjustedRarity": 0.2
@@ -98,12 +98,6 @@
       "adjustedRarity": 0.3
     },
     {
-      "name": "Fire-Forged Hunter Leg Ornament Defeat enemies with Sniper Rifles in the Crucible during Season 3 to unlock and equip this ornament.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.114,
-      "adjustedRarity": 0.3
-    },
-    {
       "name": "Fire-Forged Titan Leg Ornament Defeat enemies with Sniper Rifles in the Crucible during Season 3 to unlock and equip this ornament.",
       "totalRedeemed": 0,
       "globalRarity": 0.114,
@@ -111,6 +105,12 @@
     },
     {
       "name": "Fire-Forged Warlock Leg Ornament Defeat enemies with Sniper Rifles in the Crucible during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.114,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Fire-Forged Hunter Leg Ornament Defeat enemies with Sniper Rifles in the Crucible during Season 3 to unlock and equip this ornament.",
       "totalRedeemed": 0,
       "globalRarity": 0.114,
       "adjustedRarity": 0.3
@@ -332,6 +332,12 @@
       "adjustedRarity": 0.6
     },
     {
+      "name": "Phoenix Battle Ornament Complete Heroic strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.22,
+      "adjustedRarity": 0.6
+    },
+    {
       "name": "Soaring Sword Ornament Complete Heroic strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
       "totalRedeemed": 0,
       "globalRarity": 0.22,
@@ -339,12 +345,6 @@
     },
     {
       "name": "Ankaa Friend Ornament Complete Heroic strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.22,
-      "adjustedRarity": 0.6
-    },
-    {
-      "name": "Phoenix Battle Ornament Complete Heroic strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
       "totalRedeemed": 0,
       "globalRarity": 0.22,
       "adjustedRarity": 0.6
@@ -494,13 +494,13 @@
       "adjustedRarity": 1.2
     },
     {
-      "name": "Fire-Forged Titan Arm Ornament Defeat enemies with Pulse Rifles in the Crucible during Season 3 to unlock and equip this ornament.",
+      "name": "Fire-Forged Warlock Arm Ornament Defeat enemies with Pulse Rifles in the Crucible during Season 3 to unlock and equip this ornament.",
       "totalRedeemed": 0,
       "globalRarity": 0.484,
       "adjustedRarity": 1.3
     },
     {
-      "name": "Fire-Forged Warlock Arm Ornament Defeat enemies with Pulse Rifles in the Crucible during Season 3 to unlock and equip this ornament.",
+      "name": "Fire-Forged Titan Arm Ornament Defeat enemies with Pulse Rifles in the Crucible during Season 3 to unlock and equip this ornament.",
       "totalRedeemed": 0,
       "globalRarity": 0.484,
       "adjustedRarity": 1.3
@@ -632,7 +632,7 @@
       "adjustedRarity": 2.3
     },
     {
-      "name": "Steadfast Titan Ornament Complete Heroic strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV head armor.",
+      "name": "Steadfast Warlock Ornament Complete Heroic strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV head armor.",
       "totalRedeemed": 0,
       "globalRarity": 0.892,
       "adjustedRarity": 2.4
@@ -644,7 +644,7 @@
       "adjustedRarity": 2.4
     },
     {
-      "name": "Steadfast Warlock Ornament Complete Heroic strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV head armor.",
+      "name": "Steadfast Titan Ornament Complete Heroic strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV head armor.",
       "totalRedeemed": 0,
       "globalRarity": 0.892,
       "adjustedRarity": 2.4
@@ -680,19 +680,19 @@
       "adjustedRarity": 2.8
     },
     {
-      "name": "Take Shelter Ornament Complete challenges in strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV arms armor.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.066,
-      "adjustedRarity": 2.8
-    },
-    {
       "name": "On the Offense Ornament Complete challenges in strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV arms armor.",
       "totalRedeemed": 0,
       "globalRarity": 1.066,
       "adjustedRarity": 2.8
     },
     {
-      "name": "Steadfast Titan Ornament Defeat enemies in strikes with Super abilities during Season 3 to earn this ornament. It is unlocked to the Took Offense cloak, Mark of Shelter, and Xenos Vale Bond.",
+      "name": "Take Shelter Ornament Complete challenges in strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV arms armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.066,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Steadfast Warlock Ornament Defeat enemies in strikes with Super abilities during Season 3 to earn this ornament. It is unlocked to the Took Offense cloak, Mark of Shelter, and Xenos Vale Bond.",
       "totalRedeemed": 0,
       "globalRarity": 1.077,
       "adjustedRarity": 2.8
@@ -704,7 +704,7 @@
       "adjustedRarity": 2.8
     },
     {
-      "name": "Steadfast Warlock Ornament Defeat enemies in strikes with Super abilities during Season 3 to earn this ornament. It is unlocked to the Took Offense cloak, Mark of Shelter, and Xenos Vale Bond.",
+      "name": "Steadfast Titan Ornament Defeat enemies in strikes with Super abilities during Season 3 to earn this ornament. It is unlocked to the Took Offense cloak, Mark of Shelter, and Xenos Vale Bond.",
       "totalRedeemed": 0,
       "globalRarity": 1.077,
       "adjustedRarity": 2.8
@@ -716,7 +716,7 @@
       "adjustedRarity": 2.9
     },
     {
-      "name": "Soaring Sword Ornament Complete challenges in strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "name": "Ankaa Friend Ornament Complete challenges in strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
       "totalRedeemed": 0,
       "globalRarity": 1.176,
       "adjustedRarity": 3.1
@@ -728,16 +728,10 @@
       "adjustedRarity": 3.1
     },
     {
-      "name": "Ankaa Friend Ornament Complete challenges in strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "name": "Soaring Sword Ornament Complete challenges in strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
       "totalRedeemed": 0,
       "globalRarity": 1.176,
       "adjustedRarity": 3.1
-    },
-    {
-      "name": "Xenos Shore Ornament Complete weekly strike milestones during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV chest armor.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.312,
-      "adjustedRarity": 3.5
     },
     {
       "name": "On the Offense Ornament Complete weekly strike milestones during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV chest armor.",
@@ -747,6 +741,12 @@
     },
     {
       "name": "Take Shelter Ornament Complete weekly strike milestones during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV chest armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.312,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Xenos Shore Ornament Complete weekly strike milestones during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV chest armor.",
       "totalRedeemed": 0,
       "globalRarity": 1.312,
       "adjustedRarity": 3.5
@@ -770,7 +770,7 @@
       "adjustedRarity": 3.9
     },
     {
-      "name": "On the Offense Ornament Complete Heroic strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV head armor.",
+      "name": "Xenos Shore Ornament Complete Heroic strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV head armor.",
       "totalRedeemed": 0,
       "globalRarity": 1.473,
       "adjustedRarity": 3.9
@@ -782,7 +782,7 @@
       "adjustedRarity": 3.9
     },
     {
-      "name": "Xenos Shore Ornament Complete Heroic strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV head armor.",
+      "name": "On the Offense Ornament Complete Heroic strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV head armor.",
       "totalRedeemed": 0,
       "globalRarity": 1.473,
       "adjustedRarity": 3.9
@@ -794,13 +794,13 @@
       "adjustedRarity": 4
     },
     {
-      "name": "Soaring Sword Ornament Complete weekly strike milestones during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "name": "Ankaa Friend Ornament Complete weekly strike milestones during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
       "totalRedeemed": 0,
       "globalRarity": 1.661,
       "adjustedRarity": 4.4
     },
     {
-      "name": "Ankaa Friend Ornament Complete weekly strike milestones during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "name": "Soaring Sword Ornament Complete weekly strike milestones during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
       "totalRedeemed": 0,
       "globalRarity": 1.661,
       "adjustedRarity": 4.4
@@ -848,7 +848,7 @@
       "adjustedRarity": 5.1
     },
     {
-      "name": "Steadfast Titan Ornament Defeat enemies in strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV leg armor.",
+      "name": "Steadfast Hunter Ornament Defeat enemies in strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV leg armor.",
       "totalRedeemed": 0,
       "globalRarity": 2.92,
       "adjustedRarity": 7.7
@@ -860,7 +860,7 @@
       "adjustedRarity": 7.7
     },
     {
-      "name": "Steadfast Hunter Ornament Defeat enemies in strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV leg armor.",
+      "name": "Steadfast Titan Ornament Defeat enemies in strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV leg armor.",
       "totalRedeemed": 0,
       "globalRarity": 2.92,
       "adjustedRarity": 7.7
@@ -902,13 +902,13 @@
       "adjustedRarity": 8.4
     },
     {
-      "name": "Xenos Shore Ornament Claim Vanguard Tactician reward engrams during Season 2 to earn this ornament. It is unlocked to the Took Offense cloak, Mark of Shelter, and Xenos Vale Bond.",
+      "name": "On the Offense Ornament Claim Vanguard Tactician reward engrams during Season 2 to earn this ornament. It is unlocked to the Took Offense cloak, Mark of Shelter, and Xenos Vale Bond.",
       "totalRedeemed": 0,
       "globalRarity": 3.233,
       "adjustedRarity": 8.5
     },
     {
-      "name": "On the Offense Ornament Claim Vanguard Tactician reward engrams during Season 2 to earn this ornament. It is unlocked to the Took Offense cloak, Mark of Shelter, and Xenos Vale Bond.",
+      "name": "Xenos Shore Ornament Claim Vanguard Tactician reward engrams during Season 2 to earn this ornament. It is unlocked to the Took Offense cloak, Mark of Shelter, and Xenos Vale Bond.",
       "totalRedeemed": 0,
       "globalRarity": 3.233,
       "adjustedRarity": 8.5
@@ -926,13 +926,13 @@
       "adjustedRarity": 9.5
     },
     {
-      "name": "Take Shelter Ornament Defeat enemies in strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV leg armor.",
+      "name": "On the Offense Ornament Defeat enemies in strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV leg armor.",
       "totalRedeemed": 0,
       "globalRarity": 3.583,
       "adjustedRarity": 9.5
     },
     {
-      "name": "On the Offense Ornament Defeat enemies in strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV leg armor.",
+      "name": "Take Shelter Ornament Defeat enemies in strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV leg armor.",
       "totalRedeemed": 0,
       "globalRarity": 3.583,
       "adjustedRarity": 9.5

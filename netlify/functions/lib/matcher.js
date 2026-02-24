@@ -59,21 +59,73 @@ function loadManifest() {
   return { collectibles, records };
 }
 
-/** Build a Map of normalized name -> { ...item, category } for O(1) lookup */
+// DestinyItemSubType enum -> our rarity category
+const ITEM_SUBTYPE_TO_CATEGORY = {
+  6: 'auto-rifles', 7: 'shotguns', 8: 'machine-guns', 9: 'hand-cannons',
+  10: 'rocket-launchers', 11: 'fusion-rifles', 12: 'sniper-rifles', 13: 'pulse-rifles',
+  14: 'scout-rifles', 17: 'sidearms', 18: 'swords', 22: 'linear-fusion-rifles',
+  23: 'grenade-launchers', 24: 'submachine-guns', 25: 'trace-rifles', 31: 'bows',
+  33: 'glaives',
+};
+const WEAPON_CATEGORIES = new Set(Object.values(ITEM_SUBTYPE_TO_CATEGORY));
+
+// DestinyItemType -> allowed rarity categories (reject mismatches, e.g. mod in emblems)
+const ITEM_TYPE_ALLOWED_CATEGORIES = {
+  2: new Set(['armor-ornaments']),
+  3: new Set([...WEAPON_CATEGORIES, 'weapon-ornaments']),
+  9: new Set(['consumables']),
+  14: new Set(['emblems']),
+  19: new Set(['weapon-mods', 'armor-mods']),
+  21: new Set(['ships']),
+  22: new Set(['vehicles', 'sparrows']),
+  23: new Set(['emotes']),
+  24: new Set(['ghost-shells', 'ghost-projections']),
+  29: new Set(['finishers']),
+};
+
+/** Build a Map of normalized name -> [{ ...item, category }] for lookup (allows duplicates) */
 function buildRarityLookup(rarityData) {
   const map = new Map();
   for (const cat of Object.keys(rarityData)) {
     for (const item of rarityData[cat]) {
       const key = normalizeName(item.name);
-      if (key && !map.has(key)) map.set(key, { ...item, category: cat });
+      if (!key) continue;
+      const entry = { ...item, category: cat };
+      if (!map.has(key)) map.set(key, []);
+      map.get(key).push(entry);
     }
   }
   return map;
 }
 
-function findRarity(rarityLookup, name) {
+function findRarity(rarityLookup, name, itemType, itemSubType) {
   if (!name) return null;
-  return rarityLookup.get(normalizeName(name)) ?? null;
+  const entries = rarityLookup.get(normalizeName(name));
+  if (!entries?.length) return null;
+  if (entries.length === 1) return entries[0];
+
+  // Disambiguate by item type when we have multiple matches (e.g. "Heretic" in emblems and rocket-launchers)
+  const preferredCategory = itemSubType != null ? ITEM_SUBTYPE_TO_CATEGORY[itemSubType] : null;
+  if (preferredCategory) {
+    const match = entries.find((e) => e.category === preferredCategory);
+    if (match) return match;
+  }
+  if (itemType === 14) {
+    const match = entries.find((e) => e.category === 'emblems');
+    if (match) return match;
+  }
+  if (itemType === 3 && WEAPON_CATEGORIES.size) {
+    const match = entries.find((e) => WEAPON_CATEGORIES.has(e.category));
+    if (match) return match;
+  }
+  return entries[0];
+}
+
+function isCategoryValidForItemType(itemType, category) {
+  if (itemType == null) return true;
+  const allowed = ITEM_TYPE_ALLOWED_CATEGORIES[itemType];
+  if (!allowed) return true;
+  return allowed.has(category);
 }
 
 // DestinyCollectibleState: bit 0 = NotAcquired (0 = owned, 1 = not owned)
@@ -103,7 +155,8 @@ export function matchRarestItems(profileData, manifest, rarityData) {
       const name = def?.name;
       const icon = def?.icon ? `https://www.bungie.net${def.icon}` : null;
 
-      const rarity = name ? findRarity(rarityLookup, name) : null;
+      let rarity = name ? findRarity(rarityLookup, name, def?.itemType, def?.itemSubType) : null;
+      if (rarity && !isCategoryValidForItemType(def?.itemType, rarity.category)) rarity = null;
       const category = rarity?.category || 'other';
       if (!results[category]) results[category] = [];
 
@@ -125,6 +178,8 @@ export function matchRarestItems(profileData, manifest, rarityData) {
       if (!isRecordCompleted(data.state)) continue;
 
       const def = manifestRecords[hash] || manifestRecords[String(hash)];
+      if (def?.hasTitle !== true) continue;
+
       const name = def?.name;
       const icon = def?.icon ? `https://www.bungie.net${def.icon}` : null;
 

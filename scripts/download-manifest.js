@@ -19,6 +19,13 @@ const DATA_DIR = join(__dirname, '..', 'data', 'manifest');
 const BUNGIE_BASE = 'https://www.bungie.net';
 const API_KEY = process.env.BUNGIE_API_KEY;
 
+// Rate limiting delay (ms) between Bungie API requests
+const DELAY_BETWEEN_REQUESTS = 1500;
+
+function delay(ms) {
+  return new Promise((r) => setTimeout(r, ms));
+}
+
 if (!API_KEY) {
   console.error('Error: BUNGIE_API_KEY required. Add to .env or set env var.');
   process.exit(1);
@@ -61,29 +68,37 @@ async function main() {
   const contentUrl = `${BUNGIE_BASE}${enPath}`;
   console.log('Downloading manifest content (this may take a minute)...', contentUrl);
 
+  await delay(DELAY_BETWEEN_REQUESTS);
+
   const collectibles = {};
   const records = {};
 
   if (enPath.endsWith('.json')) {
     // JSON manifest format (current Bungie API)
     const data = await fetchJson(contentUrl);
+    const itemDefs = data.DestinyInventoryItemDefinition || {};
 
     const collectibleDefs = data.DestinyCollectibleDefinition || {};
     for (const [hash, def] of Object.entries(collectibleDefs)) {
       const name = def.displayProperties?.name || '';
       const icon = def.displayProperties?.icon || '';
       if (name) {
-        collectibles[String(hash)] = { hash, name, icon };
+        const item = itemDefs[def.itemHash] || itemDefs[String(def.itemHash)];
+        const itemType = item?.itemType;
+        const itemSubType = item?.itemSubType;
+        collectibles[String(hash)] = { hash, name, icon, itemType, itemSubType };
       }
     }
 
     const recordDefs = data.DestinyRecordDefinition || {};
     for (const [hash, def] of Object.entries(recordDefs)) {
-      const titleInfo = def.titleInfo?.titlesByGender;
-      const name = (titleInfo && (titleInfo.Male || titleInfo.Female || Object.values(titleInfo)[0])) || def.displayProperties?.name || '';
+      const titleInfo = def.titleInfo;
+      const hasTitle = titleInfo?.hasTitle === true;
+      const nameFromTitle = titleInfo?.titlesByGender && (titleInfo.titlesByGender.Male || titleInfo.titlesByGender.Female || Object.values(titleInfo.titlesByGender)[0]);
+      const name = nameFromTitle || def.displayProperties?.name || '';
       const icon = def.displayProperties?.icon || '';
       if (name) {
-        records[String(hash)] = { hash, name, icon };
+        records[String(hash)] = { hash, name, icon, hasTitle };
       }
     }
 
@@ -108,6 +123,20 @@ async function main() {
     const collectiblesTable = tableNames.find((t) => t.includes('Collectible')) || 'DestinyCollectibleDefinition';
     const recordsTable = tableNames.find((t) => t.includes('Record')) || 'DestinyRecordDefinition';
 
+    const itemTable = tableNames.find((t) => t.includes('InventoryItem')) || 'DestinyInventoryItemDefinition';
+    const itemDefs = {};
+    try {
+      const itemRows = db.exec(`SELECT json FROM ${itemTable}`);
+      if (itemRows[0]?.values) {
+        for (const row of itemRows[0].values) {
+          try {
+            const def = JSON.parse(row[0]);
+            if (def?.hash) itemDefs[String(def.hash)] = def;
+          } catch (_) {}
+        }
+      }
+    } catch (_) {}
+
     try {
       const collectibleRows = db.exec(`SELECT json FROM ${collectiblesTable}`);
       if (collectibleRows[0]?.values) {
@@ -118,7 +147,10 @@ async function main() {
             const name = def.displayProperties?.name || '';
             const icon = def.displayProperties?.icon || '';
             if (hash && name) {
-              collectibles[String(hash)] = { hash, name, icon };
+              const item = itemDefs[String(def.itemHash)];
+              const itemType = item?.itemType;
+              const itemSubType = item?.itemSubType;
+              collectibles[String(hash)] = { hash, name, icon, itemType, itemSubType };
             }
           } catch (_) {}
         }
@@ -134,11 +166,13 @@ async function main() {
           try {
             const def = JSON.parse(row[0]);
             const hash = def.hash;
-            const titleInfo = def.titleInfo?.titlesByGender;
-            const name = (titleInfo && (titleInfo.Male || titleInfo.Female || Object.values(titleInfo)[0])) || def.displayProperties?.name || '';
+            const titleInfo = def.titleInfo;
+            const hasTitle = titleInfo?.hasTitle === true;
+            const nameFromTitle = titleInfo?.titlesByGender && (titleInfo.titlesByGender.Male || titleInfo.titlesByGender.Female || Object.values(titleInfo.titlesByGender)[0]);
+            const name = nameFromTitle || def.displayProperties?.name || '';
             const icon = def.displayProperties?.icon || '';
             if (hash && name) {
-              records[String(hash)] = { hash, name, icon };
+              records[String(hash)] = { hash, name, icon, hasTitle };
             }
           } catch (_) {}
         }

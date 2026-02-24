@@ -15,7 +15,7 @@
     },
     {
       "name": "The Racehorse",
-      "totalRedeemed": 613,
+      "totalRedeemed": 615,
       "globalRarity": 0.001,
       "adjustedRarity": 0
     },
@@ -57,7 +57,7 @@
     },
     {
       "name": "Skitchrider",
-      "totalRedeemed": 3330,
+      "totalRedeemed": 3333,
       "globalRarity": 0.005,
       "adjustedRarity": 0
     },
@@ -99,7 +99,7 @@
     },
     {
       "name": "Chitin King",
-      "totalRedeemed": 10530,
+      "totalRedeemed": 10532,
       "globalRarity": 0.015,
       "adjustedRarity": 0
     },
@@ -159,7 +159,7 @@
     },
     {
       "name": "Cargo Runner",
-      "totalRedeemed": 16721,
+      "totalRedeemed": 16724,
       "globalRarity": 0.023,
       "adjustedRarity": 0.1
     },
@@ -213,13 +213,13 @@
     },
     {
       "name": "UESC Rover",
-      "totalRedeemed": 21549,
+      "totalRedeemed": 21561,
       "globalRarity": 0.03,
       "adjustedRarity": 0.1
     },
     {
       "name": "Leonine Fidelity",
-      "totalRedeemed": 22203,
+      "totalRedeemed": 22204,
       "globalRarity": 0.031,
       "adjustedRarity": 0.1
     },
@@ -249,7 +249,7 @@
     },
     {
       "name": "Quickdagger",
-      "totalRedeemed": 22939,
+      "totalRedeemed": 22940,
       "globalRarity": 0.032,
       "adjustedRarity": 0.1
     },
@@ -261,7 +261,7 @@
     },
     {
       "name": "Ancient Solar Skiff",
-      "totalRedeemed": 23248,
+      "totalRedeemed": 23251,
       "globalRarity": 0.032,
       "adjustedRarity": 0.1
     },
@@ -273,7 +273,7 @@
     },
     {
       "name": "Cry Havoc",
-      "totalRedeemed": 23501,
+      "totalRedeemed": 23503,
       "globalRarity": 0.033,
       "adjustedRarity": 0.1
     },
@@ -303,7 +303,7 @@
     },
     {
       "name": "Kerameikos",
-      "totalRedeemed": 27430,
+      "totalRedeemed": 27431,
       "globalRarity": 0.038,
       "adjustedRarity": 0.1
     },
@@ -375,7 +375,7 @@
     },
     {
       "name": "Lunar Growl",
-      "totalRedeemed": 37734,
+      "totalRedeemed": 37742,
       "globalRarity": 0.053,
       "adjustedRarity": 0.1
     },
@@ -399,13 +399,13 @@
     },
     {
       "name": "Silent Vendetta",
-      "totalRedeemed": 43890,
+      "totalRedeemed": 43895,
       "globalRarity": 0.061,
       "adjustedRarity": 0.2
     },
     {
       "name": "Collection Call",
-      "totalRedeemed": 44000,
+      "totalRedeemed": 44004,
       "globalRarity": 0.061,
       "adjustedRarity": 0.2
     },
@@ -495,7 +495,7 @@
     },
     {
       "name": "Exoplanet Harvester",
-      "totalRedeemed": 59244,
+      "totalRedeemed": 59249,
       "globalRarity": 0.082,
       "adjustedRarity": 0.2
     },
@@ -537,7 +537,7 @@
     },
     {
       "name": "Jovian-IX",
-      "totalRedeemed": 68245,
+      "totalRedeemed": 68246,
       "globalRarity": 0.095,
       "adjustedRarity": 0.3
     },
@@ -2633,7 +2633,7 @@
       "name": "Leonid MV",
       "totalRedeemed": 0,
       "globalRarity": 5.958,
-      "adjustedRarity": 15.8
+      "adjustedRarity": 15.7
     },
     {
       "name": "Talon Blue",
@@ -2668,7 +2668,7 @@
     {
       "name": "SCRAP MS-123-88 Salvage recovered from the Valley of the Kings, Mars.",
       "totalRedeemed": 0,
-      "globalRarity": 6.848,
+      "globalRarity": 6.847,
       "adjustedRarity": 18.1
     },
     {

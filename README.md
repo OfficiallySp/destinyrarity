@@ -36,13 +36,13 @@ npm run scrape
 
 ### 4. Bungie Manifest (Required for item names)
 
-The manifest maps collectible hashes to names. Run once before deploying:
+The manifest maps collectible hashes to names and includes item types for correct categorization. Run once before deploying:
 
 ```bash
 npm run manifest
 ```
 
-This requires `BUNGIE_API_KEY` in `.env`. Commit the generated `data/manifest/*.json` files.
+This requires `BUNGIE_API_KEY` in `.env`. Commit the generated `data/manifest/*.json` files. Re-run if you see weapons in wrong categories or too many items in titles.
 
 ### 5. Local Development
 

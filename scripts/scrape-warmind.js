@@ -15,6 +15,15 @@ const DATA_DIR = join(__dirname, '..', 'data', 'rarity');
 
 const BASE_URL = 'https://warmind.io';
 
+// Rate limiting delays (ms) to avoid being blocked
+const DELAY_BETWEEN_PAGES = 2000;   // 2s between pagination pages
+const DELAY_BETWEEN_CATEGORIES = 3000;  // 3s between categories
+const DELAY_BEFORE_FIRST_FETCH = 1000;  // 1s before first request of each category
+
+function delay(ms) {
+  return new Promise((r) => setTimeout(r, ms));
+}
+
 // Item categories from warmind.io/analytics/item/
 const ITEM_CATEGORIES = [
   'emblems',
@@ -133,6 +142,13 @@ async function scrapeCategory(category, isTitle = false) {
       ? `${BASE_URL}/analytics/title${page > 1 ? `?page=${page}` : ''}`
       : `${BASE_URL}/analytics/item/${category}${page > 1 ? `?page=${page}` : ''}`;
 
+    // Delay before each request to avoid rate limiting
+    if (page === 1) {
+      await delay(DELAY_BEFORE_FIRST_FETCH);
+    } else {
+      await delay(DELAY_BETWEEN_PAGES);
+    }
+
     console.log(`  Fetching ${url}...`);
     const html = await fetchPage(url);
 
@@ -155,7 +171,6 @@ async function scrapeCategory(category, isTitle = false) {
       hasMore = false;
     } else {
       page++;
-      await new Promise((r) => setTimeout(r, 500)); // Rate limit
     }
   }
 
@@ -196,7 +211,7 @@ async function main() {
     } catch (err) {
       console.error(`  Error scraping ${category}:`, err.message);
     }
-    await new Promise((r) => setTimeout(r, 300)); // Rate limit between categories
+    await delay(DELAY_BETWEEN_CATEGORIES);
   }
 
   console.log('Done!');

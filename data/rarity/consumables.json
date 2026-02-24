@@ -3,7 +3,7 @@
   "items": [
     {
       "name": "Phosphor Ascent Once purchased for Silver, you may claim this item again from Collections. Claim a Holochip Extractor from Collections to end the effect early.",
-      "totalRedeemed": 5934,
+      "totalRedeemed": 5935,
       "globalRarity": 0.008,
       "adjustedRarity": 0
     },
@@ -74,63 +74,63 @@
       "adjustedRarity": 27
     },
     {
-      "name": "Raid Banner Can be used before any raid encounter to allow fireteam members to gain Super energy and Heavy ammo.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Polymorphic Shellcode A Shellcode that is constantly adapting to shield the bearer from VexNet defenses.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Unstable Charge of Light The charge pulses and arcs with the Traveler's energy as well as something far more sinister. This offering to the Blind Well will provide a very large charge to the mechanism.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
       "name": "Charge of Light—Tier II This object hums with the power of the Light. This offering to the Blind Well will provide a medium charge to the mechanism.",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Charge of Light—Tier I The Light barely radiates from this object, but it's there. This offering to the Blind Well will provide a small charge to the mechanism.",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
-      "name": "Tincture of Queensfoil The viscous liquid within swirls and writhes, as if searching for escape.",
+      "name": "Raid Banner Can be used before any raid encounter to allow fireteam members to gain Super energy and Heavy ammo.",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Charge of Light—Tier III You can feel the energy contained within radiating from the orb. This offering to Blind Well will provide a large charge to the mechanism.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Hymn of Desecration Greatly increases the chance of a weapon drop from your next Necropolis or Chamber of Suffering encounter in the Pit of Heresy. Effect lasts until the dungeon encounter is completed.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Refined Qualichor Use to bring the nearly-forgotten memory of a great treasure into the present.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Qualichor A strange device of tube, glass, and chitin. Fynch might be able to identify it.",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Tincture of Queensfoil The viscous liquid within swirls and writhes, as if searching for escape.",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Hymn of Desecration Greatly increases the chance of a weapon drop from your next Necropolis or Chamber of Suffering encounter in the Pit of Heresy. Effect lasts until the dungeon encounter is completed.",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Polymorphic Shellcode A Shellcode that is constantly adapting to shield the bearer from VexNet defenses.",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Unstable Charge of Light The charge pulses and arcs with the Traveler's energy as well as something far more sinister. This offering to the Blind Well will provide a very large charge to the mechanism.",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Refined Qualichor Use to bring the nearly-forgotten memory of a great treasure into the present.",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Charge of Light—Tier III You can feel the energy contained within radiating from the orb. This offering to Blind Well will provide a large charge to the mechanism.",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     }
   ]

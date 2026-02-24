@@ -256,7 +256,7 @@
     {
       "name": "Somerled-D",
       "totalRedeemed": 0,
-      "globalRarity": 2.8,
+      "globalRarity": 2.799,
       "adjustedRarity": 7.4
     },
     {
@@ -346,7 +346,7 @@
     {
       "name": "Legato-11",
       "totalRedeemed": 0,
-      "globalRarity": 4.036,
+      "globalRarity": 4.037,
       "adjustedRarity": 10.7
     },
     {
@@ -544,49 +544,49 @@
     {
       "name": "Fussed Dark Mk.21",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Badlands Mk.24",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Botheration Mk.28",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Ded Acumen II",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Stubborn Oak",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Ded Acumen II",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Requiem-43",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Hand in Hand",
       "totalRedeemed": 0,
-      "globalRarity": 92.447,
+      "globalRarity": 92.446,
       "adjustedRarity": 244.4
     },
     {
       "name": "Ded Nemoris II",
       "totalRedeemed": 0,
-      "globalRarity": 92.447,
+      "globalRarity": 92.446,
       "adjustedRarity": 244.4
     }
   ]

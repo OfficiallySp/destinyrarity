@@ -310,7 +310,7 @@
     {
       "name": "Minuet-42",
       "totalRedeemed": 0,
-      "globalRarity": 2.95,
+      "globalRarity": 2.949,
       "adjustedRarity": 7.8
     },
     {
@@ -556,7 +556,7 @@
     {
       "name": "Nature of the Beast",
       "totalRedeemed": 0,
-      "globalRarity": 8.366,
+      "globalRarity": 8.365,
       "adjustedRarity": 22.1
     },
     {
@@ -640,67 +640,67 @@
     {
       "name": "Ballyhoo Mk.27",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Azimuth DSu",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Picayune Mk. 33",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Headstrong",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "One Earth",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Guseva-C",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "One Earth",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Picayune Mk. 33",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Headstrong",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Allegro-34",
       "totalRedeemed": 0,
-      "globalRarity": 92.447,
+      "globalRarity": 92.446,
       "adjustedRarity": 244.4
     },
     {
       "name": "Lamia HC2",
       "totalRedeemed": 0,
-      "globalRarity": 92.447,
+      "globalRarity": 92.446,
       "adjustedRarity": 244.4
     },
     {
       "name": "Minuet-12",
       "totalRedeemed": 0,
-      "globalRarity": 92.447,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Helios HC1",
-      "totalRedeemed": 0,
-      "globalRarity": 92.447,
+      "globalRarity": 92.446,
       "adjustedRarity": 244.4
     },
     {
       "name": "Mos Ultima II",
       "totalRedeemed": 0,
-      "globalRarity": 92.447,
+      "globalRarity": 92.446,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Helios HC1",
+      "totalRedeemed": 0,
+      "globalRarity": 92.446,
       "adjustedRarity": 244.4
     }
   ]

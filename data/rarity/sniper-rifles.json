@@ -148,7 +148,7 @@
     {
       "name": "Omniscient Eye",
       "totalRedeemed": 0,
-      "globalRarity": 1.855,
+      "globalRarity": 1.856,
       "adjustedRarity": 4.9
     },
     {
@@ -388,7 +388,7 @@
     {
       "name": "Dreaded Venture",
       "totalRedeemed": 0,
-      "globalRarity": 5.569,
+      "globalRarity": 5.568,
       "adjustedRarity": 14.7
     },
     {
@@ -544,43 +544,43 @@
     {
       "name": "Tongeren-LR3",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Aachen-LR2",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Damietta-LR2",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Troubadour",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Luna Nullis II",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Trondheim-LR2",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Troubadour",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Dead Zone Rifle",
       "totalRedeemed": 0,
-      "globalRarity": 92.447,
+      "globalRarity": 92.446,
       "adjustedRarity": 244.4
     }
   ]

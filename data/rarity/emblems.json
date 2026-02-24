@@ -20,13 +20,13 @@
       "adjustedRarity": 0
     },
     {
-      "name": "Eternal Moment",
+      "name": "Humanity's Chosen",
       "totalRedeemed": 3,
       "globalRarity": 0,
       "adjustedRarity": 0
     },
     {
-      "name": "Humanity's Chosen",
+      "name": "Eternal Moment",
       "totalRedeemed": 3,
       "globalRarity": 0,
       "adjustedRarity": 0
@@ -74,13 +74,13 @@
       "adjustedRarity": 0
     },
     {
-      "name": "Golden Age",
+      "name": "Filament Blossom",
       "totalRedeemed": 58,
       "globalRarity": 0,
       "adjustedRarity": 0
     },
     {
-      "name": "Filament Blossom",
+      "name": "Golden Age",
       "totalRedeemed": 58,
       "globalRarity": 0,
       "adjustedRarity": 0
@@ -441,7 +441,7 @@
     },
     {
       "name": "Shine Triumphant",
-      "totalRedeemed": 3179,
+      "totalRedeemed": 3180,
       "globalRarity": 0.004,
       "adjustedRarity": 0
     },
@@ -495,7 +495,7 @@
     },
     {
       "name": "Scientia Obscura",
-      "totalRedeemed": 3699,
+      "totalRedeemed": 3701,
       "globalRarity": 0.005,
       "adjustedRarity": 0
     },
@@ -681,7 +681,7 @@
     },
     {
       "name": "Ever Higher",
-      "totalRedeemed": 6028,
+      "totalRedeemed": 6031,
       "globalRarity": 0.008,
       "adjustedRarity": 0
     },
@@ -717,7 +717,7 @@
     },
     {
       "name": "Scientia Illuminata",
-      "totalRedeemed": 6519,
+      "totalRedeemed": 6520,
       "globalRarity": 0.009,
       "adjustedRarity": 0
     },
@@ -837,19 +837,19 @@
     },
     {
       "name": "Take Care Now",
-      "totalRedeemed": 8498,
+      "totalRedeemed": 8499,
       "globalRarity": 0.012,
       "adjustedRarity": 0
     },
     {
       "name": "Together in Contribution",
-      "totalRedeemed": 8596,
+      "totalRedeemed": 8597,
       "globalRarity": 0.012,
       "adjustedRarity": 0
     },
     {
       "name": "Sign of Connection",
-      "totalRedeemed": 8760,
+      "totalRedeemed": 8761,
       "globalRarity": 0.012,
       "adjustedRarity": 0
     },
@@ -878,13 +878,13 @@
       "adjustedRarity": 0
     },
     {
-      "name": "Foundational Layers",
+      "name": "Quantum Relay",
       "totalRedeemed": 9031,
       "globalRarity": 0.013,
       "adjustedRarity": 0
     },
     {
-      "name": "Quantum Relay",
+      "name": "Foundational Layers",
       "totalRedeemed": 9031,
       "globalRarity": 0.013,
       "adjustedRarity": 0
@@ -1383,7 +1383,7 @@
     },
     {
       "name": "Retro Boy",
-      "totalRedeemed": 19258,
+      "totalRedeemed": 19260,
       "globalRarity": 0.027,
       "adjustedRarity": 0.1
     },
@@ -1407,7 +1407,7 @@
     },
     {
       "name": "Fallen Torches",
-      "totalRedeemed": 19785,
+      "totalRedeemed": 19814,
       "globalRarity": 0.028,
       "adjustedRarity": 0.1
     },
@@ -1491,7 +1491,7 @@
     },
     {
       "name": "After the Unknown",
-      "totalRedeemed": 22764,
+      "totalRedeemed": 22766,
       "globalRarity": 0.032,
       "adjustedRarity": 0.1
     },
@@ -1503,7 +1503,7 @@
     },
     {
       "name": "Stand Alone",
-      "totalRedeemed": 22842,
+      "totalRedeemed": 22845,
       "globalRarity": 0.032,
       "adjustedRarity": 0.1
     },
@@ -1689,7 +1689,7 @@
     },
     {
       "name": "Runner",
-      "totalRedeemed": 31023,
+      "totalRedeemed": 31031,
       "globalRarity": 0.043,
       "adjustedRarity": 0.1
     },
@@ -2145,7 +2145,7 @@
     },
     {
       "name": "This Moment Forever",
-      "totalRedeemed": 62572,
+      "totalRedeemed": 62574,
       "globalRarity": 0.087,
       "adjustedRarity": 0.2
     },
@@ -4060,7 +4060,7 @@
     {
       "name": "Sneer of the Oni",
       "totalRedeemed": 0,
-      "globalRarity": 1.141,
+      "globalRarity": 1.14,
       "adjustedRarity": 3
     },
     {
@@ -5582,13 +5582,13 @@
       "adjustedRarity": 35.8
     },
     {
-      "name": "For Valor Displays the number of Crucible Ranks completed across Seasons.",
+      "name": "For Glory Displays your Glory Rank across Seasons.",
       "totalRedeemed": 0,
       "globalRarity": 14.446,
       "adjustedRarity": 38.2
     },
     {
-      "name": "For Glory Displays your Glory Rank across Seasons.",
+      "name": "For Valor Displays the number of Crucible Ranks completed across Seasons.",
       "totalRedeemed": 0,
       "globalRarity": 14.446,
       "adjustedRarity": 38.2
@@ -5602,7 +5602,7 @@
     {
       "name": "Hakke Upgrade",
       "totalRedeemed": 0,
-      "globalRarity": 15.001,
+      "globalRarity": 15,
       "adjustedRarity": 39.7
     },
     {
@@ -5710,7 +5710,7 @@
     {
       "name": "Serpent's Strike Show that they can't kill what they can't catch.",
       "totalRedeemed": 0,
-      "globalRarity": 54.922,
+      "globalRarity": 54.921,
       "adjustedRarity": 145.2
     },
     {
@@ -5720,27 +5720,27 @@
       "adjustedRarity": 148.6
     },
     {
-      "name": "Titan's Triumph",
+      "name": "Hunter's Hoard",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Playin' the Odds",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
-      "name": "Hunter's Hoard",
+      "name": "Titan's Triumph",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Warlock's Wisdom",
       "totalRedeemed": 0,
-      "globalRarity": 92.447,
+      "globalRarity": 92.446,
       "adjustedRarity": 244.4
     }
   ]

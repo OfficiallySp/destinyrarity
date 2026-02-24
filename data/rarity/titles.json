@@ -3,25 +3,25 @@
   "items": [
     {
       "name": "Atemporal",
-      "totalRedeemed": 5299,
+      "totalRedeemed": 5301,
       "globalRarity": 0.007,
       "adjustedRarity": 0.2
     },
     {
       "name": "Praxic",
-      "totalRedeemed": 15113,
+      "totalRedeemed": 15121,
       "globalRarity": 0.021,
       "adjustedRarity": 0.5
     },
     {
       "name": "Unleashed",
-      "totalRedeemed": 16559,
+      "totalRedeemed": 16561,
       "globalRarity": 0.023,
       "adjustedRarity": 0.5
     },
     {
       "name": "Delver",
-      "totalRedeemed": 18292,
+      "totalRedeemed": 18293,
       "globalRarity": 0.025,
       "adjustedRarity": 0.6
     },
@@ -33,7 +33,7 @@
     },
     {
       "name": "Renegade",
-      "totalRedeemed": 32238,
+      "totalRedeemed": 32246,
       "globalRarity": 0.045,
       "adjustedRarity": 1
     },
@@ -45,13 +45,13 @@
     },
     {
       "name": "Transcendent",
-      "totalRedeemed": 39910,
+      "totalRedeemed": 39911,
       "globalRarity": 0.056,
       "adjustedRarity": 1.2
     },
     {
       "name": "Fated Weapon",
-      "totalRedeemed": 44438,
+      "totalRedeemed": 44442,
       "globalRarity": 0.062,
       "adjustedRarity": 1.4
     },
@@ -87,13 +87,13 @@
     },
     {
       "name": "Wrathbearer",
-      "totalRedeemed": 78798,
+      "totalRedeemed": 78802,
       "globalRarity": 0.11,
       "adjustedRarity": 2.4
     },
     {
       "name": "Undertaker",
-      "totalRedeemed": 80773,
+      "totalRedeemed": 80797,
       "globalRarity": 0.112,
       "adjustedRarity": 2.5
     },
@@ -117,7 +117,7 @@
     },
     {
       "name": "Kingslayer",
-      "totalRedeemed": 86273,
+      "totalRedeemed": 86274,
       "globalRarity": 0.12,
       "adjustedRarity": 2.7
     },
@@ -147,13 +147,13 @@
     },
     {
       "name": "Discerptor",
-      "totalRedeemed": 113711,
+      "totalRedeemed": 113717,
       "globalRarity": 0.158,
       "adjustedRarity": 3.5
     },
     {
       "name": "Rivensbane",
-      "totalRedeemed": 115734,
+      "totalRedeemed": 115736,
       "globalRarity": 0.161,
       "adjustedRarity": 3.6
     },
@@ -165,13 +165,13 @@
     },
     {
       "name": "Fatebreaker",
-      "totalRedeemed": 140352,
+      "totalRedeemed": 140353,
       "globalRarity": 0.195,
       "adjustedRarity": 4.4
     },
     {
       "name": "Gumshoe",
-      "totalRedeemed": 143008,
+      "totalRedeemed": 143010,
       "globalRarity": 0.199,
       "adjustedRarity": 4.4
     },
@@ -195,7 +195,7 @@
     },
     {
       "name": "WANTED",
-      "totalRedeemed": 157033,
+      "totalRedeemed": 157035,
       "globalRarity": 0.219,
       "adjustedRarity": 4.9
     },
@@ -225,7 +225,7 @@
     },
     {
       "name": "MMXXIV",
-      "totalRedeemed": 179297,
+      "totalRedeemed": 179298,
       "globalRarity": 0.25,
       "adjustedRarity": 5.6
     },
@@ -249,7 +249,7 @@
     },
     {
       "name": "Flawless",
-      "totalRedeemed": 218195,
+      "totalRedeemed": 218198,
       "globalRarity": 0.304,
       "adjustedRarity": 6.8
     },
@@ -303,7 +303,7 @@
     },
     {
       "name": "Virtual Fighter",
-      "totalRedeemed": 297086,
+      "totalRedeemed": 297087,
       "globalRarity": 0.414,
       "adjustedRarity": 9.2
     },
@@ -375,7 +375,7 @@
     },
     {
       "name": "Glorious",
-      "totalRedeemed": 422497,
+      "totalRedeemed": 422494,
       "globalRarity": 0.588,
       "adjustedRarity": 13.1
     },
@@ -417,7 +417,7 @@
     },
     {
       "name": "Vidmaster",
-      "totalRedeemed": 789449,
+      "totalRedeemed": 789452,
       "globalRarity": 1.099,
       "adjustedRarity": 24.5
     },
@@ -435,7 +435,7 @@
     },
     {
       "name": "Dredgen",
-      "totalRedeemed": 1069689,
+      "totalRedeemed": 1069687,
       "globalRarity": 1.489,
       "adjustedRarity": 33.2
     },
@@ -447,13 +447,13 @@
     },
     {
       "name": "Iron Lord",
-      "totalRedeemed": 1216177,
+      "totalRedeemed": 1216204,
       "globalRarity": 1.693,
       "adjustedRarity": 37.8
     },
     {
       "name": "Conqueror",
-      "totalRedeemed": 1905670,
+      "totalRedeemed": 1905700,
       "globalRarity": 2.653,
       "adjustedRarity": 59.2
     }

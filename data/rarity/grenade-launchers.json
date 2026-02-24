@@ -298,7 +298,7 @@
     {
       "name": "Martyr's Retribution",
       "totalRedeemed": 0,
-      "globalRarity": 3.597,
+      "globalRarity": 3.596,
       "adjustedRarity": 9.5
     },
     {
@@ -406,7 +406,7 @@
     {
       "name": "Crowd Pleaser",
       "totalRedeemed": 0,
-      "globalRarity": 7.291,
+      "globalRarity": 7.29,
       "adjustedRarity": 19.3
     },
     {
@@ -508,7 +508,7 @@
     {
       "name": "The Prospector",
       "totalRedeemed": 0,
-      "globalRarity": 12.746,
+      "globalRarity": 12.747,
       "adjustedRarity": 33.7
     },
     {
@@ -526,55 +526,55 @@
     {
       "name": "Harsh Language",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Plemusa-B",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Hadrian-A",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Stay Away",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Gareth-C",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Hadrian-A",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Para Torus I",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Stay Away",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Stampede Mk.32",
       "totalRedeemed": 0,
-      "globalRarity": 92.447,
+      "globalRarity": 92.446,
       "adjustedRarity": 244.4
     },
     {
       "name": "Resilient People",
       "totalRedeemed": 0,
-      "globalRarity": 92.447,
+      "globalRarity": 92.446,
       "adjustedRarity": 244.4
     },
     {
       "name": "Penumbra GSm",
       "totalRedeemed": 0,
-      "globalRarity": 92.447,
+      "globalRarity": 92.446,
       "adjustedRarity": 244.4
     }
   ]

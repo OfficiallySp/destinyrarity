@@ -9,7 +9,7 @@
     },
     {
       "name": "Festival Leap",
-      "totalRedeemed": 380,
+      "totalRedeemed": 382,
       "globalRarity": 0.001,
       "adjustedRarity": 0
     },
@@ -33,7 +33,7 @@
     },
     {
       "name": "Ametrine SP-11",
-      "totalRedeemed": 1092,
+      "totalRedeemed": 1093,
       "globalRarity": 0.002,
       "adjustedRarity": 0
     },
@@ -99,7 +99,7 @@
     },
     {
       "name": "Skatepunk",
-      "totalRedeemed": 4848,
+      "totalRedeemed": 4851,
       "globalRarity": 0.007,
       "adjustedRarity": 0
     },
@@ -111,7 +111,7 @@
     },
     {
       "name": "Marshal's Colt",
-      "totalRedeemed": 5445,
+      "totalRedeemed": 5446,
       "globalRarity": 0.008,
       "adjustedRarity": 0
     },
@@ -129,7 +129,7 @@
     },
     {
       "name": "Gatecrasher",
-      "totalRedeemed": 6585,
+      "totalRedeemed": 6587,
       "globalRarity": 0.009,
       "adjustedRarity": 0
     },
@@ -171,7 +171,7 @@
     },
     {
       "name": "Dread Rover",
-      "totalRedeemed": 8682,
+      "totalRedeemed": 8683,
       "globalRarity": 0.012,
       "adjustedRarity": 0
     },
@@ -213,13 +213,13 @@
     },
     {
       "name": "Mercenary Spirit",
-      "totalRedeemed": 10346,
+      "totalRedeemed": 10347,
       "globalRarity": 0.014,
       "adjustedRarity": 0
     },
     {
       "name": "Sunchaser",
-      "totalRedeemed": 10385,
+      "totalRedeemed": 10387,
       "globalRarity": 0.014,
       "adjustedRarity": 0
     },
@@ -231,7 +231,7 @@
     },
     {
       "name": "Rotor Engine",
-      "totalRedeemed": 11601,
+      "totalRedeemed": 11602,
       "globalRarity": 0.016,
       "adjustedRarity": 0
     },
@@ -243,7 +243,7 @@
     },
     {
       "name": "Running Tiger",
-      "totalRedeemed": 12957,
+      "totalRedeemed": 12958,
       "globalRarity": 0.018,
       "adjustedRarity": 0
     },
@@ -267,7 +267,7 @@
     },
     {
       "name": "Proto.Type-A",
-      "totalRedeemed": 13711,
+      "totalRedeemed": 13712,
       "globalRarity": 0.019,
       "adjustedRarity": 0.1
     },
@@ -422,26 +422,26 @@
       "adjustedRarity": 0.1
     },
     {
-      "name": "UESC Sprinter",
-      "totalRedeemed": 21324,
+      "name": "Pack Rat",
+      "totalRedeemed": 21338,
       "globalRarity": 0.03,
       "adjustedRarity": 0.1
     },
     {
-      "name": "Pack Rat",
-      "totalRedeemed": 21337,
+      "name": "UESC Sprinter",
+      "totalRedeemed": 21339,
       "globalRarity": 0.03,
       "adjustedRarity": 0.1
     },
     {
       "name": "Crescent Infiltrator",
-      "totalRedeemed": 23399,
+      "totalRedeemed": 23402,
       "globalRarity": 0.033,
       "adjustedRarity": 0.1
     },
     {
       "name": "Red Veteran",
-      "totalRedeemed": 24209,
+      "totalRedeemed": 24212,
       "globalRarity": 0.034,
       "adjustedRarity": 0.1
     },
@@ -507,7 +507,7 @@
     },
     {
       "name": "Messenger-IX",
-      "totalRedeemed": 31156,
+      "totalRedeemed": 31158,
       "globalRarity": 0.043,
       "adjustedRarity": 0.1
     },
@@ -519,7 +519,7 @@
     },
     {
       "name": "Overdrive Drift",
-      "totalRedeemed": 32999,
+      "totalRedeemed": 33000,
       "globalRarity": 0.046,
       "adjustedRarity": 0.1
     },
@@ -543,7 +543,7 @@
     },
     {
       "name": "Retrostretch",
-      "totalRedeemed": 36934,
+      "totalRedeemed": 36937,
       "globalRarity": 0.051,
       "adjustedRarity": 0.1
     },
@@ -567,7 +567,7 @@
     },
     {
       "name": "Lucent Seeker",
-      "totalRedeemed": 41123,
+      "totalRedeemed": 41125,
       "globalRarity": 0.057,
       "adjustedRarity": 0.2
     },
@@ -597,7 +597,7 @@
     },
     {
       "name": "Sierra-Whiskey",
-      "totalRedeemed": 42605,
+      "totalRedeemed": 42607,
       "globalRarity": 0.059,
       "adjustedRarity": 0.2
     },
@@ -609,7 +609,7 @@
     },
     {
       "name": "Arid Rambler",
-      "totalRedeemed": 45269,
+      "totalRedeemed": 45280,
       "globalRarity": 0.063,
       "adjustedRarity": 0.2
     },
@@ -639,13 +639,13 @@
     },
     {
       "name": "Grass Guzzler",
-      "totalRedeemed": 49518,
+      "totalRedeemed": 49521,
       "globalRarity": 0.069,
       "adjustedRarity": 0.2
     },
     {
       "name": "Wasteland Racer",
-      "totalRedeemed": 49677,
+      "totalRedeemed": 49679,
       "globalRarity": 0.069,
       "adjustedRarity": 0.2
     },
@@ -657,7 +657,7 @@
     },
     {
       "name": "Skimmed Surface",
-      "totalRedeemed": 50748,
+      "totalRedeemed": 50762,
       "globalRarity": 0.071,
       "adjustedRarity": 0.2
     },
@@ -681,7 +681,7 @@
     },
     {
       "name": "Amulet-S",
-      "totalRedeemed": 55436,
+      "totalRedeemed": 55438,
       "globalRarity": 0.077,
       "adjustedRarity": 0.2
     },
@@ -705,19 +705,19 @@
     },
     {
       "name": "Rabbit's Chase",
-      "totalRedeemed": 57322,
+      "totalRedeemed": 57329,
       "globalRarity": 0.08,
       "adjustedRarity": 0.2
     },
     {
       "name": "Azimuth Runner",
-      "totalRedeemed": 57668,
+      "totalRedeemed": 57671,
       "globalRarity": 0.08,
       "adjustedRarity": 0.2
     },
     {
       "name": "Pinballer",
-      "totalRedeemed": 58026,
+      "totalRedeemed": 58028,
       "globalRarity": 0.081,
       "adjustedRarity": 0.2
     },
@@ -765,7 +765,7 @@
     },
     {
       "name": "Asymmetric Force",
-      "totalRedeemed": 67576,
+      "totalRedeemed": 67578,
       "globalRarity": 0.094,
       "adjustedRarity": 0.2
     },
@@ -1438,7 +1438,7 @@
     {
       "name": "Prison of Crumbled Forms",
       "totalRedeemed": 0,
-      "globalRarity": 0.454,
+      "globalRarity": 0.455,
       "adjustedRarity": 1.2
     },
     {
@@ -2314,7 +2314,7 @@
     {
       "name": "Unified Theory",
       "totalRedeemed": 0,
-      "globalRarity": 2.627,
+      "globalRarity": 2.626,
       "adjustedRarity": 6.9
     },
     {
@@ -2536,7 +2536,7 @@
     {
       "name": "Any Other Sky",
       "totalRedeemed": 0,
-      "globalRarity": 3.56,
+      "globalRarity": 3.559,
       "adjustedRarity": 9.4
     },
     {
@@ -3034,7 +3034,7 @@
     {
       "name": "Wayfarer Delta",
       "totalRedeemed": 0,
-      "globalRarity": 29.978,
+      "globalRarity": 29.977,
       "adjustedRarity": 79.2
     },
     {

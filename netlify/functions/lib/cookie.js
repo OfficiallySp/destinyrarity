@@ -47,3 +47,10 @@ export function decrypt(encoded) {
 
 export const COOKIE_NAME = 'bungie_auth';
 export const COOKIE_OPTS = 'HttpOnly; Secure; SameSite=Lax; Path=/; Max-Age=2592000'; // 30 days
+
+/** Cookie options without Secure (for http localhost). Use when siteUrl starts with http: */
+export function getCookieOpts(siteUrl) {
+  const isSecure = siteUrl && siteUrl.startsWith('https:');
+  const base = 'HttpOnly; SameSite=Lax; Path=/; Max-Age=2592000';
+  return isSecure ? `${base}; Secure` : base;
+}

@@ -1,5 +1,5 @@
 import { exchangeCodeForToken, getMembershipData } from './lib/bungie-api.js';
-import { encrypt, COOKIE_NAME, COOKIE_OPTS } from './lib/cookie.js';
+import { encrypt, COOKIE_NAME, getCookieOpts } from './lib/cookie.js';
 import { appendFileSync } from 'fs';
 import { join } from 'path';
 
@@ -72,17 +72,18 @@ export const handler = async (event) => {
       membershipType: membershipData.membershipType,
     });
 
+    const cookieOpts = getCookieOpts(siteUrl);
     // #region agent log
     debugLog({ hypothesisId: 'H3', location: 'auth-callback.js:success', message: 'auth success redirecting to dashboard', data: { siteUrl } });
     // #endregion
     return {
       statusCode: 302,
-      headers: {
-        Location: `${siteUrl}/dashboard.html`,
+      headers: { Location: `${siteUrl}/dashboard.html` },
+      multiValueHeaders: {
         'Set-Cookie': [
-          `${COOKIE_NAME}=${cookieValue}; ${COOKIE_OPTS}`,
+          `${COOKIE_NAME}=${cookieValue}; ${cookieOpts}`,
           'oauth_state=; Max-Age=0; Path=/',
-        ].join(', '),
+        ],
       },
       body: '',
     };

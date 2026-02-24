@@ -14,6 +14,8 @@ export const handler = async (event) => {
 
   const state = randomBytes(16).toString('hex');
   const redirectUri = `${siteUrl}/api/auth-callback`;
+  const isSecure = siteUrl && siteUrl.startsWith('https:');
+  const oauthCookieOpts = `HttpOnly; SameSite=Lax; Path=/; Max-Age=600${isSecure ? '; Secure' : ''}`;
 
   const authUrl = new URL(BUNGIE_AUTH_URL);
   authUrl.searchParams.set('client_id', clientId);
@@ -25,7 +27,7 @@ export const handler = async (event) => {
     statusCode: 302,
     headers: {
       Location: authUrl.toString(),
-      'Set-Cookie': `oauth_state=${state}; HttpOnly; Secure; SameSite=Lax; Path=/; Max-Age=600`,
+      'Set-Cookie': `oauth_state=${state}; ${oauthCookieOpts}`,
     },
     body: '',
   };

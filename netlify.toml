@@ -1,0 +1,27 @@
+[build]
+  publish = "public"
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/api/auth-login"
+  to = "/.netlify/functions/auth-login"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/api/auth-callback"
+  to = "/.netlify/functions/auth-callback"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/api/auth-logout"
+  to = "/.netlify/functions/auth-logout"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/api/get-rarest-items"
+  to = "/.netlify/functions/get-rarest-items"
+  status = 200
+  force = true

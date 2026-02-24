@@ -1,0 +1,18 @@
+{
+  "name": "destinyrarity",
+  "version": "1.0.0",
+  "description": "Destiny 2 Rarity Checker - See your rarest items from warmind.io data",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape-warmind.js",
+    "manifest": "node scripts/download-manifest.js",
+    "dev": "netlify dev"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "dependencies": {
+    "@netlify/functions": "^2.8.0"
+  }
+}

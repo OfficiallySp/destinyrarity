@@ -134,10 +134,10 @@ function isCollectibleOwned(state) {
   return state !== undefined && (state & (1 << NOT_ACQUIRED)) === 0;
 }
 
-// DestinyRecordState: bit 1 = ObjectiveNotCompleted
-const OBJECTIVE_NOT_COMPLETED = 1;
+// DestinyRecordState: ObjectiveNotCompleted = 4 (when set, objectives are NOT done)
+const OBJECTIVE_NOT_COMPLETED = 4;
 function isRecordCompleted(state) {
-  return state !== undefined && (state & (1 << OBJECTIVE_NOT_COMPLETED)) === 0;
+  return state !== undefined && (state & OBJECTIVE_NOT_COMPLETED) === 0;
 }
 
 export function matchRarestItems(profileData, manifest, rarityData) {

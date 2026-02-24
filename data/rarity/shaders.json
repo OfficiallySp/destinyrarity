@@ -27,7 +27,7 @@
     },
     {
       "name": "Freestyle Equip this shader to change the color of your gear.",
-      "totalRedeemed": 3185,
+      "totalRedeemed": 3188,
       "globalRarity": 0.004,
       "adjustedRarity": 0
     },
@@ -45,7 +45,7 @@
     },
     {
       "name": "Mediant Flourish Equip this shader to change the color of your gear.",
-      "totalRedeemed": 5573,
+      "totalRedeemed": 5575,
       "globalRarity": 0.008,
       "adjustedRarity": 0
     },
@@ -63,7 +63,7 @@
     },
     {
       "name": "Digi-Teal Equip this shader to change the color of your gear.",
-      "totalRedeemed": 7930,
+      "totalRedeemed": 7931,
       "globalRarity": 0.011,
       "adjustedRarity": 0
     },
@@ -92,26 +92,26 @@
       "adjustedRarity": 0.1
     },
     {
-      "name": "Archimedes Pine Equip this shader to change the color of your gear.",
-      "totalRedeemed": 18623,
-      "globalRarity": 0.026,
-      "adjustedRarity": 0.1
-    },
-    {
-      "name": "Weary Warrior Equip this shader to change the color of your gear.",
-      "totalRedeemed": 18623,
+      "name": "True Moss Equip this shader to change the color of your gear.",
+      "totalRedeemed": 18624,
       "globalRarity": 0.026,
       "adjustedRarity": 0.1
     },
     {
       "name": "Occultation Equip this shader to change the color of your gear.",
-      "totalRedeemed": 18623,
+      "totalRedeemed": 18624,
       "globalRarity": 0.026,
       "adjustedRarity": 0.1
     },
     {
-      "name": "True Moss Equip this shader to change the color of your gear.",
-      "totalRedeemed": 18623,
+      "name": "Weary Warrior Equip this shader to change the color of your gear.",
+      "totalRedeemed": 18624,
+      "globalRarity": 0.026,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Archimedes Pine Equip this shader to change the color of your gear.",
+      "totalRedeemed": 18624,
       "globalRarity": 0.026,
       "adjustedRarity": 0.1
     },
@@ -128,13 +128,13 @@
       "adjustedRarity": 0.1
     },
     {
-      "name": "Low Alert Equip this shader to change the color of your gear.",
+      "name": "Careful Careful Equip this shader to change the color of your gear.",
       "totalRedeemed": 21388,
       "globalRarity": 0.03,
       "adjustedRarity": 0.1
     },
     {
-      "name": "New Growth Equip this shader to change the color of your gear.",
+      "name": "Low Alert Equip this shader to change the color of your gear.",
       "totalRedeemed": 21388,
       "globalRarity": 0.03,
       "adjustedRarity": 0.1
@@ -146,13 +146,13 @@
       "adjustedRarity": 0.1
     },
     {
-      "name": "Careful Careful Equip this shader to change the color of your gear.",
+      "name": "Discreet Cobalt Equip this shader to change the color of your gear.",
       "totalRedeemed": 21388,
       "globalRarity": 0.03,
       "adjustedRarity": 0.1
     },
     {
-      "name": "Discreet Cobalt Equip this shader to change the color of your gear.",
+      "name": "New Growth Equip this shader to change the color of your gear.",
       "totalRedeemed": 21388,
       "globalRarity": 0.03,
       "adjustedRarity": 0.1
@@ -165,7 +165,7 @@
     },
     {
       "name": "Desertwear Equip this shader to change the color of your gear.",
-      "totalRedeemed": 25232,
+      "totalRedeemed": 25236,
       "globalRarity": 0.035,
       "adjustedRarity": 0.1
     },
@@ -173,12 +173,6 @@
       "name": "3 Connections Apply this shader to change the color of your gear.",
       "totalRedeemed": 28192,
       "globalRarity": 0.039,
-      "adjustedRarity": 0.1
-    },
-    {
-      "name": "Radial Shatter Equip this shader to change the color of your gear.",
-      "totalRedeemed": 29029,
-      "globalRarity": 0.04,
       "adjustedRarity": 0.1
     },
     {
@@ -200,14 +194,20 @@
       "adjustedRarity": 0.1
     },
     {
+      "name": "Radial Shatter Equip this shader to change the color of your gear.",
+      "totalRedeemed": 29029,
+      "globalRarity": 0.04,
+      "adjustedRarity": 0.1
+    },
+    {
       "name": "Opaline Shatter Equip this shader to change the color of your gear.",
-      "totalRedeemed": 30072,
+      "totalRedeemed": 30075,
       "globalRarity": 0.042,
       "adjustedRarity": 0.1
     },
     {
       "name": "Imperium Parade Equip this shader to change the color of your gear.",
-      "totalRedeemed": 30993,
+      "totalRedeemed": 30996,
       "globalRarity": 0.043,
       "adjustedRarity": 0.1
     },
@@ -224,7 +224,7 @@
       "adjustedRarity": 0.1
     },
     {
-      "name": "Deco Curve Equip this shader to change the color of your gear.",
+      "name": "Ceramic Gloss Equip this shader to change the color of your gear.",
       "totalRedeemed": 36552,
       "globalRarity": 0.051,
       "adjustedRarity": 0.1
@@ -236,19 +236,19 @@
       "adjustedRarity": 0.1
     },
     {
-      "name": "Ceramic Gloss Equip this shader to change the color of your gear.",
+      "name": "Deco Curve Equip this shader to change the color of your gear.",
       "totalRedeemed": 36552,
       "globalRarity": 0.051,
       "adjustedRarity": 0.1
     },
     {
-      "name": "Tenth Muse Equip this shader to change the color of your gear.",
+      "name": "True Self Equip this shader to change the color of your gear.",
       "totalRedeemed": 37588,
       "globalRarity": 0.052,
       "adjustedRarity": 0.1
     },
     {
-      "name": "True Self Equip this shader to change the color of your gear.",
+      "name": "Indivisible Equip this shader to change the color of your gear.",
       "totalRedeemed": 37588,
       "globalRarity": 0.052,
       "adjustedRarity": 0.1
@@ -260,7 +260,7 @@
       "adjustedRarity": 0.1
     },
     {
-      "name": "Indivisible Equip this shader to change the color of your gear.",
+      "name": "Tenth Muse Equip this shader to change the color of your gear.",
       "totalRedeemed": 37588,
       "globalRarity": 0.052,
       "adjustedRarity": 0.1
@@ -350,13 +350,13 @@
       "adjustedRarity": 0.3
     },
     {
-      "name": "Magmatic Equip this shader to change the color of your gear.",
+      "name": "Duneshadow Equip this shader to change the color of your gear.",
       "totalRedeemed": 0,
       "globalRarity": 0.113,
       "adjustedRarity": 0.3
     },
     {
-      "name": "Duneshadow Equip this shader to change the color of your gear.",
+      "name": "Magmatic Equip this shader to change the color of your gear.",
       "totalRedeemed": 0,
       "globalRarity": 0.113,
       "adjustedRarity": 0.3
@@ -682,7 +682,7 @@
     {
       "name": "Nothing Given Equip this shader to change the color of your gear.",
       "totalRedeemed": 0,
-      "globalRarity": 0.529,
+      "globalRarity": 0.53,
       "adjustedRarity": 1.4
     },
     {
@@ -1948,7 +1948,7 @@
     {
       "name": "Verdant Crown Equip this shader to change the color of your gear.",
       "totalRedeemed": 0,
-      "globalRarity": 2.42,
+      "globalRarity": 2.419,
       "adjustedRarity": 6.4
     },
     {
@@ -3220,7 +3220,7 @@
     {
       "name": "Vanguard Metallic Apply this shader to change the color of your gear.",
       "totalRedeemed": 0,
-      "globalRarity": 10.689,
+      "globalRarity": 10.688,
       "adjustedRarity": 28.3
     },
     {
@@ -3388,7 +3388,7 @@
     {
       "name": "Midnight Talons Equip this shader to change the color of your gear.",
       "totalRedeemed": 0,
-      "globalRarity": 14.691,
+      "globalRarity": 14.69,
       "adjustedRarity": 38.8
     },
     {

@@ -51,13 +51,19 @@
     },
     {
       "name": "Personal Assistant Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 7930,
+      "totalRedeemed": 7931,
       "globalRarity": 0.011,
       "adjustedRarity": 0
     },
     {
       "name": "Palm Tree Projection Equip this item to change your Ghost's projection.",
       "totalRedeemed": 10571,
+      "globalRarity": 0.015,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Young Wolf Projection Equip this item to change your Ghost's projection.",
+      "totalRedeemed": 10585,
       "globalRarity": 0.015,
       "adjustedRarity": 0
     },
@@ -69,12 +75,6 @@
     },
     {
       "name": "Iron Banner Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 10585,
-      "globalRarity": 0.015,
-      "adjustedRarity": 0
-    },
-    {
-      "name": "Young Wolf Projection Equip this item to change your Ghost's projection.",
       "totalRedeemed": 10585,
       "globalRarity": 0.015,
       "adjustedRarity": 0
@@ -141,7 +141,7 @@
     },
     {
       "name": "Explosive Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 17012,
+      "totalRedeemed": 17013,
       "globalRarity": 0.024,
       "adjustedRarity": 0.1
     },
@@ -165,7 +165,7 @@
     },
     {
       "name": "Celestial Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 20509,
+      "totalRedeemed": 20515,
       "globalRarity": 0.029,
       "adjustedRarity": 0.1
     },
@@ -177,7 +177,7 @@
     },
     {
       "name": "Vitamin-Filled Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 21612,
+      "totalRedeemed": 21614,
       "globalRarity": 0.03,
       "adjustedRarity": 0.1
     },
@@ -195,13 +195,13 @@
     },
     {
       "name": "Ship Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 25482,
+      "totalRedeemed": 25485,
       "globalRarity": 0.035,
       "adjustedRarity": 0.1
     },
     {
       "name": "Ursa Minor Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 26298,
+      "totalRedeemed": 26299,
       "globalRarity": 0.037,
       "adjustedRarity": 0.1
     },
@@ -231,7 +231,7 @@
     },
     {
       "name": "Tome Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 30816,
+      "totalRedeemed": 30818,
       "globalRarity": 0.043,
       "adjustedRarity": 0.1
     },
@@ -249,7 +249,7 @@
     },
     {
       "name": "Aces High Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 33525,
+      "totalRedeemed": 33528,
       "globalRarity": 0.047,
       "adjustedRarity": 0.1
     },
@@ -291,19 +291,19 @@
     },
     {
       "name": "Warlock Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 41050,
+      "totalRedeemed": 41051,
       "globalRarity": 0.057,
       "adjustedRarity": 0.2
     },
     {
       "name": "Toe Beans Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 42616,
+      "totalRedeemed": 42618,
       "globalRarity": 0.059,
       "adjustedRarity": 0.2
     },
     {
       "name": "Corvidae Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 42783,
+      "totalRedeemed": 42785,
       "globalRarity": 0.06,
       "adjustedRarity": 0.2
     },
@@ -315,7 +315,7 @@
     },
     {
       "name": "Ether Engine Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 43592,
+      "totalRedeemed": 43594,
       "globalRarity": 0.061,
       "adjustedRarity": 0.2
     },
@@ -326,20 +326,20 @@
       "adjustedRarity": 0.2
     },
     {
-      "name": "Muffintop Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 45567,
-      "globalRarity": 0.063,
-      "adjustedRarity": 0.2
-    },
-    {
       "name": "Cool Kakapo Projection Equip this item to change your Ghost's projection.",
       "totalRedeemed": 45568,
       "globalRarity": 0.063,
       "adjustedRarity": 0.2
     },
     {
+      "name": "Muffintop Projection Equip this item to change your Ghost's projection.",
+      "totalRedeemed": 45571,
+      "globalRarity": 0.063,
+      "adjustedRarity": 0.2
+    },
+    {
       "name": "Lunar Tiger Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 45624,
+      "totalRedeemed": 45637,
       "globalRarity": 0.064,
       "adjustedRarity": 0.2
     },
@@ -351,7 +351,7 @@
     },
     {
       "name": "Fungal Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 46215,
+      "totalRedeemed": 46217,
       "globalRarity": 0.064,
       "adjustedRarity": 0.2
     },
@@ -363,7 +363,7 @@
     },
     {
       "name": "Plagued Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 47602,
+      "totalRedeemed": 47604,
       "globalRarity": 0.066,
       "adjustedRarity": 0.2
     },
@@ -399,37 +399,37 @@
     },
     {
       "name": "Brutal Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 50691,
+      "totalRedeemed": 50693,
       "globalRarity": 0.071,
       "adjustedRarity": 0.2
     },
     {
       "name": "Cheeseburger Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 50800,
+      "totalRedeemed": 50805,
       "globalRarity": 0.071,
       "adjustedRarity": 0.2
     },
     {
       "name": "Eclipsing Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 51117,
+      "totalRedeemed": 51123,
       "globalRarity": 0.071,
       "adjustedRarity": 0.2
     },
     {
       "name": "Titled Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 51482,
+      "totalRedeemed": 51484,
       "globalRarity": 0.072,
       "adjustedRarity": 0.2
     },
     {
       "name": "Throwie Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 52139,
+      "totalRedeemed": 52143,
       "globalRarity": 0.073,
       "adjustedRarity": 0.2
     },
     {
       "name": "Rat Royalty Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 55350,
+      "totalRedeemed": 55352,
       "globalRarity": 0.077,
       "adjustedRarity": 0.2
     },
@@ -447,7 +447,7 @@
     },
     {
       "name": "Cobwebbed Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 56881,
+      "totalRedeemed": 56883,
       "globalRarity": 0.079,
       "adjustedRarity": 0.2
     },
@@ -465,7 +465,7 @@
     },
     {
       "name": "Bungie Projection Equip this item to change your Ghost's projection.",
-      "totalRedeemed": 61057,
+      "totalRedeemed": 61058,
       "globalRarity": 0.085,
       "adjustedRarity": 0.2
     },
@@ -646,7 +646,7 @@
     {
       "name": "Celebrant Projection Equip this item to change your Ghost's projection.",
       "totalRedeemed": 0,
-      "globalRarity": 0.329,
+      "globalRarity": 0.33,
       "adjustedRarity": 0.9
     },
     {
@@ -1594,7 +1594,7 @@
     {
       "name": "Quill and Ink Projection Equip this item to change your Ghost's projection.",
       "totalRedeemed": 0,
-      "globalRarity": 2.639,
+      "globalRarity": 2.64,
       "adjustedRarity": 7
     },
     {

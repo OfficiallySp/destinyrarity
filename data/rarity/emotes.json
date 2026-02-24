@@ -472,7 +472,7 @@
     {
       "name": "You're the Guardian",
       "totalRedeemed": 0,
-      "globalRarity": 9.293,
+      "globalRarity": 9.292,
       "adjustedRarity": 24.6
     },
     {
@@ -496,23 +496,23 @@
     {
       "name": "Titan Sit",
       "totalRedeemed": 0,
-      "globalRarity": 38.37,
+      "globalRarity": 38.371,
       "adjustedRarity": 101.4
     },
     {
       "name": "Titan Wave",
       "totalRedeemed": 0,
-      "globalRarity": 38.37,
+      "globalRarity": 38.371,
       "adjustedRarity": 101.4
     },
     {
-      "name": "Warlock Wave",
+      "name": "Warlock Sit",
       "totalRedeemed": 0,
       "globalRarity": 43.485,
       "adjustedRarity": 115
     },
     {
-      "name": "Warlock Sit",
+      "name": "Warlock Wave",
       "totalRedeemed": 0,
       "globalRarity": 43.485,
       "adjustedRarity": 115
@@ -532,7 +532,7 @@
     {
       "name": "Hunter Sit",
       "totalRedeemed": 0,
-      "globalRarity": 54.922,
+      "globalRarity": 54.921,
       "adjustedRarity": 145.2
     }
   ]

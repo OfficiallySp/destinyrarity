@@ -3,7 +3,7 @@
   "items": [
     {
       "name": "Luminous Equine Shell",
-      "totalRedeemed": 539,
+      "totalRedeemed": 540,
       "globalRarity": 0.001,
       "adjustedRarity": 0
     },
@@ -75,7 +75,7 @@
     },
     {
       "name": "Beanie Shell",
-      "totalRedeemed": 3389,
+      "totalRedeemed": 3392,
       "globalRarity": 0.005,
       "adjustedRarity": 0
     },
@@ -183,13 +183,13 @@
     },
     {
       "name": "Festive Lantern Shell",
-      "totalRedeemed": 6526,
+      "totalRedeemed": 6538,
       "globalRarity": 0.009,
       "adjustedRarity": 0
     },
     {
       "name": "Mechanical Assassin Shell",
-      "totalRedeemed": 6931,
+      "totalRedeemed": 6932,
       "globalRarity": 0.01,
       "adjustedRarity": 0
     },
@@ -219,7 +219,7 @@
     },
     {
       "name": "Restored Future Shell",
-      "totalRedeemed": 8157,
+      "totalRedeemed": 8158,
       "globalRarity": 0.011,
       "adjustedRarity": 0
     },
@@ -249,13 +249,13 @@
     },
     {
       "name": "Ancient Splendor Shell",
-      "totalRedeemed": 9830,
+      "totalRedeemed": 9831,
       "globalRarity": 0.014,
       "adjustedRarity": 0
     },
     {
       "name": "Avuncular Vagrant Shell",
-      "totalRedeemed": 10809,
+      "totalRedeemed": 10810,
       "globalRarity": 0.015,
       "adjustedRarity": 0
     },
@@ -273,7 +273,7 @@
     },
     {
       "name": "Loyal Rover Shell",
-      "totalRedeemed": 12148,
+      "totalRedeemed": 12149,
       "globalRarity": 0.017,
       "adjustedRarity": 0
     },
@@ -291,7 +291,7 @@
     },
     {
       "name": "Strandsplitter Shell",
-      "totalRedeemed": 12562,
+      "totalRedeemed": 12563,
       "globalRarity": 0.017,
       "adjustedRarity": 0
     },
@@ -399,7 +399,7 @@
     },
     {
       "name": "Network Shell",
-      "totalRedeemed": 20734,
+      "totalRedeemed": 20737,
       "globalRarity": 0.029,
       "adjustedRarity": 0.1
     },
@@ -411,7 +411,7 @@
     },
     {
       "name": "UESC Echo-type Shell",
-      "totalRedeemed": 21644,
+      "totalRedeemed": 21651,
       "globalRarity": 0.03,
       "adjustedRarity": 0.1
     },
@@ -452,20 +452,20 @@
       "adjustedRarity": 0.1
     },
     {
-      "name": "Taurus Shell",
-      "totalRedeemed": 23761,
-      "globalRarity": 0.033,
-      "adjustedRarity": 0.1
-    },
-    {
       "name": "Trackbound Shell",
       "totalRedeemed": 23766,
       "globalRarity": 0.033,
       "adjustedRarity": 0.1
     },
     {
+      "name": "Taurus Shell",
+      "totalRedeemed": 23775,
+      "globalRarity": 0.033,
+      "adjustedRarity": 0.1
+    },
+    {
       "name": "Hieratic Shell",
-      "totalRedeemed": 24129,
+      "totalRedeemed": 24139,
       "globalRarity": 0.034,
       "adjustedRarity": 0.1
     },
@@ -573,7 +573,7 @@
     },
     {
       "name": "Shatter Shell",
-      "totalRedeemed": 35219,
+      "totalRedeemed": 35221,
       "globalRarity": 0.049,
       "adjustedRarity": 0.1
     },
@@ -675,7 +675,7 @@
     },
     {
       "name": "Ratkin Shell",
-      "totalRedeemed": 48588,
+      "totalRedeemed": 48591,
       "globalRarity": 0.068,
       "adjustedRarity": 0.2
     },
@@ -771,7 +771,7 @@
     },
     {
       "name": "Sheriff Shell",
-      "totalRedeemed": 61575,
+      "totalRedeemed": 61578,
       "globalRarity": 0.086,
       "adjustedRarity": 0.2
     },
@@ -837,13 +837,13 @@
     },
     {
       "name": "Constant Vigilance Shell",
-      "totalRedeemed": 75414,
+      "totalRedeemed": 75415,
       "globalRarity": 0.105,
       "adjustedRarity": 0.3
     },
     {
       "name": "Sweeper Shell",
-      "totalRedeemed": 77104,
+      "totalRedeemed": 77107,
       "globalRarity": 0.107,
       "adjustedRarity": 0.3
     },
@@ -2728,7 +2728,7 @@
     {
       "name": "Yellowspear Shell",
       "totalRedeemed": 0,
-      "globalRarity": 3.767,
+      "globalRarity": 3.766,
       "adjustedRarity": 10
     },
     {
@@ -3082,7 +3082,7 @@
     {
       "name": "Hunter Shell",
       "totalRedeemed": 0,
-      "globalRarity": 11.392,
+      "globalRarity": 11.391,
       "adjustedRarity": 30.1
     },
     {
@@ -3112,37 +3112,37 @@
     {
       "name": "Last City Shell",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Io Shell",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Last City Shell (Damaged)",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Nessus Shell",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "EDZ Shell",
-      "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     },
     {
       "name": "Moon of Saturn Shell",
       "totalRedeemed": 0,
-      "globalRarity": 92.445,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "EDZ Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Io Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Nessus Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Last City Shell (Damaged)",
+      "totalRedeemed": 0,
+      "globalRarity": 92.444,
       "adjustedRarity": 244.4
     }
   ]

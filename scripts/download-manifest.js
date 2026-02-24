@@ -61,70 +61,94 @@ async function main() {
   const contentUrl = `${BUNGIE_BASE}${enPath}`;
   console.log('Downloading manifest content (this may take a minute)...', contentUrl);
 
-  const buffer = await fetchBuffer(contentUrl);
-  let dbBuffer = new Uint8Array(buffer);
-
-  // .content files are gzip-compressed SQLite
-  const isGzip = dbBuffer[0] === 0x1f && dbBuffer[1] === 0x8b;
-  if (isGzip) {
-    const { gunzipSync } = await import('zlib');
-    dbBuffer = new Uint8Array(gunzipSync(Buffer.from(dbBuffer)));
-  }
-
-  const initSqlJs = (await import('sql.js')).default;
-  const SQL = await initSqlJs();
-  const db = new SQL.Database(dbBuffer);
-
-  const tables = db.exec("SELECT name FROM sqlite_master WHERE type='table'");
-  const tableNames = (tables[0]?.values?.map((r) => r[0]) || []).filter(Boolean);
-  console.log('Found tables:', tableNames.length);
-
-  const collectiblesTable = tableNames.find((t) => t.includes('Collectible')) || 'DestinyCollectibleDefinition';
-  const recordsTable = tableNames.find((t) => t.includes('Record')) || 'DestinyRecordDefinition';
-
   const collectibles = {};
   const records = {};
 
-  try {
-    const collectibleRows = db.exec(`SELECT json FROM ${collectiblesTable}`);
-    if (collectibleRows[0]?.values) {
-      for (const row of collectibleRows[0].values) {
-        try {
-          const def = JSON.parse(row[0]);
-          const hash = def.hash;
-          const name = def.displayProperties?.name || '';
-          const icon = def.displayProperties?.icon || '';
-          if (hash && name) {
-            collectibles[String(hash)] = { hash, name, icon };
-          }
-        } catch (_) {}
+  if (enPath.endsWith('.json')) {
+    // JSON manifest format (current Bungie API)
+    const data = await fetchJson(contentUrl);
+
+    const collectibleDefs = data.DestinyCollectibleDefinition || {};
+    for (const [hash, def] of Object.entries(collectibleDefs)) {
+      const name = def.displayProperties?.name || '';
+      const icon = def.displayProperties?.icon || '';
+      if (name) {
+        collectibles[String(hash)] = { hash, name, icon };
       }
     }
-  } catch (e) {
-    console.warn('Collectibles:', e.message);
-  }
 
-  try {
-    const recordRows = db.exec(`SELECT json FROM ${recordsTable}`);
-    if (recordRows[0]?.values) {
-      for (const row of recordRows[0].values) {
-        try {
-          const def = JSON.parse(row[0]);
-          const hash = def.hash;
-          const titleInfo = def.titleInfo?.titlesByGender;
-          const name = (titleInfo && (titleInfo.Male || titleInfo.Female || Object.values(titleInfo)[0])) || def.displayProperties?.name || '';
-          const icon = def.displayProperties?.icon || '';
-          if (hash && name) {
-            records[String(hash)] = { hash, name, icon };
-          }
-        } catch (_) {}
+    const recordDefs = data.DestinyRecordDefinition || {};
+    for (const [hash, def] of Object.entries(recordDefs)) {
+      const titleInfo = def.titleInfo?.titlesByGender;
+      const name = (titleInfo && (titleInfo.Male || titleInfo.Female || Object.values(titleInfo)[0])) || def.displayProperties?.name || '';
+      const icon = def.displayProperties?.icon || '';
+      if (name) {
+        records[String(hash)] = { hash, name, icon };
       }
     }
-  } catch (e) {
-    console.warn('Records:', e.message);
-  }
 
-  db.close();
+    console.log('Parsed JSON manifest');
+  } else {
+    // SQLite manifest format (legacy)
+    const buffer = await fetchBuffer(contentUrl);
+    let dbBuffer = new Uint8Array(buffer);
+
+    const isGzip = dbBuffer[0] === 0x1f && dbBuffer[1] === 0x8b;
+    if (isGzip) {
+      const { gunzipSync } = await import('zlib');
+      dbBuffer = new Uint8Array(gunzipSync(Buffer.from(dbBuffer)));
+    }
+
+    const initSqlJs = (await import('sql.js')).default;
+    const SQL = await initSqlJs();
+    const db = new SQL.Database(dbBuffer);
+
+    const tables = db.exec("SELECT name FROM sqlite_master WHERE type='table'");
+    const tableNames = (tables[0]?.values?.map((r) => r[0]) || []).filter(Boolean);
+    const collectiblesTable = tableNames.find((t) => t.includes('Collectible')) || 'DestinyCollectibleDefinition';
+    const recordsTable = tableNames.find((t) => t.includes('Record')) || 'DestinyRecordDefinition';
+
+    try {
+      const collectibleRows = db.exec(`SELECT json FROM ${collectiblesTable}`);
+      if (collectibleRows[0]?.values) {
+        for (const row of collectibleRows[0].values) {
+          try {
+            const def = JSON.parse(row[0]);
+            const hash = def.hash;
+            const name = def.displayProperties?.name || '';
+            const icon = def.displayProperties?.icon || '';
+            if (hash && name) {
+              collectibles[String(hash)] = { hash, name, icon };
+            }
+          } catch (_) {}
+        }
+      }
+    } catch (e) {
+      console.warn('Collectibles:', e.message);
+    }
+
+    try {
+      const recordRows = db.exec(`SELECT json FROM ${recordsTable}`);
+      if (recordRows[0]?.values) {
+        for (const row of recordRows[0].values) {
+          try {
+            const def = JSON.parse(row[0]);
+            const hash = def.hash;
+            const titleInfo = def.titleInfo?.titlesByGender;
+            const name = (titleInfo && (titleInfo.Male || titleInfo.Female || Object.values(titleInfo)[0])) || def.displayProperties?.name || '';
+            const icon = def.displayProperties?.icon || '';
+            if (hash && name) {
+              records[String(hash)] = { hash, name, icon };
+            }
+          } catch (_) {}
+        }
+      }
+    } catch (e) {
+      console.warn('Records:', e.message);
+    }
+
+    db.close();
+  }
 
   if (!existsSync(DATA_DIR)) {
     mkdirSync(DATA_DIR, { recursive: true });

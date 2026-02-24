@@ -1,0 +1,347 @@
+{
+  "category": "swords",
+  "items": [
+    {
+      "name": "Summum Bonum (Adept)",
+      "totalRedeemed": 62742,
+      "globalRarity": 0.087,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Sola's Scar (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.344,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Abyssal Edge (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.459,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Sullen Claw",
+      "totalRedeemed": 0,
+      "globalRarity": 0.496,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Summum Bonum",
+      "totalRedeemed": 0,
+      "globalRarity": 0.517,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Wolfsbane",
+      "totalRedeemed": 0,
+      "globalRarity": 0.779,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Synanceia",
+      "totalRedeemed": 0,
+      "globalRarity": 0.901,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Heartshadow",
+      "totalRedeemed": 0,
+      "globalRarity": 0.955,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "The Slammer (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 1.058,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Praxic Blade",
+      "totalRedeemed": 0,
+      "globalRarity": 1.073,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "The Slammer",
+      "totalRedeemed": 0,
+      "globalRarity": 1.126,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Throne-Cleaver",
+      "totalRedeemed": 0,
+      "globalRarity": 1.283,
+      "adjustedRarity": 3.4
+    },
+    {
+      "name": "Death's Razor",
+      "totalRedeemed": 0,
+      "globalRarity": 1.397,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Goldtusk",
+      "totalRedeemed": 0,
+      "globalRarity": 1.512,
+      "adjustedRarity": 4
+    },
+    {
+      "name": "Sola's Scar",
+      "totalRedeemed": 0,
+      "globalRarity": 1.662,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Dragoncult Sickle",
+      "totalRedeemed": 0,
+      "globalRarity": 1.772,
+      "adjustedRarity": 4.7
+    },
+    {
+      "name": "Eighty-Six",
+      "totalRedeemed": 0,
+      "globalRarity": 1.791,
+      "adjustedRarity": 4.7
+    },
+    {
+      "name": "False Idols",
+      "totalRedeemed": 0,
+      "globalRarity": 1.945,
+      "adjustedRarity": 5.1
+    },
+    {
+      "name": "Stryker's Sure-Hand",
+      "totalRedeemed": 0,
+      "globalRarity": 2.013,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "Zephyr",
+      "totalRedeemed": 0,
+      "globalRarity": 2.186,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Aurora Dawn",
+      "totalRedeemed": 0,
+      "globalRarity": 2.306,
+      "adjustedRarity": 6.1
+    },
+    {
+      "name": "Bequest",
+      "totalRedeemed": 0,
+      "globalRarity": 2.318,
+      "adjustedRarity": 6.1
+    },
+    {
+      "name": "Abyssal Edge",
+      "totalRedeemed": 0,
+      "globalRarity": 2.346,
+      "adjustedRarity": 6.2
+    },
+    {
+      "name": "Traitor's Fate",
+      "totalRedeemed": 0,
+      "globalRarity": 2.391,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Chivalric Fire",
+      "totalRedeemed": 0,
+      "globalRarity": 2.681,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "Just in Case",
+      "totalRedeemed": 0,
+      "globalRarity": 2.735,
+      "adjustedRarity": 7.2
+    },
+    {
+      "name": "Ergo Sum",
+      "totalRedeemed": 0,
+      "globalRarity": 2.755,
+      "adjustedRarity": 7.3
+    },
+    {
+      "name": "Razor's Edge",
+      "totalRedeemed": 0,
+      "globalRarity": 3.113,
+      "adjustedRarity": 8.2
+    },
+    {
+      "name": "Thin Precipice",
+      "totalRedeemed": 0,
+      "globalRarity": 3.481,
+      "adjustedRarity": 9.2
+    },
+    {
+      "name": "Ill Omen",
+      "totalRedeemed": 0,
+      "globalRarity": 3.753,
+      "adjustedRarity": 9.9
+    },
+    {
+      "name": "Future Safe 10",
+      "totalRedeemed": 0,
+      "globalRarity": 3.775,
+      "adjustedRarity": 10
+    },
+    {
+      "name": "Hero of Ages",
+      "totalRedeemed": 0,
+      "globalRarity": 3.843,
+      "adjustedRarity": 10.2
+    },
+    {
+      "name": "Worldline Zero",
+      "totalRedeemed": 0,
+      "globalRarity": 4.011,
+      "adjustedRarity": 10.6
+    },
+    {
+      "name": "The Other Half",
+      "totalRedeemed": 0,
+      "globalRarity": 4.096,
+      "adjustedRarity": 10.8
+    },
+    {
+      "name": "It Stared Back",
+      "totalRedeemed": 0,
+      "globalRarity": 4.361,
+      "adjustedRarity": 11.5
+    },
+    {
+      "name": "The Lament",
+      "totalRedeemed": 0,
+      "globalRarity": 4.915,
+      "adjustedRarity": 13
+    },
+    {
+      "name": "Night Terror",
+      "totalRedeemed": 0,
+      "globalRarity": 5.158,
+      "adjustedRarity": 13.6
+    },
+    {
+      "name": "Double-Edged Answer",
+      "totalRedeemed": 0,
+      "globalRarity": 5.467,
+      "adjustedRarity": 14.5
+    },
+    {
+      "name": "Hagakure",
+      "totalRedeemed": 0,
+      "globalRarity": 5.715,
+      "adjustedRarity": 15.1
+    },
+    {
+      "name": "Caretaker",
+      "totalRedeemed": 0,
+      "globalRarity": 5.873,
+      "adjustedRarity": 15.5
+    },
+    {
+      "name": "Geodetic HSm",
+      "totalRedeemed": 0,
+      "globalRarity": 7.168,
+      "adjustedRarity": 18.9
+    },
+    {
+      "name": "Unspoken Promise",
+      "totalRedeemed": 0,
+      "globalRarity": 7.44,
+      "adjustedRarity": 19.7
+    },
+    {
+      "name": "Negative Space",
+      "totalRedeemed": 0,
+      "globalRarity": 8.087,
+      "adjustedRarity": 21.4
+    },
+    {
+      "name": "Half-Truths",
+      "totalRedeemed": 0,
+      "globalRarity": 8.165,
+      "adjustedRarity": 21.6
+    },
+    {
+      "name": "Abide the Return",
+      "totalRedeemed": 0,
+      "globalRarity": 8.236,
+      "adjustedRarity": 21.8
+    },
+    {
+      "name": "Black Talon",
+      "totalRedeemed": 0,
+      "globalRarity": 8.588,
+      "adjustedRarity": 22.7
+    },
+    {
+      "name": "Complex Solution",
+      "totalRedeemed": 0,
+      "globalRarity": 8.707,
+      "adjustedRarity": 23
+    },
+    {
+      "name": "Temptation's Hook",
+      "totalRedeemed": 0,
+      "globalRarity": 8.732,
+      "adjustedRarity": 23.1
+    },
+    {
+      "name": "Falling Guillotine",
+      "totalRedeemed": 0,
+      "globalRarity": 8.881,
+      "adjustedRarity": 23.5
+    },
+    {
+      "name": "Crown-Splitter",
+      "totalRedeemed": 0,
+      "globalRarity": 9.44,
+      "adjustedRarity": 25
+    },
+    {
+      "name": "Eternity's Edge",
+      "totalRedeemed": 0,
+      "globalRarity": 9.692,
+      "adjustedRarity": 25.6
+    },
+    {
+      "name": "Honor's Edge",
+      "totalRedeemed": 0,
+      "globalRarity": 10.155,
+      "adjustedRarity": 26.8
+    },
+    {
+      "name": "Quickfang",
+      "totalRedeemed": 0,
+      "globalRarity": 10.807,
+      "adjustedRarity": 28.6
+    },
+    {
+      "name": "Steel Sybil Z-14",
+      "totalRedeemed": 0,
+      "globalRarity": 14.844,
+      "adjustedRarity": 39.2
+    },
+    {
+      "name": "Nasreddin",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Future Imperfect",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Rest for the Wicked",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    }
+  ]
+}

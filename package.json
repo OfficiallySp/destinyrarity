@@ -10,7 +10,8 @@
   },
   "devDependencies": {
     "cheerio": "^1.0.0",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "sql.js": "^1.14.0"
   },
   "dependencies": {
     "@netlify/functions": "^2.8.0"

@@ -2,22 +2,27 @@
   publish = "public"
   functions = "netlify/functions"
 
+[functions]
+  included_files = ["data/**"]
+  node_bundler = "esbuild"
+  format = "esm"
+
 [[redirects]]
   from = "/api/auth-login"
   to = "/.netlify/functions/auth-login"
-  status = 302
+  status = 200
   force = true
 
 [[redirects]]
   from = "/api/auth-callback"
   to = "/.netlify/functions/auth-callback"
-  status = 302
+  status = 200
   force = true
 
 [[redirects]]
   from = "/api/auth-logout"
   to = "/.netlify/functions/auth-logout"
-  status = 302
+  status = 200
   force = true
 
 [[redirects]]

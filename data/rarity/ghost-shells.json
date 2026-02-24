@@ -1,0 +1,3149 @@
+{
+  "category": "ghost-shells",
+  "items": [
+    {
+      "name": "Luminous Equine Shell",
+      "totalRedeemed": 539,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Wild Containment Shell",
+      "totalRedeemed": 804,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Polynya Shell",
+      "totalRedeemed": 863,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Titan's Command Shell",
+      "totalRedeemed": 1209,
+      "globalRarity": 0.002,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Tyrian Shell",
+      "totalRedeemed": 1439,
+      "globalRarity": 0.002,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Coronal Aura Shell",
+      "totalRedeemed": 1515,
+      "globalRarity": 0.002,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "War Beast Shell",
+      "totalRedeemed": 1659,
+      "globalRarity": 0.002,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Devouring Shell",
+      "totalRedeemed": 2295,
+      "globalRarity": 0.003,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Baroque Shell",
+      "totalRedeemed": 2333,
+      "globalRarity": 0.003,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Blazing Conqueror Shell",
+      "totalRedeemed": 2406,
+      "globalRarity": 0.003,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Maglev Shell",
+      "totalRedeemed": 2681,
+      "globalRarity": 0.004,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Wreckscrapper Shell",
+      "totalRedeemed": 3158,
+      "globalRarity": 0.004,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Beanie Shell",
+      "totalRedeemed": 3389,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Safety Monitor Shell",
+      "totalRedeemed": 3494,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Pink Puff Plush Shell",
+      "totalRedeemed": 3514,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Scarred Shell",
+      "totalRedeemed": 3634,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Indigo Strider Shell",
+      "totalRedeemed": 3839,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Delta Red Ghost",
+      "totalRedeemed": 4113,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Sea Shell",
+      "totalRedeemed": 4421,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Festive Nest Shell",
+      "totalRedeemed": 4507,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Quicksilver Squall Shell",
+      "totalRedeemed": 4510,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Self-Contained Shell",
+      "totalRedeemed": 4659,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Tug-of-War Shell",
+      "totalRedeemed": 4898,
+      "globalRarity": 0.007,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Kung Fu Ghost",
+      "totalRedeemed": 4930,
+      "globalRarity": 0.007,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Painted Elytra Shell",
+      "totalRedeemed": 5055,
+      "globalRarity": 0.007,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Tenderhearted Shell",
+      "totalRedeemed": 5535,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Repulsor Shell",
+      "totalRedeemed": 5618,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Padded Armor Shell",
+      "totalRedeemed": 5711,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Tagged Shell",
+      "totalRedeemed": 5830,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Tasseled Shell",
+      "totalRedeemed": 6137,
+      "globalRarity": 0.009,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Festive Lantern Shell",
+      "totalRedeemed": 6526,
+      "globalRarity": 0.009,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Mechanical Assassin Shell",
+      "totalRedeemed": 6931,
+      "globalRarity": 0.01,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Mark II Shell",
+      "totalRedeemed": 7070,
+      "globalRarity": 0.01,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Ansatsuken Ghost Shell",
+      "totalRedeemed": 7649,
+      "globalRarity": 0.011,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Auspicious Shell",
+      "totalRedeemed": 8010,
+      "globalRarity": 0.011,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Unknown Worlds Shell",
+      "totalRedeemed": 8022,
+      "globalRarity": 0.011,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Restored Future Shell",
+      "totalRedeemed": 8157,
+      "globalRarity": 0.011,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Heart's Oath Shell",
+      "totalRedeemed": 8247,
+      "globalRarity": 0.011,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Icy Elegance Shell",
+      "totalRedeemed": 8531,
+      "globalRarity": 0.012,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Backstroke Shell",
+      "totalRedeemed": 8615,
+      "globalRarity": 0.012,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Fervent Shell",
+      "totalRedeemed": 9771,
+      "globalRarity": 0.014,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Ancient Splendor Shell",
+      "totalRedeemed": 9830,
+      "globalRarity": 0.014,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Avuncular Vagrant Shell",
+      "totalRedeemed": 10809,
+      "globalRarity": 0.015,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Motorsport Shell",
+      "totalRedeemed": 11587,
+      "globalRarity": 0.016,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Papercraft Aranea Shell",
+      "totalRedeemed": 11844,
+      "globalRarity": 0.016,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Loyal Rover Shell",
+      "totalRedeemed": 12148,
+      "globalRarity": 0.017,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Giftwrapped Shell",
+      "totalRedeemed": 12170,
+      "globalRarity": 0.017,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Lunar Tiger Shell",
+      "totalRedeemed": 12203,
+      "globalRarity": 0.017,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Strandsplitter Shell",
+      "totalRedeemed": 12562,
+      "globalRarity": 0.017,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Witchweed Shell",
+      "totalRedeemed": 13262,
+      "globalRarity": 0.018,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Ornithopter Shell",
+      "totalRedeemed": 13591,
+      "globalRarity": 0.019,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Deep Whisper Shell",
+      "totalRedeemed": 14548,
+      "globalRarity": 0.02,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Heartful Shell",
+      "totalRedeemed": 14810,
+      "globalRarity": 0.021,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Keramos Shell",
+      "totalRedeemed": 14823,
+      "globalRarity": 0.021,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Cottontail Shell",
+      "totalRedeemed": 15670,
+      "globalRarity": 0.022,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Lepus Major Shell",
+      "totalRedeemed": 15683,
+      "globalRarity": 0.022,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Buoyant Shell",
+      "totalRedeemed": 17165,
+      "globalRarity": 0.024,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Quadcopter Shell",
+      "totalRedeemed": 17714,
+      "globalRarity": 0.025,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Modded Shell",
+      "totalRedeemed": 18034,
+      "globalRarity": 0.025,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Backspin Shell",
+      "totalRedeemed": 18574,
+      "globalRarity": 0.026,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Dropped Beat Shell",
+      "totalRedeemed": 18948,
+      "globalRarity": 0.026,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Eye Tyrant Shell",
+      "totalRedeemed": 19043,
+      "globalRarity": 0.027,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Lunar Lagomorph Shell",
+      "totalRedeemed": 19166,
+      "globalRarity": 0.027,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Supernova Shell",
+      "totalRedeemed": 19596,
+      "globalRarity": 0.027,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Interstellar Shell",
+      "totalRedeemed": 19713,
+      "globalRarity": 0.027,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Hoplite Shell",
+      "totalRedeemed": 20482,
+      "globalRarity": 0.029,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Network Shell",
+      "totalRedeemed": 20734,
+      "globalRarity": 0.029,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Nutcracker Shell",
+      "totalRedeemed": 21004,
+      "globalRarity": 0.029,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "UESC Echo-type Shell",
+      "totalRedeemed": 21644,
+      "globalRarity": 0.03,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Ugspun Shell",
+      "totalRedeemed": 21990,
+      "globalRarity": 0.031,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Monstrous Shell",
+      "totalRedeemed": 22205,
+      "globalRarity": 0.031,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Hawker Shell",
+      "totalRedeemed": 22294,
+      "globalRarity": 0.031,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Halfpipe Shell",
+      "totalRedeemed": 22407,
+      "globalRarity": 0.031,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Racing Stripe Shell",
+      "totalRedeemed": 22507,
+      "globalRarity": 0.031,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Classy Shell",
+      "totalRedeemed": 22707,
+      "globalRarity": 0.032,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Taurus Shell",
+      "totalRedeemed": 23761,
+      "globalRarity": 0.033,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Trackbound Shell",
+      "totalRedeemed": 23766,
+      "globalRarity": 0.033,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Hieratic Shell",
+      "totalRedeemed": 24129,
+      "globalRarity": 0.034,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Champion Shell",
+      "totalRedeemed": 24665,
+      "globalRarity": 0.034,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Muffled Shell",
+      "totalRedeemed": 24691,
+      "globalRarity": 0.034,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Souped-Up Shell",
+      "totalRedeemed": 24916,
+      "globalRarity": 0.035,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Cocoa Shell",
+      "totalRedeemed": 24935,
+      "globalRarity": 0.035,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Ghastly Flight Shell",
+      "totalRedeemed": 26723,
+      "globalRarity": 0.037,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Little Helper Shell",
+      "totalRedeemed": 27159,
+      "globalRarity": 0.038,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Wheelie Shell",
+      "totalRedeemed": 27212,
+      "globalRarity": 0.038,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Emberwick Shell",
+      "totalRedeemed": 27582,
+      "globalRarity": 0.038,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Refreshing Shell",
+      "totalRedeemed": 27663,
+      "globalRarity": 0.039,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Festive Shell",
+      "totalRedeemed": 28851,
+      "globalRarity": 0.04,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Cygnus Shell",
+      "totalRedeemed": 29933,
+      "globalRarity": 0.042,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Hazy Future Shell",
+      "totalRedeemed": 29949,
+      "globalRarity": 0.042,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Penumbral Shell",
+      "totalRedeemed": 30545,
+      "globalRarity": 0.043,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Disciple's Shell",
+      "totalRedeemed": 30801,
+      "globalRarity": 0.043,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Sweet Sprinkles Shell",
+      "totalRedeemed": 32225,
+      "globalRarity": 0.045,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Inferno Shell",
+      "totalRedeemed": 32818,
+      "globalRarity": 0.046,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Ugly Little Spud Shell",
+      "totalRedeemed": 32961,
+      "globalRarity": 0.046,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Shatter Shell",
+      "totalRedeemed": 35219,
+      "globalRarity": 0.049,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Long Haul Shell",
+      "totalRedeemed": 36279,
+      "globalRarity": 0.051,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Net-Purr Shell",
+      "totalRedeemed": 36487,
+      "globalRarity": 0.051,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Plush Shell",
+      "totalRedeemed": 37323,
+      "globalRarity": 0.052,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Tangled Shell",
+      "totalRedeemed": 37954,
+      "globalRarity": 0.053,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Conditional Shell",
+      "totalRedeemed": 39285,
+      "globalRarity": 0.055,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Andromeda Shell",
+      "totalRedeemed": 39808,
+      "globalRarity": 0.055,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Scavenged Shell",
+      "totalRedeemed": 40928,
+      "globalRarity": 0.057,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Tropicausal",
+      "totalRedeemed": 42814,
+      "globalRarity": 0.06,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Spinneret Shell",
+      "totalRedeemed": 43481,
+      "globalRarity": 0.061,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Capped Shell",
+      "totalRedeemed": 44389,
+      "globalRarity": 0.062,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Finned Shell",
+      "totalRedeemed": 44617,
+      "globalRarity": 0.062,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Veloce Shell",
+      "totalRedeemed": 46227,
+      "globalRarity": 0.064,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Totem Shell",
+      "totalRedeemed": 46397,
+      "globalRarity": 0.065,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Angler Shell",
+      "totalRedeemed": 47148,
+      "globalRarity": 0.066,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Gilded Shell",
+      "totalRedeemed": 47818,
+      "globalRarity": 0.067,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Clicker",
+      "totalRedeemed": 47829,
+      "globalRarity": 0.067,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Ratkin Shell",
+      "totalRedeemed": 48588,
+      "globalRarity": 0.068,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Wintry Neigh-bor Shell",
+      "totalRedeemed": 49839,
+      "globalRarity": 0.069,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Flotation Shell",
+      "totalRedeemed": 50712,
+      "globalRarity": 0.071,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Edenic Shell",
+      "totalRedeemed": 52045,
+      "globalRarity": 0.072,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Confection Shell",
+      "totalRedeemed": 52176,
+      "globalRarity": 0.073,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Grillmaster Shell",
+      "totalRedeemed": 54101,
+      "globalRarity": 0.075,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Clairvoyant Shell",
+      "totalRedeemed": 55574,
+      "globalRarity": 0.077,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Ornamental Shell",
+      "totalRedeemed": 56098,
+      "globalRarity": 0.078,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "C-6 Shell",
+      "totalRedeemed": 56926,
+      "globalRarity": 0.079,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Spelunking Shell",
+      "totalRedeemed": 57741,
+      "globalRarity": 0.08,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Scribe's Shell",
+      "totalRedeemed": 58448,
+      "globalRarity": 0.081,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Heart-Powered Shell",
+      "totalRedeemed": 58979,
+      "globalRarity": 0.082,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Timeless Bond",
+      "totalRedeemed": 59523,
+      "globalRarity": 0.083,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Saturniid Shell",
+      "totalRedeemed": 60835,
+      "globalRarity": 0.085,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Cabana Shell",
+      "totalRedeemed": 61078,
+      "globalRarity": 0.085,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Eternal Shell",
+      "totalRedeemed": 61407,
+      "globalRarity": 0.085,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Sheriff Shell",
+      "totalRedeemed": 61575,
+      "globalRarity": 0.086,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Frost Dragon Shell",
+      "totalRedeemed": 62290,
+      "globalRarity": 0.087,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Armory Forged Shell",
+      "totalRedeemed": 62490,
+      "globalRarity": 0.087,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Skidder Shell",
+      "totalRedeemed": 63588,
+      "globalRarity": 0.089,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Gensym Relic Shell",
+      "totalRedeemed": 63867,
+      "globalRarity": 0.089,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Hoverdrift Shell",
+      "totalRedeemed": 64562,
+      "globalRarity": 0.09,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Half-Volley Shell",
+      "totalRedeemed": 65482,
+      "globalRarity": 0.091,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Calavera Shell",
+      "totalRedeemed": 67433,
+      "globalRarity": 0.094,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Sunny Day Shell",
+      "totalRedeemed": 67518,
+      "globalRarity": 0.094,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Junkyard Shell",
+      "totalRedeemed": 70841,
+      "globalRarity": 0.099,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Soloist Shell",
+      "totalRedeemed": 72980,
+      "globalRarity": 0.102,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Constant Vigilance Shell",
+      "totalRedeemed": 75414,
+      "globalRarity": 0.105,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Sweeper Shell",
+      "totalRedeemed": 77104,
+      "globalRarity": 0.107,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Millennial Spadework Shell",
+      "totalRedeemed": 79227,
+      "globalRarity": 0.11,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "DS-2 Shell",
+      "totalRedeemed": 79513,
+      "globalRarity": 0.111,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Knight's Peace Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.114,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Digital Pet Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.115,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Clean Lines Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.118,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Photoelectric Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.118,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Shaded Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.119,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Empathic Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.119,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Golf-Tango Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.121,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Ghoyster",
+      "totalRedeemed": 0,
+      "globalRarity": 0.122,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Kit Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.124,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Arcade Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.124,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Mountainside Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.127,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Desecrated Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.131,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Leo-Fi Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.132,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Drilldown Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.135,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Jubilant Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.136,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Buoy Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.137,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "PS-1 Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.137,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Vantastic Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.139,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Gridiron Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.139,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Additive Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.141,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "ROV Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.146,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Overcharged Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.152,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Caramel Apple Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.154,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Spectroscopic Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.158,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Skiff Scribbles Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.159,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Lumen Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.161,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Decadent Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.166,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Tethys Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.172,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Bushwhacker Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.176,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Convertible Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.177,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Razorscale Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.177,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Off-Road Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.184,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Astrologic Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.187,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Belle Air Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.187,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Winterview Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.188,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Khufu Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.189,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Photovoltaic Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.191,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Static Data Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.193,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Crystalline Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.194,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Gameghost Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.197,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Exotech Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.198,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Ronin Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.199,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "IX Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.199,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Ctenophore Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.204,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Wanderer's Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.219,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Buoy Trap",
+      "totalRedeemed": 0,
+      "globalRarity": 0.222,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Hexing Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.225,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "#Sponsored Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.226,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Chiropteran Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.231,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Egregore Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.233,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Scribetrace Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.235,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Kosmos Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.239,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Rover Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.244,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Sugary Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.246,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Hydrofoil Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.247,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Battle-Worn Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.251,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Pragmat Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.261,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Wolven Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.262,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Firebreak Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.269,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Gigantes Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.277,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "M3-D1 Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.282,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Metropolis Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.287,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Nemean Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.288,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Filigree of Light",
+      "totalRedeemed": 0,
+      "globalRarity": 0.29,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Fettered Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.292,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Bright Cycle Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.298,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Synchrotron Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.303,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Supersonic Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.306,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Dreamer's Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.31,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Jack-o'-Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.31,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Archangel's Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.313,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Sunny Vacation Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.331,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Coalition Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.342,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Crimson Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.347,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Zeroneiro Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.348,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Hero's Wake",
+      "totalRedeemed": 0,
+      "globalRarity": 0.351,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "E99 Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.356,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Síocháin's Scuba Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.363,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Shadow of Earth Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.369,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Fundament Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.375,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Hard Light Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.386,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Stardevil Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.391,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Multiband Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.4,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "August Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.401,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "CamNav-TTN Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.411,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Izanagi's Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.412,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Heimdall Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.413,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Lapine Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.417,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Hearthfire Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.422,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Imperious Sun Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.425,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Seraph Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.431,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Slasher Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.433,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Joyous Hunt Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.438,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Pomegranate Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.441,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Circular Time Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.442,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Wild Hunt Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.442,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "CLVS-241 Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.447,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Horus Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.451,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Wyrmguard Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.451,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Halcyon Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.451,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Polestar II Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.453,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Ladylike Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.465,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Dulcinea Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.467,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Omolon Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.474,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Almost Mighty Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.487,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Atlas Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.492,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Zira's Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.493,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Veist Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.498,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Nucleus Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.512,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Lampion Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.522,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Azurine Thunder",
+      "totalRedeemed": 0,
+      "globalRarity": 0.524,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Delicate Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.54,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Void Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.544,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Lion Guardant Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.55,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Tex Mechanica Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.551,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Prophet Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.561,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Bitcrushed Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.564,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Revelry Masquerade Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.566,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Verdant Infinity Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.569,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Hatchling Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.57,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Trostland Courier Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.57,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Revelry Courier Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.575,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Orbweaver Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.579,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Ophiuchus Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.582,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Shell of Gilgamesh",
+      "totalRedeemed": 0,
+      "globalRarity": 0.594,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Hareball Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.598,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Visionary Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.599,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Ambrite Complex Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.631,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Propheteer Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.634,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Celestial Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.649,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Solar Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.668,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Moonshot Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.702,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Twin-Hull Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.703,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Wars to Come Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.706,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Coronation",
+      "totalRedeemed": 0,
+      "globalRarity": 0.706,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Aoki/Faas Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.727,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "In Memoriam Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.732,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Pharmakos Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.749,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Sibyl Shell For Ghosts who keep the secrets of eternity.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.754,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Transhedron Shell For Ghosts not bound to a single plane of existence.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.756,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Arc Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.766,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Lunar Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.779,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Frozen Amaryllis Shell For Ghosts who endure the harshest winters.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.783,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Eidolon Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.785,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Technoprotection Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.81,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Restless Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.813,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Simulation Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.813,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Lantern Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.816,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Radiant Sunflake Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.828,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Amo Ludere Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.829,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Electric Heart Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.835,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Garland Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.836,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Swashbuckler Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.837,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Confectionery Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.838,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Propulsive Heart Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.839,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Entwining Heart Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.842,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "True Conifer Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.873,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Stonecraft's Amalgam Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.893,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Archipelago Pitch",
+      "totalRedeemed": 0,
+      "globalRarity": 0.894,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "First Contact Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.901,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Leonine Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.915,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Gyro Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.917,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Redline Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.922,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Timeswept Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.938,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Deep Space Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.965,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Quarter Quartz Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.972,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Okular Fortitude Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.988,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Scarlet Swarm Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 0.994,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Dawn Chimes Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.003,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Angora Raider Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.073,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Rigg's Vortex Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.076,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Ternion Honor Shell For Ghosts thrice valiant.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.079,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Ufsilon's Rune Shell For Ghosts who are never obsolete.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.082,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Kabuto Shell For Ghosts of warrior pedigree.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.084,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Sunseeker Shell For Ghosts who live on the horizon.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.084,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Maelstrom's Auge Shell For Ghosts who brave the center of the storm.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.087,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Amethyst Spine Shell For Ghosts with a sharp tongue.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.091,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Nine Lives Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.092,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Canopus Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.092,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Canaan's Harvest Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.096,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Equator Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.098,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Seal of Troika Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.098,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Saintly Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.12,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Quondam Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.122,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Anisotropic Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.125,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Predator Sun Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.138,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Kitbash Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.141,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Infinite Hand Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.16,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "The Right Choice",
+      "totalRedeemed": 0,
+      "globalRarity": 1.166,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Traitor Primus Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.171,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "True North Shell For Ghosts who know the way home.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.174,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Adonis Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.185,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Tirastrella Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.193,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Constricting Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.198,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Phalanx Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.201,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Hard-Packed Shell For Ghosts who never shy away from a (snowball) fight.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.221,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Lander Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.223,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Restless Dreams",
+      "totalRedeemed": 0,
+      "globalRarity": 1.23,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Harper's Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.247,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Sweet Memories Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.257,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Fast Lane Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.263,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Jasper Dawn Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.292,
+      "adjustedRarity": 3.4
+    },
+    {
+      "name": "Block-Z Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.299,
+      "adjustedRarity": 3.4
+    },
+    {
+      "name": "Dawning Bauble Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.316,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Iron Companionship Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.357,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "Intrepid Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.388,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Joyful Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.411,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Regality Sphere Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.421,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Citrine Sway Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.425,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Bankjar Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.427,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Laurel Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.439,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Skyfire North Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.442,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Authorized Misconduct Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.443,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Headerstripe Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.448,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "The Lycan's Mire Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.459,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Elegant Guard Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.46,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Warsat Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.486,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Awakened Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.511,
+      "adjustedRarity": 4
+    },
+    {
+      "name": "Contender's Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.519,
+      "adjustedRarity": 4
+    },
+    {
+      "name": "Star Map Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.571,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Hexed Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.581,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Last Bastion Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.587,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Sunshot Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.587,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Polestar I Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.597,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "No Love Lost",
+      "totalRedeemed": 0,
+      "globalRarity": 1.61,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Pelorus Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.632,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Electronica Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.656,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Drop Pod Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.681,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Gallant Ward Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.684,
+      "adjustedRarity": 4.5
+    },
+    {
+      "name": "Infiltrator Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.764,
+      "adjustedRarity": 4.7
+    },
+    {
+      "name": "Winter Lotus Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.782,
+      "adjustedRarity": 4.7
+    },
+    {
+      "name": "Deepseeker Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.83,
+      "adjustedRarity": 4.8
+    },
+    {
+      "name": "Tech Witch Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.871,
+      "adjustedRarity": 4.9
+    },
+    {
+      "name": "Challenger Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.903,
+      "adjustedRarity": 5
+    },
+    {
+      "name": "Digital Cortex",
+      "totalRedeemed": 0,
+      "globalRarity": 1.982,
+      "adjustedRarity": 5.2
+    },
+    {
+      "name": "Phantasmal Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 1.989,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "Neon Helix Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.044,
+      "adjustedRarity": 5.4
+    },
+    {
+      "name": "Arcology Vault Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.044,
+      "adjustedRarity": 5.4
+    },
+    {
+      "name": "Polished Rain Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.083,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Castaway's Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.091,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Vestian Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.122,
+      "adjustedRarity": 5.6
+    },
+    {
+      "name": "Flayer Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.131,
+      "adjustedRarity": 5.6
+    },
+    {
+      "name": "Fire Victorious Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.143,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Hissing Silence Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.149,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Eris Morn Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.162,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Starlight Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.169,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Trichromatica",
+      "totalRedeemed": 0,
+      "globalRarity": 2.176,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Plasma Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.199,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Spectrum Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.22,
+      "adjustedRarity": 5.9
+    },
+    {
+      "name": "Alchemical Dawn Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.228,
+      "adjustedRarity": 5.9
+    },
+    {
+      "name": "Future Perfect Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.235,
+      "adjustedRarity": 5.9
+    },
+    {
+      "name": "Cosmos Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.253,
+      "adjustedRarity": 6
+    },
+    {
+      "name": "Honorable Duelist Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.327,
+      "adjustedRarity": 6.2
+    },
+    {
+      "name": "Sagira's Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.372,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Hardlink Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.41,
+      "adjustedRarity": 6.4
+    },
+    {
+      "name": "S.H.A.N.K. Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.449,
+      "adjustedRarity": 6.5
+    },
+    {
+      "name": "Guardian's Angel Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.452,
+      "adjustedRarity": 6.5
+    },
+    {
+      "name": "Rust Punk Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.47,
+      "adjustedRarity": 6.5
+    },
+    {
+      "name": "Peerless Precision Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.575,
+      "adjustedRarity": 6.8
+    },
+    {
+      "name": "Wish-Maker Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.584,
+      "adjustedRarity": 6.8
+    },
+    {
+      "name": "Anthemic Invocation Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.672,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "Freyja Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.773,
+      "adjustedRarity": 7.3
+    },
+    {
+      "name": "Enhanced Defense Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.789,
+      "adjustedRarity": 7.4
+    },
+    {
+      "name": "Sanctified Vigilance Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.801,
+      "adjustedRarity": 7.4
+    },
+    {
+      "name": "Tyrant Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.86,
+      "adjustedRarity": 7.6
+    },
+    {
+      "name": "Final Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.872,
+      "adjustedRarity": 7.6
+    },
+    {
+      "name": "Furtive Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.872,
+      "adjustedRarity": 7.6
+    },
+    {
+      "name": "Rival Titan Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.917,
+      "adjustedRarity": 7.7
+    },
+    {
+      "name": "Bane of Crota Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 2.985,
+      "adjustedRarity": 7.9
+    },
+    {
+      "name": "Wayfinder's Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.021,
+      "adjustedRarity": 8
+    },
+    {
+      "name": "Audiophile Shell For Ghosts who want to be heard.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.049,
+      "adjustedRarity": 8.1
+    },
+    {
+      "name": "Classic Waveform Shell For Ghosts who like the classics—with a twist.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.067,
+      "adjustedRarity": 8.1
+    },
+    {
+      "name": "Autumn Gloss Shell For Ghosts who love cool weather.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.083,
+      "adjustedRarity": 8.2
+    },
+    {
+      "name": "Eight Ball Shell For Ghosts who want to be consulted.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.088,
+      "adjustedRarity": 8.2
+    },
+    {
+      "name": "Experimental Pattern Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.109,
+      "adjustedRarity": 8.2
+    },
+    {
+      "name": "Rival Hunter Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.172,
+      "adjustedRarity": 8.4
+    },
+    {
+      "name": "Bulwark Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.188,
+      "adjustedRarity": 8.4
+    },
+    {
+      "name": "Speed Metal Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.206,
+      "adjustedRarity": 8.5
+    },
+    {
+      "name": "Vanguard Courier Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.265,
+      "adjustedRarity": 8.6
+    },
+    {
+      "name": "Poison Courier Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.299,
+      "adjustedRarity": 8.7
+    },
+    {
+      "name": "Rival Warlock Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.325,
+      "adjustedRarity": 8.8
+    },
+    {
+      "name": "Lilac Bell Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.349,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Stalwart Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.356,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Sanctum Plate Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.358,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Aero Dart Shell For Ghosts who want to reach maximum velocity.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.358,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Chrome Crab Shell For Ghosts looking to explore their wild side.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.358,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Dark Days Shell For Ghosts who like to have a little more edge.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.358,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Subterfuge Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.362,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "City Courier Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.378,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Cosmographicum Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.39,
+      "adjustedRarity": 9
+    },
+    {
+      "name": "Viceroy Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.397,
+      "adjustedRarity": 9
+    },
+    {
+      "name": "Bursting Wisdom Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.423,
+      "adjustedRarity": 9
+    },
+    {
+      "name": "Dolphin Wave Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.433,
+      "adjustedRarity": 9.1
+    },
+    {
+      "name": "Fusion Matrix Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.444,
+      "adjustedRarity": 9.1
+    },
+    {
+      "name": "Buzzing Drone Shell For Ghosts who sting like a bee.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.452,
+      "adjustedRarity": 9.1
+    },
+    {
+      "name": "Captaincy Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.452,
+      "adjustedRarity": 9.1
+    },
+    {
+      "name": "Path Followed Shell For Ghosts who stay true.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.475,
+      "adjustedRarity": 9.2
+    },
+    {
+      "name": "Eye of the Storm Shell For Ghosts who flourish in strong winds.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.486,
+      "adjustedRarity": 9.2
+    },
+    {
+      "name": "Aqua Tusk Shell For Ghosts who want to explore the aquatic depths.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.52,
+      "adjustedRarity": 9.3
+    },
+    {
+      "name": "Techno Robin Shell For Ghosts who like to look stylishly aerodynamic.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.523,
+      "adjustedRarity": 9.3
+    },
+    {
+      "name": "Lustrous Onyx Shell For Ghosts who endure the elements.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.537,
+      "adjustedRarity": 9.3
+    },
+    {
+      "name": "Brilliant Starfish Shell For Ghosts who want to spend a little more time on the beach.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.544,
+      "adjustedRarity": 9.4
+    },
+    {
+      "name": "Valor Chevron Shell For Ghosts with a special spark.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.558,
+      "adjustedRarity": 9.4
+    },
+    {
+      "name": "Futurecraft Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.609,
+      "adjustedRarity": 9.5
+    },
+    {
+      "name": "Tastemaker Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.679,
+      "adjustedRarity": 9.7
+    },
+    {
+      "name": "Worrier Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.683,
+      "adjustedRarity": 9.7
+    },
+    {
+      "name": "Unearthly Koi Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.696,
+      "adjustedRarity": 9.8
+    },
+    {
+      "name": "Flaming Arrow Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.697,
+      "adjustedRarity": 9.8
+    },
+    {
+      "name": "Arch Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.725,
+      "adjustedRarity": 9.8
+    },
+    {
+      "name": "Infinite Blue Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.755,
+      "adjustedRarity": 9.9
+    },
+    {
+      "name": "Abacus Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.759,
+      "adjustedRarity": 9.9
+    },
+    {
+      "name": "Yellowspear Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.767,
+      "adjustedRarity": 10
+    },
+    {
+      "name": "Kaleidoscope Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.768,
+      "adjustedRarity": 10
+    },
+    {
+      "name": "Orchid Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.769,
+      "adjustedRarity": 10
+    },
+    {
+      "name": "Pintail Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.779,
+      "adjustedRarity": 10
+    },
+    {
+      "name": "In Fine Omnium Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.78,
+      "adjustedRarity": 10
+    },
+    {
+      "name": "Triumphal Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.781,
+      "adjustedRarity": 10
+    },
+    {
+      "name": "Upward Climber Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.783,
+      "adjustedRarity": 10
+    },
+    {
+      "name": "Garter Snake Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.797,
+      "adjustedRarity": 10
+    },
+    {
+      "name": "Age of Tomorrow Shell For Ghosts who can imagine a greater future.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.822,
+      "adjustedRarity": 10.1
+    },
+    {
+      "name": "Skyline Flipside Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 3.999,
+      "adjustedRarity": 10.6
+    },
+    {
+      "name": "Color Theory Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.137,
+      "adjustedRarity": 10.9
+    },
+    {
+      "name": "Iris Map Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.217,
+      "adjustedRarity": 11.1
+    },
+    {
+      "name": "Precious Metals Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.22,
+      "adjustedRarity": 11.2
+    },
+    {
+      "name": "Symphonic Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.228,
+      "adjustedRarity": 11.2
+    },
+    {
+      "name": "Painted Eye Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.232,
+      "adjustedRarity": 11.2
+    },
+    {
+      "name": "Skewed Orbit Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.233,
+      "adjustedRarity": 11.2
+    },
+    {
+      "name": "Starfire Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.255,
+      "adjustedRarity": 11.2
+    },
+    {
+      "name": "Twilight Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.271,
+      "adjustedRarity": 11.3
+    },
+    {
+      "name": "Number Two Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.273,
+      "adjustedRarity": 11.3
+    },
+    {
+      "name": "Triangle Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.285,
+      "adjustedRarity": 11.3
+    },
+    {
+      "name": "Atlantis Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.287,
+      "adjustedRarity": 11.3
+    },
+    {
+      "name": "Jagged Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.29,
+      "adjustedRarity": 11.3
+    },
+    {
+      "name": "Graylight Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.292,
+      "adjustedRarity": 11.3
+    },
+    {
+      "name": "Vertical Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.302,
+      "adjustedRarity": 11.4
+    },
+    {
+      "name": "Chevron Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.311,
+      "adjustedRarity": 11.4
+    },
+    {
+      "name": "Mansanas Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.35,
+      "adjustedRarity": 11.5
+    },
+    {
+      "name": "Honeycomb Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.532,
+      "adjustedRarity": 12
+    },
+    {
+      "name": "Lambda Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.533,
+      "adjustedRarity": 12
+    },
+    {
+      "name": "Avalon Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.538,
+      "adjustedRarity": 12
+    },
+    {
+      "name": "Eyeball Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.553,
+      "adjustedRarity": 12
+    },
+    {
+      "name": "Blue Moon Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.566,
+      "adjustedRarity": 12.1
+    },
+    {
+      "name": "Hemisphere Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.588,
+      "adjustedRarity": 12.1
+    },
+    {
+      "name": "Bold Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.594,
+      "adjustedRarity": 12.1
+    },
+    {
+      "name": "Spectral Circuit Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.598,
+      "adjustedRarity": 12.2
+    },
+    {
+      "name": "Competitive Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.601,
+      "adjustedRarity": 12.2
+    },
+    {
+      "name": "Cordial Diamond Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.607,
+      "adjustedRarity": 12.2
+    },
+    {
+      "name": "Trusty Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.608,
+      "adjustedRarity": 12.2
+    },
+    {
+      "name": "Aggressive Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.617,
+      "adjustedRarity": 12.2
+    },
+    {
+      "name": "Half-Submerged Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.641,
+      "adjustedRarity": 12.3
+    },
+    {
+      "name": "Lotus Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.645,
+      "adjustedRarity": 12.3
+    },
+    {
+      "name": "Interchange Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.651,
+      "adjustedRarity": 12.3
+    },
+    {
+      "name": "Gray Tiger Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.683,
+      "adjustedRarity": 12.4
+    },
+    {
+      "name": "Copperhead Supremacy Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.851,
+      "adjustedRarity": 12.8
+    },
+    {
+      "name": "Riveted Majesty Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.889,
+      "adjustedRarity": 12.9
+    },
+    {
+      "name": "Orcasong Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.926,
+      "adjustedRarity": 13
+    },
+    {
+      "name": "Kingfisher Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 5.024,
+      "adjustedRarity": 13.3
+    },
+    {
+      "name": "Two of Diamonds Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 5.03,
+      "adjustedRarity": 13.3
+    },
+    {
+      "name": "Crescent Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 5.066,
+      "adjustedRarity": 13.4
+    },
+    {
+      "name": "Blaster Box",
+      "totalRedeemed": 0,
+      "globalRarity": 5.076,
+      "adjustedRarity": 13.4
+    },
+    {
+      "name": "Speckled Giallo Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 5.196,
+      "adjustedRarity": 13.7
+    },
+    {
+      "name": "Waiting Cask Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 5.347,
+      "adjustedRarity": 14.1
+    },
+    {
+      "name": "Palm of Gold Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 5.389,
+      "adjustedRarity": 14.2
+    },
+    {
+      "name": "Rimed Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 5.626,
+      "adjustedRarity": 14.9
+    },
+    {
+      "name": "Commanding Star Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 7.25,
+      "adjustedRarity": 19.2
+    },
+    {
+      "name": "Blue Sky Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 7.349,
+      "adjustedRarity": 19.4
+    },
+    {
+      "name": "Open Orchid Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 8.207,
+      "adjustedRarity": 21.7
+    },
+    {
+      "name": "Titan Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 9.952,
+      "adjustedRarity": 26.3
+    },
+    {
+      "name": "Heraldic Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 10.029,
+      "adjustedRarity": 26.5
+    },
+    {
+      "name": "Warlock Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 10.311,
+      "adjustedRarity": 27.3
+    },
+    {
+      "name": "Hunter Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 11.392,
+      "adjustedRarity": 30.1
+    },
+    {
+      "name": "Wisteria Orbit Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 12.699,
+      "adjustedRarity": 33.6
+    },
+    {
+      "name": "Kill-Tracker Ghost",
+      "totalRedeemed": 0,
+      "globalRarity": 13.227,
+      "adjustedRarity": 35
+    },
+    {
+      "name": "Tower Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 21.821,
+      "adjustedRarity": 57.7
+    },
+    {
+      "name": "Generalist Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 69.039,
+      "adjustedRarity": 182.5
+    },
+    {
+      "name": "Last City Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Io Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Last City Shell (Damaged)",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Nessus Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "EDZ Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Moon of Saturn Shell",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    }
+  ]
+}

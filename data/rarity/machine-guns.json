@@ -1,0 +1,293 @@
+{
+  "category": "machine-guns",
+  "items": [
+    {
+      "name": "Song of Ir Yût (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.218,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Unwavering Duty (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.253,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Watchful Eye (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.503,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Corrective Measure (Timelost)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.513,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Bitter End",
+      "totalRedeemed": 0,
+      "globalRarity": 0.522,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Qullim's Terminus (Harrowed)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.541,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Terminus Horizon (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.56,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Bane of Sorrow",
+      "totalRedeemed": 0,
+      "globalRarity": 0.974,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Song of Ir Yût",
+      "totalRedeemed": 0,
+      "globalRarity": 1.1,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Qua Vinctus IV",
+      "totalRedeemed": 0,
+      "globalRarity": 1.14,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "THE SWARM (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 1.143,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Service of Luzaku",
+      "totalRedeemed": 0,
+      "globalRarity": 1.317,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Edgewise",
+      "totalRedeemed": 0,
+      "globalRarity": 1.366,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "Unwavering Duty",
+      "totalRedeemed": 0,
+      "globalRarity": 1.579,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Ulterior Observation",
+      "totalRedeemed": 0,
+      "globalRarity": 1.609,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Speleologist",
+      "totalRedeemed": 0,
+      "globalRarity": 1.832,
+      "adjustedRarity": 4.8
+    },
+    {
+      "name": "Fixed Odds",
+      "totalRedeemed": 0,
+      "globalRarity": 1.98,
+      "adjustedRarity": 5.2
+    },
+    {
+      "name": "Qullim's Terminus",
+      "totalRedeemed": 0,
+      "globalRarity": 2.016,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "21% Delirium",
+      "totalRedeemed": 0,
+      "globalRarity": 2.212,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Commemoration",
+      "totalRedeemed": 0,
+      "globalRarity": 2.321,
+      "adjustedRarity": 6.1
+    },
+    {
+      "name": "Terminus Horizon",
+      "totalRedeemed": 0,
+      "globalRarity": 2.483,
+      "adjustedRarity": 6.6
+    },
+    {
+      "name": "Watchful Eye",
+      "totalRedeemed": 0,
+      "globalRarity": 2.682,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "Pro Memoria",
+      "totalRedeemed": 0,
+      "globalRarity": 2.837,
+      "adjustedRarity": 7.5
+    },
+    {
+      "name": "THE SWARM",
+      "totalRedeemed": 0,
+      "globalRarity": 2.881,
+      "adjustedRarity": 7.6
+    },
+    {
+      "name": "Eleatic Principle",
+      "totalRedeemed": 0,
+      "globalRarity": 3.125,
+      "adjustedRarity": 8.3
+    },
+    {
+      "name": "Thermal Erosion",
+      "totalRedeemed": 0,
+      "globalRarity": 3.158,
+      "adjustedRarity": 8.3
+    },
+    {
+      "name": "Circular Logic",
+      "totalRedeemed": 0,
+      "globalRarity": 3.187,
+      "adjustedRarity": 8.4
+    },
+    {
+      "name": "Heir Apparent",
+      "totalRedeemed": 0,
+      "globalRarity": 3.287,
+      "adjustedRarity": 8.7
+    },
+    {
+      "name": "Retrofit Escapade",
+      "totalRedeemed": 0,
+      "globalRarity": 3.295,
+      "adjustedRarity": 8.7
+    },
+    {
+      "name": "Corrective Measure",
+      "totalRedeemed": 0,
+      "globalRarity": 3.373,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Chain of Command",
+      "totalRedeemed": 0,
+      "globalRarity": 3.571,
+      "adjustedRarity": 9.4
+    },
+    {
+      "name": "Archon's Thunder",
+      "totalRedeemed": 0,
+      "globalRarity": 3.598,
+      "adjustedRarity": 9.5
+    },
+    {
+      "name": "Deterministic Chaos",
+      "totalRedeemed": 0,
+      "globalRarity": 3.732,
+      "adjustedRarity": 9.9
+    },
+    {
+      "name": "Planck's Stride",
+      "totalRedeemed": 0,
+      "globalRarity": 3.785,
+      "adjustedRarity": 10
+    },
+    {
+      "name": "Xenophage",
+      "totalRedeemed": 0,
+      "globalRarity": 3.897,
+      "adjustedRarity": 10.3
+    },
+    {
+      "name": "Temporal Clause",
+      "totalRedeemed": 0,
+      "globalRarity": 3.998,
+      "adjustedRarity": 10.6
+    },
+    {
+      "name": "Grand Overture",
+      "totalRedeemed": 0,
+      "globalRarity": 4.265,
+      "adjustedRarity": 11.3
+    },
+    {
+      "name": "Qua Furor V",
+      "totalRedeemed": 0,
+      "globalRarity": 4.34,
+      "adjustedRarity": 11.5
+    },
+    {
+      "name": "A Fine Memorial",
+      "totalRedeemed": 0,
+      "globalRarity": 4.593,
+      "adjustedRarity": 12.1
+    },
+    {
+      "name": "Shattered Cipher",
+      "totalRedeemed": 0,
+      "globalRarity": 4.659,
+      "adjustedRarity": 12.3
+    },
+    {
+      "name": "Qua Xaphan V",
+      "totalRedeemed": 0,
+      "globalRarity": 5.417,
+      "adjustedRarity": 14.3
+    },
+    {
+      "name": "Avalanche",
+      "totalRedeemed": 0,
+      "globalRarity": 5.917,
+      "adjustedRarity": 15.6
+    },
+    {
+      "name": "Hammerhead",
+      "totalRedeemed": 0,
+      "globalRarity": 6.152,
+      "adjustedRarity": 16.3
+    },
+    {
+      "name": "Marcato-45",
+      "totalRedeemed": 0,
+      "globalRarity": 6.929,
+      "adjustedRarity": 18.3
+    },
+    {
+      "name": "Seventh Seraph SAW",
+      "totalRedeemed": 0,
+      "globalRarity": 7.167,
+      "adjustedRarity": 18.9
+    },
+    {
+      "name": "Recurrent Impact",
+      "totalRedeemed": 0,
+      "globalRarity": 8.487,
+      "adjustedRarity": 22.4
+    },
+    {
+      "name": "Thunderlord",
+      "totalRedeemed": 0,
+      "globalRarity": 11.983,
+      "adjustedRarity": 31.7
+    },
+    {
+      "name": "Exitus Mk.I",
+      "totalRedeemed": 0,
+      "globalRarity": 25.634,
+      "adjustedRarity": 67.8
+    }
+  ]
+}

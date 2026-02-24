@@ -1,0 +1,593 @@
+{
+  "category": "shotguns",
+  "items": [
+    {
+      "name": "Starscape Null",
+      "totalRedeemed": 18277,
+      "globalRarity": 0.025,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Motion to Vacate",
+      "totalRedeemed": 61283,
+      "globalRarity": 0.085,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Swordbreaker (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.219,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "A Sudden Death (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.223,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Astral Horizon (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.3,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "The Inquisitor (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.316,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "The Comedian (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.38,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Nessa's Oblation (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.407,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Found Verdict (Timelost)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.412,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Deadlock",
+      "totalRedeemed": 0,
+      "globalRarity": 0.527,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Unvoiced",
+      "totalRedeemed": 0,
+      "globalRarity": 0.685,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Quitclaim Shotgun III",
+      "totalRedeemed": 0,
+      "globalRarity": 0.729,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "MIDA Macro-Tool",
+      "totalRedeemed": 0,
+      "globalRarity": 0.732,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Mindbender's Ambition (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.736,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Emperor's Courtesy",
+      "totalRedeemed": 0,
+      "globalRarity": 0.767,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Trachinus",
+      "totalRedeemed": 0,
+      "globalRarity": 0.962,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Basilisk",
+      "totalRedeemed": 0,
+      "globalRarity": 1.038,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Conditional Finality",
+      "totalRedeemed": 0,
+      "globalRarity": 1.099,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Swordbreaker",
+      "totalRedeemed": 0,
+      "globalRarity": 1.156,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Slayer's Fang",
+      "totalRedeemed": 0,
+      "globalRarity": 1.261,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Arcane Embrace",
+      "totalRedeemed": 0,
+      "globalRarity": 1.344,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "Pure Recollection",
+      "totalRedeemed": 0,
+      "globalRarity": 1.351,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "The Inquisitor",
+      "totalRedeemed": 0,
+      "globalRarity": 1.36,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "Python",
+      "totalRedeemed": 0,
+      "globalRarity": 1.372,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "Threat Level",
+      "totalRedeemed": 0,
+      "globalRarity": 1.381,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Scavenger's Fate",
+      "totalRedeemed": 0,
+      "globalRarity": 1.434,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Zenith of Your Kind",
+      "totalRedeemed": 0,
+      "globalRarity": 1.57,
+      "adjustedRarity": 4.1
+    },
+    {
+      "name": "Gravity Slingshot",
+      "totalRedeemed": 0,
+      "globalRarity": 1.601,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Nessa's Oblation",
+      "totalRedeemed": 0,
+      "globalRarity": 1.608,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Precipial",
+      "totalRedeemed": 0,
+      "globalRarity": 1.614,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Unification VII",
+      "totalRedeemed": 0,
+      "globalRarity": 1.648,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "The Comedian",
+      "totalRedeemed": 0,
+      "globalRarity": 1.866,
+      "adjustedRarity": 4.9
+    },
+    {
+      "name": "Legend of Acrius",
+      "totalRedeemed": 0,
+      "globalRarity": 1.959,
+      "adjustedRarity": 5.2
+    },
+    {
+      "name": "Astral Horizon",
+      "totalRedeemed": 0,
+      "globalRarity": 2.034,
+      "adjustedRarity": 5.4
+    },
+    {
+      "name": "Prophet of Doom",
+      "totalRedeemed": 0,
+      "globalRarity": 2.133,
+      "adjustedRarity": 5.6
+    },
+    {
+      "name": "Reckless Endangerment",
+      "totalRedeemed": 0,
+      "globalRarity": 2.386,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Heritage",
+      "totalRedeemed": 0,
+      "globalRarity": 2.502,
+      "adjustedRarity": 6.6
+    },
+    {
+      "name": "The Fourth Horseman",
+      "totalRedeemed": 0,
+      "globalRarity": 2.556,
+      "adjustedRarity": 6.8
+    },
+    {
+      "name": "One Small Step",
+      "totalRedeemed": 0,
+      "globalRarity": 2.641,
+      "adjustedRarity": 7
+    },
+    {
+      "name": "A Sudden Death",
+      "totalRedeemed": 0,
+      "globalRarity": 2.68,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "IKELOS_SG_v1.0.1",
+      "totalRedeemed": 0,
+      "globalRarity": 2.774,
+      "adjustedRarity": 7.3
+    },
+    {
+      "name": "Imperial Decree",
+      "totalRedeemed": 0,
+      "globalRarity": 2.79,
+      "adjustedRarity": 7.4
+    },
+    {
+      "name": "Somerled-D",
+      "totalRedeemed": 0,
+      "globalRarity": 2.8,
+      "adjustedRarity": 7.4
+    },
+    {
+      "name": "Mindbender's Ambition",
+      "totalRedeemed": 0,
+      "globalRarity": 2.844,
+      "adjustedRarity": 7.5
+    },
+    {
+      "name": "Perfect Paradox",
+      "totalRedeemed": 0,
+      "globalRarity": 2.996,
+      "adjustedRarity": 7.9
+    },
+    {
+      "name": "Someday",
+      "totalRedeemed": 0,
+      "globalRarity": 3.032,
+      "adjustedRarity": 8
+    },
+    {
+      "name": "Basso Ostinato",
+      "totalRedeemed": 0,
+      "globalRarity": 3.12,
+      "adjustedRarity": 8.2
+    },
+    {
+      "name": "Felwinter's Lie",
+      "totalRedeemed": 0,
+      "globalRarity": 3.201,
+      "adjustedRarity": 8.5
+    },
+    {
+      "name": "Until Its Return",
+      "totalRedeemed": 0,
+      "globalRarity": 3.21,
+      "adjustedRarity": 8.5
+    },
+    {
+      "name": "Found Verdict",
+      "totalRedeemed": 0,
+      "globalRarity": 3.275,
+      "adjustedRarity": 8.7
+    },
+    {
+      "name": "Compass Rose",
+      "totalRedeemed": 0,
+      "globalRarity": 3.315,
+      "adjustedRarity": 8.8
+    },
+    {
+      "name": "Baligant XU7743",
+      "totalRedeemed": 0,
+      "globalRarity": 3.384,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Supercluster",
+      "totalRedeemed": 0,
+      "globalRarity": 3.471,
+      "adjustedRarity": 9.2
+    },
+    {
+      "name": "Without Remorse",
+      "totalRedeemed": 0,
+      "globalRarity": 3.505,
+      "adjustedRarity": 9.3
+    },
+    {
+      "name": "Gunnora's Axe",
+      "totalRedeemed": 0,
+      "globalRarity": 3.795,
+      "adjustedRarity": 10
+    },
+    {
+      "name": "Matador 64",
+      "totalRedeemed": 0,
+      "globalRarity": 3.91,
+      "adjustedRarity": 10.3
+    },
+    {
+      "name": "Riiswalker",
+      "totalRedeemed": 0,
+      "globalRarity": 3.918,
+      "adjustedRarity": 10.4
+    },
+    {
+      "name": "Legato-11",
+      "totalRedeemed": 0,
+      "globalRarity": 4.036,
+      "adjustedRarity": 10.7
+    },
+    {
+      "name": "Deadpan Delivery",
+      "totalRedeemed": 0,
+      "globalRarity": 4.122,
+      "adjustedRarity": 10.9
+    },
+    {
+      "name": "IKELOS_SG_v1.0.3",
+      "totalRedeemed": 0,
+      "globalRarity": 4.15,
+      "adjustedRarity": 11
+    },
+    {
+      "name": "Last Man Standing",
+      "totalRedeemed": 0,
+      "globalRarity": 4.317,
+      "adjustedRarity": 11.4
+    },
+    {
+      "name": "No Reprieve",
+      "totalRedeemed": 0,
+      "globalRarity": 4.514,
+      "adjustedRarity": 11.9
+    },
+    {
+      "name": "Sojourner's Tale",
+      "totalRedeemed": 0,
+      "globalRarity": 4.575,
+      "adjustedRarity": 12.1
+    },
+    {
+      "name": "Duality",
+      "totalRedeemed": 0,
+      "globalRarity": 4.605,
+      "adjustedRarity": 12.2
+    },
+    {
+      "name": "Parcel of Stardust",
+      "totalRedeemed": 0,
+      "globalRarity": 5.256,
+      "adjustedRarity": 13.9
+    },
+    {
+      "name": "Fractethyst",
+      "totalRedeemed": 0,
+      "globalRarity": 5.303,
+      "adjustedRarity": 14
+    },
+    {
+      "name": "Dead Weight",
+      "totalRedeemed": 0,
+      "globalRarity": 5.623,
+      "adjustedRarity": 14.9
+    },
+    {
+      "name": "Ded Gramarye IV",
+      "totalRedeemed": 0,
+      "globalRarity": 5.679,
+      "adjustedRarity": 15
+    },
+    {
+      "name": "IKELOS_SG_v1.0.2",
+      "totalRedeemed": 0,
+      "globalRarity": 6.119,
+      "adjustedRarity": 16.2
+    },
+    {
+      "name": "The Chaperone",
+      "totalRedeemed": 0,
+      "globalRarity": 6.307,
+      "adjustedRarity": 16.7
+    },
+    {
+      "name": "Seventh Seraph CQC-12",
+      "totalRedeemed": 0,
+      "globalRarity": 7.319,
+      "adjustedRarity": 19.3
+    },
+    {
+      "name": "Retrofuturist",
+      "totalRedeemed": 0,
+      "globalRarity": 7.427,
+      "adjustedRarity": 19.6
+    },
+    {
+      "name": "First In, Last Out",
+      "totalRedeemed": 0,
+      "globalRarity": 7.528,
+      "adjustedRarity": 19.9
+    },
+    {
+      "name": "Baligant",
+      "totalRedeemed": 0,
+      "globalRarity": 7.545,
+      "adjustedRarity": 19.9
+    },
+    {
+      "name": "Blasphemer",
+      "totalRedeemed": 0,
+      "globalRarity": 7.676,
+      "adjustedRarity": 20.3
+    },
+    {
+      "name": "Dust Rock Blues",
+      "totalRedeemed": 0,
+      "globalRarity": 7.773,
+      "adjustedRarity": 20.5
+    },
+    {
+      "name": "Retold Tale",
+      "totalRedeemed": 0,
+      "globalRarity": 7.778,
+      "adjustedRarity": 20.6
+    },
+    {
+      "name": "Fortissimo-11",
+      "totalRedeemed": 0,
+      "globalRarity": 8.544,
+      "adjustedRarity": 22.6
+    },
+    {
+      "name": "Lord of Wolves",
+      "totalRedeemed": 0,
+      "globalRarity": 8.946,
+      "adjustedRarity": 23.6
+    },
+    {
+      "name": "The Deicide",
+      "totalRedeemed": 0,
+      "globalRarity": 8.999,
+      "adjustedRarity": 23.8
+    },
+    {
+      "name": "Hawthorne's Field-Forged Shotgun",
+      "totalRedeemed": 0,
+      "globalRarity": 9.232,
+      "adjustedRarity": 24.4
+    },
+    {
+      "name": "Xenoclast IV",
+      "totalRedeemed": 0,
+      "globalRarity": 9.423,
+      "adjustedRarity": 24.9
+    },
+    {
+      "name": "Good Bone Structure",
+      "totalRedeemed": 0,
+      "globalRarity": 9.865,
+      "adjustedRarity": 26.1
+    },
+    {
+      "name": "Badlander",
+      "totalRedeemed": 0,
+      "globalRarity": 9.996,
+      "adjustedRarity": 26.4
+    },
+    {
+      "name": "Bonechiller",
+      "totalRedeemed": 0,
+      "globalRarity": 10.946,
+      "adjustedRarity": 28.9
+    },
+    {
+      "name": "Wastelander M5",
+      "totalRedeemed": 0,
+      "globalRarity": 11.191,
+      "adjustedRarity": 29.6
+    },
+    {
+      "name": "Toil and Trouble",
+      "totalRedeemed": 0,
+      "globalRarity": 12.578,
+      "adjustedRarity": 33.3
+    },
+    {
+      "name": "Wishbringer",
+      "totalRedeemed": 0,
+      "globalRarity": 12.633,
+      "adjustedRarity": 33.4
+    },
+    {
+      "name": "Ragnhild-D",
+      "totalRedeemed": 0,
+      "globalRarity": 16.266,
+      "adjustedRarity": 43
+    },
+    {
+      "name": "Tractor Cannon",
+      "totalRedeemed": 0,
+      "globalRarity": 18.227,
+      "adjustedRarity": 48.2
+    },
+    {
+      "name": "Fussed Dark Mk.21",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Badlands Mk.24",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Botheration Mk.28",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Ded Acumen II",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Stubborn Oak",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Requiem-43",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Hand in Hand",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Ded Nemoris II",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    }
+  ]
+}

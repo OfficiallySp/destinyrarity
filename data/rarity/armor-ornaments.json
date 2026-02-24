@@ -1,0 +1,941 @@
+{
+  "category": "armor-ornaments",
+  "items": [
+    {
+      "name": "Trials Prestige Ornament Complete flawless tickets in Trials of the Nine during Season 2 to unlock and equip this ornament.",
+      "totalRedeemed": 22232,
+      "globalRarity": 0.031,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Trials Ornament Complete tickets in Trials of the Nine during Season 2 to unlock and equip this ornament.",
+      "totalRedeemed": 23657,
+      "globalRarity": 0.033,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Trials Prestige Ornament Win matches in Trials of the Nine and complete a flawless ticket during Season 2 to unlock and equip this ornament.",
+      "totalRedeemed": 42499,
+      "globalRarity": 0.059,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Arach's Chosen Robes Claim high-value targets' chests with full Dead Orbit Anti-Extinction armor equipped and while pledged to Dead Orbit.",
+      "totalRedeemed": 45103,
+      "globalRarity": 0.063,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Arach's Chosen Vestments Get multikills with Supers while wearing full Dead Orbit Anti-Extinction armor and pledged to Dead Orbit.",
+      "totalRedeemed": 59453,
+      "globalRarity": 0.083,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Fire-Forged Titan Chest Ornament Defeat enemies with Hand Cannon headshots in the Crucible during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 62512,
+      "globalRarity": 0.087,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Fire-Forged Hunter Chest Ornament Defeat enemies with Hand Cannon headshots in the Crucible during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 62512,
+      "globalRarity": 0.087,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Fire-Forged Warlock Chest Ornament Defeat enemies with Hand Cannon headshots in the Crucible during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 62512,
+      "globalRarity": 0.087,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Trials Prestige Ornament Defeat enemies in Trials of the Nine and complete a flawless ticket during Season 2 to unlock and equip this ornament.",
+      "totalRedeemed": 64313,
+      "globalRarity": 0.09,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Arach's Chosen Plate Complete Heroic public events with full Dead Orbit Anti-Extinction armor equipped and while pledged to Dead Orbit.",
+      "totalRedeemed": 65830,
+      "globalRarity": 0.092,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Superior's Vision Plate Eliminate Vex with Power weapons while wearing full Future War Cult Simulator armor and pledged to Future War Cult.",
+      "totalRedeemed": 69108,
+      "globalRarity": 0.096,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Executor's Will Robes Complete patrols in the EDZ with full New Monarchy Sovereign armor equipped and while pledged to New Monarchy.",
+      "totalRedeemed": 71474,
+      "globalRarity": 0.1,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Executor's Will Plate Gather Dusklight with full New Monarchy Sovereign armor equipped and while pledged to New Monarchy.",
+      "totalRedeemed": 72344,
+      "globalRarity": 0.101,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Trials Prestige Ornament Complete challenges in Trials of the Nine and complete a flawless ticket during Season 2 to unlock and equip this ornament.",
+      "totalRedeemed": 74763,
+      "globalRarity": 0.104,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Superior's Vision Robes Eliminate Vex with Energy weapons while wearing full Future War Cult Simulator armor and while pledged to Future War Cult.",
+      "totalRedeemed": 78834,
+      "globalRarity": 0.11,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Superior's Vision Gauntlets Eliminate Vex with Fists of Havoc while pledged to Future War Cult.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.113,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Fire-Forged Hunter Leg Ornament Defeat enemies with Sniper Rifles in the Crucible during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.114,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Fire-Forged Titan Leg Ornament Defeat enemies with Sniper Rifles in the Crucible during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.114,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Fire-Forged Warlock Leg Ornament Defeat enemies with Sniper Rifles in the Crucible during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.114,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Trials Ornament Win matches in Trials of the Nine during Season 2 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.115,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Superior's Vision Gloves Eliminate Vex with Nova Bombs while pledged to Future War Cult.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.119,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Superior's Vision Grips Eliminate Vex with the Golden Gun while pledged to Future War Cult.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.123,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Executor's Will Vest Open chests in the EDZ with full New Monarchy Sovereign armor equipped and while pledged to New Monarchy.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.123,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Arach's Chosen Fists Use grenades to destroy Taken while pledged to Dead Orbit.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.128,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Praetorian Ornament Complete the Throne of Calus challenge to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.128,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Trials Prestige Ornament Claim Trials of the Nine reward engrams and complete a flawless ticket during Season 2 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.128,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Superior's Vision Greaves Earn Renown with full Future War Cult Simulator armor equipped and while pledged to Future War Cult.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.133,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "War Simulator Ornament Complete a Nightfall strike wearing full FWC armor and while pledged to that faction to earn this ornament. It is unlocked to the Simulator Mask, Helm, and Hood.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.136,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Extinction Orbit Ornament Complete a Nightfall strike wearing full Dead Orbit armor and while pledged to that faction to earn this ornament. It is unlocked to the Anti-Extinction Mask, Helm, and Hood.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.141,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Superior's Vision Boots Earn Renown with full Future War Cult Simulator armor equipped and while pledged to Future War Cult.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.143,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Arach's Chosen Grips Get Hive kills using fully charged melee abilities while pledged to Dead Orbit.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.144,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Executor's WIll Boots Earn Renown with full New Monarchy Sovereign armor equipped and while pledged to New Monarchy.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.145,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Superior's Vision Cuirass Eliminate Vex with Kinetic weapons while wearing full Future War Cult Simulator armor and pledged to Future War Cult.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.146,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Superior's Vision Helm Spend Renown by looting a Lost Sector cache while pledged to Future War Cult.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.147,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Executor's Will Cover Spend Renown by looting a Lost Sector cache while pledged to New Monarchy.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.151,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Praetorian Ornament Complete the Royal Pools challenge to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.153,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Executor's Will Greaves Earn Renown with full New Monarchy Sovereign armor equipped and while pledged to New Monarchy.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.159,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Arach's Chosen Stand Earn Renown with full Dead Orbit Anti-Extinction armor equipped and while pledged to Dead Orbit.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.161,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Executor's Will Helm Spend Renown by looting a Lost Sector cache while pledged to New Monarchy.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.163,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Trials Ornament Complete challenges in Trials of the Nine during Season 2 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.165,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Superior's Vision Hood Spend Renown by looting a Lost Sector cache while pledged to Future War Cult.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.165,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Executor's Will Strides Earn Renown with full New Monarchy Sovereign armor equipped and while pledged to New Monarchy.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.175,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Mark of Eternal War While pledged to Future War Cult, complete the Conflux Lost Sector in the Cistern on Nessus.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.177,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Arach's Chosen Boots Earn Renown with full Dead Orbit Anti-Extinction armor equipped and while pledged to Dead Orbit.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.178,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Executor's Will Casque Spend Renown by looting a Lost Sector cache while pledged to New Monarchy.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.179,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Praetorian Ornament Complete the Gauntlet challenge to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.182,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Mark of the Royal While pledged to New Monarchy, complete the Excavation Site XII Lost Sector in the EDZ's Firebase Hades.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.182,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Bond of the Royal While pledged to New Monarchy, complete the Cavern of Souls Lost Sector in the EDZ's Sludge.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.185,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Superior's Vision Strides Earn Renown with full Future War Cult Simulator armor equipped and while pledged to Future War Cult.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.189,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Arach's Chosen Helm Spend Renown by looting a Lost Sector cache while pledged to Dead Orbit.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.189,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "War Simulator Ornament Get grenade kills in strikes while pledged to FWC to earn this ornament. It is unlocked to the Simulator Boots, Greaves, and Legs.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.193,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Trials Ornament Defeat enemies in Trials of the Nine during Season 2 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.212,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Eater of Worlds Ornament Complete the Throne of Calus challenge to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.212,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Arach's Chosen Flight Earn Renown with full Dead Orbit Anti-Extinction armor equipped and while pledged to Dead Orbit.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.214,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Extinction Orbit Ornament Complete Lost Sectors off Earth while pledged to Dead Orbit to earn this ornament. It is unlocked to the Anti-Extinction Grasps, Gauntlets, and Gloves.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.217,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Soaring Sword Ornament Complete Heroic strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.22,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Ankaa Friend Ornament Complete Heroic strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.22,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Phoenix Battle Ornament Complete Heroic strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.22,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Superior's Vision Cowl Spend Renown by looting a Lost Sector cache while pledged to Future War Cult.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.222,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Mark of Last Departure While pledged to Dead Orbit, complete the Sanctum of Bones Lost Sector in the Rupture on Io.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.23,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Arach's Chosen Veil Spend Renown by looting a Lost Sector cache while pledged to Dead Orbit.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.23,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Trials Ornament Claim Trials of the Nine reward engrams during Season 2 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.236,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Cape of the Royal While pledged to New Monarchy, complete the Drain Lost Sector in the EDZ's Outskirts.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.24,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Eater of Worlds Ornament Complete the Royal Pools Challenge to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.246,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Sovereign Lion Ornament Complete a Nightfall strike wearing full New Monarchy armor and while pledged to that faction to earn this ornament. It is unlocked to the Sovereign Mask, Helm, and Hood.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.247,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Cape of Eternal War While pledged to Future War Cult, complete the Ancient's Haunt Lost Sector in the Tangle on Nessus.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.255,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Praetorian Ornament Complete the Pleasure Gardens challenge to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.257,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Bond of Eternal War While pledged to Future War Cult, complete the Orrery Lost Sector in Artifact's Edge on Nessus.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.263,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Arach's Chosen Casque Spend Renown by looting a Lost Sector cache while pledged to Dead Orbit.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.272,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Bond of Last Departure While pledged to Dead Orbit, complete the Carrion Pit Lost Sector in the Glade of Echoes on Nessus.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.292,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Sovereign Lion Ornament Get Super kills in the EDZ while pledged to New Monarchy to earn this ornament. It is unlocked to the Sovereign Boots, Greaves, and Legs.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.308,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Praetorian Ornament Complete \"Spire of Stars\" on Prestige difficulty in Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.309,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Eater of Worlds Ornament Complete the Gauntlet challenge to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.31,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Executor's Will Gauntlets Defeat Cabal Phalanxes while pledged to New Monarchy.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.348,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Executor's Will Gloves Defeat Cabal Psions while pledged to New Monarchy.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.375,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Arach's Chosen Gloves Get Fallen precision kills while pledged to Dead Orbit.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.38,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Sovereign Lion Ornament Complete patrols in the EDZ while pledged to New Monarchy to earn this ornament. It is unlocked to the Sovereign Grips, Gauntlets, and Gloves.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.391,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Cape of Last Departure While pledged to Dead Orbit, complete the Methane Flush Lost Sector in Siren's Watch on Titan.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.428,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Extinction Orbit Ornament Get melee kills off Earth while pledged to Dead Orbit to earn this ornament. It is unlocked to the Anti-Extinction Legs, Greaves, and Boots.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.438,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "War Simulator Ornament Get Power weapon kills while pledged to FWC to earn this ornament. It is unlocked to the Simulator Vest, Plate, and Robes.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.458,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "War Simulator Ornament Complete public events while pledged to FWC to earn this ornament. It is unlocked to the Simulator Grips, Gauntlets, and Gloves.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.465,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Eater of Worlds Ornament Complete the Pleasure Gardens Challenge to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.472,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Fire-Forged Titan Arm Ornament Defeat enemies with Pulse Rifles in the Crucible during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.484,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Fire-Forged Warlock Arm Ornament Defeat enemies with Pulse Rifles in the Crucible during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.484,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Fire-Forged Hunter Arms Ornament Defeat enemies with Pulse Rifles in the Crucible during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.484,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "War Simulator Ornament Claim Future War Cult reward engrams in Season 2 to earn this ornament. It is unlocked to the Entanglement Cloak, Mark, and Bond.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.504,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Extinction Orbit Ornament Claim Dead Orbit reward engrams in Season 2 to earn this ornament. It is unlocked to the Stella Incognita Cloak, Mark, and Bond.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.55,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Executor's Will Grips Defeat Cabal Centurions while pledged to New Monarchy.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.582,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Eater of Worlds Ornament Complete \"Leviathan, Eater of Worlds\" on Prestige difficulty to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.597,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Tormod's Iron Greaves Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.614,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Timur's Iron Boots Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.637,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Sovereign Lion Ornament Create Orbs of Power while pledged to New Monarchy to earn this ornament. It is unlocked to equip the Sovereign Vest, Plate, and Robes.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.637,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Silimar's Iron Plate Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.654,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Haakon's Iron Strides Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.7,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Colovance's Iron Robes Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.74,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Extinction Orbit Ornament Get precision kills while pledged to Dead Orbit to earn this ornament. It is unlocked to the Anti-Extinction Vest, Plate, and Robes.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.742,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Steadfast Titan Ornament Complete challenges in strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV arms armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.779,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Steadfast Warlock Ornament Complete challenges in strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV arms armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.779,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Steadfast Hunter Ornament Complete challenges in strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV arms armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.779,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Fire-Forged Hunter Head Ornament Fully complete and reset your Crucible Rank during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.783,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Fire-Forged Titan Head Ornament Fully complete and reset your Crucible Rank during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.783,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Fire-Forged Warlock Head Ornament Fully complete and reset your Crucible Rank during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.783,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Perun's Iron Cuirass Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.795,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Sovereign Lion Ornament Claim New Monarchy reward engrams during Season 2 to earn this ornament. It is unlocked to the Coronation Cloak, Mark, and Bond.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.843,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Bretomart's Iron Helm Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.863,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Steadfast Titan Ornament Complete Heroic strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV head armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.892,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Steadfast Hunter Ornament Complete Heroic strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV head armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.892,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Steadfast Warlock Ornament Complete Heroic strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV head armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.892,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Steadfast Titan Ornament Complete weekly strike milestones during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV chest armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.971,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Steadfast Warlock Ornament Complete weekly strike milestones during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV chest armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.971,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Steadfast Hunter Ornament Complete weekly strike milestones during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV chest armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.971,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Weyloran's Iron Mask Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.982,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Xenos Shore Ornament Complete challenges in strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV arms armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.066,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Take Shelter Ornament Complete challenges in strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV arms armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.066,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "On the Offense Ornament Complete challenges in strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV arms armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.066,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Steadfast Titan Ornament Defeat enemies in strikes with Super abilities during Season 3 to earn this ornament. It is unlocked to the Took Offense cloak, Mark of Shelter, and Xenos Vale Bond.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.077,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Steadfast Hunter Ornament Defeat enemies in strikes with Super abilities during Season 3 to earn this ornament. It is unlocked to the Took Offense cloak, Mark of Shelter, and Xenos Vale Bond.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.077,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Steadfast Warlock Ornament Defeat enemies in strikes with Super abilities during Season 3 to earn this ornament. It is unlocked to the Took Offense cloak, Mark of Shelter, and Xenos Vale Bond.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.077,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Ashraven's Iron Hood Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.098,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Soaring Sword Ornament Complete challenges in strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.176,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Phoenix Battle Ornament Complete challenges in strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.176,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Ankaa Friend Ornament Complete challenges in strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.176,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Xenos Shore Ornament Complete weekly strike milestones during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV chest armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.312,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "On the Offense Ornament Complete weekly strike milestones during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV chest armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.312,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Take Shelter Ornament Complete weekly strike milestones during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV chest armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.312,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Radegast's Iron Gauntlets Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.419,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Iron Pledge Ornament",
+      "totalRedeemed": 0,
+      "globalRarity": 1.431,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Skorri's Iron Gloves Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.468,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "On the Offense Ornament Complete Heroic strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV head armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.473,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Take Shelter Ornament Complete Heroic strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV head armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.473,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Xenos Shore Ornament Complete Heroic strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV head armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.473,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Gheleon's Iron Grips Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.524,
+      "adjustedRarity": 4
+    },
+    {
+      "name": "Soaring Sword Ornament Complete weekly strike milestones during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.661,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Ankaa Friend Ornament Complete weekly strike milestones during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.661,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Phoenix Battle Ornament Complete weekly strike milestones during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.661,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Nirwen's Iron Bond Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.665,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Finnala's Iron Mark Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.676,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Fire-Forged Titan Mark Ornament Earn Crucible Engrams during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.858,
+      "adjustedRarity": 4.9
+    },
+    {
+      "name": "Fire-Forged Hunter Cloak Ornament Earn Crucible Engrams during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.858,
+      "adjustedRarity": 4.9
+    },
+    {
+      "name": "Fire-Forged Warlock Bond Ornament Earn Crucible Engrams during Season 3 to unlock and equip this ornament.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.858,
+      "adjustedRarity": 4.9
+    },
+    {
+      "name": "Efrideet's Iron Cloak Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.925,
+      "adjustedRarity": 5.1
+    },
+    {
+      "name": "Steadfast Titan Ornament Defeat enemies in strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV leg armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.92,
+      "adjustedRarity": 7.7
+    },
+    {
+      "name": "Steadfast Warlock Ornament Defeat enemies in strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV leg armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.92,
+      "adjustedRarity": 7.7
+    },
+    {
+      "name": "Steadfast Hunter Ornament Defeat enemies in strikes during Season 3 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV leg armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.92,
+      "adjustedRarity": 7.7
+    },
+    {
+      "name": "Ankaa Friend Ornament Defeat enemies in strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.954,
+      "adjustedRarity": 7.8
+    },
+    {
+      "name": "Phoenix Battle Ornament Defeat enemies in strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.954,
+      "adjustedRarity": 7.8
+    },
+    {
+      "name": "Soaring Sword Ornament Defeat enemies in strikes during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.954,
+      "adjustedRarity": 7.8
+    },
+    {
+      "name": "Soaring Sword Ornament Claim Vanguard Tactician reward engrams during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.187,
+      "adjustedRarity": 8.4
+    },
+    {
+      "name": "Ankaa Friend Ornament Claim Vanguard Tactician reward engrams during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.187,
+      "adjustedRarity": 8.4
+    },
+    {
+      "name": "Phoenix Battle Ornament Claim Vanguard Tactician reward engrams during Season 2 to earn this ornament. It's unlocked for all Crucible armor sets.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.187,
+      "adjustedRarity": 8.4
+    },
+    {
+      "name": "Xenos Shore Ornament Claim Vanguard Tactician reward engrams during Season 2 to earn this ornament. It is unlocked to the Took Offense cloak, Mark of Shelter, and Xenos Vale Bond.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.233,
+      "adjustedRarity": 8.5
+    },
+    {
+      "name": "On the Offense Ornament Claim Vanguard Tactician reward engrams during Season 2 to earn this ornament. It is unlocked to the Took Offense cloak, Mark of Shelter, and Xenos Vale Bond.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.233,
+      "adjustedRarity": 8.5
+    },
+    {
+      "name": "Take Shelter Ornament Claim Vanguard Tactician reward engrams during Season 2 to earn this ornament. It is unlocked to the Took Offense cloak, Mark of Shelter, and Xenos Vale Bond.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.233,
+      "adjustedRarity": 8.5
+    },
+    {
+      "name": "Xenos Shore Ornament Defeat enemies in strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV leg armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.583,
+      "adjustedRarity": 9.5
+    },
+    {
+      "name": "Take Shelter Ornament Defeat enemies in strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV leg armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.583,
+      "adjustedRarity": 9.5
+    },
+    {
+      "name": "On the Offense Ornament Defeat enemies in strikes during Season 2 to earn this ornament. It is unlocked to the Took Offense, Shelter in Place, and Xenos Vale IV leg armor.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.583,
+      "adjustedRarity": 9.5
+    }
+  ]
+}

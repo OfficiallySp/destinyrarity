@@ -1,0 +1,527 @@
+{
+  "category": "sidearms",
+  "items": [
+    {
+      "name": "Division (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.296,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Peace by Consensus",
+      "totalRedeemed": 0,
+      "globalRarity": 0.36,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Forgiveness (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.387,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Mykel's Reverence (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.491,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Lotus-Eater (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.528,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Liminal Vigil (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.56,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Buzzard (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.716,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Buried Bloodline",
+      "totalRedeemed": 0,
+      "globalRarity": 0.856,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Lotus-Eater",
+      "totalRedeemed": 0,
+      "globalRarity": 0.882,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Interregnum XVI",
+      "totalRedeemed": 0,
+      "globalRarity": 1.009,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Last of the Legion",
+      "totalRedeemed": 0,
+      "globalRarity": 1.013,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Fimbulwinter Stitch",
+      "totalRedeemed": 0,
+      "globalRarity": 1.08,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Forgiveness",
+      "totalRedeemed": 0,
+      "globalRarity": 1.219,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Compact Defender",
+      "totalRedeemed": 0,
+      "globalRarity": 1.264,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Returned Memory",
+      "totalRedeemed": 0,
+      "globalRarity": 1.375,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "Eleventh Hour",
+      "totalRedeemed": 0,
+      "globalRarity": 1.474,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Tinasha's Mastery",
+      "totalRedeemed": 0,
+      "globalRarity": 1.484,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Unfall",
+      "totalRedeemed": 0,
+      "globalRarity": 1.532,
+      "adjustedRarity": 4
+    },
+    {
+      "name": "Mykel's Reverence",
+      "totalRedeemed": 0,
+      "globalRarity": 1.55,
+      "adjustedRarity": 4.1
+    },
+    {
+      "name": "Evening SI4",
+      "totalRedeemed": 0,
+      "globalRarity": 1.655,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Division",
+      "totalRedeemed": 0,
+      "globalRarity": 1.693,
+      "adjustedRarity": 4.5
+    },
+    {
+      "name": "Buzzard",
+      "totalRedeemed": 0,
+      "globalRarity": 1.916,
+      "adjustedRarity": 5.1
+    },
+    {
+      "name": "Indebted Kindness",
+      "totalRedeemed": 0,
+      "globalRarity": 1.951,
+      "adjustedRarity": 5.2
+    },
+    {
+      "name": "Insurmountable",
+      "totalRedeemed": 0,
+      "globalRarity": 1.994,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "Faustus Decline",
+      "totalRedeemed": 0,
+      "globalRarity": 2.168,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Aberrant Action",
+      "totalRedeemed": 0,
+      "globalRarity": 2.342,
+      "adjustedRarity": 6.2
+    },
+    {
+      "name": "Liminal Vigil",
+      "totalRedeemed": 0,
+      "globalRarity": 2.421,
+      "adjustedRarity": 6.4
+    },
+    {
+      "name": "Final Warning",
+      "totalRedeemed": 0,
+      "globalRarity": 2.538,
+      "adjustedRarity": 6.7
+    },
+    {
+      "name": "Traveler's Judgment 5",
+      "totalRedeemed": 0,
+      "globalRarity": 2.691,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "Urchin-3si",
+      "totalRedeemed": 0,
+      "globalRarity": 2.691,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "Athelflad-D",
+      "totalRedeemed": 0,
+      "globalRarity": 2.721,
+      "adjustedRarity": 7.2
+    },
+    {
+      "name": "Etana SI4",
+      "totalRedeemed": 0,
+      "globalRarity": 2.817,
+      "adjustedRarity": 7.4
+    },
+    {
+      "name": "Traveler's Chosen",
+      "totalRedeemed": 0,
+      "globalRarity": 2.89,
+      "adjustedRarity": 7.6
+    },
+    {
+      "name": "A Swift Verdict",
+      "totalRedeemed": 0,
+      "globalRarity": 3.055,
+      "adjustedRarity": 8.1
+    },
+    {
+      "name": "Swift Solstice",
+      "totalRedeemed": 0,
+      "globalRarity": 3.062,
+      "adjustedRarity": 8.1
+    },
+    {
+      "name": "Allied Demand",
+      "totalRedeemed": 0,
+      "globalRarity": 3.112,
+      "adjustedRarity": 8.2
+    },
+    {
+      "name": "The Fool's Remedy",
+      "totalRedeemed": 0,
+      "globalRarity": 3.222,
+      "adjustedRarity": 8.5
+    },
+    {
+      "name": "Devil's Ruin",
+      "totalRedeemed": 0,
+      "globalRarity": 3.287,
+      "adjustedRarity": 8.7
+    },
+    {
+      "name": "18 Kelvins",
+      "totalRedeemed": 0,
+      "globalRarity": 3.309,
+      "adjustedRarity": 8.7
+    },
+    {
+      "name": "Peacebond",
+      "totalRedeemed": 0,
+      "globalRarity": 3.372,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Dead Man Walking XX7463",
+      "totalRedeemed": 0,
+      "globalRarity": 3.376,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Drang (Baroque)",
+      "totalRedeemed": 0,
+      "globalRarity": 3.763,
+      "adjustedRarity": 9.9
+    },
+    {
+      "name": "Brass Attacks",
+      "totalRedeemed": 0,
+      "globalRarity": 3.829,
+      "adjustedRarity": 10.1
+    },
+    {
+      "name": "Brigand's Law",
+      "totalRedeemed": 0,
+      "globalRarity": 3.833,
+      "adjustedRarity": 10.1
+    },
+    {
+      "name": "Trespasser",
+      "totalRedeemed": 0,
+      "globalRarity": 3.918,
+      "adjustedRarity": 10.4
+    },
+    {
+      "name": "Breachlight",
+      "totalRedeemed": 0,
+      "globalRarity": 4.003,
+      "adjustedRarity": 10.6
+    },
+    {
+      "name": "Cryosthesia 77K",
+      "totalRedeemed": 0,
+      "globalRarity": 4.229,
+      "adjustedRarity": 11.2
+    },
+    {
+      "name": "The Call",
+      "totalRedeemed": 0,
+      "globalRarity": 4.614,
+      "adjustedRarity": 12.2
+    },
+    {
+      "name": "Farewell",
+      "totalRedeemed": 0,
+      "globalRarity": 4.776,
+      "adjustedRarity": 12.6
+    },
+    {
+      "name": "Forerunner",
+      "totalRedeemed": 0,
+      "globalRarity": 4.778,
+      "adjustedRarity": 12.6
+    },
+    {
+      "name": "Spoiler Alert",
+      "totalRedeemed": 0,
+      "globalRarity": 6.081,
+      "adjustedRarity": 16.1
+    },
+    {
+      "name": "Controlling Vision",
+      "totalRedeemed": 0,
+      "globalRarity": 6.186,
+      "adjustedRarity": 16.4
+    },
+    {
+      "name": "Seventh Seraph SI-2",
+      "totalRedeemed": 0,
+      "globalRarity": 6.291,
+      "adjustedRarity": 16.6
+    },
+    {
+      "name": "Death by Scorn",
+      "totalRedeemed": 0,
+      "globalRarity": 6.354,
+      "adjustedRarity": 16.8
+    },
+    {
+      "name": "Heliocentric QSc",
+      "totalRedeemed": 0,
+      "globalRarity": 6.383,
+      "adjustedRarity": 16.9
+    },
+    {
+      "name": "Rat King",
+      "totalRedeemed": 0,
+      "globalRarity": 6.4,
+      "adjustedRarity": 16.9
+    },
+    {
+      "name": "High Albedo",
+      "totalRedeemed": 0,
+      "globalRarity": 6.421,
+      "adjustedRarity": 17
+    },
+    {
+      "name": "Fioritura-59",
+      "totalRedeemed": 0,
+      "globalRarity": 6.992,
+      "adjustedRarity": 18.5
+    },
+    {
+      "name": "Vertical Orbit QSm",
+      "totalRedeemed": 0,
+      "globalRarity": 7.25,
+      "adjustedRarity": 19.2
+    },
+    {
+      "name": "Empirical Evidence",
+      "totalRedeemed": 0,
+      "globalRarity": 7.389,
+      "adjustedRarity": 19.5
+    },
+    {
+      "name": "Senuna SI6",
+      "totalRedeemed": 0,
+      "globalRarity": 7.703,
+      "adjustedRarity": 20.4
+    },
+    {
+      "name": "Dead Man Walking",
+      "totalRedeemed": 0,
+      "globalRarity": 7.922,
+      "adjustedRarity": 20.9
+    },
+    {
+      "name": "Eulogy SI4",
+      "totalRedeemed": 0,
+      "globalRarity": 7.959,
+      "adjustedRarity": 21
+    },
+    {
+      "name": "The Keening",
+      "totalRedeemed": 0,
+      "globalRarity": 8.089,
+      "adjustedRarity": 21.4
+    },
+    {
+      "name": "The Rattler",
+      "totalRedeemed": 0,
+      "globalRarity": 8.151,
+      "adjustedRarity": 21.5
+    },
+    {
+      "name": "Boudica-C",
+      "totalRedeemed": 0,
+      "globalRarity": 8.365,
+      "adjustedRarity": 22.1
+    },
+    {
+      "name": "Last Hope",
+      "totalRedeemed": 0,
+      "globalRarity": 8.63,
+      "adjustedRarity": 22.8
+    },
+    {
+      "name": "The Vision",
+      "totalRedeemed": 0,
+      "globalRarity": 8.649,
+      "adjustedRarity": 22.9
+    },
+    {
+      "name": "Vestian Dynasty",
+      "totalRedeemed": 0,
+      "globalRarity": 8.795,
+      "adjustedRarity": 23.2
+    },
+    {
+      "name": "Enigma's Draw",
+      "totalRedeemed": 0,
+      "globalRarity": 8.853,
+      "adjustedRarity": 23.4
+    },
+    {
+      "name": "Anonymous Autumn",
+      "totalRedeemed": 0,
+      "globalRarity": 9.454,
+      "adjustedRarity": 25
+    },
+    {
+      "name": "Minimum Distance",
+      "totalRedeemed": 0,
+      "globalRarity": 9.791,
+      "adjustedRarity": 25.9
+    },
+    {
+      "name": "Translation Theory",
+      "totalRedeemed": 0,
+      "globalRarity": 9.939,
+      "adjustedRarity": 26.3
+    },
+    {
+      "name": "Redback-5si",
+      "totalRedeemed": 0,
+      "globalRarity": 10.009,
+      "adjustedRarity": 26.5
+    },
+    {
+      "name": "Punching Out",
+      "totalRedeemed": 0,
+      "globalRarity": 10.009,
+      "adjustedRarity": 26.5
+    },
+    {
+      "name": "Smuggler's Word",
+      "totalRedeemed": 0,
+      "globalRarity": 11.162,
+      "adjustedRarity": 29.5
+    },
+    {
+      "name": "Drang",
+      "totalRedeemed": 0,
+      "globalRarity": 12.435,
+      "adjustedRarity": 32.9
+    },
+    {
+      "name": "The Last Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 14.163,
+      "adjustedRarity": 37.4
+    },
+    {
+      "name": "Lonesome",
+      "totalRedeemed": 0,
+      "globalRarity": 20.743,
+      "adjustedRarity": 54.8
+    },
+    {
+      "name": "Dissonance-34",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Roderic-C",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Spiderbite-1si",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Victoire SI2",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Vinegaroon-2si",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Recital-17",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Requiem SI2",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Traveler's Chosen (Damaged)",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    }
+  ]
+}

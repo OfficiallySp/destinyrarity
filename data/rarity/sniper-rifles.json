@@ -1,0 +1,587 @@
+{
+  "category": "sniper-rifles",
+  "items": [
+    {
+      "name": "Critical Anomaly (Adept)",
+      "totalRedeemed": 62939,
+      "globalRarity": 0.088,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Lance Ephemeral",
+      "totalRedeemed": 0,
+      "globalRarity": 0.153,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Keen Thistle (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.19,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Archimedes Truth",
+      "totalRedeemed": 0,
+      "globalRarity": 0.217,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Anniella",
+      "totalRedeemed": 0,
+      "globalRarity": 0.431,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Eye of Sol (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.452,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Defiance of Yasmin (Harrowed)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.454,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Praedyth's Revenge (Timelost)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.493,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Ice Breaker",
+      "totalRedeemed": 0,
+      "globalRarity": 0.504,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Conspiracy Honed",
+      "totalRedeemed": 0,
+      "globalRarity": 0.519,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Silicon Neuroma (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.523,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Critical Anomaly",
+      "totalRedeemed": 0,
+      "globalRarity": 0.539,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Keen Thistle",
+      "totalRedeemed": 0,
+      "globalRarity": 0.673,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Maxim XI",
+      "totalRedeemed": 0,
+      "globalRarity": 1.047,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Refurbished A499",
+      "totalRedeemed": 0,
+      "globalRarity": 1.088,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "New Land Beyond",
+      "totalRedeemed": 0,
+      "globalRarity": 1.201,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Mercurial Overreach",
+      "totalRedeemed": 0,
+      "globalRarity": 1.226,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Uzume RR4 (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 1.248,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Eye of Foresight",
+      "totalRedeemed": 0,
+      "globalRarity": 1.449,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Naeem's Lance",
+      "totalRedeemed": 0,
+      "globalRarity": 1.616,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Trophy Hunter",
+      "totalRedeemed": 0,
+      "globalRarity": 1.643,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Something Something",
+      "totalRedeemed": 0,
+      "globalRarity": 1.703,
+      "adjustedRarity": 4.5
+    },
+    {
+      "name": "Mechabre",
+      "totalRedeemed": 0,
+      "globalRarity": 1.703,
+      "adjustedRarity": 4.5
+    },
+    {
+      "name": "Sovereignty",
+      "totalRedeemed": 0,
+      "globalRarity": 1.755,
+      "adjustedRarity": 4.6
+    },
+    {
+      "name": "Omniscient Eye",
+      "totalRedeemed": 0,
+      "globalRarity": 1.855,
+      "adjustedRarity": 4.9
+    },
+    {
+      "name": "Revoker",
+      "totalRedeemed": 0,
+      "globalRarity": 1.952,
+      "adjustedRarity": 5.2
+    },
+    {
+      "name": "Defiance of Yasmin",
+      "totalRedeemed": 0,
+      "globalRarity": 2.013,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "IKELOS_SR_v1.0.1",
+      "totalRedeemed": 0,
+      "globalRarity": 2.161,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Shoreline Dissident",
+      "totalRedeemed": 0,
+      "globalRarity": 2.22,
+      "adjustedRarity": 5.9
+    },
+    {
+      "name": "Cloudstrike",
+      "totalRedeemed": 0,
+      "globalRarity": 2.497,
+      "adjustedRarity": 6.6
+    },
+    {
+      "name": "Alone as a god",
+      "totalRedeemed": 0,
+      "globalRarity": 2.505,
+      "adjustedRarity": 6.6
+    },
+    {
+      "name": "Father's Sins",
+      "totalRedeemed": 0,
+      "globalRarity": 2.508,
+      "adjustedRarity": 6.6
+    },
+    {
+      "name": "Eye of Sol",
+      "totalRedeemed": 0,
+      "globalRarity": 2.521,
+      "adjustedRarity": 6.7
+    },
+    {
+      "name": "Uzume RR4",
+      "totalRedeemed": 0,
+      "globalRarity": 2.553,
+      "adjustedRarity": 6.7
+    },
+    {
+      "name": "Embraced Identity",
+      "totalRedeemed": 0,
+      "globalRarity": 2.691,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "Tatara Gaze",
+      "totalRedeemed": 0,
+      "globalRarity": 2.73,
+      "adjustedRarity": 7.2
+    },
+    {
+      "name": "Veleda-D",
+      "totalRedeemed": 0,
+      "globalRarity": 2.846,
+      "adjustedRarity": 7.5
+    },
+    {
+      "name": "The Long Walk",
+      "totalRedeemed": 0,
+      "globalRarity": 2.867,
+      "adjustedRarity": 7.6
+    },
+    {
+      "name": "Copperhead-4sn",
+      "totalRedeemed": 0,
+      "globalRarity": 2.871,
+      "adjustedRarity": 7.6
+    },
+    {
+      "name": "Silicon Neuroma",
+      "totalRedeemed": 0,
+      "globalRarity": 2.907,
+      "adjustedRarity": 7.7
+    },
+    {
+      "name": "Praedyth's Revenge",
+      "totalRedeemed": 0,
+      "globalRarity": 2.952,
+      "adjustedRarity": 7.8
+    },
+    {
+      "name": "The Long Goodbye",
+      "totalRedeemed": 0,
+      "globalRarity": 2.953,
+      "adjustedRarity": 7.8
+    },
+    {
+      "name": "Beloved",
+      "totalRedeemed": 0,
+      "globalRarity": 3.022,
+      "adjustedRarity": 8
+    },
+    {
+      "name": "Locus Locutus",
+      "totalRedeemed": 0,
+      "globalRarity": 3.059,
+      "adjustedRarity": 8.1
+    },
+    {
+      "name": "Adored",
+      "totalRedeemed": 0,
+      "globalRarity": 3.188,
+      "adjustedRarity": 8.4
+    },
+    {
+      "name": "A Distant Pull",
+      "totalRedeemed": 0,
+      "globalRarity": 3.209,
+      "adjustedRarity": 8.5
+    },
+    {
+      "name": "The Supremacy",
+      "totalRedeemed": 0,
+      "globalRarity": 3.267,
+      "adjustedRarity": 8.6
+    },
+    {
+      "name": "The Frigid Jackal",
+      "totalRedeemed": 0,
+      "globalRarity": 3.311,
+      "adjustedRarity": 8.8
+    },
+    {
+      "name": "Show of Force XF4865",
+      "totalRedeemed": 0,
+      "globalRarity": 3.382,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Occluded Finality",
+      "totalRedeemed": 0,
+      "globalRarity": 3.533,
+      "adjustedRarity": 9.3
+    },
+    {
+      "name": "Succession",
+      "totalRedeemed": 0,
+      "globalRarity": 3.574,
+      "adjustedRarity": 9.4
+    },
+    {
+      "name": "Still Hunt",
+      "totalRedeemed": 0,
+      "globalRarity": 3.643,
+      "adjustedRarity": 9.6
+    },
+    {
+      "name": "Thoughtless",
+      "totalRedeemed": 0,
+      "globalRarity": 3.796,
+      "adjustedRarity": 10
+    },
+    {
+      "name": "1000 Yard Stare",
+      "totalRedeemed": 0,
+      "globalRarity": 3.826,
+      "adjustedRarity": 10.1
+    },
+    {
+      "name": "Veleda-F",
+      "totalRedeemed": 0,
+      "globalRarity": 4.024,
+      "adjustedRarity": 10.6
+    },
+    {
+      "name": "IKELOS_SR_v1.0.3",
+      "totalRedeemed": 0,
+      "globalRarity": 4.134,
+      "adjustedRarity": 10.9
+    },
+    {
+      "name": "Sole Survivor",
+      "totalRedeemed": 0,
+      "globalRarity": 4.276,
+      "adjustedRarity": 11.3
+    },
+    {
+      "name": "The Mornin' Comes",
+      "totalRedeemed": 0,
+      "globalRarity": 4.443,
+      "adjustedRarity": 11.7
+    },
+    {
+      "name": "Albruna-D",
+      "totalRedeemed": 0,
+      "globalRarity": 4.849,
+      "adjustedRarity": 12.8
+    },
+    {
+      "name": "Far Future",
+      "totalRedeemed": 0,
+      "globalRarity": 4.929,
+      "adjustedRarity": 13
+    },
+    {
+      "name": "Gentleman Vagabond",
+      "totalRedeemed": 0,
+      "globalRarity": 5.117,
+      "adjustedRarity": 13.5
+    },
+    {
+      "name": "Whisper of the Worm",
+      "totalRedeemed": 0,
+      "globalRarity": 5.403,
+      "adjustedRarity": 14.3
+    },
+    {
+      "name": "Tranquility",
+      "totalRedeemed": 0,
+      "globalRarity": 5.43,
+      "adjustedRarity": 14.4
+    },
+    {
+      "name": "Luna Regolith III",
+      "totalRedeemed": 0,
+      "globalRarity": 5.532,
+      "adjustedRarity": 14.6
+    },
+    {
+      "name": "Dreaded Venture",
+      "totalRedeemed": 0,
+      "globalRarity": 5.569,
+      "adjustedRarity": 14.7
+    },
+    {
+      "name": "The Domino",
+      "totalRedeemed": 0,
+      "globalRarity": 5.681,
+      "adjustedRarity": 15
+    },
+    {
+      "name": "Volta Bracket",
+      "totalRedeemed": 0,
+      "globalRarity": 5.879,
+      "adjustedRarity": 15.5
+    },
+    {
+      "name": "Maestro-46",
+      "totalRedeemed": 0,
+      "globalRarity": 6.073,
+      "adjustedRarity": 16.1
+    },
+    {
+      "name": "Izanagi's Burden",
+      "totalRedeemed": 0,
+      "globalRarity": 6.219,
+      "adjustedRarity": 16.4
+    },
+    {
+      "name": "Persuader",
+      "totalRedeemed": 0,
+      "globalRarity": 6.547,
+      "adjustedRarity": 17.3
+    },
+    {
+      "name": "Belfry Bounty",
+      "totalRedeemed": 0,
+      "globalRarity": 6.854,
+      "adjustedRarity": 18.1
+    },
+    {
+      "name": "Last Foray",
+      "totalRedeemed": 0,
+      "globalRarity": 6.98,
+      "adjustedRarity": 18.5
+    },
+    {
+      "name": "Bite of the Fox",
+      "totalRedeemed": 0,
+      "globalRarity": 7.09,
+      "adjustedRarity": 18.7
+    },
+    {
+      "name": "Apostate",
+      "totalRedeemed": 0,
+      "globalRarity": 7.137,
+      "adjustedRarity": 18.9
+    },
+    {
+      "name": "Shepherd's Watch",
+      "totalRedeemed": 0,
+      "globalRarity": 7.482,
+      "adjustedRarity": 19.8
+    },
+    {
+      "name": "IKELOS_SR_v1.0.2",
+      "totalRedeemed": 0,
+      "globalRarity": 7.498,
+      "adjustedRarity": 19.8
+    },
+    {
+      "name": "A Single Clap",
+      "totalRedeemed": 0,
+      "globalRarity": 7.624,
+      "adjustedRarity": 20.2
+    },
+    {
+      "name": "Irukandji",
+      "totalRedeemed": 0,
+      "globalRarity": 7.65,
+      "adjustedRarity": 20.2
+    },
+    {
+      "name": "Widow's Bite",
+      "totalRedeemed": 0,
+      "globalRarity": 7.787,
+      "adjustedRarity": 20.6
+    },
+    {
+      "name": "Twilight Oath",
+      "totalRedeemed": 0,
+      "globalRarity": 8.232,
+      "adjustedRarity": 21.8
+    },
+    {
+      "name": "Frozen Orbit",
+      "totalRedeemed": 0,
+      "globalRarity": 8.305,
+      "adjustedRarity": 22
+    },
+    {
+      "name": "Show of Force",
+      "totalRedeemed": 0,
+      "globalRarity": 8.473,
+      "adjustedRarity": 22.4
+    },
+    {
+      "name": "Elegy-49",
+      "totalRedeemed": 0,
+      "globalRarity": 9.042,
+      "adjustedRarity": 23.9
+    },
+    {
+      "name": "Distant Tumulus",
+      "totalRedeemed": 0,
+      "globalRarity": 9.515,
+      "adjustedRarity": 25.2
+    },
+    {
+      "name": "Fate Cries Foul",
+      "totalRedeemed": 0,
+      "globalRarity": 9.641,
+      "adjustedRarity": 25.5
+    },
+    {
+      "name": "Fugue-55",
+      "totalRedeemed": 0,
+      "globalRarity": 9.99,
+      "adjustedRarity": 26.4
+    },
+    {
+      "name": "Borealis",
+      "totalRedeemed": 0,
+      "globalRarity": 10.934,
+      "adjustedRarity": 28.9
+    },
+    {
+      "name": "D.A.R.C.I.",
+      "totalRedeemed": 0,
+      "globalRarity": 12.951,
+      "adjustedRarity": 34.2
+    },
+    {
+      "name": "Gallu RR3",
+      "totalRedeemed": 0,
+      "globalRarity": 13.734,
+      "adjustedRarity": 36.3
+    },
+    {
+      "name": "Long Shadow",
+      "totalRedeemed": 0,
+      "globalRarity": 16.348,
+      "adjustedRarity": 43.2
+    },
+    {
+      "name": "Tongeren-LR3",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Aachen-LR2",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Damietta-LR2",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Troubadour",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Luna Nullis II",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Trondheim-LR2",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Dead Zone Rifle",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "category": "linear-fusion-rifles",
+  "items": [
+    {
+      "name": "Euphony",
+      "totalRedeemed": 0,
+      "globalRarity": 0.308,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Briar's Contempt (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.435,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Finality's Auger",
+      "totalRedeemed": 0,
+      "globalRarity": 0.439,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Cataclysmic (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.461,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Eyes Unveiled (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.509,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Reed's Regret (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.578,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Scintillation (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.944,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Mistral Lift",
+      "totalRedeemed": 0,
+      "globalRarity": 1.081,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Komodo-4FR",
+      "totalRedeemed": 0,
+      "globalRarity": 1.09,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Dead-Ender",
+      "totalRedeemed": 0,
+      "globalRarity": 1.11,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Scintillation",
+      "totalRedeemed": 0,
+      "globalRarity": 1.255,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Briar's Contempt",
+      "totalRedeemed": 0,
+      "globalRarity": 1.717,
+      "adjustedRarity": 4.5
+    },
+    {
+      "name": "Cataclysmic",
+      "totalRedeemed": 0,
+      "globalRarity": 1.763,
+      "adjustedRarity": 4.7
+    },
+    {
+      "name": "Stormchaser",
+      "totalRedeemed": 0,
+      "globalRarity": 1.917,
+      "adjustedRarity": 5.1
+    },
+    {
+      "name": "Eyes Unveiled",
+      "totalRedeemed": 0,
+      "globalRarity": 2.308,
+      "adjustedRarity": 6.1
+    },
+    {
+      "name": "Boomslang-4fr",
+      "totalRedeemed": 0,
+      "globalRarity": 2.347,
+      "adjustedRarity": 6.2
+    },
+    {
+      "name": "Reed's Regret",
+      "totalRedeemed": 0,
+      "globalRarity": 2.422,
+      "adjustedRarity": 6.4
+    },
+    {
+      "name": "Line in the Sand",
+      "totalRedeemed": 0,
+      "globalRarity": 2.468,
+      "adjustedRarity": 6.5
+    },
+    {
+      "name": "Fire and Forget",
+      "totalRedeemed": 0,
+      "globalRarity": 2.718,
+      "adjustedRarity": 7.2
+    },
+    {
+      "name": "Doomed Petitioner",
+      "totalRedeemed": 0,
+      "globalRarity": 3.351,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Sailspy Pitchglass",
+      "totalRedeemed": 0,
+      "globalRarity": 3.671,
+      "adjustedRarity": 9.7
+    },
+    {
+      "name": "Corsair's Wrath",
+      "totalRedeemed": 0,
+      "globalRarity": 3.722,
+      "adjustedRarity": 9.8
+    },
+    {
+      "name": "Laser Painter",
+      "totalRedeemed": 0,
+      "globalRarity": 4.246,
+      "adjustedRarity": 11.2
+    },
+    {
+      "name": "Threaded Needle",
+      "totalRedeemed": 0,
+      "globalRarity": 4.397,
+      "adjustedRarity": 11.6
+    },
+    {
+      "name": "Lorentz Driver",
+      "totalRedeemed": 0,
+      "globalRarity": 5.203,
+      "adjustedRarity": 13.8
+    },
+    {
+      "name": "Sleeper Simulant",
+      "totalRedeemed": 0,
+      "globalRarity": 5.478,
+      "adjustedRarity": 14.5
+    },
+    {
+      "name": "Suspectum-4fr",
+      "totalRedeemed": 0,
+      "globalRarity": 6.956,
+      "adjustedRarity": 18.4
+    },
+    {
+      "name": "Tarantula",
+      "totalRedeemed": 0,
+      "globalRarity": 8.176,
+      "adjustedRarity": 21.6
+    },
+    {
+      "name": "The Queenbreaker",
+      "totalRedeemed": 0,
+      "globalRarity": 8.64,
+      "adjustedRarity": 22.8
+    },
+    {
+      "name": "Arbalest",
+      "totalRedeemed": 0,
+      "globalRarity": 9.314,
+      "adjustedRarity": 24.6
+    },
+    {
+      "name": "Man o' War",
+      "totalRedeemed": 0,
+      "globalRarity": 9.98,
+      "adjustedRarity": 26.4
+    },
+    {
+      "name": "Taipan-4fr",
+      "totalRedeemed": 0,
+      "globalRarity": 10.16,
+      "adjustedRarity": 26.9
+    },
+    {
+      "name": "Crooked Fang-4fr",
+      "totalRedeemed": 0,
+      "globalRarity": 11.449,
+      "adjustedRarity": 30.3
+    },
+    {
+      "name": "King Cobra-4fr",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    }
+  ]
+}

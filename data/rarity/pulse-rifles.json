@@ -1,0 +1,665 @@
+{
+  "category": "pulse-rifles",
+  "items": [
+    {
+      "name": "Redrix's Claymore",
+      "totalRedeemed": 20022,
+      "globalRarity": 0.028,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Nullify (Adept)",
+      "totalRedeemed": 63071,
+      "globalRarity": 0.088,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Relentless (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.217,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Oversoul Edict (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.219,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "The Martlet",
+      "totalRedeemed": 0,
+      "globalRarity": 0.306,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Aisha's Care (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.315,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Magnum Shepherd",
+      "totalRedeemed": 0,
+      "globalRarity": 0.359,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "The Messenger (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.45,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "High Tyrant",
+      "totalRedeemed": 0,
+      "globalRarity": 0.498,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Insidious (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.525,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Cruel Mercy (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.528,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Smite of Merain (Harrowed)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.621,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Nullify",
+      "totalRedeemed": 0,
+      "globalRarity": 0.635,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Horror's Least (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.681,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Collective Obligation",
+      "totalRedeemed": 0,
+      "globalRarity": 0.861,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Redrix's Estoc",
+      "totalRedeemed": 0,
+      "globalRarity": 0.915,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Heart of Time",
+      "totalRedeemed": 0,
+      "globalRarity": 0.92,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Cruel Mercy",
+      "totalRedeemed": 0,
+      "globalRarity": 0.925,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "The Marine",
+      "totalRedeemed": 0,
+      "globalRarity": 0.945,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Belisarius-D",
+      "totalRedeemed": 0,
+      "globalRarity": 1.027,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Eternal Slumber",
+      "totalRedeemed": 0,
+      "globalRarity": 1.034,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Oversoul Edict",
+      "totalRedeemed": 0,
+      "globalRarity": 1.065,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Aisha's Care",
+      "totalRedeemed": 0,
+      "globalRarity": 1.111,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Mint Retrograde",
+      "totalRedeemed": 0,
+      "globalRarity": 1.161,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "New Malpais",
+      "totalRedeemed": 0,
+      "globalRarity": 1.259,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Redrix's Broadsword",
+      "totalRedeemed": 0,
+      "globalRarity": 1.279,
+      "adjustedRarity": 3.4
+    },
+    {
+      "name": "All or Nothing",
+      "totalRedeemed": 0,
+      "globalRarity": 1.323,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Psi Aeterna IV",
+      "totalRedeemed": 0,
+      "globalRarity": 1.484,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Last Thursday",
+      "totalRedeemed": 0,
+      "globalRarity": 1.613,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "New Purpose",
+      "totalRedeemed": 0,
+      "globalRarity": 1.806,
+      "adjustedRarity": 4.8
+    },
+    {
+      "name": "Insidious",
+      "totalRedeemed": 0,
+      "globalRarity": 1.829,
+      "adjustedRarity": 4.8
+    },
+    {
+      "name": "Joxer's Longsword",
+      "totalRedeemed": 0,
+      "globalRarity": 1.928,
+      "adjustedRarity": 5.1
+    },
+    {
+      "name": "Smite of Merain",
+      "totalRedeemed": 0,
+      "globalRarity": 1.994,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "The Messenger",
+      "totalRedeemed": 0,
+      "globalRarity": 2.016,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "Sacred Provenance",
+      "totalRedeemed": 0,
+      "globalRarity": 2.087,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Relentless",
+      "totalRedeemed": 0,
+      "globalRarity": 2.101,
+      "adjustedRarity": 5.6
+    },
+    {
+      "name": "Veles-X",
+      "totalRedeemed": 0,
+      "globalRarity": 2.15,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Stay Frosty",
+      "totalRedeemed": 0,
+      "globalRarity": 2.188,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Three Graves",
+      "totalRedeemed": 0,
+      "globalRarity": 2.234,
+      "adjustedRarity": 5.9
+    },
+    {
+      "name": "Corrasion",
+      "totalRedeemed": 0,
+      "globalRarity": 2.273,
+      "adjustedRarity": 6
+    },
+    {
+      "name": "Impromptu-49",
+      "totalRedeemed": 0,
+      "globalRarity": 2.375,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Adhortative",
+      "totalRedeemed": 0,
+      "globalRarity": 2.42,
+      "adjustedRarity": 6.4
+    },
+    {
+      "name": "Blast Furnace",
+      "totalRedeemed": 0,
+      "globalRarity": 2.558,
+      "adjustedRarity": 6.8
+    },
+    {
+      "name": "Vantage Point",
+      "totalRedeemed": 0,
+      "globalRarity": 2.621,
+      "adjustedRarity": 6.9
+    },
+    {
+      "name": "Darkest Before",
+      "totalRedeemed": 0,
+      "globalRarity": 2.672,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "Jorum's Claw",
+      "totalRedeemed": 0,
+      "globalRarity": 2.674,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "Infinite Paths 8",
+      "totalRedeemed": 0,
+      "globalRarity": 2.711,
+      "adjustedRarity": 7.2
+    },
+    {
+      "name": "Jurassic Green",
+      "totalRedeemed": 0,
+      "globalRarity": 2.757,
+      "adjustedRarity": 7.3
+    },
+    {
+      "name": "Cadenza-43",
+      "totalRedeemed": 0,
+      "globalRarity": 2.838,
+      "adjustedRarity": 7.5
+    },
+    {
+      "name": "Premonition",
+      "totalRedeemed": 0,
+      "globalRarity": 2.869,
+      "adjustedRarity": 7.6
+    },
+    {
+      "name": "Revision Zero",
+      "totalRedeemed": 0,
+      "globalRarity": 2.967,
+      "adjustedRarity": 7.8
+    },
+    {
+      "name": "Nergal PR4",
+      "totalRedeemed": 0,
+      "globalRarity": 2.987,
+      "adjustedRarity": 7.9
+    },
+    {
+      "name": "Different Times",
+      "totalRedeemed": 0,
+      "globalRarity": 3.084,
+      "adjustedRarity": 8.2
+    },
+    {
+      "name": "Elsie's Rifle",
+      "totalRedeemed": 0,
+      "globalRarity": 3.216,
+      "adjustedRarity": 8.5
+    },
+    {
+      "name": "The Time-Worn Spire",
+      "totalRedeemed": 0,
+      "globalRarity": 3.348,
+      "adjustedRarity": 8.8
+    },
+    {
+      "name": "Swift Ride XE8375",
+      "totalRedeemed": 0,
+      "globalRarity": 3.395,
+      "adjustedRarity": 9
+    },
+    {
+      "name": "Chattering Bone",
+      "totalRedeemed": 0,
+      "globalRarity": 3.473,
+      "adjustedRarity": 9.2
+    },
+    {
+      "name": "Forge's Pledge",
+      "totalRedeemed": 0,
+      "globalRarity": 3.722,
+      "adjustedRarity": 9.8
+    },
+    {
+      "name": "Machina Dei 4",
+      "totalRedeemed": 0,
+      "globalRarity": 3.825,
+      "adjustedRarity": 10.1
+    },
+    {
+      "name": "Red Death Reformed",
+      "totalRedeemed": 0,
+      "globalRarity": 3.927,
+      "adjustedRarity": 10.4
+    },
+    {
+      "name": "Piece of Mind",
+      "totalRedeemed": 0,
+      "globalRarity": 4.014,
+      "adjustedRarity": 10.6
+    },
+    {
+      "name": "Outlast",
+      "totalRedeemed": 0,
+      "globalRarity": 4.292,
+      "adjustedRarity": 11.3
+    },
+    {
+      "name": "Outbreak Perfected",
+      "totalRedeemed": 0,
+      "globalRarity": 4.377,
+      "adjustedRarity": 11.6
+    },
+    {
+      "name": "Inaugural Address",
+      "totalRedeemed": 0,
+      "globalRarity": 4.415,
+      "adjustedRarity": 11.7
+    },
+    {
+      "name": "Disparity",
+      "totalRedeemed": 0,
+      "globalRarity": 4.473,
+      "adjustedRarity": 11.8
+    },
+    {
+      "name": "Horror's Least",
+      "totalRedeemed": 0,
+      "globalRarity": 4.543,
+      "adjustedRarity": 12
+    },
+    {
+      "name": "Gridskipper",
+      "totalRedeemed": 0,
+      "globalRarity": 4.59,
+      "adjustedRarity": 12.1
+    },
+    {
+      "name": "Requiem-45",
+      "totalRedeemed": 0,
+      "globalRarity": 4.702,
+      "adjustedRarity": 12.4
+    },
+    {
+      "name": "Claws of the Wolf",
+      "totalRedeemed": 0,
+      "globalRarity": 4.942,
+      "adjustedRarity": 13.1
+    },
+    {
+      "name": "Yesteryear",
+      "totalRedeemed": 0,
+      "globalRarity": 5.261,
+      "adjustedRarity": 13.9
+    },
+    {
+      "name": "Scalar Potential",
+      "totalRedeemed": 0,
+      "globalRarity": 5.452,
+      "adjustedRarity": 14.4
+    },
+    {
+      "name": "Bad Juju",
+      "totalRedeemed": 0,
+      "globalRarity": 5.586,
+      "adjustedRarity": 14.8
+    },
+    {
+      "name": "Nightshade",
+      "totalRedeemed": 0,
+      "globalRarity": 5.704,
+      "adjustedRarity": 15.1
+    },
+    {
+      "name": "Autumn Wind",
+      "totalRedeemed": 0,
+      "globalRarity": 5.789,
+      "adjustedRarity": 15.3
+    },
+    {
+      "name": "Agrona PR4",
+      "totalRedeemed": 0,
+      "globalRarity": 6.079,
+      "adjustedRarity": 16.1
+    },
+    {
+      "name": "Phyllotactic Spiral",
+      "totalRedeemed": 0,
+      "globalRarity": 6.086,
+      "adjustedRarity": 16.1
+    },
+    {
+      "name": "Bygones",
+      "totalRedeemed": 0,
+      "globalRarity": 6.574,
+      "adjustedRarity": 17.4
+    },
+    {
+      "name": "Psi Hermetic V",
+      "totalRedeemed": 0,
+      "globalRarity": 6.641,
+      "adjustedRarity": 17.6
+    },
+    {
+      "name": "Right Side of Wrong",
+      "totalRedeemed": 0,
+      "globalRarity": 6.942,
+      "adjustedRarity": 18.4
+    },
+    {
+      "name": "Battle Scar",
+      "totalRedeemed": 0,
+      "globalRarity": 7.691,
+      "adjustedRarity": 20.3
+    },
+    {
+      "name": "Swift Ride",
+      "totalRedeemed": 0,
+      "globalRarity": 8.031,
+      "adjustedRarity": 21.2
+    },
+    {
+      "name": "Agenda 5",
+      "totalRedeemed": 0,
+      "globalRarity": 8.073,
+      "adjustedRarity": 21.3
+    },
+    {
+      "name": "Cold Denial",
+      "totalRedeemed": 0,
+      "globalRarity": 8.214,
+      "adjustedRarity": 21.7
+    },
+    {
+      "name": "Legal Action II",
+      "totalRedeemed": 0,
+      "globalRarity": 8.307,
+      "adjustedRarity": 22
+    },
+    {
+      "name": "Disrespectful Stare",
+      "totalRedeemed": 0,
+      "globalRarity": 8.325,
+      "adjustedRarity": 22
+    },
+    {
+      "name": "Stars in Shadow",
+      "totalRedeemed": 0,
+      "globalRarity": 8.608,
+      "adjustedRarity": 22.8
+    },
+    {
+      "name": "No Time to Explain",
+      "totalRedeemed": 0,
+      "globalRarity": 9.226,
+      "adjustedRarity": 24.4
+    },
+    {
+      "name": "BxR-55 Battler",
+      "totalRedeemed": 0,
+      "globalRarity": 9.337,
+      "adjustedRarity": 24.7
+    },
+    {
+      "name": "The Third Axiom",
+      "totalRedeemed": 0,
+      "globalRarity": 9.366,
+      "adjustedRarity": 24.8
+    },
+    {
+      "name": "Jian 7 Rifle",
+      "totalRedeemed": 0,
+      "globalRarity": 9.495,
+      "adjustedRarity": 25.1
+    },
+    {
+      "name": "Eystein-D",
+      "totalRedeemed": 0,
+      "globalRarity": 9.886,
+      "adjustedRarity": 26.1
+    },
+    {
+      "name": "Ogma PR6",
+      "totalRedeemed": 0,
+      "globalRarity": 10.031,
+      "adjustedRarity": 26.5
+    },
+    {
+      "name": "Lincoln Green",
+      "totalRedeemed": 0,
+      "globalRarity": 10.315,
+      "adjustedRarity": 27.3
+    },
+    {
+      "name": "Go Figure",
+      "totalRedeemed": 0,
+      "globalRarity": 11.087,
+      "adjustedRarity": 29.3
+    },
+    {
+      "name": "Hailing Confusion",
+      "totalRedeemed": 0,
+      "globalRarity": 11.334,
+      "adjustedRarity": 30
+    },
+    {
+      "name": "Syncopation-53",
+      "totalRedeemed": 0,
+      "globalRarity": 13.043,
+      "adjustedRarity": 34.5
+    },
+    {
+      "name": "Vigilance Wing",
+      "totalRedeemed": 0,
+      "globalRarity": 13.883,
+      "adjustedRarity": 36.7
+    },
+    {
+      "name": "Last Perdition",
+      "totalRedeemed": 0,
+      "globalRarity": 14.107,
+      "adjustedRarity": 37.3
+    },
+    {
+      "name": "Graviton Lance",
+      "totalRedeemed": 0,
+      "globalRarity": 18.752,
+      "adjustedRarity": 49.6
+    },
+    {
+      "name": "Encore-25",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Psi Cirrus II",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Bayesian MSu",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Cadenza-11",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Psi Ferox II",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Nanty Narker",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Psi Termina II",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Standing Tall",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Agrona PR2",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Triumph DX-PR",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Lost and Found",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "category": "scout-rifles",
+  "items": [
+    {
+      "name": "Motion to Compel",
+      "totalRedeemed": 22719,
+      "globalRarity": 0.032,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "The Scholar (Adept)",
+      "totalRedeemed": 36981,
+      "globalRarity": 0.051,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "The Prophet (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.202,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Fang of Ir Yût (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.219,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Aisha's Embrace (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.329,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Purpose",
+      "totalRedeemed": 0,
+      "globalRarity": 0.419,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Doom of Chelchis (Harrowed)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.455,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Vision of Confluence (Timelost)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.533,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Voltaic Shade",
+      "totalRedeemed": 0,
+      "globalRarity": 0.55,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Long Arm (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.556,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Nature Reclaimed",
+      "totalRedeemed": 0,
+      "globalRarity": 0.635,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Forced Memorializer",
+      "totalRedeemed": 0,
+      "globalRarity": 0.642,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "The Dream",
+      "totalRedeemed": 0,
+      "globalRarity": 0.684,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Unworthy",
+      "totalRedeemed": 0,
+      "globalRarity": 0.706,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Hung Jury SR4 (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.769,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Calusea Noblesse",
+      "totalRedeemed": 0,
+      "globalRarity": 0.771,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "The Prophet",
+      "totalRedeemed": 0,
+      "globalRarity": 0.917,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Good Counsel IX",
+      "totalRedeemed": 0,
+      "globalRarity": 1.087,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Fang of Ir Yût",
+      "totalRedeemed": 0,
+      "globalRarity": 1.101,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Red Tape",
+      "totalRedeemed": 0,
+      "globalRarity": 1.123,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Touch of Malice",
+      "totalRedeemed": 0,
+      "globalRarity": 1.141,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "The End",
+      "totalRedeemed": 0,
+      "globalRarity": 1.303,
+      "adjustedRarity": 3.4
+    },
+    {
+      "name": "The Scholar",
+      "totalRedeemed": 0,
+      "globalRarity": 1.333,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "No Feelings",
+      "totalRedeemed": 0,
+      "globalRarity": 1.35,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "Frostmire's Hex",
+      "totalRedeemed": 0,
+      "globalRarity": 1.438,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Sublimation",
+      "totalRedeemed": 0,
+      "globalRarity": 1.612,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Third Iteration",
+      "totalRedeemed": 0,
+      "globalRarity": 1.754,
+      "adjustedRarity": 4.6
+    },
+    {
+      "name": "Aisha's Embrace",
+      "totalRedeemed": 0,
+      "globalRarity": 1.998,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "Wicked Implement",
+      "totalRedeemed": 0,
+      "globalRarity": 2.026,
+      "adjustedRarity": 5.4
+    },
+    {
+      "name": "Jurisprudent",
+      "totalRedeemed": 0,
+      "globalRarity": 2.184,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Taraxippos",
+      "totalRedeemed": 0,
+      "globalRarity": 2.24,
+      "adjustedRarity": 5.9
+    },
+    {
+      "name": "Last Rite",
+      "totalRedeemed": 0,
+      "globalRarity": 2.285,
+      "adjustedRarity": 6
+    },
+    {
+      "name": "Song of Justice VI",
+      "totalRedeemed": 0,
+      "globalRarity": 2.308,
+      "adjustedRarity": 6.1
+    },
+    {
+      "name": "Trustee",
+      "totalRedeemed": 0,
+      "globalRarity": 2.339,
+      "adjustedRarity": 6.2
+    },
+    {
+      "name": "Metronome-52",
+      "totalRedeemed": 0,
+      "globalRarity": 2.419,
+      "adjustedRarity": 6.4
+    },
+    {
+      "name": "Long Arm",
+      "totalRedeemed": 0,
+      "globalRarity": 2.485,
+      "adjustedRarity": 6.6
+    },
+    {
+      "name": "Imperative",
+      "totalRedeemed": 0,
+      "globalRarity": 2.498,
+      "adjustedRarity": 6.6
+    },
+    {
+      "name": "Haunted Earth",
+      "totalRedeemed": 0,
+      "globalRarity": 2.511,
+      "adjustedRarity": 6.6
+    },
+    {
+      "name": "Doom of Chelchis",
+      "totalRedeemed": 0,
+      "globalRarity": 2.647,
+      "adjustedRarity": 7
+    },
+    {
+      "name": "Tango-45",
+      "totalRedeemed": 0,
+      "globalRarity": 2.881,
+      "adjustedRarity": 7.6
+    },
+    {
+      "name": "Timeworn Wayfarer",
+      "totalRedeemed": 0,
+      "globalRarity": 2.927,
+      "adjustedRarity": 7.7
+    },
+    {
+      "name": "Patron of Lost Causes",
+      "totalRedeemed": 0,
+      "globalRarity": 2.95,
+      "adjustedRarity": 7.8
+    },
+    {
+      "name": "Dead Man's Tale",
+      "totalRedeemed": 0,
+      "globalRarity": 3.031,
+      "adjustedRarity": 8
+    },
+    {
+      "name": "Frontier Justice",
+      "totalRedeemed": 0,
+      "globalRarity": 3.044,
+      "adjustedRarity": 8
+    },
+    {
+      "name": "Manannan SR4",
+      "totalRedeemed": 0,
+      "globalRarity": 3.249,
+      "adjustedRarity": 8.6
+    },
+    {
+      "name": "Niflheim Frost",
+      "totalRedeemed": 0,
+      "globalRarity": 3.33,
+      "adjustedRarity": 8.8
+    },
+    {
+      "name": "Transfiguration",
+      "totalRedeemed": 0,
+      "globalRarity": 3.35,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Vision of Confluence",
+      "totalRedeemed": 0,
+      "globalRarity": 3.352,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Oxygen SR3",
+      "totalRedeemed": 0,
+      "globalRarity": 3.353,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Tango-45 XK5094",
+      "totalRedeemed": 0,
+      "globalRarity": 3.359,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Tears of Contrition",
+      "totalRedeemed": 0,
+      "globalRarity": 3.381,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Brya's Love",
+      "totalRedeemed": 0,
+      "globalRarity": 3.423,
+      "adjustedRarity": 9
+    },
+    {
+      "name": "Pointed Inquiry",
+      "totalRedeemed": 0,
+      "globalRarity": 3.5,
+      "adjustedRarity": 9.3
+    },
+    {
+      "name": "Admetus-D",
+      "totalRedeemed": 0,
+      "globalRarity": 3.503,
+      "adjustedRarity": 9.3
+    },
+    {
+      "name": "Hung Jury SR4",
+      "totalRedeemed": 0,
+      "globalRarity": 3.592,
+      "adjustedRarity": 9.5
+    },
+    {
+      "name": "Tarnished Mettle",
+      "totalRedeemed": 0,
+      "globalRarity": 3.639,
+      "adjustedRarity": 9.6
+    },
+    {
+      "name": "The Guiding Sight",
+      "totalRedeemed": 0,
+      "globalRarity": 3.714,
+      "adjustedRarity": 9.8
+    },
+    {
+      "name": "Royal Chase",
+      "totalRedeemed": 0,
+      "globalRarity": 4.336,
+      "adjustedRarity": 11.5
+    },
+    {
+      "name": "Conspirator",
+      "totalRedeemed": 0,
+      "globalRarity": 4.348,
+      "adjustedRarity": 11.5
+    },
+    {
+      "name": "Live Fire",
+      "totalRedeemed": 0,
+      "globalRarity": 4.428,
+      "adjustedRarity": 11.7
+    },
+    {
+      "name": "Symmetry",
+      "totalRedeemed": 0,
+      "globalRarity": 4.463,
+      "adjustedRarity": 11.8
+    },
+    {
+      "name": "Randy's Throwing Knife",
+      "totalRedeemed": 0,
+      "globalRarity": 5.318,
+      "adjustedRarity": 14.1
+    },
+    {
+      "name": "Telemachus-C",
+      "totalRedeemed": 0,
+      "globalRarity": 5.444,
+      "adjustedRarity": 14.4
+    },
+    {
+      "name": "Talons of the Eagle",
+      "totalRedeemed": 0,
+      "globalRarity": 5.545,
+      "adjustedRarity": 14.7
+    },
+    {
+      "name": "Adverse Possession IX",
+      "totalRedeemed": 0,
+      "globalRarity": 5.691,
+      "adjustedRarity": 15
+    },
+    {
+      "name": "Garden Progeny 1",
+      "totalRedeemed": 0,
+      "globalRarity": 5.909,
+      "adjustedRarity": 15.6
+    },
+    {
+      "name": "Polaris Lance",
+      "totalRedeemed": 0,
+      "globalRarity": 5.943,
+      "adjustedRarity": 15.7
+    },
+    {
+      "name": "Vacuna SR4",
+      "totalRedeemed": 0,
+      "globalRarity": 6.12,
+      "adjustedRarity": 16.2
+    },
+    {
+      "name": "Wrong Side of Right",
+      "totalRedeemed": 0,
+      "globalRarity": 6.733,
+      "adjustedRarity": 17.8
+    },
+    {
+      "name": "Jararaca-3sr",
+      "totalRedeemed": 0,
+      "globalRarity": 7.107,
+      "adjustedRarity": 18.8
+    },
+    {
+      "name": "Eternal Blazon",
+      "totalRedeemed": 0,
+      "globalRarity": 7.145,
+      "adjustedRarity": 18.9
+    },
+    {
+      "name": "Distant Relation",
+      "totalRedeemed": 0,
+      "globalRarity": 7.158,
+      "adjustedRarity": 18.9
+    },
+    {
+      "name": "Glissando-47",
+      "totalRedeemed": 0,
+      "globalRarity": 7.262,
+      "adjustedRarity": 19.2
+    },
+    {
+      "name": "Servant Leader",
+      "totalRedeemed": 0,
+      "globalRarity": 7.421,
+      "adjustedRarity": 19.6
+    },
+    {
+      "name": "Does Not Compute",
+      "totalRedeemed": 0,
+      "globalRarity": 7.633,
+      "adjustedRarity": 20.2
+    },
+    {
+      "name": "Vouchsafe",
+      "totalRedeemed": 0,
+      "globalRarity": 7.839,
+      "adjustedRarity": 20.7
+    },
+    {
+      "name": "Tone Patrol",
+      "totalRedeemed": 0,
+      "globalRarity": 8.089,
+      "adjustedRarity": 21.4
+    },
+    {
+      "name": "Contingency Plan",
+      "totalRedeemed": 0,
+      "globalRarity": 8.149,
+      "adjustedRarity": 21.5
+    },
+    {
+      "name": "Seven-Six-Five",
+      "totalRedeemed": 0,
+      "globalRarity": 8.293,
+      "adjustedRarity": 21.9
+    },
+    {
+      "name": "Black Scorpion-4sr",
+      "totalRedeemed": 0,
+      "globalRarity": 8.333,
+      "adjustedRarity": 22
+    },
+    {
+      "name": "Pleiades Corrector",
+      "totalRedeemed": 0,
+      "globalRarity": 8.606,
+      "adjustedRarity": 22.7
+    },
+    {
+      "name": "Staccato-46",
+      "totalRedeemed": 0,
+      "globalRarity": 9.05,
+      "adjustedRarity": 23.9
+    },
+    {
+      "name": "The Cut and Run",
+      "totalRedeemed": 0,
+      "globalRarity": 9.958,
+      "adjustedRarity": 26.3
+    },
+    {
+      "name": "Perses-D",
+      "totalRedeemed": 0,
+      "globalRarity": 10.277,
+      "adjustedRarity": 27.2
+    },
+    {
+      "name": "Call to Serve",
+      "totalRedeemed": 0,
+      "globalRarity": 10.469,
+      "adjustedRarity": 27.7
+    },
+    {
+      "name": "MIDA Multi-Tool",
+      "totalRedeemed": 0,
+      "globalRarity": 10.654,
+      "adjustedRarity": 28.2
+    },
+    {
+      "name": "The Jade Rabbit",
+      "totalRedeemed": 0,
+      "globalRarity": 10.81,
+      "adjustedRarity": 28.6
+    },
+    {
+      "name": "Nameless Midnight",
+      "totalRedeemed": 0,
+      "globalRarity": 11.35,
+      "adjustedRarity": 30
+    },
+    {
+      "name": "Skyburner's Oath",
+      "totalRedeemed": 0,
+      "globalRarity": 12.756,
+      "adjustedRarity": 33.7
+    },
+    {
+      "name": "Night Watch",
+      "totalRedeemed": 0,
+      "globalRarity": 29.659,
+      "adjustedRarity": 78.4
+    },
+    {
+      "name": "Madrugada SR2",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Armillary PSu",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Trax Arda II",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Trax Dynia",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Fare-Thee-Well",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "BrayTech RWP Mk. II \"Stress feedback tests proved successful. We have a solid production-line model on our hands.\" —A. Bray",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Thistle and Yew",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Black Tiger-2sr",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Trax Lysis II",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Sea Scorpion-1sr",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Inverness-SR2",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Sonata-48",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    }
+  ]
+}

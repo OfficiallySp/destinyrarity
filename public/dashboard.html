@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Rarest Items — Destiny Rarity</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700&family=Exo+2:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <div class="dashboard">
+    <header class="dashboard-header">
+      <h1 class="dashboard-title">Your Rarest Items</h1>
+      <a href="/api/auth-logout" class="btn-logout">Log out</a>
+    </header>
+
+    <div id="loading" class="loading">
+      <div class="loading-spinner"></div>
+      <p>Loading your collectibles...</p>
+    </div>
+
+    <div id="content" class="dashboard-content" hidden>
+      <div id="summary" class="summary"></div>
+      <div class="tabs" id="tabs"></div>
+      <div id="sections"></div>
+    </div>
+
+    <div id="error" class="empty-state" hidden>
+      <p id="error-text"></p>
+      <a href="/" class="btn-login" style="margin-top: 1rem; display: inline-block">Back to home</a>
+    </div>
+  </div>
+  <script src="/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,539 @@
+{
+  "category": "emotes",
+  "items": [
+    {
+      "name": "Giving",
+      "totalRedeemed": 0,
+      "globalRarity": 0.134,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Heart Sign",
+      "totalRedeemed": 0,
+      "globalRarity": 0.605,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Icecapade",
+      "totalRedeemed": 0,
+      "globalRarity": 0.832,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Flaunting Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 0.848,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Luxurious Toast",
+      "totalRedeemed": 0,
+      "globalRarity": 0.924,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Honest Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 0.927,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Excited Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 0.992,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Vengeful Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 1.095,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Yes",
+      "totalRedeemed": 0,
+      "globalRarity": 1.201,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Nope",
+      "totalRedeemed": 0,
+      "globalRarity": 1.235,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Amour Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 1.356,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "Cranking Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 1.407,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Please",
+      "totalRedeemed": 0,
+      "globalRarity": 1.413,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Shoulder Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 1.463,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Bureaucratic Walk",
+      "totalRedeemed": 0,
+      "globalRarity": 1.492,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Thank You",
+      "totalRedeemed": 0,
+      "globalRarity": 1.493,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Funky Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 1.5,
+      "adjustedRarity": 4
+    },
+    {
+      "name": "Shuffle Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 1.562,
+      "adjustedRarity": 4.1
+    },
+    {
+      "name": "Trendy Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 1.658,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Dancy Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 1.709,
+      "adjustedRarity": 4.5
+    },
+    {
+      "name": "Overnight Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 1.713,
+      "adjustedRarity": 4.5
+    },
+    {
+      "name": "Cower",
+      "totalRedeemed": 0,
+      "globalRarity": 1.731,
+      "adjustedRarity": 4.6
+    },
+    {
+      "name": "Odd Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 1.733,
+      "adjustedRarity": 4.6
+    },
+    {
+      "name": "Yawn",
+      "totalRedeemed": 0,
+      "globalRarity": 1.755,
+      "adjustedRarity": 4.6
+    },
+    {
+      "name": "Odder Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 1.773,
+      "adjustedRarity": 4.7
+    },
+    {
+      "name": "Timely Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 1.796,
+      "adjustedRarity": 4.7
+    },
+    {
+      "name": "Collaborative Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 2.016,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "Freaky Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 2.021,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "Synced Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 2.066,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Laugh",
+      "totalRedeemed": 0,
+      "globalRarity": 2.129,
+      "adjustedRarity": 5.6
+    },
+    {
+      "name": "Whoa There",
+      "totalRedeemed": 0,
+      "globalRarity": 2.146,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Cry",
+      "totalRedeemed": 0,
+      "globalRarity": 2.174,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Floss Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 2.202,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Sweeping",
+      "totalRedeemed": 0,
+      "globalRarity": 2.239,
+      "adjustedRarity": 5.9
+    },
+    {
+      "name": "Cheer",
+      "totalRedeemed": 0,
+      "globalRarity": 2.254,
+      "adjustedRarity": 6
+    },
+    {
+      "name": "Grooving Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 2.259,
+      "adjustedRarity": 6
+    },
+    {
+      "name": "Watch Your Back",
+      "totalRedeemed": 0,
+      "globalRarity": 2.274,
+      "adjustedRarity": 6
+    },
+    {
+      "name": "Blowing a Kiss",
+      "totalRedeemed": 0,
+      "globalRarity": 2.286,
+      "adjustedRarity": 6
+    },
+    {
+      "name": "Dancehall",
+      "totalRedeemed": 0,
+      "globalRarity": 2.712,
+      "adjustedRarity": 7.2
+    },
+    {
+      "name": "Curtain Call",
+      "totalRedeemed": 0,
+      "globalRarity": 2.72,
+      "adjustedRarity": 7.2
+    },
+    {
+      "name": "Awaken the Warmind",
+      "totalRedeemed": 0,
+      "globalRarity": 2.723,
+      "adjustedRarity": 7.2
+    },
+    {
+      "name": "Home Run",
+      "totalRedeemed": 0,
+      "globalRarity": 2.725,
+      "adjustedRarity": 7.2
+    },
+    {
+      "name": "Disco Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 2.766,
+      "adjustedRarity": 7.3
+    },
+    {
+      "name": "Mic Drop",
+      "totalRedeemed": 0,
+      "globalRarity": 2.784,
+      "adjustedRarity": 7.4
+    },
+    {
+      "name": "Flowing Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 2.94,
+      "adjustedRarity": 7.8
+    },
+    {
+      "name": "Slow Clap",
+      "totalRedeemed": 0,
+      "globalRarity": 2.948,
+      "adjustedRarity": 7.8
+    },
+    {
+      "name": "Celebratory Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 2.991,
+      "adjustedRarity": 7.9
+    },
+    {
+      "name": "Fireworks",
+      "totalRedeemed": 0,
+      "globalRarity": 3.031,
+      "adjustedRarity": 8
+    },
+    {
+      "name": "Shadow Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 3.214,
+      "adjustedRarity": 8.5
+    },
+    {
+      "name": "Confused",
+      "totalRedeemed": 0,
+      "globalRarity": 3.277,
+      "adjustedRarity": 8.7
+    },
+    {
+      "name": "Selfie",
+      "totalRedeemed": 0,
+      "globalRarity": 3.402,
+      "adjustedRarity": 9
+    },
+    {
+      "name": "Salty",
+      "totalRedeemed": 0,
+      "globalRarity": 3.511,
+      "adjustedRarity": 9.3
+    },
+    {
+      "name": "Six Shooter",
+      "totalRedeemed": 0,
+      "globalRarity": 3.654,
+      "adjustedRarity": 9.7
+    },
+    {
+      "name": "Popcorn",
+      "totalRedeemed": 0,
+      "globalRarity": 3.659,
+      "adjustedRarity": 9.7
+    },
+    {
+      "name": "Dust Off",
+      "totalRedeemed": 0,
+      "globalRarity": 3.708,
+      "adjustedRarity": 9.8
+    },
+    {
+      "name": "Hold On",
+      "totalRedeemed": 0,
+      "globalRarity": 3.783,
+      "adjustedRarity": 10
+    },
+    {
+      "name": "Flip Out",
+      "totalRedeemed": 0,
+      "globalRarity": 3.829,
+      "adjustedRarity": 10.1
+    },
+    {
+      "name": "Victory Taunt",
+      "totalRedeemed": 0,
+      "globalRarity": 3.849,
+      "adjustedRarity": 10.2
+    },
+    {
+      "name": "Spicy Ramen",
+      "totalRedeemed": 0,
+      "globalRarity": 3.972,
+      "adjustedRarity": 10.5
+    },
+    {
+      "name": "Don the Hat",
+      "totalRedeemed": 0,
+      "globalRarity": 4.004,
+      "adjustedRarity": 10.6
+    },
+    {
+      "name": "Sick",
+      "totalRedeemed": 0,
+      "globalRarity": 4.012,
+      "adjustedRarity": 10.6
+    },
+    {
+      "name": "Shiver",
+      "totalRedeemed": 0,
+      "globalRarity": 4.044,
+      "adjustedRarity": 10.7
+    },
+    {
+      "name": "Salute",
+      "totalRedeemed": 0,
+      "globalRarity": 4.079,
+      "adjustedRarity": 10.8
+    },
+    {
+      "name": "Zeus-Like Physique",
+      "totalRedeemed": 0,
+      "globalRarity": 4.137,
+      "adjustedRarity": 10.9
+    },
+    {
+      "name": "Humbug",
+      "totalRedeemed": 0,
+      "globalRarity": 4.437,
+      "adjustedRarity": 11.7
+    },
+    {
+      "name": "Huddle Up",
+      "totalRedeemed": 0,
+      "globalRarity": 4.438,
+      "adjustedRarity": 11.7
+    },
+    {
+      "name": "Opulent Clap",
+      "totalRedeemed": 0,
+      "globalRarity": 4.519,
+      "adjustedRarity": 11.9
+    },
+    {
+      "name": "Good Idea",
+      "totalRedeemed": 0,
+      "globalRarity": 4.619,
+      "adjustedRarity": 12.2
+    },
+    {
+      "name": "Get Up",
+      "totalRedeemed": 0,
+      "globalRarity": 4.627,
+      "adjustedRarity": 12.2
+    },
+    {
+      "name": "Cool, Dude",
+      "totalRedeemed": 0,
+      "globalRarity": 4.679,
+      "adjustedRarity": 12.4
+    },
+    {
+      "name": "Call Me",
+      "totalRedeemed": 0,
+      "globalRarity": 4.687,
+      "adjustedRarity": 12.4
+    },
+    {
+      "name": "Can-Do Attitude",
+      "totalRedeemed": 0,
+      "globalRarity": 4.691,
+      "adjustedRarity": 12.4
+    },
+    {
+      "name": "Air Quotes",
+      "totalRedeemed": 0,
+      "globalRarity": 4.72,
+      "adjustedRarity": 12.5
+    },
+    {
+      "name": "Applause",
+      "totalRedeemed": 0,
+      "globalRarity": 4.758,
+      "adjustedRarity": 12.6
+    },
+    {
+      "name": "Impatience",
+      "totalRedeemed": 0,
+      "globalRarity": 4.764,
+      "adjustedRarity": 12.6
+    },
+    {
+      "name": "Sadness",
+      "totalRedeemed": 0,
+      "globalRarity": 4.901,
+      "adjustedRarity": 13
+    },
+    {
+      "name": "Gallop",
+      "totalRedeemed": 0,
+      "globalRarity": 4.931,
+      "adjustedRarity": 13
+    },
+    {
+      "name": "Sneaky",
+      "totalRedeemed": 0,
+      "globalRarity": 7.474,
+      "adjustedRarity": 19.8
+    },
+    {
+      "name": "You're the Guardian",
+      "totalRedeemed": 0,
+      "globalRarity": 9.293,
+      "adjustedRarity": 24.6
+    },
+    {
+      "name": "Play Dead",
+      "totalRedeemed": 0,
+      "globalRarity": 9.797,
+      "adjustedRarity": 25.9
+    },
+    {
+      "name": "Graceful Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 34.237,
+      "adjustedRarity": 90.5
+    },
+    {
+      "name": "City Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 36.844,
+      "adjustedRarity": 97.4
+    },
+    {
+      "name": "Titan Sit",
+      "totalRedeemed": 0,
+      "globalRarity": 38.37,
+      "adjustedRarity": 101.4
+    },
+    {
+      "name": "Titan Wave",
+      "totalRedeemed": 0,
+      "globalRarity": 38.37,
+      "adjustedRarity": 101.4
+    },
+    {
+      "name": "Warlock Wave",
+      "totalRedeemed": 0,
+      "globalRarity": 43.485,
+      "adjustedRarity": 115
+    },
+    {
+      "name": "Warlock Sit",
+      "totalRedeemed": 0,
+      "globalRarity": 43.485,
+      "adjustedRarity": 115
+    },
+    {
+      "name": "Popping Dance",
+      "totalRedeemed": 0,
+      "globalRarity": 47.993,
+      "adjustedRarity": 126.9
+    },
+    {
+      "name": "Hunter Wave",
+      "totalRedeemed": 0,
+      "globalRarity": 54.921,
+      "adjustedRarity": 145.2
+    },
+    {
+      "name": "Hunter Sit",
+      "totalRedeemed": 0,
+      "globalRarity": 54.922,
+      "adjustedRarity": 145.2
+    }
+  ]
+}

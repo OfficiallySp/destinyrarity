@@ -1,0 +1,2801 @@
+{
+  "category": "weapon-ornaments",
+  "items": [
+    {
+      "name": "Glory and Grandeur Earn this ornament by reaching Glory Rank \"Legend.\" Equip it to change the appearance of Redrix's Claymore. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 633,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Hawkesbury Devil Equip this weapon ornament to change the appearance of Tarrabah. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 3197,
+      "globalRarity": 0.004,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Korosec's Fear Equip this weapon ornament to change the appearance of Centrifuse. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 3390,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Anointed Equip this weapon ornament to change the appearance of Necrochasm. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 3969,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Collapse Dynamic Equip this weapon ornament to change the appearance of Graviton Lance. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 5633,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Gilded Birthright Equip this weapon ornament to change the appearance of Heirloom. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 6431,
+      "globalRarity": 0.009,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Executive Aide Equip this weapon ornament to change the appearance of D.A.R.C.I. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 8465,
+      "globalRarity": 0.012,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Augury of Snakes Equip this weapon ornament to change the appearance of Bad Omens. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 11566,
+      "globalRarity": 0.016,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Still Hungry Equip this weapon ornament to change the appearance of Gnawing Hunger. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 12135,
+      "globalRarity": 0.017,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Baikonur Equip this weapon ornament to change the appearance of Sleeper Simulant. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 17775,
+      "globalRarity": 0.025,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Disruptive Camouflage Equip this weapon ornament to change the appearance of Bygones. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 24841,
+      "globalRarity": 0.035,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Rock-a-Bye Equip this weapon ornament to change the appearance of Hush. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 25049,
+      "globalRarity": 0.035,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Qingming Offering Equip this weapon ornament to change the appearance of Jade Rabbit. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 27404,
+      "globalRarity": 0.038,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Thor's Bellow Equip this weapon ornament to change the appearance of Thunderlord. Once you acquire an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 41255,
+      "globalRarity": 0.057,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Unconditional Love Equip this weapon ornament to change the appearance of Conditional Finality. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 49744,
+      "globalRarity": 0.069,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Gjallarfoam Equip this weapon ornament to change the appearance of Gjallarhorn. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 62970,
+      "globalRarity": 0.088,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "General Relativity Equip this weapon ornament to change the appearance of Graviton Lance. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 76985,
+      "globalRarity": 0.107,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Rascal's Shout Equip this weapon ornament to change the appearance of Resounding. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.112,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Aurelian Decree Equip this weapon ornament to change the appearance of Bad Juju. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.119,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Oracular Equip this weapon ornament to change the appearance of Conditional Finality. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.124,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Golden Age Hilt Equip this weapon ornament to change the appearance of your Praxic Blade. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.128,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Desert Burnish Equip this weapon ornament to change the appearance of New Malpais. Once you get a weapon ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.128,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "The Harpoon Equip this weapon ornament to change the appearance of Tractor Cannon. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.134,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Tlāloc's Wrath Equip this weapon ornament to change the appearance of Thunderlord. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.139,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Cloud Render Equip this weapon ornament to change the appearance of Sturm. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.14,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Starspin Equip this weapon ornament to change the appearance of Whirling Ovation. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.142,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Threatening Breath Equip this ornament to change the appearance of Touch of Malice. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.142,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Leporine Jubilation Equip this weapon ornament to change the appearance of Riskrunner. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.144,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Shot Through the Heart Equip this weapon ornament to change the appearance of the Vow. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.154,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Royal Guard Hilt Equip this weapon ornament to change the appearance of your Praxic Blade. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.155,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Pandemic Equip this weapon ornament to change the appearance of Outbreak Perfected. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.157,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Synesthesia Equip this weapon ornament to change the appearance of Borealis. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.157,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Kingsblade Equip this weapon ornament to change the appearance of your Praxic Blade. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.164,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Fatal Howl Equip this weapon ornament to change the appearance of Dead Messenger. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.165,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Deadly Discernment Equip this weapon ornament to change the appearance of Fair Judgment. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.175,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Only the Penitent Pass Equip this weapon ornament to change the appearance of Last Perdition. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.178,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Honor of the Empress Equip this ornament to change the appearance of Skyburner's Oath. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.19,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Splintered Mirror Equip this weapon ornament to change the appearance of Wicked Implement. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.191,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Without Ceremony Equip this weapon ornament to change the appearance of Ice Breaker. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.193,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Mulled Envy Equip this weapon ornament to change the appearance of Malediction. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.196,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Leotechno Equip this weapon ornament to change the appearance of Fighting Lion. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.197,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Future Past Equip this weapon ornament to change the appearance of Hierarchy of Needs. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.198,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Stolen Goods Equip this weapon ornament to change the appearance of Truth. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.199,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Sweet-Spoken Equip this weapon ornament to change the appearance of Ergo Sum. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.201,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "You Think You're Big Time? Equip this weapon ornament to change the appearance of Xenophage. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.201,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Flowing Phoenix Equip this weapon ornament to change the appearance of Final Warning. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.207,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Illuminant Equip this weapon ornament to change the appearance of Alethonym. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.208,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Grimmest Hunter Equip this ornament to change the appearance of Leviathan's Breath. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.21,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Open Hands Equip this weapon ornament to change the appearance of Lorentz Driver. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.21,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Muspell Populuxe Equip this ornament to change the appearance of Jötunn. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.211,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Stave of Snow Equip this weapon ornament to change the appearance of Ager's Scepter. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.212,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Synthetic Connection Equip this weapon ornament to change the appearance of Buried Bloodline. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.218,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Lucid Melody Equip this weapon ornament to change the appearance of Lumina. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.219,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Outcast Rubric Equip this weapon ornament to change the appearance of Last Rite. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.225,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Bray Reductive Equip this weapon ornament to change the appearance of Microcosm. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.228,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Nerium Oleander Equip this weapon ornament to change the appearance of Osteo Striga. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.232,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Wind Chill Equip this weapon ornament to change the appearance of Cold Front. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.238,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Early Warning Equip this weapon ornament to change the appearance of Forerunner. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.241,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Nine's Interval Equip this weapon ornament to change the appearance of Perfect Pitch. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.241,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Theoretical Endothermics Equip this ornament to change the appearance of Coldheart. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.243,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "The Cleaver Equip this weapon ornament to change the appearance of The Lament. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.251,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Hypervelocity Equip this weapon ornament to change the appearance of Thunderlord. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.256,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Opalized Nobility Equip this weapon ornament to change the appearance of Rat King. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.259,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Conscripted Equip this weapon ornament to change the appearance of Traveler's Chosen. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.26,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Shapeshifter Equip this weapon ornament to change the appearance of Wendigo GL3. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.263,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Herald of Spring Equip this weapon ornament to change the appearance of Two-Tailed Fox. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.265,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Idol of Rabbits Equip this weapon ornament to change the appearance of Devil's Ruin. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.269,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Heat Sink Equip this weapon ornament to change the appearance of Eriana's Vow. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.269,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Beast Magic Equip this weapon ornament to change the appearance of Bad Juju. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.274,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Inner Beauty Equip this weapon ornament to change the appearance of Grand Overture. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.277,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Galatine Protocol Equip this weapon ornament to change the appearance of Vexcalibur. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.278,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Death Comes Calling Equip this weapon ornament to change the appearance of the Fourth Horseman. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.279,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Pseudoscience Equip this ornament to change the appearance of Wavesplitter. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.281,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Regal Deterrent Equip this weapon ornament to change the appearance of Heir Apparent. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.281,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Serpentine Skin Equip this weapon ornament to change the appearance of Reckless Endangerment. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.281,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Shatterheart Equip this weapon ornament to change the appearance of Coldheart. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.283,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Lupus Visage Equip this weapon ornament to change the appearance of Fighting Lion. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.291,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Wingbeat Hymn Equip this weapon ornament to change the appearance of Choir of One. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.292,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Aldrovanda Equip this weapon ornament to change the appearance of Witherhoard. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.293,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Flower-Game Stamp Equip this weapon ornament to change the appearance of Finality's Auger. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.293,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Damascene Conductivity Equip this weapon ornament to change the appearance of Cloudstrike. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.293,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Virescent Spindle Equip this weapon ornament to change the appearance of Ecliptic Distaff. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.293,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Binary Function Equip this weapon ornament to change the appearance of Duality. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.296,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Ancient Hunger Equip this weapon ornament to change the appearance of Touch of Malice. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.296,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Solid State Equip this weapon ornament to change the appearance of Quicksilver Storm. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.296,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Ceremonial Arsenal Equip this weapon ornament to change the appearance of The Navigator. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.298,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Drifting Blaze Equip this weapon ornament to change the appearance of Chivalric Fire. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.298,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Strider's Pinion Equip this weapon ornament to change the appearance of Vigilance Wing. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.299,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Spark from Bone Equip this weapon ornament to change the appearance of Trinity Ghoul. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.302,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Snakebite Equip this weapon ornament to change the appearance of The Huckleberry. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.309,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Bound Hammer Equip this weapon ornament to change the appearance of Whisper of the Worm. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.313,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Time's Inlay Equip this weapon ornament to change the appearance of Vex Mythoclast. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.313,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Nephthys-X Equip this ornament to change the appearance of Veles-X. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.314,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Promethean Prelude Equip this ornament to change the appearance of Grand Overture. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.315,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Dancing Harlequin Equip this weapon ornament to change the appearance of The Huckleberry. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.317,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Springtime Scales Equip this weapon ornament to change the appearance of Ager's Scepter. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.32,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Leyden Lance Equip this weapon ornament to change the appearance of Cloudstrike. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.32,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Mag Spike Equip this weapon ornament to change the appearance of Graviton Spike. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.33,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Wager of Battle Equip this weapon ornament to change the appearance of Fair Judgment. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.331,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Insubordination Equip this ornament to change the appearance of Chain of Command. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.334,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Cedar and Ash Equip this weapon ornament to change the appearance of Witherhoard. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.334,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Anomalous Domain Equip this weapon ornament to change the appearance of Deterministic Chaos. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.334,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Tyrant's Vision Equip this ornament to change the appearance of Eyes of Tomorrow. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.335,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Occupational Hazard Equip this weapon ornament to change the appearance of Ice Breaker. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.336,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Sunrise Saber Equip this weapon ornament to change the appearance of Black Talon. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.337,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Unyielding Grasp Equip this weapon ornament to change the appearance of Salvation's Grip. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.337,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Heavy Duty Equip this weapon ornament to change the appearance of Polaris Lance. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.338,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Splice of Life Equip this weapon ornament to change the appearance of Lord of Wolves. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.343,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Tritone Equip this weapon ornament to change the appearance of Euphony. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.345,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Warrior Rubric Equip this weapon ornament to change the appearance of Last Rite. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.347,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Intended Mischief Equip this weapon ornament to change the appearance of Cry Mutiny. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.35,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Indra Soaring Equip this ornament to change the appearance of Thunderlord. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.35,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Skullsplitter Equip this weapon ornament to change the appearance of Wolfsbane. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.351,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Blind Fury Equip this weapon ornament to change the appearance of the Colony. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.353,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Between Breaths Equip this weapon ornament to change the appearance of Whisper of the Worm. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.355,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Wishes of Sorrow Equip this weapon ornament to change the appearance of Thorn. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.355,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Molten Equip this weapon ornament to change the appearance of Dead Messenger. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.357,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Compliance Equip this weapon ornament to change the appearance of Anarchy. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.364,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Pocket Ace Equip this weapon ornament to change the appearance of Ace of Spades. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.365,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Warrior's Bellow Equip this weapon ornament to change the appearance of Resounding. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.369,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "The Business End Equip this weapon ornament to change the appearance of Sweet Business. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.37,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Oathsworn Equip this weapon ornament to change the appearance of Wish-Ender. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.372,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Shiro's Watch Equip this weapon ornament to change the appearance of Trespasser. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.375,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Outwit Equip this weapon ornament to change the appearance of Outlast. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.376,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "MARA Multi-Tool Equip this weapon ornament to change the appearance of MIDA Multi-Tool. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.378,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Tertiary Objective Equip this weapon ornament to change the appearance of Trinity Ghoul. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.379,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Scorn Mechanica Equip this weapon ornament to change the appearance of Slayer's Fang. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.379,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Vanagandr Equip this weapon ornament to change the appearance of Gjallarhorn. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.379,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Cheerspreader Equip this weapon ornament to change the appearance of Riskrunner. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.38,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Ain't My First Rodeo Equip this weapon ornament to change the appearance of the Chaperone. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.381,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Serrate Oath Equip this weapon ornament to change the appearance of Eriana's Vow. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.383,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Cyberoptics Equip this weapon ornament to change the appearance of Eyes of Tomorrow. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.383,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Lovestruck Equip this weapon ornament to change the appearance of Sunshot. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.386,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Agkistrodon-5SR Equip this weapon ornament to change the appearance of Wicked Implement. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.387,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Symbol of Rule Equip this ornament to change the appearance of Ager's Scepter. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.388,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Yesterday's Augur Equip this weapon ornament to change the appearance of Eyes of Tomorrow. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.389,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Patient Zero Equip this weapon ornament to change the appearance of Outbreak Perfected. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.395,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Rowe's Legacy Equip this weapon ornament to change the appearance of Centrifuse. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.398,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "O Fortune Mine Equip this weapon ornament to change the appearance of Bad Juju. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.401,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Dream of the Sky Equip this weapon ornament to change the appearance of Traveler's Chosen. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.402,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Lord of the Hunt Equip this weapon ornament to change the appearance of Point of the Stag. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.403,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Earth's Shadow Equip this weapon ornament to change the appearance of Khvostov 7G-0X. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.414,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Overgrown Equip this weapon ornament to change the appearance of Outbreak Perfected. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.414,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Ferromancer Equip this weapon ornament to change the appearance of Ticuu's Divination. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.415,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Final Dictum Equip this weapon ornament to change the appearance of Ergo Sum. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.415,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "In Finality Equip this weapon ornament to change the appearance of Collective Obligation. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.419,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Equinox Equip this ornament to change the appearance of Ruinous Effigy. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.42,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Fifty-Third Equip this weapon ornament to change the appearance of Ace of Spades. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.421,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Ahead of Its Time Equip this weapon ornament to change the appearance of Wardcliff Coil. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.422,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Solar Astrolabe Equip this weapon ornament to change the appearance of Ticuu's Divination. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.424,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Hibernal Thorns Equip this weapon ornament to change the appearance of Winterbite. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.425,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Calefactor Equip this weapon ornament to change the appearance of Forerunner. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.428,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Dubito, Ergo Cogito Equip this weapon ornament to change the appearance of Ergo Sum. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.43,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Absinthium Equip this weapon ornament to change the appearance of Service of Luzaku. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.431,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "High-Rolling Lowlife Equip this weapon ornament to change the appearance of Malfeasance. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.433,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "The Stagecoach Equip this weapon ornament to change the appearance of The Last Word. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.434,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Karesansui Equip this weapon ornament to change the appearance of Jade Rabbit. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.435,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Merry Maker Equip this weapon ornament to change the appearance of Monte Carlo. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.438,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Cold Cheer Equip this weapon ornament to change the appearance of Ager's Scepter. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.439,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Felsic Pyroclasm Equip this ornament to change the appearance of Prometheus Lens. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.443,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Sand and Sun Equip this ornament to change the appearance of Traveler's Chosen. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.444,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Objective Reality Equip this weapon ornament to change the appearance of Truth. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.448,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Chainripper Equip this weapon ornament to change the appearance of Monte Carlo. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.45,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Lost Heir Equip this weapon ornament to change the appearance of Buried Bloodline. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.451,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Vast Expanse Equip this weapon ornament to change the appearance of Microcosm. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.452,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Twin-Souled Equip this weapon ornament to change the appearance of Barrow-Dyad. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.456,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Xeric Weave Equip this weapon ornament to change the appearance of New Malpais. Once you get a weapon ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.457,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Dead Again Equip this weapon ornament to change the appearance of Dead Man's Tale. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.457,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Knight's Roar Equip this weapon ornament to change the appearance of Resounding. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.46,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Dreamchaser Equip this weapon ornament to change the appearance of Jötunn. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.462,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Vanguard Verdict Equip this weapon ornament to change the appearance of Fair Judgment. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.471,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Burning Red Equip this weapon ornament to change the appearance of Sunshot. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.476,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Corrupted Logic Equip this weapon ornament to change the appearance of Necrochasm. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.478,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Nexus Sunrise Equip this weapon ornament to change the appearance of Vexcalibur. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.48,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Gilded Honors Equip this weapon ornament to change the appearance of Forerunner. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.483,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Corporate Sponsorship Equip this weapon ornament to change the appearance of Sweet Business. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.484,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Peacebringer Equip this weapon ornament to change the appearance of Deathbringer. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.491,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Infinite Gift Equip this weapon ornament to change the appearance of Vex Mythoclast. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.493,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Long Live the Queen Equip this weapon ornament to change the appearance of Telesto. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.496,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Timeline Zero Equip this weapon ornament to change the appearance of Worldline Zero. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.5,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Bound by Oath Equip this weapon ornament to change the appearance of Eriana's Vow. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.5,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Breakshot Equip this weapon ornament to change the appearance of Sunshot. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.5,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Glee Barrage Equip this weapon ornament to change the appearance of Xenophage. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.503,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "The Pink Mist Equip this weapon ornament to change the appearance of Malfeasance. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.506,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Endless Appetite Equip this weapon ornament to change the appearance of Parasite. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.506,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Extravagant Wishcraft Equip this weapon ornament to change the appearance of One Thousand Voices. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.51,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "End of an Era Equip this ornament to change the appearance of The Last Word. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.513,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "GJNKR Equip this weapon ornament to change the appearance of Gjallarhorn. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.515,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Aged Allegiance Equip this weapon ornament to change the appearance of Malediction. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.516,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Seasoned Temper Equip this weapon ornament to change the appearance of Malediction. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.516,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Heretic Robe Equip this weapon ornament to change the appearance of Thorn. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.517,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Shifting Loyalties Equip this weapon ornament to change the appearance of Dust Rock Blues. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.526,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Devil's Advocate Equip this weapon ornament to change the appearance of Devil's Ruin. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.53,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Table Scraps Equip this weapon ornament to change the appearance of Spare Rations. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.531,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Fruition Ornament Equip this weapon ornament to change the appearance of Ascendancy. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.532,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Outrunner Equip this weapon ornament to change the appearance of Arbalest. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.538,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Standard Bearer Equip this weapon ornament to change the appearance of SUROS Regime. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.543,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Father of Islands Equip this weapon ornament to change the appearance of Izanagi's Burden. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.547,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Golden Days Equip this weapon ornament to change the appearance of No Time to Explain. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.547,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Foundational Structure Equip this weapon ornament to change the appearance of Hard Light. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.55,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Law of Induction Equip this weapon ornament to change the appearance of Thunderlord. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.551,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Packmaster's Command Equip this weapon ornament to change the appearance of Lord of Wolves. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.555,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Scrimshander's Song Equip this weapon ornament to change the appearance of One Thousand Voices. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.559,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Frostborne Equip this weapon ornament to change the appearance of Black Talon. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.57,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Raised Voice Equip this weapon ornament to change the appearance of Choir of One. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.573,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Archon Prime Equip this weapon ornament to change the appearance of Outbreak Perfected. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.577,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Burial Wrap Equip this weapon ornament to change the appearance of Dead Man's Tale. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.58,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Augmented Apotheosis Equip this weapon ornament to change the appearance of Divinity. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.582,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Remembrance Equip this weapon ornament to change the appearance of Dead Man's Tale. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.592,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Binary System Equip this weapon ornament to change the appearance of Symmetry. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.592,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Wyrm Perilous Equip this ornament to change the appearance of Parasite. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.597,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Duelist Rubric Equip this weapon ornament to change the appearance of Last Rite. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.599,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Ashen Icon Equip this weapon ornament to change the appearance of Ruinous Effigy. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.599,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Diatonic Interval Equip this weapon ornament to change the appearance of Perfect Pitch. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.6,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Triumphant Equip this weapon ornament to change the appearance of Heir Apparent. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.607,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "BrayTech M6 Equip this weapon ornament to change the appearance of Forerunner. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.612,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Járngreipr Equip this weapon ornament to change the appearance of Jötunn. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.615,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Bad Dog Equip this weapon ornament to change the appearance of Leviathan's Breath. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.623,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Omnipotentia Equip this weapon ornament to change the appearance of Tractor Cannon. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.626,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Pale Rider Equip this weapon ornament to change the appearance of The Fourth Horseman. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.627,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Three Glowing Dawns Equip this weapon ornament to change the appearance of Trinity Ghoul. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.634,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Black Death Equip this weapon ornament to change the appearance of Crimson. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.644,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "The Knight's Elegy Equip this weapon ornament to change the appearance of The Lament. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.645,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Atropos Equip this weapon ornament to change the appearance of Divinity. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.655,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "The Queensguard Equip this weapon ornament to change the appearance of The Chaperone. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.656,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "A Better Specimen Equip this weapon ornament to change the appearance of Xenophage. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.659,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Poison Wings Spread Equip this weapon ornament to change the appearance of Le Monarque. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.666,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Volos-X Equip this ornament to change the appearance of Veles-X. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.671,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Feeling Lucky Equip this weapon ornament to change the appearance of Hawkmoon. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.673,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Beggar, to Be Fed Equip this weapon ornament to change the appearance of the Epicurean. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.677,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Orcus-X Equip this ornament to change the appearance of Veles-X. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.681,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Noble Burden Equip this weapon ornament to change the appearance of Dead Man's Tale. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.685,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Roar of the Wyrm Equip this weapon ornament to change the appearance of Whisper of the Worm. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.689,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Western Front Equip this weapon ornament to change the appearance of Monte Carlo. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.689,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Cyberintellect Equip this weapon ornament to change the appearance of D.A.R.C.I. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.692,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "What If Equip this weapon ornament to change the appearance of Monte Carlo. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.694,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Doubt Equip this weapon ornament to change the appearance of Trust. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.698,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Spacetime Weft Equip this weapon ornament to change the appearance of Leviathan's Breath. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.698,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Erinyes-SG1 Equip this weapon ornament to change the appearance of Conditional Finality. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.702,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Bloodline Memorial Equip this weapon ornament to change the appearance of Bastion. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.705,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Electromagnetic Execution Equip this weapon ornament to change the appearance of Arbalest. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.707,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Dragonbone Equip this weapon ornament to change the appearance of Deathbringer. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.714,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Perfluorocarbon Equip this weapon ornament to change the appearance of Oxygen SR3. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.716,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Abyssal Scream Equip this weapon ornament to change the appearance of Tractor Cannon. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.73,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Violent Exorcism Equip this weapon ornament to change the appearance of Arbalest. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.732,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "The Emperor's Pleasure Equip this Weapon Ornament to change the appearance of Legend of Acrius.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.733,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "The Old Ways Equip this weapon ornament to change the appearance of Cloudstrike. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.736,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "The Untold Tale Equip this weapon ornament to change the appearance of Vex Mythoclast. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.736,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Vexplosion Equip this weapon ornament to change the appearance of Sunshot. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.738,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Aegean Spindle Equip this weapon ornament to change the appearance of Ecliptic Distaff. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.742,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Snakeskin Wrap (Ornament) Equip this weapon ornament to change the appearance of Adored. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.743,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Standard Regulation Equip this ornament to change the appearance of Chain of Command. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.759,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Calyptra Equip this weapon ornament to change the appearance of Le Monarque. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.761,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Icthyic Flight Equip this weapon ornament to change the appearance of Quicksilver Storm. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.761,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "One Shot Equip this weapon ornament to change the appearance of Still Hunt. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.776,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "All In Equip this weapon ornament to change the appearance of Ace of Spades. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.781,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Insomnia Equip this weapon ornament to change the appearance of Night Watch. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.801,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Big Blind Equip this weapon ornament to change the appearance of Ace of Spades. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.81,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Gilded Cage Equip this weapon ornament to change the appearance of Whisper of the Worm. Once you acquire an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.811,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Prism Equip this weapon ornament to change the appearance of Prometheus Lens. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.818,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "King in All Directions Equip this weapon ornament to change the appearance of Revoker. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.823,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Directive: Crash Equip this ornament to change the appearance of Sleeper Simulant. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.824,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "The Vanguard Dare Equip this weapon ornament to change the appearance of Ace of Spades. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.824,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Whaler's Whim Equip this weapon ornament to change the appearance of Wish-Ender. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.828,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Iterative Growth Equip this weapon ornament to change the appearance of Third Iteration. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.828,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Blissful Ignorance Equip this weapon ornament to change the appearance of Felwinter's Lie. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.831,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Internal Combustion Equip this weapon ornament to change the appearance of The Lament. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.832,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Barren Wastes Equip this weapon ornament to change the appearance of Arbalest. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.833,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Homesteader Equip this weapon ornament to change the appearance of Xenophage. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.834,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Chronos Exegesis Equip this weapon ornament to change the appearance of No Time to Explain. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.847,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Caution: Heavy Machinery Equip this weapon ornament to change the appearance of the Prospector. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.849,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Clast of Its Own Equip this weapon ornament to change the appearance of Vex Mythoclast. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.853,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Uniocracy Equip this weapon ornament to change the appearance of Anarchy. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.855,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Intended Authority Equip this weapon ornament to change the appearance of Cry Mutiny. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.861,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Voracious Equip this weapon ornament to change the appearance of Tarrabah. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.878,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "The Logic Equip this weapon ornament to change the appearance of The Lament. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.881,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Infinite Quiver Equip this weapon ornament to change the appearance of Le Monarque. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.881,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Major Interval Equip this weapon ornament to change the appearance of Perfect Pitch. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.882,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Climate Change Equip this weapon ornament to change the appearance of Rat King. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.882,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Dream of a New World Equip this weapon ornament to change the appearance of Sturm. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.882,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "The Bunker Equip this weapon ornament to change the appearance of Bug-Out Bag. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.887,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Dreaming Clarity Equip this weapon ornament to change the appearance of Monte Carlo. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.887,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Unseeing, to Be Shown Equip this weapon ornament to change the appearance of Fixed Odds. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.891,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "The Colony XZ812 Equip this weapon ornament to change the appearance of the Colony. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.893,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Done and Dusty Equip this weapon ornament to change the appearance of Reckless Endangerment. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.894,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Alone, to Be Joined Equip this weapon ornament to change the appearance of Drang (Baroque). Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.895,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Dead Man's Revenge Equip this weapon ornament to change the appearance of Dead Man's Tale. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.897,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Alhidade Equip this weapon ornament to change the appearance of Crimson. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.901,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Stalwart Skin Equip this weapon ornament to change the appearance of Reckless Endangerment. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.903,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Worldshaper Equip this weapon ornament to change the appearance of Izanagi's Burden. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.91,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "On Ashen Wings Equip this weapon ornament to change the appearance of Hawkmoon. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.91,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Mandated Artillery Equip this ornament to change the appearance of Chain of Command. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.918,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Phoenix Flame Equip this weapon ornament to change the appearance of Chivalric Fire. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.921,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "The Lost, Found Equip this weapon ornament to change the appearance of Khvostov 7G-0X. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.927,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Mercurial Affliction Equip this weapon ornament to change the appearance of Outbreak Perfected. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.933,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Vermeil Spindle Equip this weapon ornament to change the appearance of Ecliptic Distaff. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.943,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Lethe's Mercy Equip this weapon ornament to change the appearance of The Lament. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.946,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Intended Overthrow Equip this weapon ornament to change the appearance of Cry Mutiny. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.95,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Digital Ops Equip this weapon ornament to change the appearance of MIDA Multi-Tool. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.96,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Prized Ivory Equip this ornament to change the appearance of Austringer. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.972,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Brumal Dawn Equip this weapon ornament to change the appearance of Hard Light. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.974,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Fulfillment Ornament Equip this weapon ornament to change the appearance of Ascendancy. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.979,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Matterscourge Equip this weapon ornament to change the appearance of Outbreak Perfected. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.983,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Draws Nigh Equip this weapon ornament to change the appearance of Doomsday. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.991,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Over and Done With Equip this weapon ornament to change the appearance of Dreaded Venture. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.993,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Ozymandias Equip this weapon ornament to change the appearance of Last Man Standing. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.007,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Out of Place Equip this weapon ornament to change the appearance of Lonesome. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.008,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "87% Ennui Equip this weapon ornament to change the appearance of 21% Delirium. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.011,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Heated Exchange Equip this weapon ornament to change the appearance of The Last Word. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.017,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Blooming Gilt Equip this weapon ornament to change the appearance of Osteo Striga. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.045,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Pure Sapphire Equip this weapon ornament to change the appearance of Alethonym. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.048,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Unhearing, to Be Told Equip this weapon ornament to change the appearance of Imperial Decree. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.054,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Broken Bird, to Be Healed Equip this weapon ornament to change the appearance of Austringer. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.054,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Go About Your Business Equip this weapon ornament to change the appearance of Sweet Business. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.061,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Version: Prime Equip this weapon ornament to change the appearance of Revision Zero. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.069,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Splendid Vidua Equip this weapon ornament to change the appearance of Witherhoard. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.071,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Tyrant's Cudgel Equip this weapon ornament to change the appearance of Seventh Seraph CQC-12. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.075,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Yes, Queen Equip this weapon ornament to change the appearance of Vestian Dynasty. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.076,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Rubicund Wrap (Ornament) Equip this weapon ornament to change the appearance of Adored. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.079,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Polemology Equip this weapon ornament to change the appearance of the Queenbreaker. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.081,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "The Chopper Equip this weapon ornament to change the appearance of Tommy's Matchbook. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.092,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Vanguard Warmth Equip this weapon ornament to change the appearance of Chivalric Fire. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.108,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Tyrant's Lash Equip this weapon ornament to change the appearance of Seventh Seraph VY-7. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.109,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Zaroff's Prized Longbore Equip this weapon ornament to change the appearance of Trophy Hunter. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.112,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Unloved, to Be Cherished Equip this weapon ornament to change the appearance of Beloved. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.115,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Skyline Constellation Equip this weapon ornament to change the appearance of Symmetry. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.12,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Drowned in Strife Equip this weapon ornament to change the appearance of Witherhoard. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.122,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Prideglass Equip this weapon ornament to change the appearance of Fighting Lion. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.126,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Last Step Equip this weapon ornament to change the appearance of New Land Beyond. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.129,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Austroraptor Equip this weapon ornament to change the appearance of Hawkmoon. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.129,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Toxicology Equip this weapon ornament to change the appearance of Salvager's Salvo. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.13,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Meteoric Descent Equip this weapon ornament to change the appearance of Pyroclastic Flow. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.145,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Gray Nitrite Equip this weapon ornament to change the appearance of SUROS Regime. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.164,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Haetae's Judgment Equip this weapon ornament to change the appearance of Prometheus Lens. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.166,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Ronin Equip this weapon ornament to change the appearance of Izanagi's Burden. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.169,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Sudden Squall Equip this weapon ornament to change the appearance of Sturm. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.17,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Beachheader VI Equip this weapon ornament to change the appearance of Merciless. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.18,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Sky/Perdition Equip this weapon ornament to change the appearance of Divinity. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.194,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "At Any Cost Equip this weapon ornament to change the appearance of Sole Survivor. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.196,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Let the Future Narrow Equip this weapon ornament to change the appearance of Temporal Clause. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.196,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Pyretic Equip this weapon ornament to change the appearance of Salvager's Salvo. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.21,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "For Wei Equip this weapon ornament to change the appearance of Eriana's Vow. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.22,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Fatebinder Equip this weapon ornament to change the appearance of Ex Diris. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.243,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Balistraria Wrap (Ornament) Equip this weapon ornament to change the appearance of Adored. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.245,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Dieselpunk Equip this weapon ornament to change the appearance of The Wardcliff Coil. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.249,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Ultraviolet Equip this weapon ornament to change the appearance of Borealis. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.254,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "They Had Built Equip this weapon ornament to change the appearance of Pluperfect. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.257,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Version: One Equip this weapon ornament to change the appearance of Revision Zero. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.263,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Third Rail Equip this weapon ornament to change the appearance of Riskrunner. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.277,
+      "adjustedRarity": 3.4
+    },
+    {
+      "name": "Plunderer Equip this weapon ornament to change the appearance of Pillager. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.281,
+      "adjustedRarity": 3.4
+    },
+    {
+      "name": "Powerful Statement Equip this weapon ornament to change the appearance of Loaded Question. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.296,
+      "adjustedRarity": 3.4
+    },
+    {
+      "name": "Salt the Fields Equip this weapon ornament to change the appearance of Pillager. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.306,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Meteor Shower Equip this weapon ornament to change the appearance of Parcel of Stardust. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.321,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Vostok Equip this weapon ornament to change the appearance of the Wardcliff Coil. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.336,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Desert Camo Equip this weapon ornament to change the appearance of MIDA Multi-Tool. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.342,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Artificial Sun Equip this weapon ornament to change the appearance of Lodestar. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.35,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "Aim Is True Equip this weapon ornament to change the appearance of No Turning Back. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.356,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "VEIST Silver Equip this weapon ornament to change the appearance of The Colony. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.368,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "For the King Equip this weapon ornament to change the appearance of Thorn. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.371,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "Essentialism Equip this weapon ornament to change the appearance of Thorn. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.393,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Fluorescent Depth Equip this weapon ornament to change the appearance of Centrifuse. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.406,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Four-Headed Mongrel Equip this weapon ornament to change the appearance of Cerberus+1. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.407,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Red String of Fate Equip this weapon ornament to change the appearance of Malfeasance. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.409,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Unwelcome Visit Equip this weapon ornament to change the appearance of Distant Relation. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.411,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "One Terrible Scream Equip this weapon ornament to change the appearance of One Thousand Voices. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.433,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Scorpionflight Equip this weapon ornament to change the appearance of The Manticore. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.451,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Never Through Equip this weapon ornament to change the appearance of Bygones. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.464,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Necrosis Equip this weapon ornament to change the appearance of the Recluse. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.467,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Eyes Forward Equip this weapon ornament to change the appearance of No Turning Back. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.491,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Antiquity Equip this weapon ornament to change the appearance of Duality. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.512,
+      "adjustedRarity": 4
+    },
+    {
+      "name": "Calus's Promise Equip this weapon ornament to change the appearance of Skyburner's Oath. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.529,
+      "adjustedRarity": 4
+    },
+    {
+      "name": "Great White Equip this weapon ornament to change the appearance of Hammerhead. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.529,
+      "adjustedRarity": 4
+    },
+    {
+      "name": "Version: Alpha Equip this weapon ornament to change the appearance of Revision Zero. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.543,
+      "adjustedRarity": 4.1
+    },
+    {
+      "name": "Heaven's Vigil Equip this weapon ornament to change the appearance of Vigilance Wing. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.546,
+      "adjustedRarity": 4.1
+    },
+    {
+      "name": "Quark Star Equip this weapon ornament to change the appearance of Sunshot. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.547,
+      "adjustedRarity": 4.1
+    },
+    {
+      "name": "Laconic Equip this weapon ornament to change the appearance of the Last Word. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.557,
+      "adjustedRarity": 4.1
+    },
+    {
+      "name": "Hasta Solari Equip this weapon ornament to change the appearance of Ticuu's Divination. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.575,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Guardian Angel Equip this weapon ornament to change the appearance of the Chaperone. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.583,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "The Panama Ravine Equip this weapon ornament to change the appearance of the Chaperone. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.587,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Dark Waters Equip this ornament to change the appearance of Cold Denial. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.592,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Deletion Protocol Equip this weapon ornament to change the appearance of Cryosthesia 77K. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.596,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "White Collar Crime Equip this weapon ornament to change the appearance of the Witherhoard. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.606,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Fell to Earth Equip this weapon ornament to change the appearance of Parcel of Stardust. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.611,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Dirty Work Equip this weapon ornament to change the appearance of Dreaded Venture. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.612,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Avant-Garde Mausoleum Equip this ornament to change the appearance of Delicate Tomb. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.631,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "End of Days Equip this weapon ornament to change the appearance of Through Fire and Flood. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.632,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Defenseless, to Be Armed Equip this weapon ornament to change the appearance of CALUS Mini-Tool. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.636,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Past Is Past Equip this weapon ornament to change the appearance of Bygones. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.647,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Next of Kin Equip this weapon ornament to change the appearance of Distant Relation. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.65,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Subatomic Ivory Equip this weapon ornament to change the appearance of Main Ingredient. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.657,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Vigil for Saint-14 Equip this weapon ornament to change the appearance of Vigilance Wing. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.66,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Riptide Equip this ornament to change the appearance of Falling Guillotine. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.662,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Raging Lepus Equip this weapon ornament to change the appearance of the Jade Rabbit. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.674,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "One False Step Equip this weapon ornament to change the appearance of Trespasser. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.68,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Foretelling Equip this weapon ornament to change the appearance of Bad Omens. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.685,
+      "adjustedRarity": 4.5
+    },
+    {
+      "name": "Author of Devastation Equip this weapon ornament to change the appearance of Wish-Ender. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.694,
+      "adjustedRarity": 4.5
+    },
+    {
+      "name": "Finale Ornament Equip this weapon ornament to change the appearance of Ascendancy. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.698,
+      "adjustedRarity": 4.5
+    },
+    {
+      "name": "Tangled Outrider Equip this weapon ornament to change the appearance of Trinity Ghoul. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.704,
+      "adjustedRarity": 4.5
+    },
+    {
+      "name": "Panacea Equip this weapon ornament to change the appearance of Salvager's Salvo. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.709,
+      "adjustedRarity": 4.5
+    },
+    {
+      "name": "Red Allegiant Equip this weapon ornament to change the appearance of Grand Overture. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.722,
+      "adjustedRarity": 4.6
+    },
+    {
+      "name": "A Bad Run Equip this weapon ornament to change the appearance of Hazard of the Cast. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.748,
+      "adjustedRarity": 4.6
+    },
+    {
+      "name": "Cuddly Throwback Equip this weapon ornament to change the appearance of Two-Tailed Fox. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.756,
+      "adjustedRarity": 4.6
+    },
+    {
+      "name": "SUROS Chrome Equip this weapon ornament to change the appearance of SUROS Regime. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.771,
+      "adjustedRarity": 4.7
+    },
+    {
+      "name": "Catacombs Equip this weapon ornament to change the appearance of Rat King. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.774,
+      "adjustedRarity": 4.7
+    },
+    {
+      "name": "Loaded Dice Equip this weapon ornament to change the appearance of Hazard of the Cast. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.791,
+      "adjustedRarity": 4.7
+    },
+    {
+      "name": "IKELOS Field Tuning Equip this weapon ornament to change the appearance of Polaris Lance. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.8,
+      "adjustedRarity": 4.8
+    },
+    {
+      "name": "Salute to the Colonel Equip this weapon ornament to change the appearance of Ace of Spades. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.83,
+      "adjustedRarity": 4.8
+    },
+    {
+      "name": "Old Blood Equip this weapon ornament to change the appearance of Red Death Reformed. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.854,
+      "adjustedRarity": 4.9
+    },
+    {
+      "name": "Blind Faith Equip this weapon ornament to change the appearance of Trust. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.864,
+      "adjustedRarity": 4.9
+    },
+    {
+      "name": "MIDA Tactical Equip this weapon ornament to change the appearance of MIDA Multi-Tool. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.878,
+      "adjustedRarity": 5
+    },
+    {
+      "name": "Tangled Paladin Equip this weapon ornament to change the appearance of Black Talon. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.899,
+      "adjustedRarity": 5
+    },
+    {
+      "name": "Carina Nebula Equip this weapon ornament to change the appearance of Graviton Lance. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.902,
+      "adjustedRarity": 5
+    },
+    {
+      "name": "War Beast Skin Equip this weapon ornament to change the appearance of your complete Legend of Acrius. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.907,
+      "adjustedRarity": 5
+    },
+    {
+      "name": "Smith's Touchmark Equip this weapon ornament to change the appearance of Null Composure. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.935,
+      "adjustedRarity": 5.1
+    },
+    {
+      "name": "Positive Infinity Equip this weapon ornament to change the appearance of Worldline Zero. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.953,
+      "adjustedRarity": 5.2
+    },
+    {
+      "name": "Itsy-Bitsy Spider Equip this weapon ornament to change the appearance of the Recluse. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.967,
+      "adjustedRarity": 5.2
+    },
+    {
+      "name": "Kingmaker Equip this weapon ornament to change the appearance of Queenbreaker. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.982,
+      "adjustedRarity": 5.2
+    },
+    {
+      "name": "Heritance of the Thaw Equip this weapon ornament to change the appearance of Verglas Curve. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.994,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "Reef in Ruins Equip this weapon ornament to change the appearance of Telesto. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.028,
+      "adjustedRarity": 5.4
+    },
+    {
+      "name": "Belvedere Equip this weapon ornament to change the appearance of the Prospector. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.066,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Electric Violet Equip this weapon ornament to change the appearance of Riskrunner. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.074,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Machinist's Trove Equip this weapon ornament to change the appearance of Tractor Cannon. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.094,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Dying Dream Equip this weapon ornament to change the appearance of Dragon's Breath. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.118,
+      "adjustedRarity": 5.6
+    },
+    {
+      "name": "Wrath Majestic Equip this weapon ornament to change the appearance of your Arsenic Bite-4b. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.122,
+      "adjustedRarity": 5.6
+    },
+    {
+      "name": "Hraesveglur Equip this weapon ornament to change the appearance of Gjallarhorn. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.153,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Dread from Below Equip this weapon ornament to change the appearance of Telesto. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.259,
+      "adjustedRarity": 6
+    },
+    {
+      "name": "Jade Jester Equip this weapon ornament to change the appearance of The Jade Rabbit. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.279,
+      "adjustedRarity": 6
+    },
+    {
+      "name": "Hypnopompic Equip this weapon ornament to change the appearance of Sleeper Simulant. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.296,
+      "adjustedRarity": 6.1
+    },
+    {
+      "name": "Credence Equip this weapon ornament to change the appearance of Trust. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.304,
+      "adjustedRarity": 6.1
+    },
+    {
+      "name": "The Devil's Work Equip this weapon ornament to change the appearance of the Huckleberry. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.342,
+      "adjustedRarity": 6.2
+    },
+    {
+      "name": "Iridescent Death Equip this weapon ornament to change the appearance of Crimson. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.368,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Comstock Lode Equip this Weapon Ornament to change the appearance of The Prospector.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.417,
+      "adjustedRarity": 6.4
+    },
+    {
+      "name": "Stable Prototype Equip this ornament to change the appearance of Lorentz Driver. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.486,
+      "adjustedRarity": 6.6
+    },
+    {
+      "name": "Mind of Its Own Equip this Weapon Ornament to change the appearance of D.A.R.C.I.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.546,
+      "adjustedRarity": 6.7
+    },
+    {
+      "name": "Sneak Attack Equip this weapon ornament to change the appearance of the Colony. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.553,
+      "adjustedRarity": 6.7
+    },
+    {
+      "name": "The Future is Chrome Equip this weapon ornament to change the appearance of Hard Light.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.556,
+      "adjustedRarity": 6.8
+    },
+    {
+      "name": "Cleans Up Good Equip this weapon ornament to change the appearance of D.A.R.C.I. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.582,
+      "adjustedRarity": 6.8
+    },
+    {
+      "name": "The Bray Legacy Equip this weapon ornament to change the appearance of Polaris Lance. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.615,
+      "adjustedRarity": 6.9
+    },
+    {
+      "name": "Summer Storm Equip this Weapon Ornament to change the appearance of Riskrunner.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.632,
+      "adjustedRarity": 7
+    },
+    {
+      "name": "Tesla's Revenge Equip this Weapon Ornament to change the appearance of The Wardcliff Coil.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.645,
+      "adjustedRarity": 7
+    },
+    {
+      "name": "Aim to Misbehave Equip this weapon ornament to change the appearance of Malfeasance. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.649,
+      "adjustedRarity": 7
+    },
+    {
+      "name": "Sub-Zero Equip this Weapon Ornament to change the appearance of Coldheart.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.672,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "Coup de Main Equip this weapon ornament to change the appearance of SUROS Regime. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.672,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "Under Construction Equip this Weapon Ornament to change the appearance of Tractor Cannon.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.675,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "Inferno Heraldry Equip this weapon ornament to change the appearance of Null Composure. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.686,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "Titanium Alloy Equip this weapon ornament to change the appearance of MIDA Multi-Tool.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.735,
+      "adjustedRarity": 7.2
+    },
+    {
+      "name": "Penrose Gilt Equip this weapon ornament to change the appearance of Tessellation. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.786,
+      "adjustedRarity": 7.4
+    },
+    {
+      "name": "Jade Countenance Equip this Weapon Ornament to change the appearance of Fighting Lion.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.804,
+      "adjustedRarity": 7.4
+    },
+    {
+      "name": "Silver Bullet Equip this weapon ornament to change the appearance of Crimson. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.847,
+      "adjustedRarity": 7.5
+    },
+    {
+      "name": "Particle Accelerator Equip this Weapon Ornament to change the appearance of Graviton Lance.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.857,
+      "adjustedRarity": 7.6
+    },
+    {
+      "name": "Lethal System Equip this weapon ornament to change the appearance of Hard Light. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.865,
+      "adjustedRarity": 7.6
+    },
+    {
+      "name": "Coordinated Offensive Equip this weapon ornament to change the appearance of Null Composure. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.899,
+      "adjustedRarity": 7.7
+    },
+    {
+      "name": "Black Plague Equip this Weapon Ornament to change the appearance of Rat King.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.946,
+      "adjustedRarity": 7.8
+    },
+    {
+      "name": "Eye of Osiris Equip this weapon ornament to change the appearance of Prometheus Lens. Once you get an ornament, it's unlocked on all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.99,
+      "adjustedRarity": 7.9
+    },
+    {
+      "name": "Brilliant Bloom Equip this weapon ornament to change the appearance of Osteo Striga. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.039,
+      "adjustedRarity": 8
+    },
+    {
+      "name": "Chasing Kitsune Equip this weapon ornament to change the appearance of Two-Tailed Fox. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.046,
+      "adjustedRarity": 8.1
+    },
+    {
+      "name": "Frozen In Time Equip this weapon ornament to change the appearance of No Time to Explain. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.166,
+      "adjustedRarity": 8.4
+    },
+    {
+      "name": "Symbiosis Equip this Weapon Ornament to change the appearance of Sturm.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.196,
+      "adjustedRarity": 8.4
+    },
+    {
+      "name": "Down to Business Equip this Weapon Ornament to change the appearance of Sweet Business.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.243,
+      "adjustedRarity": 8.6
+    },
+    {
+      "name": "Beware the Red Legion Equip this Weapon Ornament to change the appearance of Skyburner's Oath.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.293,
+      "adjustedRarity": 8.7
+    },
+    {
+      "name": "Break the Dawn Equip this Weapon Ornament to change the appearance of Merciless.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.531,
+      "adjustedRarity": 9.3
+    },
+    {
+      "name": "Neomuna Nights Equip this weapon ornament to change the appearance of Quicksilver Storm. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.564,
+      "adjustedRarity": 9.4
+    },
+    {
+      "name": "Pride of Omolon Equip this weapon ornament to change the appearance of Coldheart. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 3.934,
+      "adjustedRarity": 10.4
+    },
+    {
+      "name": "Book of the Dead Equip this Weapon Ornament to change the appearance of Vigilance Wing.",
+      "totalRedeemed": 0,
+      "globalRarity": 4.006,
+      "adjustedRarity": 10.6
+    },
+    {
+      "name": "Red Dwarf Equip this Weapon Ornament to change the appearance of Sunshot.",
+      "totalRedeemed": 0,
+      "globalRarity": 4.054,
+      "adjustedRarity": 10.7
+    },
+    {
+      "name": "Last Hand Equip this weapon ornament to change the appearance of Ace of Spades. Once you get an ornament, it's unlocked for all characters on your account.",
+      "totalRedeemed": 0,
+      "globalRarity": 5.066,
+      "adjustedRarity": 13.4
+    }
+  ]
+}

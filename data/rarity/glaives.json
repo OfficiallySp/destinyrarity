@@ -1,0 +1,149 @@
+{
+  "category": "glaives",
+  "items": [
+    {
+      "name": "Forthcoming Deviance (Adept)",
+      "totalRedeemed": 63113,
+      "globalRarity": 0.088,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Unexpected Resurgence (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.17,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Greasy Luck (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.243,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Refusal of the Call (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.295,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "The Heron",
+      "totalRedeemed": 0,
+      "globalRarity": 0.392,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Rake Angle (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.414,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Lubrae's Ruin (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.462,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Forthcoming Deviance",
+      "totalRedeemed": 0,
+      "globalRarity": 0.535,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Edge of Action",
+      "totalRedeemed": 0,
+      "globalRarity": 0.766,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Rake Angle",
+      "totalRedeemed": 0,
+      "globalRarity": 0.833,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Edge of Intent",
+      "totalRedeemed": 0,
+      "globalRarity": 0.835,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Edge of Concurrence",
+      "totalRedeemed": 0,
+      "globalRarity": 0.861,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Unexpected Resurgence",
+      "totalRedeemed": 0,
+      "globalRarity": 1.031,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Backfang",
+      "totalRedeemed": 0,
+      "globalRarity": 1.061,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Lubrae's Ruin",
+      "totalRedeemed": 0,
+      "globalRarity": 1.639,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Refusal of the Call",
+      "totalRedeemed": 0,
+      "globalRarity": 1.679,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Greasy Luck",
+      "totalRedeemed": 0,
+      "globalRarity": 2.079,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Winterbite",
+      "totalRedeemed": 0,
+      "globalRarity": 2.346,
+      "adjustedRarity": 6.2
+    },
+    {
+      "name": "Albedo Wing",
+      "totalRedeemed": 0,
+      "globalRarity": 2.357,
+      "adjustedRarity": 6.2
+    },
+    {
+      "name": "Vexcalibur",
+      "totalRedeemed": 0,
+      "globalRarity": 2.533,
+      "adjustedRarity": 6.7
+    },
+    {
+      "name": "Ecliptic Distaff",
+      "totalRedeemed": 0,
+      "globalRarity": 2.721,
+      "adjustedRarity": 7.2
+    },
+    {
+      "name": "Nezarec's Whisper",
+      "totalRedeemed": 0,
+      "globalRarity": 3.843,
+      "adjustedRarity": 10.2
+    },
+    {
+      "name": "Judgment of Kelgorath",
+      "totalRedeemed": 0,
+      "globalRarity": 6.785,
+      "adjustedRarity": 17.9
+    },
+    {
+      "name": "The Enigma",
+      "totalRedeemed": 0,
+      "globalRarity": 10.896,
+      "adjustedRarity": 28.8
+    }
+  ]
+}

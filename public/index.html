@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Destiny Rarity Checker — Your rarest items</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700&family=Exo+2:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <main class="landing">
+    <div class="landing-bg"></div>
+    <div class="landing-content">
+      <h1 class="landing-title">Destiny Rarity</h1>
+      <p class="landing-tagline">Discover your rarest emblems, titles, and collectibles</p>
+      <p class="landing-desc">
+        Log in with your Bungie account to see which of your items are the most exclusive.
+        Rarity data powered by <a href="https://warmind.io" target="_blank" rel="noopener">Charlemagne</a>.
+      </p>
+      <a href="/api/auth-login" class="btn-login">
+        <span class="btn-login-icon"></span>
+        Log in with Bungie
+      </a>
+      <p id="error-msg" class="error-msg" hidden></p>
+    </div>
+  </main>
+  <script>
+    const params = new URLSearchParams(location.search);
+    const error = params.get('error');
+    const msg = document.getElementById('error-msg');
+    if (error) {
+      msg.textContent = error === 'missing_params' ? 'Login was cancelled.' : error;
+      msg.hidden = false;
+    }
+  </script>
+</body>
+</html>

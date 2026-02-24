@@ -1,0 +1,257 @@
+{
+  "category": "weapon-mods",
+  "items": [
+    {
+      "name": "Adept Shield Duration",
+      "totalRedeemed": 0,
+      "globalRarity": 0.304,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Adept Icarus Grip",
+      "totalRedeemed": 0,
+      "globalRarity": 1.017,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Taken Spec",
+      "totalRedeemed": 0,
+      "globalRarity": 1.753,
+      "adjustedRarity": 4.6
+    },
+    {
+      "name": "Adept Big Ones Spec",
+      "totalRedeemed": 0,
+      "globalRarity": 1.782,
+      "adjustedRarity": 4.7
+    },
+    {
+      "name": "Adept Impact",
+      "totalRedeemed": 0,
+      "globalRarity": 2.147,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Adept Projectile Speed",
+      "totalRedeemed": 0,
+      "globalRarity": 2.152,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Adept Blast Radius",
+      "totalRedeemed": 0,
+      "globalRarity": 2.155,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Adept Charge Time",
+      "totalRedeemed": 0,
+      "globalRarity": 2.156,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Adept Counterbalance",
+      "totalRedeemed": 0,
+      "globalRarity": 2.202,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Adept Stability",
+      "totalRedeemed": 0,
+      "globalRarity": 2.209,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Adept Targeting",
+      "totalRedeemed": 0,
+      "globalRarity": 2.21,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Adept Handling",
+      "totalRedeemed": 0,
+      "globalRarity": 2.21,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Adept Range",
+      "totalRedeemed": 0,
+      "globalRarity": 2.211,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Adept Mag",
+      "totalRedeemed": 0,
+      "globalRarity": 2.211,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Adept Reload",
+      "totalRedeemed": 0,
+      "globalRarity": 2.216,
+      "adjustedRarity": 5.9
+    },
+    {
+      "name": "Radar Booster",
+      "totalRedeemed": 0,
+      "globalRarity": 4.816,
+      "adjustedRarity": 12.7
+    },
+    {
+      "name": "Quick Access Sling",
+      "totalRedeemed": 0,
+      "globalRarity": 5.107,
+      "adjustedRarity": 13.5
+    },
+    {
+      "name": "Sprint Grip",
+      "totalRedeemed": 0,
+      "globalRarity": 5.208,
+      "adjustedRarity": 13.8
+    },
+    {
+      "name": "Sweaty Confetti",
+      "totalRedeemed": 0,
+      "globalRarity": 6.186,
+      "adjustedRarity": 16.4
+    },
+    {
+      "name": "Radar Tuner",
+      "totalRedeemed": 0,
+      "globalRarity": 6.648,
+      "adjustedRarity": 17.6
+    },
+    {
+      "name": "Icarus Grip",
+      "totalRedeemed": 0,
+      "globalRarity": 6.869,
+      "adjustedRarity": 18.2
+    },
+    {
+      "name": "Freehand Grip",
+      "totalRedeemed": 0,
+      "globalRarity": 6.912,
+      "adjustedRarity": 18.3
+    },
+    {
+      "name": "Minor Spec",
+      "totalRedeemed": 0,
+      "globalRarity": 7.109,
+      "adjustedRarity": 18.8
+    },
+    {
+      "name": "Targeting Adjuster",
+      "totalRedeemed": 0,
+      "globalRarity": 7.155,
+      "adjustedRarity": 18.9
+    },
+    {
+      "name": "Counterbalance Stock",
+      "totalRedeemed": 0,
+      "globalRarity": 7.186,
+      "adjustedRarity": 19
+    },
+    {
+      "name": "Boss Spec",
+      "totalRedeemed": 0,
+      "globalRarity": 7.488,
+      "adjustedRarity": 19.8
+    },
+    {
+      "name": "Backup Mag",
+      "totalRedeemed": 0,
+      "globalRarity": 7.622,
+      "adjustedRarity": 20.1
+    },
+    {
+      "name": "Major Spec",
+      "totalRedeemed": 0,
+      "globalRarity": 7.812,
+      "adjustedRarity": 20.7
+    },
+    {
+      "name": "Tension",
+      "totalRedeemed": 0,
+      "globalRarity": 11.047,
+      "adjustedRarity": 29.2
+    },
+    {
+      "name": "Edge",
+      "totalRedeemed": 0,
+      "globalRarity": 11.047,
+      "adjustedRarity": 29.2
+    },
+    {
+      "name": "Marksman Optics: High",
+      "totalRedeemed": 0,
+      "globalRarity": 11.047,
+      "adjustedRarity": 29.2
+    },
+    {
+      "name": "CQC Optics: High",
+      "totalRedeemed": 0,
+      "globalRarity": 11.047,
+      "adjustedRarity": 29.2
+    },
+    {
+      "name": "Anti-Flinch",
+      "totalRedeemed": 0,
+      "globalRarity": 11.047,
+      "adjustedRarity": 29.2
+    },
+    {
+      "name": "Tactical",
+      "totalRedeemed": 0,
+      "globalRarity": 11.047,
+      "adjustedRarity": 29.2
+    },
+    {
+      "name": "Bandolier Grants slightly increased ammo generation and magazine size.",
+      "totalRedeemed": 0,
+      "globalRarity": 11.047,
+      "adjustedRarity": 29.2
+    },
+    {
+      "name": "Ballistics",
+      "totalRedeemed": 0,
+      "globalRarity": 11.047,
+      "adjustedRarity": 29.2
+    },
+    {
+      "name": "Aerodynamics",
+      "totalRedeemed": 0,
+      "globalRarity": 11.047,
+      "adjustedRarity": 29.2
+    },
+    {
+      "name": "Marksman Optics: Low",
+      "totalRedeemed": 0,
+      "globalRarity": 11.047,
+      "adjustedRarity": 29.2
+    },
+    {
+      "name": "Synergy",
+      "totalRedeemed": 0,
+      "globalRarity": 11.047,
+      "adjustedRarity": 29.2
+    },
+    {
+      "name": "Stunloader",
+      "totalRedeemed": 0,
+      "globalRarity": 11.047,
+      "adjustedRarity": 29.2
+    },
+    {
+      "name": "Abundant Ammo Grants slightly increased ammo generation.",
+      "totalRedeemed": 0,
+      "globalRarity": 11.047,
+      "adjustedRarity": 29.2
+    },
+    {
+      "name": "CQC Optics: Low",
+      "totalRedeemed": 0,
+      "globalRarity": 11.047,
+      "adjustedRarity": 29.2
+    }
+  ]
+}

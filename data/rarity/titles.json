@@ -1,0 +1,461 @@
+{
+  "category": "titles",
+  "items": [
+    {
+      "name": "Atemporal",
+      "totalRedeemed": 5299,
+      "globalRarity": 0.007,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Praxic",
+      "totalRedeemed": 15113,
+      "globalRarity": 0.021,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Unleashed",
+      "totalRedeemed": 16559,
+      "globalRarity": 0.023,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Delver",
+      "totalRedeemed": 18292,
+      "globalRarity": 0.025,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Iconoclast",
+      "totalRedeemed": 25662,
+      "globalRarity": 0.036,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Renegade",
+      "totalRedeemed": 32238,
+      "globalRarity": 0.045,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Swordbearer",
+      "totalRedeemed": 38469,
+      "globalRarity": 0.054,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Transcendent",
+      "totalRedeemed": 39910,
+      "globalRarity": 0.056,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Fated Weapon",
+      "totalRedeemed": 44438,
+      "globalRarity": 0.062,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Reckoner",
+      "totalRedeemed": 45184,
+      "globalRarity": 0.063,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Blacksmith",
+      "totalRedeemed": 58505,
+      "globalRarity": 0.081,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Shadow",
+      "totalRedeemed": 65913,
+      "globalRarity": 0.092,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "ETERNAL",
+      "totalRedeemed": 74380,
+      "globalRarity": 0.104,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Ghoul",
+      "totalRedeemed": 76526,
+      "globalRarity": 0.107,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Wrathbearer",
+      "totalRedeemed": 78798,
+      "globalRarity": 0.11,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Undertaker",
+      "totalRedeemed": 80773,
+      "globalRarity": 0.112,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Dream Warrior",
+      "totalRedeemed": 80692,
+      "globalRarity": 0.112,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Avant-Garde",
+      "totalRedeemed": 80815,
+      "globalRarity": 0.113,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Disciple-Slayer",
+      "totalRedeemed": 81861,
+      "globalRarity": 0.114,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Kingslayer",
+      "totalRedeemed": 86273,
+      "globalRarity": 0.12,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Chronicler",
+      "totalRedeemed": 88248,
+      "globalRarity": 0.123,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Heretic",
+      "totalRedeemed": 104810,
+      "globalRarity": 0.146,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Slayer Baron",
+      "totalRedeemed": 110420,
+      "globalRarity": 0.154,
+      "adjustedRarity": 3.4
+    },
+    {
+      "name": "Enlightened",
+      "totalRedeemed": 113669,
+      "globalRarity": 0.158,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Discerptor",
+      "totalRedeemed": 113711,
+      "globalRarity": 0.158,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Rivensbane",
+      "totalRedeemed": 115734,
+      "globalRarity": 0.161,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "Harbinger",
+      "totalRedeemed": 123987,
+      "globalRarity": 0.173,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Fatebreaker",
+      "totalRedeemed": 140352,
+      "globalRarity": 0.195,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Gumshoe",
+      "totalRedeemed": 143008,
+      "globalRarity": 0.199,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Undying",
+      "totalRedeemed": 147337,
+      "globalRarity": 0.205,
+      "adjustedRarity": 4.6
+    },
+    {
+      "name": "Intrepid",
+      "totalRedeemed": 154121,
+      "globalRarity": 0.215,
+      "adjustedRarity": 4.8
+    },
+    {
+      "name": "MMXIX",
+      "totalRedeemed": 155370,
+      "globalRarity": 0.216,
+      "adjustedRarity": 4.8
+    },
+    {
+      "name": "WANTED",
+      "totalRedeemed": 157033,
+      "globalRarity": 0.219,
+      "adjustedRarity": 4.9
+    },
+    {
+      "name": "Sharpshooter",
+      "totalRedeemed": 162952,
+      "globalRarity": 0.227,
+      "adjustedRarity": 5.1
+    },
+    {
+      "name": "Almighty",
+      "totalRedeemed": 171696,
+      "globalRarity": 0.239,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "Heavy Metal",
+      "totalRedeemed": 176891,
+      "globalRarity": 0.246,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Godslayer",
+      "totalRedeemed": 176940,
+      "globalRarity": 0.246,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "MMXXIV",
+      "totalRedeemed": 179297,
+      "globalRarity": 0.25,
+      "adjustedRarity": 5.6
+    },
+    {
+      "name": "MMXXII",
+      "totalRedeemed": 182383,
+      "globalRarity": 0.254,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Legend",
+      "totalRedeemed": 198872,
+      "globalRarity": 0.277,
+      "adjustedRarity": 6.2
+    },
+    {
+      "name": "Splintered",
+      "totalRedeemed": 210138,
+      "globalRarity": 0.293,
+      "adjustedRarity": 6.5
+    },
+    {
+      "name": "Flawless",
+      "totalRedeemed": 218195,
+      "globalRarity": 0.304,
+      "adjustedRarity": 6.8
+    },
+    {
+      "name": "MMXXI",
+      "totalRedeemed": 221332,
+      "globalRarity": 0.308,
+      "adjustedRarity": 6.9
+    },
+    {
+      "name": "Realmwalker",
+      "totalRedeemed": 234364,
+      "globalRarity": 0.326,
+      "adjustedRarity": 7.3
+    },
+    {
+      "name": "Queensguard",
+      "totalRedeemed": 237231,
+      "globalRarity": 0.33,
+      "adjustedRarity": 7.4
+    },
+    {
+      "name": "Descendant",
+      "totalRedeemed": 259226,
+      "globalRarity": 0.361,
+      "adjustedRarity": 8.1
+    },
+    {
+      "name": "Savior",
+      "totalRedeemed": 264029,
+      "globalRarity": 0.368,
+      "adjustedRarity": 8.2
+    },
+    {
+      "name": "Aquanaut",
+      "totalRedeemed": 271163,
+      "globalRarity": 0.378,
+      "adjustedRarity": 8.4
+    },
+    {
+      "name": "MMXX",
+      "totalRedeemed": 271478,
+      "globalRarity": 0.378,
+      "adjustedRarity": 8.4
+    },
+    {
+      "name": "Risen",
+      "totalRedeemed": 286036,
+      "globalRarity": 0.398,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Virtual Fighter",
+      "totalRedeemed": 297086,
+      "globalRarity": 0.414,
+      "adjustedRarity": 9.2
+    },
+    {
+      "name": "Cursebreaker",
+      "totalRedeemed": 313029,
+      "globalRarity": 0.436,
+      "adjustedRarity": 9.7
+    },
+    {
+      "name": "MMXXIII",
+      "totalRedeemed": 322663,
+      "globalRarity": 0.449,
+      "adjustedRarity": 10
+    },
+    {
+      "name": "Unbroken",
+      "totalRedeemed": 325904,
+      "globalRarity": 0.454,
+      "adjustedRarity": 10.1
+    },
+    {
+      "name": "Wishbearer",
+      "totalRedeemed": 328804,
+      "globalRarity": 0.458,
+      "adjustedRarity": 10.2
+    },
+    {
+      "name": "Forerunner",
+      "totalRedeemed": 339983,
+      "globalRarity": 0.473,
+      "adjustedRarity": 10.6
+    },
+    {
+      "name": "Wayfarer",
+      "totalRedeemed": 355899,
+      "globalRarity": 0.495,
+      "adjustedRarity": 11.1
+    },
+    {
+      "name": "Warden",
+      "totalRedeemed": 360490,
+      "globalRarity": 0.502,
+      "adjustedRarity": 11.2
+    },
+    {
+      "name": "Reveler",
+      "totalRedeemed": 379985,
+      "globalRarity": 0.529,
+      "adjustedRarity": 11.8
+    },
+    {
+      "name": "Haruspex",
+      "totalRedeemed": 391951,
+      "globalRarity": 0.546,
+      "adjustedRarity": 12.2
+    },
+    {
+      "name": "Chosen",
+      "totalRedeemed": 400992,
+      "globalRarity": 0.558,
+      "adjustedRarity": 12.5
+    },
+    {
+      "name": "Seraph",
+      "totalRedeemed": 402790,
+      "globalRarity": 0.561,
+      "adjustedRarity": 12.5
+    },
+    {
+      "name": "Glorious",
+      "totalRedeemed": 422497,
+      "globalRarity": 0.588,
+      "adjustedRarity": 13.1
+    },
+    {
+      "name": "Reaper",
+      "totalRedeemed": 422499,
+      "globalRarity": 0.588,
+      "adjustedRarity": 13.1
+    },
+    {
+      "name": "Scallywag",
+      "totalRedeemed": 455936,
+      "globalRarity": 0.635,
+      "adjustedRarity": 14.2
+    },
+    {
+      "name": "Splicer",
+      "totalRedeemed": 525762,
+      "globalRarity": 0.732,
+      "adjustedRarity": 16.3
+    },
+    {
+      "name": "Champ",
+      "totalRedeemed": 526392,
+      "globalRarity": 0.733,
+      "adjustedRarity": 16.4
+    },
+    {
+      "name": "Deadeye",
+      "totalRedeemed": 533913,
+      "globalRarity": 0.743,
+      "adjustedRarity": 16.6
+    },
+    {
+      "name": "BRAVE",
+      "totalRedeemed": 698176,
+      "globalRarity": 0.972,
+      "adjustedRarity": 21.7
+    },
+    {
+      "name": "Vidmaster",
+      "totalRedeemed": 789449,
+      "globalRarity": 1.099,
+      "adjustedRarity": 24.5
+    },
+    {
+      "name": "Star Baker",
+      "totalRedeemed": 796063,
+      "globalRarity": 1.108,
+      "adjustedRarity": 24.7
+    },
+    {
+      "name": "Ghost Writer",
+      "totalRedeemed": 795763,
+      "globalRarity": 1.108,
+      "adjustedRarity": 24.7
+    },
+    {
+      "name": "Dredgen",
+      "totalRedeemed": 1069689,
+      "globalRarity": 1.489,
+      "adjustedRarity": 33.2
+    },
+    {
+      "name": "Flamekeeper",
+      "totalRedeemed": 1147465,
+      "globalRarity": 1.598,
+      "adjustedRarity": 35.6
+    },
+    {
+      "name": "Iron Lord",
+      "totalRedeemed": 1216177,
+      "globalRarity": 1.693,
+      "adjustedRarity": 37.8
+    },
+    {
+      "name": "Conqueror",
+      "totalRedeemed": 1905670,
+      "globalRarity": 2.653,
+      "adjustedRarity": 59.2
+    }
+  ]
+}

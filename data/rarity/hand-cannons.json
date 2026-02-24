@@ -1,0 +1,707 @@
+{
+  "category": "hand-cannons",
+  "items": [
+    {
+      "name": "Yesterday's Question (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.153,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Word of Crota (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.22,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Judgment (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.221,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Corundum Hammer",
+      "totalRedeemed": 0,
+      "globalRarity": 0.278,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Exalted Truth (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.304,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "A Cold Sweat",
+      "totalRedeemed": 0,
+      "globalRarity": 0.38,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Agamid",
+      "totalRedeemed": 0,
+      "globalRarity": 0.38,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Aureus Neutralizer",
+      "totalRedeemed": 0,
+      "globalRarity": 0.391,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Solemn Remembrance",
+      "totalRedeemed": 0,
+      "globalRarity": 0.455,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "D.F.A. (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.542,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Sarpedon-D",
+      "totalRedeemed": 0,
+      "globalRarity": 0.696,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Unloved",
+      "totalRedeemed": 0,
+      "globalRarity": 0.703,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Igneous Hammer (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.708,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "The Defiant",
+      "totalRedeemed": 0,
+      "globalRarity": 0.769,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Zaouli's Bane (Harrowed)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.783,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Graviton Spike",
+      "totalRedeemed": 0,
+      "globalRarity": 0.865,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Yesterday's Question",
+      "totalRedeemed": 0,
+      "globalRarity": 0.882,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "The Palindrome (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.936,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Mos Athanor IV",
+      "totalRedeemed": 0,
+      "globalRarity": 0.938,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Fatebringer (Timelost)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.997,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Exalted Truth",
+      "totalRedeemed": 0,
+      "globalRarity": 1.028,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Older Sister III",
+      "totalRedeemed": 0,
+      "globalRarity": 1.08,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Warden's Law (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 1.092,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Word of Crota",
+      "totalRedeemed": 0,
+      "globalRarity": 1.145,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Modified B-7 Pistol",
+      "totalRedeemed": 0,
+      "globalRarity": 1.175,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Phoneutria Fera",
+      "totalRedeemed": 0,
+      "globalRarity": 1.239,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Not Forgotten",
+      "totalRedeemed": 0,
+      "globalRarity": 1.261,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Uncivil Discourse",
+      "totalRedeemed": 0,
+      "globalRarity": 1.265,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Agape",
+      "totalRedeemed": 0,
+      "globalRarity": 1.611,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Igneous Hammer",
+      "totalRedeemed": 0,
+      "globalRarity": 1.854,
+      "adjustedRarity": 4.9
+    },
+    {
+      "name": "Exuviae",
+      "totalRedeemed": 0,
+      "globalRarity": 1.918,
+      "adjustedRarity": 5.1
+    },
+    {
+      "name": "Zaouli's Bane",
+      "totalRedeemed": 0,
+      "globalRarity": 2.044,
+      "adjustedRarity": 5.4
+    },
+    {
+      "name": "Ancient Gospel",
+      "totalRedeemed": 0,
+      "globalRarity": 2.075,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Warden's Law",
+      "totalRedeemed": 0,
+      "globalRarity": 2.078,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Malediction",
+      "totalRedeemed": 0,
+      "globalRarity": 2.086,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Posterity",
+      "totalRedeemed": 0,
+      "globalRarity": 2.086,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Something New",
+      "totalRedeemed": 0,
+      "globalRarity": 2.088,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Daedalus Code",
+      "totalRedeemed": 0,
+      "globalRarity": 2.104,
+      "adjustedRarity": 5.6
+    },
+    {
+      "name": "The Palindrome",
+      "totalRedeemed": 0,
+      "globalRarity": 2.212,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Bold Endings",
+      "totalRedeemed": 0,
+      "globalRarity": 2.319,
+      "adjustedRarity": 6.1
+    },
+    {
+      "name": "Round Robin",
+      "totalRedeemed": 0,
+      "globalRarity": 2.334,
+      "adjustedRarity": 6.2
+    },
+    {
+      "name": "Home for the Lost",
+      "totalRedeemed": 0,
+      "globalRarity": 2.397,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "West of Sunfall 7",
+      "totalRedeemed": 0,
+      "globalRarity": 2.588,
+      "adjustedRarity": 6.8
+    },
+    {
+      "name": "D.F.A.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.589,
+      "adjustedRarity": 6.8
+    },
+    {
+      "name": "Luna's Howl",
+      "totalRedeemed": 0,
+      "globalRarity": 2.661,
+      "adjustedRarity": 7
+    },
+    {
+      "name": "Kindled Orchid",
+      "totalRedeemed": 0,
+      "globalRarity": 2.719,
+      "adjustedRarity": 7.2
+    },
+    {
+      "name": "Sightline Survey",
+      "totalRedeemed": 0,
+      "globalRarity": 2.735,
+      "adjustedRarity": 7.2
+    },
+    {
+      "name": "Midnight Coup",
+      "totalRedeemed": 0,
+      "globalRarity": 2.78,
+      "adjustedRarity": 7.3
+    },
+    {
+      "name": "Imset HC4",
+      "totalRedeemed": 0,
+      "globalRarity": 2.782,
+      "adjustedRarity": 7.4
+    },
+    {
+      "name": "Judgment",
+      "totalRedeemed": 0,
+      "globalRarity": 2.861,
+      "adjustedRarity": 7.6
+    },
+    {
+      "name": "Fatebringer",
+      "totalRedeemed": 0,
+      "globalRarity": 2.931,
+      "adjustedRarity": 7.7
+    },
+    {
+      "name": "Minuet-42",
+      "totalRedeemed": 0,
+      "globalRarity": 2.95,
+      "adjustedRarity": 7.8
+    },
+    {
+      "name": "Epochal Integration",
+      "totalRedeemed": 0,
+      "globalRarity": 3.038,
+      "adjustedRarity": 8
+    },
+    {
+      "name": "Frontier's Cry",
+      "totalRedeemed": 0,
+      "globalRarity": 3.131,
+      "adjustedRarity": 8.3
+    },
+    {
+      "name": "Kept Confidence",
+      "totalRedeemed": 0,
+      "globalRarity": 3.183,
+      "adjustedRarity": 8.4
+    },
+    {
+      "name": "Nation of Beasts",
+      "totalRedeemed": 0,
+      "globalRarity": 3.285,
+      "adjustedRarity": 8.7
+    },
+    {
+      "name": "Bad News XF4354",
+      "totalRedeemed": 0,
+      "globalRarity": 3.371,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Finite Impactor",
+      "totalRedeemed": 0,
+      "globalRarity": 3.555,
+      "adjustedRarity": 9.4
+    },
+    {
+      "name": "The Steady Hand",
+      "totalRedeemed": 0,
+      "globalRarity": 3.709,
+      "adjustedRarity": 9.8
+    },
+    {
+      "name": "Eyasluna",
+      "totalRedeemed": 0,
+      "globalRarity": 3.845,
+      "adjustedRarity": 10.2
+    },
+    {
+      "name": "Malfeasance",
+      "totalRedeemed": 0,
+      "globalRarity": 3.941,
+      "adjustedRarity": 10.4
+    },
+    {
+      "name": "Rose",
+      "totalRedeemed": 0,
+      "globalRarity": 4.042,
+      "adjustedRarity": 10.7
+    },
+    {
+      "name": "Lumina",
+      "totalRedeemed": 0,
+      "globalRarity": 4.043,
+      "adjustedRarity": 10.7
+    },
+    {
+      "name": "Jack Queen King 3",
+      "totalRedeemed": 0,
+      "globalRarity": 4.167,
+      "adjustedRarity": 11
+    },
+    {
+      "name": "IKELOS_HC_v1.0.3",
+      "totalRedeemed": 0,
+      "globalRarity": 4.196,
+      "adjustedRarity": 11.1
+    },
+    {
+      "name": "Optative",
+      "totalRedeemed": 0,
+      "globalRarity": 4.27,
+      "adjustedRarity": 11.3
+    },
+    {
+      "name": "Spare Rations",
+      "totalRedeemed": 0,
+      "globalRarity": 4.312,
+      "adjustedRarity": 11.4
+    },
+    {
+      "name": "Living Memory",
+      "totalRedeemed": 0,
+      "globalRarity": 4.367,
+      "adjustedRarity": 11.5
+    },
+    {
+      "name": "Hawkmoon",
+      "totalRedeemed": 0,
+      "globalRarity": 4.734,
+      "adjustedRarity": 12.5
+    },
+    {
+      "name": "Crimil's Dagger",
+      "totalRedeemed": 0,
+      "globalRarity": 4.883,
+      "adjustedRarity": 12.9
+    },
+    {
+      "name": "Vulpecula",
+      "totalRedeemed": 0,
+      "globalRarity": 4.904,
+      "adjustedRarity": 13
+    },
+    {
+      "name": "Service Revolver",
+      "totalRedeemed": 0,
+      "globalRarity": 5.16,
+      "adjustedRarity": 13.6
+    },
+    {
+      "name": "Targeted Redaction",
+      "totalRedeemed": 0,
+      "globalRarity": 5.332,
+      "adjustedRarity": 14.1
+    },
+    {
+      "name": "Loud Lullaby",
+      "totalRedeemed": 0,
+      "globalRarity": 5.342,
+      "adjustedRarity": 14.1
+    },
+    {
+      "name": "The Last Word",
+      "totalRedeemed": 0,
+      "globalRarity": 5.604,
+      "adjustedRarity": 14.8
+    },
+    {
+      "name": "Maahes HC4",
+      "totalRedeemed": 0,
+      "globalRarity": 5.692,
+      "adjustedRarity": 15
+    },
+    {
+      "name": "IKELOS_HC_v1.0.2",
+      "totalRedeemed": 0,
+      "globalRarity": 5.756,
+      "adjustedRarity": 15.2
+    },
+    {
+      "name": "Eriana's Vow",
+      "totalRedeemed": 0,
+      "globalRarity": 5.893,
+      "adjustedRarity": 15.6
+    },
+    {
+      "name": "Seventh Seraph Officer Revolver",
+      "totalRedeemed": 0,
+      "globalRarity": 6.413,
+      "adjustedRarity": 17
+    },
+    {
+      "name": "Thorn",
+      "totalRedeemed": 0,
+      "globalRarity": 6.436,
+      "adjustedRarity": 17
+    },
+    {
+      "name": "Trust",
+      "totalRedeemed": 0,
+      "globalRarity": 6.914,
+      "adjustedRarity": 18.3
+    },
+    {
+      "name": "Crisis Inverted",
+      "totalRedeemed": 0,
+      "globalRarity": 6.986,
+      "adjustedRarity": 18.5
+    },
+    {
+      "name": "Bottom Dollar",
+      "totalRedeemed": 0,
+      "globalRarity": 7.151,
+      "adjustedRarity": 18.9
+    },
+    {
+      "name": "Combined Action",
+      "totalRedeemed": 0,
+      "globalRarity": 7.32,
+      "adjustedRarity": 19.3
+    },
+    {
+      "name": "Thin Line",
+      "totalRedeemed": 0,
+      "globalRarity": 7.328,
+      "adjustedRarity": 19.4
+    },
+    {
+      "name": "Pure Poetry",
+      "totalRedeemed": 0,
+      "globalRarity": 7.603,
+      "adjustedRarity": 20.1
+    },
+    {
+      "name": "The Old Fashioned",
+      "totalRedeemed": 0,
+      "globalRarity": 7.619,
+      "adjustedRarity": 20.1
+    },
+    {
+      "name": "Sturm",
+      "totalRedeemed": 0,
+      "globalRarity": 7.689,
+      "adjustedRarity": 20.3
+    },
+    {
+      "name": "Waking Vigil",
+      "totalRedeemed": 0,
+      "globalRarity": 7.853,
+      "adjustedRarity": 20.8
+    },
+    {
+      "name": "Annual Skate",
+      "totalRedeemed": 0,
+      "globalRarity": 8.022,
+      "adjustedRarity": 21.2
+    },
+    {
+      "name": "Duke Mk. 44",
+      "totalRedeemed": 0,
+      "globalRarity": 8.115,
+      "adjustedRarity": 21.5
+    },
+    {
+      "name": "Shattered Peace",
+      "totalRedeemed": 0,
+      "globalRarity": 8.363,
+      "adjustedRarity": 22.1
+    },
+    {
+      "name": "Nature of the Beast",
+      "totalRedeemed": 0,
+      "globalRarity": 8.366,
+      "adjustedRarity": 22.1
+    },
+    {
+      "name": "Ace of Spades",
+      "totalRedeemed": 0,
+      "globalRarity": 8.476,
+      "adjustedRarity": 22.4
+    },
+    {
+      "name": "Austringer",
+      "totalRedeemed": 0,
+      "globalRarity": 8.685,
+      "adjustedRarity": 23
+    },
+    {
+      "name": "True Prophecy",
+      "totalRedeemed": 0,
+      "globalRarity": 8.905,
+      "adjustedRarity": 23.5
+    },
+    {
+      "name": "Survivor's Epitaph",
+      "totalRedeemed": 0,
+      "globalRarity": 8.975,
+      "adjustedRarity": 23.7
+    },
+    {
+      "name": "IKELOS_HC_v1.0.1",
+      "totalRedeemed": 0,
+      "globalRarity": 9.472,
+      "adjustedRarity": 25
+    },
+    {
+      "name": "Pribina-D",
+      "totalRedeemed": 0,
+      "globalRarity": 9.697,
+      "adjustedRarity": 25.6
+    },
+    {
+      "name": "Bad News",
+      "totalRedeemed": 0,
+      "globalRarity": 9.801,
+      "adjustedRarity": 25.9
+    },
+    {
+      "name": "Cantata-57",
+      "totalRedeemed": 0,
+      "globalRarity": 10.037,
+      "adjustedRarity": 26.5
+    },
+    {
+      "name": "Dire Promise",
+      "totalRedeemed": 0,
+      "globalRarity": 10.073,
+      "adjustedRarity": 26.6
+    },
+    {
+      "name": "Crimson",
+      "totalRedeemed": 0,
+      "globalRarity": 11.003,
+      "adjustedRarity": 29.1
+    },
+    {
+      "name": "Ten Paces",
+      "totalRedeemed": 0,
+      "globalRarity": 11.102,
+      "adjustedRarity": 29.3
+    },
+    {
+      "name": "Better Devils",
+      "totalRedeemed": 0,
+      "globalRarity": 12.148,
+      "adjustedRarity": 32.1
+    },
+    {
+      "name": "Sunshot",
+      "totalRedeemed": 0,
+      "globalRarity": 18.94,
+      "adjustedRarity": 50.1
+    },
+    {
+      "name": "Ballyhoo Mk.27",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Azimuth DSu",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Picayune Mk. 33",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Headstrong",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "One Earth",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Guseva-C",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Allegro-34",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Lamia HC2",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Minuet-12",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Helios HC1",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Mos Ultima II",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    }
+  ]
+}

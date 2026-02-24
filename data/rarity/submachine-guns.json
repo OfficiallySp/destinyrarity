@@ -1,0 +1,587 @@
+{
+  "category": "submachine-guns",
+  "items": [
+    {
+      "name": "Motion to Suppress",
+      "totalRedeemed": 37746,
+      "globalRarity": 0.053,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Imminence (Adept)",
+      "totalRedeemed": 63042,
+      "globalRarity": 0.088,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Antedate",
+      "totalRedeemed": 0,
+      "globalRarity": 0.17,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Imminent Storm",
+      "totalRedeemed": 0,
+      "globalRarity": 0.231,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "No Survivors (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.256,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Mirror Imago (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.36,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Beidenhander",
+      "totalRedeemed": 0,
+      "globalRarity": 0.388,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Submission (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.458,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Shayura's Wrath (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.558,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Peculiar Charm",
+      "totalRedeemed": 0,
+      "globalRarity": 0.581,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "The Immortal (Adept)",
+      "totalRedeemed": 0,
+      "globalRarity": 0.592,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Imminence",
+      "totalRedeemed": 0,
+      "globalRarity": 0.61,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Seraphine Haze",
+      "totalRedeemed": 0,
+      "globalRarity": 0.642,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Gunburn",
+      "totalRedeemed": 0,
+      "globalRarity": 0.763,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Shayura's Wrath",
+      "totalRedeemed": 0,
+      "globalRarity": 0.998,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Barrow-Dyad",
+      "totalRedeemed": 0,
+      "globalRarity": 1.021,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Radiant Stardust",
+      "totalRedeemed": 0,
+      "globalRarity": 1.042,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Tarrabah",
+      "totalRedeemed": 0,
+      "globalRarity": 1.131,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Yeartide Apex",
+      "totalRedeemed": 0,
+      "globalRarity": 1.185,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "M-17 \"Fast Talker\"",
+      "totalRedeemed": 0,
+      "globalRarity": 1.263,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "The Immortal",
+      "totalRedeemed": 0,
+      "globalRarity": 1.387,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Noxious Vetiver",
+      "totalRedeemed": 0,
+      "globalRarity": 1.392,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Royal Dispensation II",
+      "totalRedeemed": 0,
+      "globalRarity": 1.433,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Submission",
+      "totalRedeemed": 0,
+      "globalRarity": 1.723,
+      "adjustedRarity": 4.6
+    },
+    {
+      "name": "Exit Strategy",
+      "totalRedeemed": 0,
+      "globalRarity": 1.747,
+      "adjustedRarity": 4.6
+    },
+    {
+      "name": "Mirror Imago",
+      "totalRedeemed": 0,
+      "globalRarity": 1.751,
+      "adjustedRarity": 4.6
+    },
+    {
+      "name": "Unforgiven",
+      "totalRedeemed": 0,
+      "globalRarity": 1.911,
+      "adjustedRarity": 5.1
+    },
+    {
+      "name": "No Survivors",
+      "totalRedeemed": 0,
+      "globalRarity": 2.15,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "IKELOS_SMG_v1.0.1",
+      "totalRedeemed": 0,
+      "globalRarity": 2.15,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Qua Nilus II",
+      "totalRedeemed": 0,
+      "globalRarity": 2.25,
+      "adjustedRarity": 5.9
+    },
+    {
+      "name": "The Title",
+      "totalRedeemed": 0,
+      "globalRarity": 2.268,
+      "adjustedRarity": 6
+    },
+    {
+      "name": "Perfect Pitch",
+      "totalRedeemed": 0,
+      "globalRarity": 2.356,
+      "adjustedRarity": 6.2
+    },
+    {
+      "name": "Subjunctive",
+      "totalRedeemed": 0,
+      "globalRarity": 2.447,
+      "adjustedRarity": 6.5
+    },
+    {
+      "name": "The Conqueror 2",
+      "totalRedeemed": 0,
+      "globalRarity": 2.584,
+      "adjustedRarity": 6.8
+    },
+    {
+      "name": "Resonance-42",
+      "totalRedeemed": 0,
+      "globalRarity": 2.703,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "Adjudicator",
+      "totalRedeemed": 0,
+      "globalRarity": 2.768,
+      "adjustedRarity": 7.3
+    },
+    {
+      "name": "Phosphorus MG4",
+      "totalRedeemed": 0,
+      "globalRarity": 2.777,
+      "adjustedRarity": 7.3
+    },
+    {
+      "name": "Forensic Nightmare",
+      "totalRedeemed": 0,
+      "globalRarity": 2.906,
+      "adjustedRarity": 7.7
+    },
+    {
+      "name": "Synchronic Roulette",
+      "totalRedeemed": 0,
+      "globalRarity": 3.18,
+      "adjustedRarity": 8.4
+    },
+    {
+      "name": "CALUS Mini-Tool",
+      "totalRedeemed": 0,
+      "globalRarity": 3.27,
+      "adjustedRarity": 8.6
+    },
+    {
+      "name": "Rapacious Appetite",
+      "totalRedeemed": 0,
+      "globalRarity": 3.36,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Atalanta-D XG1992",
+      "totalRedeemed": 0,
+      "globalRarity": 3.395,
+      "adjustedRarity": 9
+    },
+    {
+      "name": "Boondoggle Mk. 55",
+      "totalRedeemed": 0,
+      "globalRarity": 3.486,
+      "adjustedRarity": 9.2
+    },
+    {
+      "name": "Multimach CCX",
+      "totalRedeemed": 0,
+      "globalRarity": 3.495,
+      "adjustedRarity": 9.2
+    },
+    {
+      "name": "Blood Feud",
+      "totalRedeemed": 0,
+      "globalRarity": 3.514,
+      "adjustedRarity": 9.3
+    },
+    {
+      "name": "The Recluse",
+      "totalRedeemed": 0,
+      "globalRarity": 3.611,
+      "adjustedRarity": 9.5
+    },
+    {
+      "name": "The Manticore",
+      "totalRedeemed": 0,
+      "globalRarity": 3.646,
+      "adjustedRarity": 9.6
+    },
+    {
+      "name": "Sol Pariah 6",
+      "totalRedeemed": 0,
+      "globalRarity": 3.705,
+      "adjustedRarity": 9.8
+    },
+    {
+      "name": "Friction Fire",
+      "totalRedeemed": 0,
+      "globalRarity": 3.883,
+      "adjustedRarity": 10.3
+    },
+    {
+      "name": "Every Waking Moment",
+      "totalRedeemed": 0,
+      "globalRarity": 4.138,
+      "adjustedRarity": 10.9
+    },
+    {
+      "name": "The Hero's Burden",
+      "totalRedeemed": 0,
+      "globalRarity": 4.179,
+      "adjustedRarity": 11
+    },
+    {
+      "name": "The Showrunner",
+      "totalRedeemed": 0,
+      "globalRarity": 4.224,
+      "adjustedRarity": 11.2
+    },
+    {
+      "name": "IKELOS_SMG_v1.0.3",
+      "totalRedeemed": 0,
+      "globalRarity": 4.318,
+      "adjustedRarity": 11.4
+    },
+    {
+      "name": "Mob Justice",
+      "totalRedeemed": 0,
+      "globalRarity": 4.374,
+      "adjustedRarity": 11.6
+    },
+    {
+      "name": "Cold Front",
+      "totalRedeemed": 0,
+      "globalRarity": 4.473,
+      "adjustedRarity": 11.8
+    },
+    {
+      "name": "Bug-Out Bag",
+      "totalRedeemed": 0,
+      "globalRarity": 4.587,
+      "adjustedRarity": 12.1
+    },
+    {
+      "name": "Unending Tempest",
+      "totalRedeemed": 0,
+      "globalRarity": 4.603,
+      "adjustedRarity": 12.2
+    },
+    {
+      "name": "Breath of the Dragon",
+      "totalRedeemed": 0,
+      "globalRarity": 4.767,
+      "adjustedRarity": 12.6
+    },
+    {
+      "name": "Osteo Striga",
+      "totalRedeemed": 0,
+      "globalRarity": 5.078,
+      "adjustedRarity": 13.4
+    },
+    {
+      "name": "Pillager",
+      "totalRedeemed": 0,
+      "globalRarity": 5.212,
+      "adjustedRarity": 13.8
+    },
+    {
+      "name": "The Quickstep",
+      "totalRedeemed": 0,
+      "globalRarity": 6.148,
+      "adjustedRarity": 16.3
+    },
+    {
+      "name": "Yarovit MG4",
+      "totalRedeemed": 0,
+      "globalRarity": 6.179,
+      "adjustedRarity": 16.3
+    },
+    {
+      "name": "Out of Bounds",
+      "totalRedeemed": 0,
+      "globalRarity": 6.188,
+      "adjustedRarity": 16.4
+    },
+    {
+      "name": "Parabellum",
+      "totalRedeemed": 0,
+      "globalRarity": 6.215,
+      "adjustedRarity": 16.4
+    },
+    {
+      "name": "Death Adder",
+      "totalRedeemed": 0,
+      "globalRarity": 6.345,
+      "adjustedRarity": 16.8
+    },
+    {
+      "name": "Prolonged Engagement",
+      "totalRedeemed": 0,
+      "globalRarity": 7.051,
+      "adjustedRarity": 18.6
+    },
+    {
+      "name": "Red Mamba",
+      "totalRedeemed": 0,
+      "globalRarity": 7.157,
+      "adjustedRarity": 18.9
+    },
+    {
+      "name": "Seventh Seraph VY-7",
+      "totalRedeemed": 0,
+      "globalRarity": 7.445,
+      "adjustedRarity": 19.7
+    },
+    {
+      "name": "Extraordinary Rendition",
+      "totalRedeemed": 0,
+      "globalRarity": 7.474,
+      "adjustedRarity": 19.8
+    },
+    {
+      "name": "IKELOS_SMG_v1.0.2",
+      "totalRedeemed": 0,
+      "globalRarity": 7.663,
+      "adjustedRarity": 20.3
+    },
+    {
+      "name": "Borrowed Time",
+      "totalRedeemed": 0,
+      "globalRarity": 7.725,
+      "adjustedRarity": 20.4
+    },
+    {
+      "name": "Atalanta-D",
+      "totalRedeemed": 0,
+      "globalRarity": 7.861,
+      "adjustedRarity": 20.8
+    },
+    {
+      "name": "New City",
+      "totalRedeemed": 0,
+      "globalRarity": 7.968,
+      "adjustedRarity": 21.1
+    },
+    {
+      "name": "Out of Options",
+      "totalRedeemed": 0,
+      "globalRarity": 7.998,
+      "adjustedRarity": 21.1
+    },
+    {
+      "name": "Trackless Waste",
+      "totalRedeemed": 0,
+      "globalRarity": 8.029,
+      "adjustedRarity": 21.2
+    },
+    {
+      "name": "Foggy Notion",
+      "totalRedeemed": 0,
+      "globalRarity": 8.232,
+      "adjustedRarity": 21.8
+    },
+    {
+      "name": "Pizzicato-22",
+      "totalRedeemed": 0,
+      "globalRarity": 8.357,
+      "adjustedRarity": 22.1
+    },
+    {
+      "name": "Antiope-D",
+      "totalRedeemed": 0,
+      "globalRarity": 8.561,
+      "adjustedRarity": 22.6
+    },
+    {
+      "name": "Stochastic Variable",
+      "totalRedeemed": 0,
+      "globalRarity": 8.622,
+      "adjustedRarity": 22.8
+    },
+    {
+      "name": "Hard Truths",
+      "totalRedeemed": 0,
+      "globalRarity": 8.824,
+      "adjustedRarity": 23.3
+    },
+    {
+      "name": "Enyo-D",
+      "totalRedeemed": 0,
+      "globalRarity": 9.211,
+      "adjustedRarity": 24.3
+    },
+    {
+      "name": "Escape Velocity",
+      "totalRedeemed": 0,
+      "globalRarity": 9.988,
+      "adjustedRarity": 26.4
+    },
+    {
+      "name": "Bad Reputation",
+      "totalRedeemed": 0,
+      "globalRarity": 10.054,
+      "adjustedRarity": 26.6
+    },
+    {
+      "name": "Funnelweb",
+      "totalRedeemed": 0,
+      "globalRarity": 10.069,
+      "adjustedRarity": 26.6
+    },
+    {
+      "name": "The Huckleberry",
+      "totalRedeemed": 0,
+      "globalRarity": 10.474,
+      "adjustedRarity": 27.7
+    },
+    {
+      "name": "MIDA Mini-Tool",
+      "totalRedeemed": 0,
+      "globalRarity": 13.696,
+      "adjustedRarity": 36.2
+    },
+    {
+      "name": "Riskrunner",
+      "totalRedeemed": 0,
+      "globalRarity": 27.043,
+      "adjustedRarity": 71.5
+    },
+    {
+      "name": "Harmony-21",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Philippis-B",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Protostar CSu",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Sorrow MG2",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Forte-15",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Sondok-C",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Whip Scorpion-3mg",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Daystar SMG2",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Furina-2mg",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Etude-12",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    }
+  ]
+}

@@ -1,0 +1,5747 @@
+{
+  "category": "emblems",
+  "items": [
+    {
+      "name": "Fly Together",
+      "totalRedeemed": 1,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "In the Fire",
+      "totalRedeemed": 1,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Wish-Granter",
+      "totalRedeemed": 2,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Eternal Moment",
+      "totalRedeemed": 3,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Humanity's Chosen",
+      "totalRedeemed": 3,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Luminary",
+      "totalRedeemed": 6,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Cordula",
+      "totalRedeemed": 11,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Wish Ascended",
+      "totalRedeemed": 13,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Venae Cavae",
+      "totalRedeemed": 30,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Nyctophobia",
+      "totalRedeemed": 37,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Glory's Plunge",
+      "totalRedeemed": 39,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "The Hidden Edge",
+      "totalRedeemed": 50,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Golden Age",
+      "totalRedeemed": 58,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Filament Blossom",
+      "totalRedeemed": 58,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Prismatic Vaporware",
+      "totalRedeemed": 59,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Vigilant Console",
+      "totalRedeemed": 73,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Symposium Shield",
+      "totalRedeemed": 77,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Photoionization",
+      "totalRedeemed": 85,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Mediastinum",
+      "totalRedeemed": 85,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Prêt-à-porter",
+      "totalRedeemed": 85,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Music of Mercury",
+      "totalRedeemed": 116,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Before Dawn",
+      "totalRedeemed": 125,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Dazzling Visage",
+      "totalRedeemed": 139,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Aspect of Luminance",
+      "totalRedeemed": 156,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Outside the Lines",
+      "totalRedeemed": 159,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Belle Èpoque",
+      "totalRedeemed": 163,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "A Crimson Cathedral",
+      "totalRedeemed": 171,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Artist in Residence",
+      "totalRedeemed": 173,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Parallel Program",
+      "totalRedeemed": 212,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Core of the Nova",
+      "totalRedeemed": 215,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Chromatic Intention",
+      "totalRedeemed": 254,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Hallowed Coronation",
+      "totalRedeemed": 262,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Felis Galaxias",
+      "totalRedeemed": 272,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "24 FPS",
+      "totalRedeemed": 332,
+      "globalRarity": 0,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "The Levante Prize",
+      "totalRedeemed": 380,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Function of Grace",
+      "totalRedeemed": 396,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "And… Action!",
+      "totalRedeemed": 399,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Light Lotus",
+      "totalRedeemed": 445,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Faster Than Light",
+      "totalRedeemed": 460,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Forever Guardian",
+      "totalRedeemed": 484,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Anamnesis",
+      "totalRedeemed": 502,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Heavy Is the Crown",
+      "totalRedeemed": 509,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Together We Ramen",
+      "totalRedeemed": 526,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Dive into Darkness",
+      "totalRedeemed": 539,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Galvanic Bass",
+      "totalRedeemed": 579,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Gratiam Flare",
+      "totalRedeemed": 584,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Bounty of Good",
+      "totalRedeemed": 597,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Silver Age",
+      "totalRedeemed": 635,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Artifacting Signal",
+      "totalRedeemed": 707,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Photologician",
+      "totalRedeemed": 715,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Heart Control",
+      "totalRedeemed": 784,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Above and Beyond",
+      "totalRedeemed": 951,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Metagalactic Bloom",
+      "totalRedeemed": 980,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "The Consensus",
+      "totalRedeemed": 1061,
+      "globalRarity": 0.001,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Drop the Needle",
+      "totalRedeemed": 1256,
+      "globalRarity": 0.002,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Big Heart",
+      "totalRedeemed": 1447,
+      "globalRarity": 0.002,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Tartan Tribute",
+      "totalRedeemed": 1496,
+      "globalRarity": 0.002,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Lens of Fate",
+      "totalRedeemed": 1594,
+      "globalRarity": 0.002,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Hope Hues",
+      "totalRedeemed": 1690,
+      "globalRarity": 0.002,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Nine-Crowned",
+      "totalRedeemed": 1770,
+      "globalRarity": 0.002,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Van der Waals Force",
+      "totalRedeemed": 1952,
+      "globalRarity": 0.003,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Rorschach",
+      "totalRedeemed": 2104,
+      "globalRarity": 0.003,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Outrun",
+      "totalRedeemed": 2317,
+      "globalRarity": 0.003,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "A Dream Shared",
+      "totalRedeemed": 2340,
+      "globalRarity": 0.003,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Binary Cascade",
+      "totalRedeemed": 2345,
+      "globalRarity": 0.003,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Timeline's Blade",
+      "totalRedeemed": 2553,
+      "globalRarity": 0.004,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Control",
+      "totalRedeemed": 2735,
+      "globalRarity": 0.004,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "California Love",
+      "totalRedeemed": 2786,
+      "globalRarity": 0.004,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Fired Up",
+      "totalRedeemed": 2799,
+      "globalRarity": 0.004,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Sign of Mutual Combat",
+      "totalRedeemed": 2915,
+      "globalRarity": 0.004,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Repeat Repeat",
+      "totalRedeemed": 3002,
+      "globalRarity": 0.004,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Conjurers",
+      "totalRedeemed": 3106,
+      "globalRarity": 0.004,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Sweet and Snowy",
+      "totalRedeemed": 3146,
+      "globalRarity": 0.004,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Shine Triumphant",
+      "totalRedeemed": 3179,
+      "globalRarity": 0.004,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Tribute to Bravery",
+      "totalRedeemed": 3202,
+      "globalRarity": 0.004,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Mors Certa",
+      "totalRedeemed": 3262,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Hunker Down",
+      "totalRedeemed": 3349,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Heartfelt Crackle",
+      "totalRedeemed": 3365,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Fractured Timeline",
+      "totalRedeemed": 3498,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Sunburst",
+      "totalRedeemed": 3556,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Back to Basics",
+      "totalRedeemed": 3565,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Starsplash",
+      "totalRedeemed": 3590,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Scientia Obscura",
+      "totalRedeemed": 3699,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "GDS-89",
+      "totalRedeemed": 3715,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Fightstick",
+      "totalRedeemed": 3755,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Indomitable Unity",
+      "totalRedeemed": 3756,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Feint Drift",
+      "totalRedeemed": 3790,
+      "globalRarity": 0.005,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Matrix Jubilee",
+      "totalRedeemed": 4049,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Rogue Polymer",
+      "totalRedeemed": 4076,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Twisted Sincerity",
+      "totalRedeemed": 4165,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Scourge of Nothing",
+      "totalRedeemed": 4228,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Polychromatic Refraction",
+      "totalRedeemed": 4274,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "All That",
+      "totalRedeemed": 4414,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Osmium Heir",
+      "totalRedeemed": 4507,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "A Thousand Hugs",
+      "totalRedeemed": 4523,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Aurora Prismealis",
+      "totalRedeemed": 4529,
+      "globalRarity": 0.006,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Heavy as Death",
+      "totalRedeemed": 5313,
+      "globalRarity": 0.007,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Time Honored",
+      "totalRedeemed": 5009,
+      "globalRarity": 0.007,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Covalence",
+      "totalRedeemed": 5069,
+      "globalRarity": 0.007,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Glory & Gold",
+      "totalRedeemed": 5085,
+      "globalRarity": 0.007,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Magnetosonic Waves",
+      "totalRedeemed": 5262,
+      "globalRarity": 0.007,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "An Audience",
+      "totalRedeemed": 5335,
+      "globalRarity": 0.007,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Draconis Tetrachroma",
+      "totalRedeemed": 5404,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Incandescent",
+      "totalRedeemed": 5477,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Cutting Edge",
+      "totalRedeemed": 5542,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Pitiless",
+      "totalRedeemed": 5593,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Highland Heart",
+      "totalRedeemed": 5600,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Neon Fade",
+      "totalRedeemed": 5701,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Bending Borealis",
+      "totalRedeemed": 5835,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Follow the Light",
+      "totalRedeemed": 5880,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Grimoire",
+      "totalRedeemed": 5924,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Plaid Pride",
+      "totalRedeemed": 5946,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "The Secret Weapon",
+      "totalRedeemed": 6010,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Ever Higher",
+      "totalRedeemed": 6028,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Knees Out",
+      "totalRedeemed": 6063,
+      "globalRarity": 0.008,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Brick by Brick",
+      "totalRedeemed": 6344,
+      "globalRarity": 0.009,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Lockbox",
+      "totalRedeemed": 6401,
+      "globalRarity": 0.009,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Suspended Animation",
+      "totalRedeemed": 6409,
+      "globalRarity": 0.009,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Woven Resilience",
+      "totalRedeemed": 6507,
+      "globalRarity": 0.009,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Scientia Illuminata",
+      "totalRedeemed": 6519,
+      "globalRarity": 0.009,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Vanquisher's Standard",
+      "totalRedeemed": 6566,
+      "globalRarity": 0.009,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Burnt Edges",
+      "totalRedeemed": 6854,
+      "globalRarity": 0.01,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Electromagnon",
+      "totalRedeemed": 6975,
+      "globalRarity": 0.01,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "After the Nightfall",
+      "totalRedeemed": 7062,
+      "globalRarity": 0.01,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Love Is the Mind Saver",
+      "totalRedeemed": 7164,
+      "globalRarity": 0.01,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Second Mark of the Collector",
+      "totalRedeemed": 7328,
+      "globalRarity": 0.01,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Sharpened Foil",
+      "totalRedeemed": 7419,
+      "globalRarity": 0.01,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Opulence Corrupted",
+      "totalRedeemed": 7476,
+      "globalRarity": 0.01,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Existential Unfoldment",
+      "totalRedeemed": 7567,
+      "globalRarity": 0.011,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Aurora Clash",
+      "totalRedeemed": 7608,
+      "globalRarity": 0.011,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Circles Entwined",
+      "totalRedeemed": 7737,
+      "globalRarity": 0.011,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Paradoxical Impression",
+      "totalRedeemed": 7765,
+      "globalRarity": 0.011,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Even Darker Days",
+      "totalRedeemed": 7782,
+      "globalRarity": 0.011,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Emblem of the Hibiscus",
+      "totalRedeemed": 7829,
+      "globalRarity": 0.011,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Master Guide \"kkkkkkzk His Highness weeps with joy at your benevolence _%$&*%%.\" —Benedict 99-40",
+      "totalRedeemed": 7837,
+      "globalRarity": 0.011,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Awake at Night",
+      "totalRedeemed": 8228,
+      "globalRarity": 0.011,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Solar Breeze",
+      "totalRedeemed": 8314,
+      "globalRarity": 0.012,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "¡Revivir!",
+      "totalRedeemed": 8336,
+      "globalRarity": 0.012,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Golden Hour",
+      "totalRedeemed": 8391,
+      "globalRarity": 0.012,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Take Care Now",
+      "totalRedeemed": 8498,
+      "globalRarity": 0.012,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Together in Contribution",
+      "totalRedeemed": 8596,
+      "globalRarity": 0.012,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Sign of Connection",
+      "totalRedeemed": 8760,
+      "globalRarity": 0.012,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "First Mark of the Collector",
+      "totalRedeemed": 8770,
+      "globalRarity": 0.012,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Gateway to Knowledge",
+      "totalRedeemed": 8875,
+      "globalRarity": 0.012,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Great Pulse",
+      "totalRedeemed": 8890,
+      "globalRarity": 0.012,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Gear Head",
+      "totalRedeemed": 8903,
+      "globalRarity": 0.012,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Foundational Layers",
+      "totalRedeemed": 9031,
+      "globalRarity": 0.013,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Quantum Relay",
+      "totalRedeemed": 9031,
+      "globalRarity": 0.013,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Heart of the City",
+      "totalRedeemed": 9072,
+      "globalRarity": 0.013,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Journeyman Guide",
+      "totalRedeemed": 9131,
+      "globalRarity": 0.013,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Spectral Flare",
+      "totalRedeemed": 9239,
+      "globalRarity": 0.013,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Se7enth",
+      "totalRedeemed": 9395,
+      "globalRarity": 0.013,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Absolute Zero",
+      "totalRedeemed": 9678,
+      "globalRarity": 0.013,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Guardian Glam",
+      "totalRedeemed": 9688,
+      "globalRarity": 0.013,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Refulgent",
+      "totalRedeemed": 9790,
+      "globalRarity": 0.014,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Together We Rise",
+      "totalRedeemed": 9879,
+      "globalRarity": 0.014,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Ergosphere",
+      "totalRedeemed": 10056,
+      "globalRarity": 0.014,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Cerisian Lenses",
+      "totalRedeemed": 10241,
+      "globalRarity": 0.014,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Eclipsing Keep",
+      "totalRedeemed": 10469,
+      "globalRarity": 0.015,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Euclidean Theorem",
+      "totalRedeemed": 10481,
+      "globalRarity": 0.015,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Sonic Simulation",
+      "totalRedeemed": 10555,
+      "globalRarity": 0.015,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Apprentice Guide \"So altruuuuuistic! So brave! Emperor Calus speaks highly of your deedzzzzz.\" —Benedict 99-40",
+      "totalRedeemed": 10668,
+      "globalRarity": 0.015,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "162116:RUF",
+      "totalRedeemed": 10704,
+      "globalRarity": 0.015,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Dredgen's Descent",
+      "totalRedeemed": 10708,
+      "globalRarity": 0.015,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Vital Elixer",
+      "totalRedeemed": 10808,
+      "globalRarity": 0.015,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Recurrent Resplendence",
+      "totalRedeemed": 10821,
+      "globalRarity": 0.015,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Umbral Echelon",
+      "totalRedeemed": 10827,
+      "globalRarity": 0.015,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Ocularia",
+      "totalRedeemed": 10981,
+      "globalRarity": 0.015,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Venn's Pulsar",
+      "totalRedeemed": 11057,
+      "globalRarity": 0.015,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Bloodstream",
+      "totalRedeemed": 11218,
+      "globalRarity": 0.016,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Broadcasting from the Dark",
+      "totalRedeemed": 11239,
+      "globalRarity": 0.016,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Paranoia Pink",
+      "totalRedeemed": 11322,
+      "globalRarity": 0.016,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Partners in Light",
+      "totalRedeemed": 11474,
+      "globalRarity": 0.016,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Dark Hero",
+      "totalRedeemed": 11500,
+      "globalRarity": 0.016,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "The Moon Stirs",
+      "totalRedeemed": 11614,
+      "globalRarity": 0.016,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Through the Storm",
+      "totalRedeemed": 11627,
+      "globalRarity": 0.016,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Side by Side",
+      "totalRedeemed": 11637,
+      "globalRarity": 0.016,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Fluid Resonance",
+      "totalRedeemed": 11648,
+      "globalRarity": 0.016,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "K1 Revelation",
+      "totalRedeemed": 11722,
+      "globalRarity": 0.016,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Solar Flair",
+      "totalRedeemed": 11758,
+      "globalRarity": 0.016,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Competitive Contender",
+      "totalRedeemed": 11921,
+      "globalRarity": 0.017,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Cryptologist",
+      "totalRedeemed": 11976,
+      "globalRarity": 0.017,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Seeds of Hope",
+      "totalRedeemed": 12040,
+      "globalRarity": 0.017,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Refined",
+      "totalRedeemed": 12300,
+      "globalRarity": 0.017,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Respite's Focus",
+      "totalRedeemed": 12528,
+      "globalRarity": 0.017,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Prost",
+      "totalRedeemed": 12529,
+      "globalRarity": 0.017,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Cybernetic Bloom",
+      "totalRedeemed": 12997,
+      "globalRarity": 0.018,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Entre Nous",
+      "totalRedeemed": 13106,
+      "globalRarity": 0.018,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Aurelian Prize",
+      "totalRedeemed": 13122,
+      "globalRarity": 0.018,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Apricot Dawn",
+      "totalRedeemed": 13379,
+      "globalRarity": 0.019,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Gilded Remembrance",
+      "totalRedeemed": 13558,
+      "globalRarity": 0.019,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Seekers, Not Saints",
+      "totalRedeemed": 13560,
+      "globalRarity": 0.019,
+      "adjustedRarity": 0
+    },
+    {
+      "name": "Everyone Can Play",
+      "totalRedeemed": 13941,
+      "globalRarity": 0.019,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Controlled Chaos",
+      "totalRedeemed": 14049,
+      "globalRarity": 0.02,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Gateway",
+      "totalRedeemed": 14127,
+      "globalRarity": 0.02,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Born of This",
+      "totalRedeemed": 14205,
+      "globalRarity": 0.02,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Darkstar",
+      "totalRedeemed": 14372,
+      "globalRarity": 0.02,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Heart of a Highlander",
+      "totalRedeemed": 14555,
+      "globalRarity": 0.02,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Clunky Exposition",
+      "totalRedeemed": 14673,
+      "globalRarity": 0.02,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Untethered Spirit",
+      "totalRedeemed": 14680,
+      "globalRarity": 0.02,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Nature of Truth",
+      "totalRedeemed": 14949,
+      "globalRarity": 0.021,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Tchaikovsky Admirer",
+      "totalRedeemed": 15059,
+      "globalRarity": 0.021,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Guardian's Call",
+      "totalRedeemed": 15275,
+      "globalRarity": 0.021,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Feral Heart",
+      "totalRedeemed": 15419,
+      "globalRarity": 0.021,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Sundered Starlight",
+      "totalRedeemed": 15448,
+      "globalRarity": 0.022,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Exotemporal",
+      "totalRedeemed": 15584,
+      "globalRarity": 0.022,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Heimdallr's Holler",
+      "totalRedeemed": 15742,
+      "globalRarity": 0.022,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Royalty",
+      "totalRedeemed": 16003,
+      "globalRarity": 0.022,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Heretic",
+      "totalRedeemed": 16417,
+      "globalRarity": 0.023,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Negative Harmony",
+      "totalRedeemed": 16642,
+      "globalRarity": 0.023,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "The Lure of Flame",
+      "totalRedeemed": 16771,
+      "globalRarity": 0.023,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Tyrant",
+      "totalRedeemed": 16815,
+      "globalRarity": 0.023,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Compassion Concentric",
+      "totalRedeemed": 16842,
+      "globalRarity": 0.023,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Golden Relief",
+      "totalRedeemed": 16956,
+      "globalRarity": 0.024,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Neophyte Guide \"The mmmmmagnificent Emperor finds your _$%& generosity delightful.\" —Benedict 99-40",
+      "totalRedeemed": 17017,
+      "globalRarity": 0.024,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Anchor Point",
+      "totalRedeemed": 17176,
+      "globalRarity": 0.024,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "One Way Out",
+      "totalRedeemed": 17609,
+      "globalRarity": 0.025,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Gnarled Tendrils",
+      "totalRedeemed": 17711,
+      "globalRarity": 0.025,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Guardians' Oath",
+      "totalRedeemed": 17816,
+      "globalRarity": 0.025,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Cayde's Last Stand",
+      "totalRedeemed": 18045,
+      "globalRarity": 0.025,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Knights of Old",
+      "totalRedeemed": 18194,
+      "globalRarity": 0.025,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Luminescent Precision",
+      "totalRedeemed": 18333,
+      "globalRarity": 0.026,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Seven of Seven",
+      "totalRedeemed": 18490,
+      "globalRarity": 0.026,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Archivist's Key",
+      "totalRedeemed": 18593,
+      "globalRarity": 0.026,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Time Dilation",
+      "totalRedeemed": 18607,
+      "globalRarity": 0.026,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Sepulchromatic",
+      "totalRedeemed": 18759,
+      "globalRarity": 0.026,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "A Broken Throne",
+      "totalRedeemed": 18809,
+      "globalRarity": 0.026,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Spoils of Ishtar",
+      "totalRedeemed": 19072,
+      "globalRarity": 0.027,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Vermillion Defender",
+      "totalRedeemed": 19158,
+      "globalRarity": 0.027,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Look Up",
+      "totalRedeemed": 19217,
+      "globalRarity": 0.027,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Retro Boy",
+      "totalRedeemed": 19258,
+      "globalRarity": 0.027,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Silicon Frontier",
+      "totalRedeemed": 19387,
+      "globalRarity": 0.027,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Redrix's Preferred",
+      "totalRedeemed": 19401,
+      "globalRarity": 0.027,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Unwritten Patience",
+      "totalRedeemed": 19686,
+      "globalRarity": 0.027,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Fallen Torches",
+      "totalRedeemed": 19785,
+      "globalRarity": 0.028,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Champions Witnessed",
+      "totalRedeemed": 20058,
+      "globalRarity": 0.028,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Eye of Midnight",
+      "totalRedeemed": 20060,
+      "globalRarity": 0.028,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Spectral Sea",
+      "totalRedeemed": 21093,
+      "globalRarity": 0.029,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "A Distant Howl",
+      "totalRedeemed": 21197,
+      "globalRarity": 0.03,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Swift Fortuna",
+      "totalRedeemed": 21224,
+      "globalRarity": 0.03,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Empowered Voices",
+      "totalRedeemed": 21234,
+      "globalRarity": 0.03,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Graphite Daydreams",
+      "totalRedeemed": 21381,
+      "globalRarity": 0.03,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Tabula Rasa",
+      "totalRedeemed": 21476,
+      "globalRarity": 0.03,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "My Serious Face",
+      "totalRedeemed": 21561,
+      "globalRarity": 0.03,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Winner's Circle",
+      "totalRedeemed": 22068,
+      "globalRarity": 0.031,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "System of Peace",
+      "totalRedeemed": 22142,
+      "globalRarity": 0.031,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Blue Blood Cells",
+      "totalRedeemed": 22686,
+      "globalRarity": 0.032,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Blade Circuit",
+      "totalRedeemed": 22752,
+      "globalRarity": 0.032,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "After the Unknown",
+      "totalRedeemed": 22764,
+      "globalRarity": 0.032,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Harmonic Waves",
+      "totalRedeemed": 22812,
+      "globalRarity": 0.032,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Stand Alone",
+      "totalRedeemed": 22842,
+      "globalRarity": 0.032,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Triple Tip",
+      "totalRedeemed": 22853,
+      "globalRarity": 0.032,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Traveler's Wish",
+      "totalRedeemed": 22872,
+      "globalRarity": 0.032,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Fates Intertwined",
+      "totalRedeemed": 23430,
+      "globalRarity": 0.033,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Pixel Perfect",
+      "totalRedeemed": 23571,
+      "globalRarity": 0.033,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Heretical Halation",
+      "totalRedeemed": 23661,
+      "globalRarity": 0.033,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Bully Pulpit",
+      "totalRedeemed": 24124,
+      "globalRarity": 0.034,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Circadian Guard",
+      "totalRedeemed": 24245,
+      "globalRarity": 0.034,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Meridian of Destiny",
+      "totalRedeemed": 24842,
+      "globalRarity": 0.035,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "10950 Days",
+      "totalRedeemed": 24927,
+      "globalRarity": 0.035,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Day of Seven",
+      "totalRedeemed": 25217,
+      "globalRarity": 0.035,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Network Established",
+      "totalRedeemed": 25370,
+      "globalRarity": 0.035,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Ghosts in Dark",
+      "totalRedeemed": 26194,
+      "globalRarity": 0.036,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Radiant Reveille",
+      "totalRedeemed": 26256,
+      "globalRarity": 0.037,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Apprentice Guide",
+      "totalRedeemed": 26276,
+      "globalRarity": 0.037,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Of the Realm",
+      "totalRedeemed": 26389,
+      "globalRarity": 0.037,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Station's Savior",
+      "totalRedeemed": 26728,
+      "globalRarity": 0.037,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Kūlike Kākou",
+      "totalRedeemed": 27361,
+      "globalRarity": 0.038,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Long Slow Whisper",
+      "totalRedeemed": 27391,
+      "globalRarity": 0.038,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Black Skies",
+      "totalRedeemed": 27475,
+      "globalRarity": 0.038,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Lighthouse-Keeper",
+      "totalRedeemed": 27902,
+      "globalRarity": 0.039,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Sign of the Gambit",
+      "totalRedeemed": 28107,
+      "globalRarity": 0.039,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Huygens' Trove",
+      "totalRedeemed": 28213,
+      "globalRarity": 0.039,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Gravitational Allure",
+      "totalRedeemed": 28214,
+      "globalRarity": 0.039,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Benevolent Hue",
+      "totalRedeemed": 28910,
+      "globalRarity": 0.04,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Suave",
+      "totalRedeemed": 29063,
+      "globalRarity": 0.04,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Emblem of the Fleet",
+      "totalRedeemed": 29456,
+      "globalRarity": 0.041,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Tapestry of Synergy",
+      "totalRedeemed": 29704,
+      "globalRarity": 0.041,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Bibliomancy",
+      "totalRedeemed": 29837,
+      "globalRarity": 0.042,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Heroes of the Light",
+      "totalRedeemed": 30634,
+      "globalRarity": 0.043,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Dark Telemetry",
+      "totalRedeemed": 30952,
+      "globalRarity": 0.043,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Runner",
+      "totalRedeemed": 31023,
+      "globalRarity": 0.043,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Lost in It",
+      "totalRedeemed": 31037,
+      "globalRarity": 0.043,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Brightwing",
+      "totalRedeemed": 31248,
+      "globalRarity": 0.044,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Pyramid's Pilot",
+      "totalRedeemed": 31895,
+      "globalRarity": 0.044,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "The Cleaver",
+      "totalRedeemed": 32250,
+      "globalRarity": 0.045,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Sunset Echoes",
+      "totalRedeemed": 32731,
+      "globalRarity": 0.046,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Crucible Ascendant Division",
+      "totalRedeemed": 33252,
+      "globalRarity": 0.046,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "The Infinite Prismatic",
+      "totalRedeemed": 33785,
+      "globalRarity": 0.047,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Knit One, Purr Two",
+      "totalRedeemed": 34229,
+      "globalRarity": 0.048,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Shattered Harmony",
+      "totalRedeemed": 35108,
+      "globalRarity": 0.049,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Two Sides",
+      "totalRedeemed": 35704,
+      "globalRarity": 0.05,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Hope Eater",
+      "totalRedeemed": 35724,
+      "globalRarity": 0.05,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Quantum Entanglement",
+      "totalRedeemed": 35972,
+      "globalRarity": 0.05,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Septenary Encryption",
+      "totalRedeemed": 36678,
+      "globalRarity": 0.051,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Apeirohedron",
+      "totalRedeemed": 37174,
+      "globalRarity": 0.052,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Revenant Redress",
+      "totalRedeemed": 37308,
+      "globalRarity": 0.052,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Luminary Kaleidoscope",
+      "totalRedeemed": 38120,
+      "globalRarity": 0.053,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "First to the Wild",
+      "totalRedeemed": 38145,
+      "globalRarity": 0.053,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Universal Constant",
+      "totalRedeemed": 38343,
+      "globalRarity": 0.053,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Heritage Eternal",
+      "totalRedeemed": 38912,
+      "globalRarity": 0.054,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Little Light's Emblem",
+      "totalRedeemed": 39062,
+      "globalRarity": 0.054,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Between the Lines",
+      "totalRedeemed": 39064,
+      "globalRarity": 0.054,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Through the Heart",
+      "totalRedeemed": 39391,
+      "globalRarity": 0.055,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Dreissigste",
+      "totalRedeemed": 40124,
+      "globalRarity": 0.056,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Tell Me a Story",
+      "totalRedeemed": 40420,
+      "globalRarity": 0.056,
+      "adjustedRarity": 0.1
+    },
+    {
+      "name": "Destination: Tau Ceti",
+      "totalRedeemed": 41024,
+      "globalRarity": 0.057,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Pulsar Approaching",
+      "totalRedeemed": 41180,
+      "globalRarity": 0.057,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Confluence of Light",
+      "totalRedeemed": 41542,
+      "globalRarity": 0.058,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Vespertine",
+      "totalRedeemed": 41553,
+      "globalRarity": 0.058,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Symphonic Shift",
+      "totalRedeemed": 42013,
+      "globalRarity": 0.058,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Space Witch",
+      "totalRedeemed": 42674,
+      "globalRarity": 0.059,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "A Guardian's Heart",
+      "totalRedeemed": 43586,
+      "globalRarity": 0.061,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Bungie Day 2021",
+      "totalRedeemed": 43643,
+      "globalRarity": 0.061,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Bestowed & Bowed",
+      "totalRedeemed": 43662,
+      "globalRarity": 0.061,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Cosmic Alignment",
+      "totalRedeemed": 43709,
+      "globalRarity": 0.061,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Engraved Deeds",
+      "totalRedeemed": 43858,
+      "globalRarity": 0.061,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Songs of the Forsaken",
+      "totalRedeemed": 43969,
+      "globalRarity": 0.061,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Gracious Gloss",
+      "totalRedeemed": 43988,
+      "globalRarity": 0.061,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Fully Operational",
+      "totalRedeemed": 45059,
+      "globalRarity": 0.063,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "True Colors",
+      "totalRedeemed": 45681,
+      "globalRarity": 0.064,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Sign of Celebration",
+      "totalRedeemed": 45892,
+      "globalRarity": 0.064,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Observer Effect",
+      "totalRedeemed": 46343,
+      "globalRarity": 0.065,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "The Reaper",
+      "totalRedeemed": 46820,
+      "globalRarity": 0.065,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Arc Propellant",
+      "totalRedeemed": 47757,
+      "globalRarity": 0.066,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Catalogue of Curiosities",
+      "totalRedeemed": 48233,
+      "globalRarity": 0.067,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Astromancy",
+      "totalRedeemed": 48315,
+      "globalRarity": 0.067,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Glory's Claim",
+      "totalRedeemed": 48461,
+      "globalRarity": 0.067,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Wishing Well",
+      "totalRedeemed": 49370,
+      "globalRarity": 0.069,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Be Heard",
+      "totalRedeemed": 49648,
+      "globalRarity": 0.069,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Field Recognition",
+      "totalRedeemed": 49865,
+      "globalRarity": 0.069,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Archive of Twilight",
+      "totalRedeemed": 49946,
+      "globalRarity": 0.07,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Trigonic Amber",
+      "totalRedeemed": 50265,
+      "globalRarity": 0.07,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Stand Together",
+      "totalRedeemed": 51266,
+      "globalRarity": 0.071,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Misplaced Sun",
+      "totalRedeemed": 51644,
+      "globalRarity": 0.072,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Light Keepers",
+      "totalRedeemed": 51787,
+      "globalRarity": 0.072,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "First to the Forge",
+      "totalRedeemed": 52196,
+      "globalRarity": 0.073,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Exospheric Voyage",
+      "totalRedeemed": 53094,
+      "globalRarity": 0.074,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "The Collector",
+      "totalRedeemed": 53716,
+      "globalRarity": 0.075,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Icarus Ascended",
+      "totalRedeemed": 54224,
+      "globalRarity": 0.075,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "The Sentry",
+      "totalRedeemed": 54742,
+      "globalRarity": 0.076,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Hellspawn",
+      "totalRedeemed": 54884,
+      "globalRarity": 0.076,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Bungie Foundation Emblem",
+      "totalRedeemed": 54949,
+      "globalRarity": 0.077,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Portable Power",
+      "totalRedeemed": 55321,
+      "globalRarity": 0.077,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Wrest the Heart",
+      "totalRedeemed": 55506,
+      "globalRarity": 0.077,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Creator's Cachet",
+      "totalRedeemed": 57614,
+      "globalRarity": 0.08,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Cosmic Hearth",
+      "totalRedeemed": 58073,
+      "globalRarity": 0.081,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Apogee Series",
+      "totalRedeemed": 58147,
+      "globalRarity": 0.081,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "First of the New",
+      "totalRedeemed": 58374,
+      "globalRarity": 0.081,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Scorned Organ",
+      "totalRedeemed": 58560,
+      "globalRarity": 0.082,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Entombed",
+      "totalRedeemed": 58680,
+      "globalRarity": 0.082,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Pursuit of Dreams",
+      "totalRedeemed": 59215,
+      "globalRarity": 0.082,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Mist Blossoms",
+      "totalRedeemed": 59714,
+      "globalRarity": 0.083,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Darkest Day",
+      "totalRedeemed": 59746,
+      "globalRarity": 0.083,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "The Invader",
+      "totalRedeemed": 61835,
+      "globalRarity": 0.086,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Ever Forward",
+      "totalRedeemed": 62241,
+      "globalRarity": 0.087,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Hubris of Niobe",
+      "totalRedeemed": 62490,
+      "globalRarity": 0.087,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "This Moment Forever",
+      "totalRedeemed": 62572,
+      "globalRarity": 0.087,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Archivist's Prize",
+      "totalRedeemed": 63436,
+      "globalRarity": 0.088,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Leviathan's Gift Shop",
+      "totalRedeemed": 66466,
+      "globalRarity": 0.093,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Echo Diamond",
+      "totalRedeemed": 67315,
+      "globalRarity": 0.094,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Resonant Chord",
+      "totalRedeemed": 67723,
+      "globalRarity": 0.094,
+      "adjustedRarity": 0.2
+    },
+    {
+      "name": "Warminded",
+      "totalRedeemed": 68366,
+      "globalRarity": 0.095,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Ooo Shiny",
+      "totalRedeemed": 68926,
+      "globalRarity": 0.096,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Long Live the Queen",
+      "totalRedeemed": 69322,
+      "globalRarity": 0.097,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Disdain for Gold",
+      "totalRedeemed": 70016,
+      "globalRarity": 0.097,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "We Begin in the Stars",
+      "totalRedeemed": 70324,
+      "globalRarity": 0.098,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Starboard Forward",
+      "totalRedeemed": 71876,
+      "globalRarity": 0.1,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "In the Valley",
+      "totalRedeemed": 71981,
+      "globalRarity": 0.1,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Tattered Regalia",
+      "totalRedeemed": 74473,
+      "globalRarity": 0.104,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Anomalous Signal",
+      "totalRedeemed": 74558,
+      "globalRarity": 0.104,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Stream of Light",
+      "totalRedeemed": 75282,
+      "globalRarity": 0.105,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Operation… Oboe? You can find this rare emblem only once you reach a certain score in the Nightfall \"Exodus Crash.\"",
+      "totalRedeemed": 76914,
+      "globalRarity": 0.107,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Threads of Light",
+      "totalRedeemed": 79018,
+      "globalRarity": 0.11,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "A Cold Wind Blowin'",
+      "totalRedeemed": 0,
+      "globalRarity": 0.112,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Revenant Echo",
+      "totalRedeemed": 0,
+      "globalRarity": 0.112,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Wish Granter",
+      "totalRedeemed": 0,
+      "globalRarity": 0.112,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Ultraworld",
+      "totalRedeemed": 0,
+      "globalRarity": 0.113,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Last Erasure",
+      "totalRedeemed": 0,
+      "globalRarity": 0.114,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Simulant Spring",
+      "totalRedeemed": 0,
+      "globalRarity": 0.114,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Simmered Down",
+      "totalRedeemed": 0,
+      "globalRarity": 0.116,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Theoxenia",
+      "totalRedeemed": 0,
+      "globalRarity": 0.116,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "A Grave Matter",
+      "totalRedeemed": 0,
+      "globalRarity": 0.116,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Gloaming Dark",
+      "totalRedeemed": 0,
+      "globalRarity": 0.118,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Star Light, Star Bright",
+      "totalRedeemed": 0,
+      "globalRarity": 0.12,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Mad Dog",
+      "totalRedeemed": 0,
+      "globalRarity": 0.131,
+      "adjustedRarity": 0.3
+    },
+    {
+      "name": "Answered Call",
+      "totalRedeemed": 0,
+      "globalRarity": 0.134,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Peace of the City",
+      "totalRedeemed": 0,
+      "globalRarity": 0.137,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Between Stars",
+      "totalRedeemed": 0,
+      "globalRarity": 0.141,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Bump in the Night",
+      "totalRedeemed": 0,
+      "globalRarity": 0.142,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Effortless Flow",
+      "totalRedeemed": 0,
+      "globalRarity": 0.143,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Spectral Carapace",
+      "totalRedeemed": 0,
+      "globalRarity": 0.144,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Death to the Deathless You can find this rare emblem once you reach a certain score in the Nightfall \"Will of the Thousands.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.144,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Codex Doctrinae",
+      "totalRedeemed": 0,
+      "globalRarity": 0.146,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Carrhae",
+      "totalRedeemed": 0,
+      "globalRarity": 0.149,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Eternally Triumphant",
+      "totalRedeemed": 0,
+      "globalRarity": 0.15,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Sign of Our City",
+      "totalRedeemed": 0,
+      "globalRarity": 0.15,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Emblem of Synth",
+      "totalRedeemed": 0,
+      "globalRarity": 0.151,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Vex Scholar",
+      "totalRedeemed": 0,
+      "globalRarity": 0.152,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Secret Signal",
+      "totalRedeemed": 0,
+      "globalRarity": 0.153,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Year of the Snake",
+      "totalRedeemed": 0,
+      "globalRarity": 0.157,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Senior Recruiter",
+      "totalRedeemed": 0,
+      "globalRarity": 0.157,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Blood of Izanami",
+      "totalRedeemed": 0,
+      "globalRarity": 0.158,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "New Blue",
+      "totalRedeemed": 0,
+      "globalRarity": 0.159,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Untouched by Opulence",
+      "totalRedeemed": 0,
+      "globalRarity": 0.16,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Prismatic Shiver",
+      "totalRedeemed": 0,
+      "globalRarity": 0.16,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Beyond Gravity's Urge",
+      "totalRedeemed": 0,
+      "globalRarity": 0.16,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Midas Traction",
+      "totalRedeemed": 0,
+      "globalRarity": 0.161,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Helping Hand",
+      "totalRedeemed": 0,
+      "globalRarity": 0.162,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Blade of Bergusia",
+      "totalRedeemed": 0,
+      "globalRarity": 0.164,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "AION Effigy",
+      "totalRedeemed": 0,
+      "globalRarity": 0.168,
+      "adjustedRarity": 0.4
+    },
+    {
+      "name": "Power Hues",
+      "totalRedeemed": 0,
+      "globalRarity": 0.171,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Anno Panthera Tigris",
+      "totalRedeemed": 0,
+      "globalRarity": 0.172,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Thrill of the Chase",
+      "totalRedeemed": 0,
+      "globalRarity": 0.18,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Third Mark of the Collector",
+      "totalRedeemed": 0,
+      "globalRarity": 0.18,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Those Held Dear",
+      "totalRedeemed": 0,
+      "globalRarity": 0.181,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Tharsis Offbeat",
+      "totalRedeemed": 0,
+      "globalRarity": 0.183,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Vengeance of Volundr",
+      "totalRedeemed": 0,
+      "globalRarity": 0.187,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Vex Destroyer",
+      "totalRedeemed": 0,
+      "globalRarity": 0.19,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "A Good Sport",
+      "totalRedeemed": 0,
+      "globalRarity": 0.19,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Flight of Soteria",
+      "totalRedeemed": 0,
+      "globalRarity": 0.193,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Transient Whisperer",
+      "totalRedeemed": 0,
+      "globalRarity": 0.194,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Secrets of the Vex",
+      "totalRedeemed": 0,
+      "globalRarity": 0.194,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Locked, Loaded",
+      "totalRedeemed": 0,
+      "globalRarity": 0.195,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Emissary Waft",
+      "totalRedeemed": 0,
+      "globalRarity": 0.195,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Third Unknown",
+      "totalRedeemed": 0,
+      "globalRarity": 0.198,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Soldier On",
+      "totalRedeemed": 0,
+      "globalRarity": 0.199,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Brimful of Asher",
+      "totalRedeemed": 0,
+      "globalRarity": 0.204,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Transcendent",
+      "totalRedeemed": 0,
+      "globalRarity": 0.208,
+      "adjustedRarity": 0.5
+    },
+    {
+      "name": "Viper Strike",
+      "totalRedeemed": 0,
+      "globalRarity": 0.21,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "The Silhouette",
+      "totalRedeemed": 0,
+      "globalRarity": 0.211,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Calibrated",
+      "totalRedeemed": 0,
+      "globalRarity": 0.217,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Gofannon's Fire",
+      "totalRedeemed": 0,
+      "globalRarity": 0.218,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Together in Competition",
+      "totalRedeemed": 0,
+      "globalRarity": 0.231,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Share a Glass",
+      "totalRedeemed": 0,
+      "globalRarity": 0.234,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Heavier Duty",
+      "totalRedeemed": 0,
+      "globalRarity": 0.235,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Castle in the Clouds",
+      "totalRedeemed": 0,
+      "globalRarity": 0.24,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Esper",
+      "totalRedeemed": 0,
+      "globalRarity": 0.241,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Lightstring",
+      "totalRedeemed": 0,
+      "globalRarity": 0.241,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "Overgrown Warzone",
+      "totalRedeemed": 0,
+      "globalRarity": 0.242,
+      "adjustedRarity": 0.6
+    },
+    {
+      "name": "The Tribute Hall",
+      "totalRedeemed": 0,
+      "globalRarity": 0.253,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Mentor of Light",
+      "totalRedeemed": 0,
+      "globalRarity": 0.26,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Piratical Ambitions",
+      "totalRedeemed": 0,
+      "globalRarity": 0.26,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Elevated Above Nezarec",
+      "totalRedeemed": 0,
+      "globalRarity": 0.261,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Conqueror of Infinity",
+      "totalRedeemed": 0,
+      "globalRarity": 0.261,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Best of the Best",
+      "totalRedeemed": 0,
+      "globalRarity": 0.262,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Intergalactic Wisdom",
+      "totalRedeemed": 0,
+      "globalRarity": 0.262,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Every End",
+      "totalRedeemed": 0,
+      "globalRarity": 0.262,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Ignition Unsparked You can find this rare emblem only in chests hidden on Io.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.263,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "A Good Night's Sleep",
+      "totalRedeemed": 0,
+      "globalRarity": 0.264,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Explosive Disassembly",
+      "totalRedeemed": 0,
+      "globalRarity": 0.269,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "A Sibyl's Dreams",
+      "totalRedeemed": 0,
+      "globalRarity": 0.279,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Dazzling Iridescence",
+      "totalRedeemed": 0,
+      "globalRarity": 0.281,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Dim Italics",
+      "totalRedeemed": 0,
+      "globalRarity": 0.281,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Foretold",
+      "totalRedeemed": 0,
+      "globalRarity": 0.284,
+      "adjustedRarity": 0.7
+    },
+    {
+      "name": "Timeless Vigil",
+      "totalRedeemed": 0,
+      "globalRarity": 0.286,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Damage, Incorporated",
+      "totalRedeemed": 0,
+      "globalRarity": 0.288,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Operation Radiolarian Cascade You can find this rare emblem only once you reach a certain score in the Nightfall \"The Inverted Spire.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.288,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Starbirth",
+      "totalRedeemed": 0,
+      "globalRarity": 0.289,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Pareidolia",
+      "totalRedeemed": 0,
+      "globalRarity": 0.304,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Crimson Echoes",
+      "totalRedeemed": 0,
+      "globalRarity": 0.306,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Atop the Spire",
+      "totalRedeemed": 0,
+      "globalRarity": 0.309,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Together, For Glory! You can find this rare emblem only in the Power Conduit chest in raid lair \"Leviathan, Spire of Stars.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.312,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Moments of Triumph 2021",
+      "totalRedeemed": 0,
+      "globalRarity": 0.312,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Tigris Fati",
+      "totalRedeemed": 0,
+      "globalRarity": 0.315,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Out the Airlock",
+      "totalRedeemed": 0,
+      "globalRarity": 0.317,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Blood of the Wolf",
+      "totalRedeemed": 0,
+      "globalRarity": 0.317,
+      "adjustedRarity": 0.8
+    },
+    {
+      "name": "Interconnected",
+      "totalRedeemed": 0,
+      "globalRarity": 0.324,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Adventurous Spirit",
+      "totalRedeemed": 0,
+      "globalRarity": 0.325,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Planet of Peace",
+      "totalRedeemed": 0,
+      "globalRarity": 0.326,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Virescent",
+      "totalRedeemed": 0,
+      "globalRarity": 0.335,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Archived",
+      "totalRedeemed": 0,
+      "globalRarity": 0.336,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Better Failsafe Than Sorry You can find this rare emblem only once you reach a certain score in the Nightfall \"Exodus Crash.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.341,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Feast of Worms You can find this rare emblem once you reach a certain score in the Nightfall \"Will of the Thousands.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.343,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Seer",
+      "totalRedeemed": 0,
+      "globalRarity": 0.343,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Relentless Momentum",
+      "totalRedeemed": 0,
+      "globalRarity": 0.344,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Canis Lupus",
+      "totalRedeemed": 0,
+      "globalRarity": 0.346,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Myopia",
+      "totalRedeemed": 0,
+      "globalRarity": 0.347,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "The Next Chapter",
+      "totalRedeemed": 0,
+      "globalRarity": 0.348,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Bulbul Tarang",
+      "totalRedeemed": 0,
+      "globalRarity": 0.35,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Leviathan's Feast You can find this rare emblem only in chests hidden on Nessus.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.351,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Cartomancy",
+      "totalRedeemed": 0,
+      "globalRarity": 0.355,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Gravity Axle",
+      "totalRedeemed": 0,
+      "globalRarity": 0.355,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Memorialized",
+      "totalRedeemed": 0,
+      "globalRarity": 0.356,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Rhulk Subdued",
+      "totalRedeemed": 0,
+      "globalRarity": 0.359,
+      "adjustedRarity": 0.9
+    },
+    {
+      "name": "Gone Home",
+      "totalRedeemed": 0,
+      "globalRarity": 0.362,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Meyrin's Vision",
+      "totalRedeemed": 0,
+      "globalRarity": 0.369,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Folding Space",
+      "totalRedeemed": 0,
+      "globalRarity": 0.371,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Helios Crown",
+      "totalRedeemed": 0,
+      "globalRarity": 0.374,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Contender's Signet",
+      "totalRedeemed": 0,
+      "globalRarity": 0.374,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Golden Age Tarnished You can find this rare emblem only in chests hidden on Titan.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.375,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Honor for the Living",
+      "totalRedeemed": 0,
+      "globalRarity": 0.379,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Vanguard Terminus",
+      "totalRedeemed": 0,
+      "globalRarity": 0.38,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Stars Crossed",
+      "totalRedeemed": 0,
+      "globalRarity": 0.386,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Prophetic Visionary",
+      "totalRedeemed": 0,
+      "globalRarity": 0.387,
+      "adjustedRarity": 1
+    },
+    {
+      "name": "Odysseus's Offspring You can find this rare emblem only once you reach a certain score in the Nightfall \"A Garden World.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.399,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Red Planet",
+      "totalRedeemed": 0,
+      "globalRarity": 0.401,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Operation Caliente",
+      "totalRedeemed": 0,
+      "globalRarity": 0.402,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Ollywocket",
+      "totalRedeemed": 0,
+      "globalRarity": 0.416,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "A Forest of Red You can find this rare emblem only once you reach a certain score in the Nightfall \"Tree of Probabilities.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.416,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Obsidian Dreams",
+      "totalRedeemed": 0,
+      "globalRarity": 0.418,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Woodland Warband",
+      "totalRedeemed": 0,
+      "globalRarity": 0.42,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Broken Barriers",
+      "totalRedeemed": 0,
+      "globalRarity": 0.421,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Wing of the Crow",
+      "totalRedeemed": 0,
+      "globalRarity": 0.424,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Particle Acceleration",
+      "totalRedeemed": 0,
+      "globalRarity": 0.424,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Take the Throne",
+      "totalRedeemed": 0,
+      "globalRarity": 0.426,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Knighted",
+      "totalRedeemed": 0,
+      "globalRarity": 0.428,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Fell Revival",
+      "totalRedeemed": 0,
+      "globalRarity": 0.431,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Satou's Secret",
+      "totalRedeemed": 0,
+      "globalRarity": 0.435,
+      "adjustedRarity": 1.1
+    },
+    {
+      "name": "Exalted Beyond Oryx",
+      "totalRedeemed": 0,
+      "globalRarity": 0.439,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Dark Orbit",
+      "totalRedeemed": 0,
+      "globalRarity": 0.44,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Stand in Salvation",
+      "totalRedeemed": 0,
+      "globalRarity": 0.446,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Saladin's Pride",
+      "totalRedeemed": 0,
+      "globalRarity": 0.45,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Strike Operator",
+      "totalRedeemed": 0,
+      "globalRarity": 0.451,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "An Inscrutable Amygdaloid Eigenstate You can find this rare emblem only once you reach a certain score in the Nightfall \"The Pyramidion.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.462,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Rasmussen's Gift",
+      "totalRedeemed": 0,
+      "globalRarity": 0.464,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "In Urbe Inventa",
+      "totalRedeemed": 0,
+      "globalRarity": 0.464,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Break Free",
+      "totalRedeemed": 0,
+      "globalRarity": 0.465,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "In Vino Mendacium",
+      "totalRedeemed": 0,
+      "globalRarity": 0.466,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Grind Underfoot You can find this rare emblem only in chests in the raid lair \"Leviathan, Spire of Stars\".",
+      "totalRedeemed": 0,
+      "globalRarity": 0.472,
+      "adjustedRarity": 1.2
+    },
+    {
+      "name": "Visio Spei",
+      "totalRedeemed": 0,
+      "globalRarity": 0.474,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Podium's Apex",
+      "totalRedeemed": 0,
+      "globalRarity": 0.477,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "M:\\>START",
+      "totalRedeemed": 0,
+      "globalRarity": 0.478,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Roots Remain",
+      "totalRedeemed": 0,
+      "globalRarity": 0.481,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Neon Mirage",
+      "totalRedeemed": 0,
+      "globalRarity": 0.481,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Reborn BRAVE",
+      "totalRedeemed": 0,
+      "globalRarity": 0.482,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Shadehallow",
+      "totalRedeemed": 0,
+      "globalRarity": 0.484,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Risen",
+      "totalRedeemed": 0,
+      "globalRarity": 0.485,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Taken Resurgence You can find this rare emblem only in chests hidden on Io.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.488,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Newtonian Acceleration Crew",
+      "totalRedeemed": 0,
+      "globalRarity": 0.49,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Giantfall You can find this rare emblem once you reach a certain score in the Nightfall \"Will of the Thousands.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.493,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Harmonic Commencement",
+      "totalRedeemed": 0,
+      "globalRarity": 0.494,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Eye of the Storm",
+      "totalRedeemed": 0,
+      "globalRarity": 0.502,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "No Power in the Verse Can Stop Me",
+      "totalRedeemed": 0,
+      "globalRarity": 0.504,
+      "adjustedRarity": 1.3
+    },
+    {
+      "name": "Greasy Palms",
+      "totalRedeemed": 0,
+      "globalRarity": 0.511,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "True Glory Displays feats of Glory across seasons.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.522,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Enigmatology",
+      "totalRedeemed": 0,
+      "globalRarity": 0.532,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "A Flare for the Dramatic You can find this rare emblem only once you reach a certain score in the Nightfall \"The Arms Dealer.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.532,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Infinite Possibilities You can find this rare emblem only in chests hidden on Mercury.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.535,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Hibernal Solstice",
+      "totalRedeemed": 0,
+      "globalRarity": 0.539,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Brazen Wolf",
+      "totalRedeemed": 0,
+      "globalRarity": 0.543,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "The Wheel",
+      "totalRedeemed": 0,
+      "globalRarity": 0.545,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Twisted Space",
+      "totalRedeemed": 0,
+      "globalRarity": 0.547,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Sunset",
+      "totalRedeemed": 0,
+      "globalRarity": 0.548,
+      "adjustedRarity": 1.4
+    },
+    {
+      "name": "Before Aurora",
+      "totalRedeemed": 0,
+      "globalRarity": 0.551,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Tactician",
+      "totalRedeemed": 0,
+      "globalRarity": 0.554,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Knight of the Old Guard",
+      "totalRedeemed": 0,
+      "globalRarity": 0.556,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Cardinal Refraction",
+      "totalRedeemed": 0,
+      "globalRarity": 0.558,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Edification",
+      "totalRedeemed": 0,
+      "globalRarity": 0.559,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Gift Giver",
+      "totalRedeemed": 0,
+      "globalRarity": 0.56,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Imperium's Adversary",
+      "totalRedeemed": 0,
+      "globalRarity": 0.561,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Heard the Call",
+      "totalRedeemed": 0,
+      "globalRarity": 0.562,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "As Above So Below",
+      "totalRedeemed": 0,
+      "globalRarity": 0.563,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Splish Splash",
+      "totalRedeemed": 0,
+      "globalRarity": 0.572,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Savior of the Past",
+      "totalRedeemed": 0,
+      "globalRarity": 0.572,
+      "adjustedRarity": 1.5
+    },
+    {
+      "name": "Iron to Steel",
+      "totalRedeemed": 0,
+      "globalRarity": 0.588,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Forged in Grace",
+      "totalRedeemed": 0,
+      "globalRarity": 0.588,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Mistrust of Gifts",
+      "totalRedeemed": 0,
+      "globalRarity": 0.588,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Dance the Demons Away",
+      "totalRedeemed": 0,
+      "globalRarity": 0.59,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Limitless Horizon",
+      "totalRedeemed": 0,
+      "globalRarity": 0.597,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Covetous Emperor",
+      "totalRedeemed": 0,
+      "globalRarity": 0.597,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Armsmaster",
+      "totalRedeemed": 0,
+      "globalRarity": 0.597,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Quarantine Zone",
+      "totalRedeemed": 0,
+      "globalRarity": 0.599,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Tributary",
+      "totalRedeemed": 0,
+      "globalRarity": 0.604,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Timeline Warrior",
+      "totalRedeemed": 0,
+      "globalRarity": 0.605,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Buried City",
+      "totalRedeemed": 0,
+      "globalRarity": 0.609,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "The Weight of Guilt",
+      "totalRedeemed": 0,
+      "globalRarity": 0.613,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Punctuation Marks",
+      "totalRedeemed": 0,
+      "globalRarity": 0.617,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Atraks Dethroned",
+      "totalRedeemed": 0,
+      "globalRarity": 0.62,
+      "adjustedRarity": 1.6
+    },
+    {
+      "name": "Nebula Prime",
+      "totalRedeemed": 0,
+      "globalRarity": 0.629,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Fallen Pillage You can find this rare emblem only in chests hidden on Nessus.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.631,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Unwoven Tangle",
+      "totalRedeemed": 0,
+      "globalRarity": 0.632,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Asher's Asylum You can find this rare emblem only in chests hidden on Io.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.639,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Iron Core",
+      "totalRedeemed": 0,
+      "globalRarity": 0.642,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Hive Infestation You can find this rare emblem only in chests hidden on Titan.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.651,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Visage of Skorri",
+      "totalRedeemed": 0,
+      "globalRarity": 0.653,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "You Are Worthy",
+      "totalRedeemed": 0,
+      "globalRarity": 0.656,
+      "adjustedRarity": 1.7
+    },
+    {
+      "name": "Live for the Hustle",
+      "totalRedeemed": 0,
+      "globalRarity": 0.666,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "The Brightest Stars",
+      "totalRedeemed": 0,
+      "globalRarity": 0.666,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Praxic Fire You can find this rare emblem only once you reach a certain score in the Nightfall \"Savathûn's Song.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.669,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Handcrafted Hunter",
+      "totalRedeemed": 0,
+      "globalRarity": 0.671,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Confectionary Commander",
+      "totalRedeemed": 0,
+      "globalRarity": 0.671,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Ferrous Ferocity",
+      "totalRedeemed": 0,
+      "globalRarity": 0.673,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Epicurean Extraordinaire",
+      "totalRedeemed": 0,
+      "globalRarity": 0.673,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Operation Piccolo You can find this rare emblem only once you reach a certain score in the Nightfall \"Exodus Crash.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.674,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Depths of Memory",
+      "totalRedeemed": 0,
+      "globalRarity": 0.677,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Calamity Protocol",
+      "totalRedeemed": 0,
+      "globalRarity": 0.679,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Shadow of the Shard You can find this rare emblem only in chests hidden in the European Dead Zone.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.685,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "Ludomaniacal",
+      "totalRedeemed": 0,
+      "globalRarity": 0.696,
+      "adjustedRarity": 1.8
+    },
+    {
+      "name": "The Luster",
+      "totalRedeemed": 0,
+      "globalRarity": 0.7,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Pond Pals",
+      "totalRedeemed": 0,
+      "globalRarity": 0.701,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Tower Pamphlet",
+      "totalRedeemed": 0,
+      "globalRarity": 0.702,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Well-Tended Garden",
+      "totalRedeemed": 0,
+      "globalRarity": 0.703,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Living Vestige",
+      "totalRedeemed": 0,
+      "globalRarity": 0.712,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Lunar Memoriam",
+      "totalRedeemed": 0,
+      "globalRarity": 0.714,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Immortality",
+      "totalRedeemed": 0,
+      "globalRarity": 0.717,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Airlock Invitation",
+      "totalRedeemed": 0,
+      "globalRarity": 0.717,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Stag's Spirit",
+      "totalRedeemed": 0,
+      "globalRarity": 0.722,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Fifteen Holding, Fifteen Down",
+      "totalRedeemed": 0,
+      "globalRarity": 0.725,
+      "adjustedRarity": 1.9
+    },
+    {
+      "name": "Wheel of Fortune",
+      "totalRedeemed": 0,
+      "globalRarity": 0.743,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Galactic Magpie",
+      "totalRedeemed": 0,
+      "globalRarity": 0.75,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Promise of Payback",
+      "totalRedeemed": 0,
+      "globalRarity": 0.751,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Sedia's Curse You can find this rare emblem once you reach a certain score in the Nightfall \"The Corrupted.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.76,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Two Enter, One Leaves",
+      "totalRedeemed": 0,
+      "globalRarity": 0.76,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Curse Splitter",
+      "totalRedeemed": 0,
+      "globalRarity": 0.764,
+      "adjustedRarity": 2
+    },
+    {
+      "name": "Seraphim's Gauntlets",
+      "totalRedeemed": 0,
+      "globalRarity": 0.781,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Vex Convergence You can find this rare emblem only in chests hidden on Mercury.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.784,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Iron Hero Sigil",
+      "totalRedeemed": 0,
+      "globalRarity": 0.795,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Team Player",
+      "totalRedeemed": 0,
+      "globalRarity": 0.799,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Calix Summus",
+      "totalRedeemed": 0,
+      "globalRarity": 0.811,
+      "adjustedRarity": 2.1
+    },
+    {
+      "name": "Failsafe's Prison You can find this rare emblem only in chests hidden on Nessus.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.816,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Unsounded Depths",
+      "totalRedeemed": 0,
+      "globalRarity": 0.817,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Etheric Strands",
+      "totalRedeemed": 0,
+      "globalRarity": 0.819,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Eclipsed Sunset",
+      "totalRedeemed": 0,
+      "globalRarity": 0.826,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Sloane's Watchtower You can find this rare emblem only in chests hidden on Titan.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.829,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "This Obsidian Sea",
+      "totalRedeemed": 0,
+      "globalRarity": 0.836,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Ennead",
+      "totalRedeemed": 0,
+      "globalRarity": 0.841,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "A Mind Forever Changing You can find this rare emblem only once you reach a certain score in the Nightfall \"The Inverted Spire.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.843,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Firmament",
+      "totalRedeemed": 0,
+      "globalRarity": 0.846,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "Restorative Light",
+      "totalRedeemed": 0,
+      "globalRarity": 0.851,
+      "adjustedRarity": 2.2
+    },
+    {
+      "name": "The Eternal Return",
+      "totalRedeemed": 0,
+      "globalRarity": 0.851,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Severance Package",
+      "totalRedeemed": 0,
+      "globalRarity": 0.861,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Royal Court",
+      "totalRedeemed": 0,
+      "globalRarity": 0.869,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Rain of Ashes",
+      "totalRedeemed": 0,
+      "globalRarity": 0.882,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Beheaded Home",
+      "totalRedeemed": 0,
+      "globalRarity": 0.883,
+      "adjustedRarity": 2.3
+    },
+    {
+      "name": "Chasing Perfection",
+      "totalRedeemed": 0,
+      "globalRarity": 0.892,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Jade's Burrow",
+      "totalRedeemed": 0,
+      "globalRarity": 0.898,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Orbital Step",
+      "totalRedeemed": 0,
+      "globalRarity": 0.899,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Grizzled Wolf",
+      "totalRedeemed": 0,
+      "globalRarity": 0.902,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Planestrider",
+      "totalRedeemed": 0,
+      "globalRarity": 0.904,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Traveler's Departure You can find this rare emblem only in chests hidden on Io.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.905,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Falling Stars",
+      "totalRedeemed": 0,
+      "globalRarity": 0.908,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Arctic Arsenalist",
+      "totalRedeemed": 0,
+      "globalRarity": 0.913,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Disdain for Glitter",
+      "totalRedeemed": 0,
+      "globalRarity": 0.914,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Vance's Temple You can find this rare emblem only in chests hidden on Mercury.",
+      "totalRedeemed": 0,
+      "globalRarity": 0.916,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Blast from the Past You can find this rare emblem only once you reach a certain score in the Nightfall \"A Garden World.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.924,
+      "adjustedRarity": 2.4
+    },
+    {
+      "name": "Terminal Velocity",
+      "totalRedeemed": 0,
+      "globalRarity": 0.933,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Strike at the Heart",
+      "totalRedeemed": 0,
+      "globalRarity": 0.94,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "One of Us",
+      "totalRedeemed": 0,
+      "globalRarity": 0.942,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Crushed Gamma",
+      "totalRedeemed": 0,
+      "globalRarity": 0.946,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Another's Vengeance You can find this rare emblem once you reach a certain score in the Nightfall \"The Hollowed Lair.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.951,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Bane of Nokris You can find this rare emblem once you reach a certain score in the Nightfall \"Strange Terrain.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 0.958,
+      "adjustedRarity": 2.5
+    },
+    {
+      "name": "Victory's Wreath",
+      "totalRedeemed": 0,
+      "globalRarity": 1,
+      "adjustedRarity": 2.6
+    },
+    {
+      "name": "Magnificence in Action",
+      "totalRedeemed": 0,
+      "globalRarity": 1.007,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "соняшник",
+      "totalRedeemed": 0,
+      "globalRarity": 1.01,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Magnetism",
+      "totalRedeemed": 0,
+      "globalRarity": 1.014,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "The Unrelenting Grip",
+      "totalRedeemed": 0,
+      "globalRarity": 1.023,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Heliotrope Warren",
+      "totalRedeemed": 0,
+      "globalRarity": 1.023,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Slaycation",
+      "totalRedeemed": 0,
+      "globalRarity": 1.031,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Keep on Drifting",
+      "totalRedeemed": 0,
+      "globalRarity": 1.032,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Red Legion Aegis",
+      "totalRedeemed": 0,
+      "globalRarity": 1.035,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "The Winding Tower",
+      "totalRedeemed": 0,
+      "globalRarity": 1.036,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "Red Legion Logistics",
+      "totalRedeemed": 0,
+      "globalRarity": 1.04,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "WAR Vault 5",
+      "totalRedeemed": 0,
+      "globalRarity": 1.04,
+      "adjustedRarity": 2.7
+    },
+    {
+      "name": "No More Lasers You can find this rare emblem only once you reach a certain score in the Nightfall \"Tree of Probabilities.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 1.047,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Tangled Web",
+      "totalRedeemed": 0,
+      "globalRarity": 1.05,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Headless Fun",
+      "totalRedeemed": 0,
+      "globalRarity": 1.051,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Future War Cultist",
+      "totalRedeemed": 0,
+      "globalRarity": 1.055,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Anomalous",
+      "totalRedeemed": 0,
+      "globalRarity": 1.056,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Liminal Nadir",
+      "totalRedeemed": 0,
+      "globalRarity": 1.063,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Sunward Ordeal",
+      "totalRedeemed": 0,
+      "globalRarity": 1.067,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Fantastically Forged",
+      "totalRedeemed": 0,
+      "globalRarity": 1.069,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Cast Iron",
+      "totalRedeemed": 0,
+      "globalRarity": 1.074,
+      "adjustedRarity": 2.8
+    },
+    {
+      "name": "Prismatic Inferno",
+      "totalRedeemed": 0,
+      "globalRarity": 1.091,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "The Very Best",
+      "totalRedeemed": 0,
+      "globalRarity": 1.092,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Shades of Radegast",
+      "totalRedeemed": 0,
+      "globalRarity": 1.097,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "A Bit of Coin",
+      "totalRedeemed": 0,
+      "globalRarity": 1.098,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Europan Eclipse",
+      "totalRedeemed": 0,
+      "globalRarity": 1.11,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Crown of Sorrow",
+      "totalRedeemed": 0,
+      "globalRarity": 1.111,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Burning Silicon You can find this rare emblem only in chests hidden on Mercury.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.111,
+      "adjustedRarity": 2.9
+    },
+    {
+      "name": "Technocrat's Doom You can find this rare emblem once you reach a certain score in the Nightfall \"Insight Terminus.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 1.116,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Sunkissed",
+      "totalRedeemed": 0,
+      "globalRarity": 1.12,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Machine Centaur You can find this rare emblem only in chests hidden on Nessus.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.12,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Collapse of the Elders You can find this rare emblem once you reach a certain score in the Nightfall \"Warden of Nothing.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 1.125,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Utopia Lost You can find this rare emblem only in chests hidden on Titan.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.131,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Escape This Dead Orbit",
+      "totalRedeemed": 0,
+      "globalRarity": 1.131,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Sneer of the Oni",
+      "totalRedeemed": 0,
+      "globalRarity": 1.141,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "Lost at Sea",
+      "totalRedeemed": 0,
+      "globalRarity": 1.141,
+      "adjustedRarity": 3
+    },
+    {
+      "name": "A Single Spark",
+      "totalRedeemed": 0,
+      "globalRarity": 1.157,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Celestial Cartography",
+      "totalRedeemed": 0,
+      "globalRarity": 1.164,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Red Legion Stronghold You can find this rare emblem only in chests hidden in the European Dead Zone.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.167,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Spiraling into the Infinite You can find this rare emblem only once you reach a certain score in the Nightfall \"The Pyramidion.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 1.175,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Countdown to Convergence",
+      "totalRedeemed": 0,
+      "globalRarity": 1.175,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Shadow's Light",
+      "totalRedeemed": 0,
+      "globalRarity": 1.176,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "Spire Star",
+      "totalRedeemed": 0,
+      "globalRarity": 1.19,
+      "adjustedRarity": 3.1
+    },
+    {
+      "name": "1530 Centigrade",
+      "totalRedeemed": 0,
+      "globalRarity": 1.198,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Consequence of Duty",
+      "totalRedeemed": 0,
+      "globalRarity": 1.203,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Schrödinger's Gun",
+      "totalRedeemed": 0,
+      "globalRarity": 1.204,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Determination",
+      "totalRedeemed": 0,
+      "globalRarity": 1.208,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Zero Future",
+      "totalRedeemed": 0,
+      "globalRarity": 1.209,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Decennium",
+      "totalRedeemed": 0,
+      "globalRarity": 1.211,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Glory to the Emperor",
+      "totalRedeemed": 0,
+      "globalRarity": 1.217,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Wings of Light",
+      "totalRedeemed": 0,
+      "globalRarity": 1.224,
+      "adjustedRarity": 3.2
+    },
+    {
+      "name": "Psychic Warfare",
+      "totalRedeemed": 0,
+      "globalRarity": 1.24,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "No More Flame Turrets You can find this rare emblem only once you reach a certain score in the Nightfall \"The Arms Dealer.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 1.246,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Starside Introduction",
+      "totalRedeemed": 0,
+      "globalRarity": 1.249,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Relic of the Golden Age You can find this rare emblem only in chests hidden in Hellas Basin.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.25,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Dawning Mirth",
+      "totalRedeemed": 0,
+      "globalRarity": 1.252,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Apparatus Belli",
+      "totalRedeemed": 0,
+      "globalRarity": 1.253,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Tainted Water You can find this rare emblem once you reach a certain score in the Nightfall \"Lake of Shadows.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 1.262,
+      "adjustedRarity": 3.3
+    },
+    {
+      "name": "Cryonautics",
+      "totalRedeemed": 0,
+      "globalRarity": 1.296,
+      "adjustedRarity": 3.4
+    },
+    {
+      "name": "Pushing Down Daisies",
+      "totalRedeemed": 0,
+      "globalRarity": 1.301,
+      "adjustedRarity": 3.4
+    },
+    {
+      "name": "External Sights",
+      "totalRedeemed": 0,
+      "globalRarity": 1.302,
+      "adjustedRarity": 3.4
+    },
+    {
+      "name": "Galilean Excursion",
+      "totalRedeemed": 0,
+      "globalRarity": 1.306,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Be True",
+      "totalRedeemed": 0,
+      "globalRarity": 1.308,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Future in Shadow",
+      "totalRedeemed": 0,
+      "globalRarity": 1.311,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "From the Ashes",
+      "totalRedeemed": 0,
+      "globalRarity": 1.335,
+      "adjustedRarity": 3.5
+    },
+    {
+      "name": "Seraph's Wings",
+      "totalRedeemed": 0,
+      "globalRarity": 1.345,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "Eva's Pride",
+      "totalRedeemed": 0,
+      "globalRarity": 1.375,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "Unified Front",
+      "totalRedeemed": 0,
+      "globalRarity": 1.375,
+      "adjustedRarity": 3.6
+    },
+    {
+      "name": "Illuminated Peril",
+      "totalRedeemed": 0,
+      "globalRarity": 1.381,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Sequence Flourish",
+      "totalRedeemed": 0,
+      "globalRarity": 1.382,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Laurea Prima II",
+      "totalRedeemed": 0,
+      "globalRarity": 1.387,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Warmind's Fortress You can find this rare emblem only in chests hidden in Hellas Basin.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.394,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Life for Life",
+      "totalRedeemed": 0,
+      "globalRarity": 1.403,
+      "adjustedRarity": 3.7
+    },
+    {
+      "name": "Unconventional Research You can find this rare emblem only once you reach a certain score in the Nightfall \"The Inverted Spire.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 1.426,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Lightcrash",
+      "totalRedeemed": 0,
+      "globalRarity": 1.431,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Iron in the Fire",
+      "totalRedeemed": 0,
+      "globalRarity": 1.447,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "Dark Empire",
+      "totalRedeemed": 0,
+      "globalRarity": 1.453,
+      "adjustedRarity": 3.8
+    },
+    {
+      "name": "A Vile Quarry",
+      "totalRedeemed": 0,
+      "globalRarity": 1.457,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Long-Boy Special",
+      "totalRedeemed": 0,
+      "globalRarity": 1.46,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Moments of Triumph 2019",
+      "totalRedeemed": 0,
+      "globalRarity": 1.472,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Dawning Cheer and Treats",
+      "totalRedeemed": 0,
+      "globalRarity": 1.475,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Devrim's Perch You can find this rare emblem only in chests hidden in the European Dead Zone.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.477,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "Distant Tides",
+      "totalRedeemed": 0,
+      "globalRarity": 1.478,
+      "adjustedRarity": 3.9
+    },
+    {
+      "name": "A Classy Order",
+      "totalRedeemed": 0,
+      "globalRarity": 1.497,
+      "adjustedRarity": 4
+    },
+    {
+      "name": "Watcher from Beyond You can find this rare emblem only once you reach a certain score in the Nightfall \"Savathûn's Song.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 1.505,
+      "adjustedRarity": 4
+    },
+    {
+      "name": "No Quarter",
+      "totalRedeemed": 0,
+      "globalRarity": 1.51,
+      "adjustedRarity": 4
+    },
+    {
+      "name": "Pulling Out the Roots You can find this rare emblem only once you reach a certain score in the Nightfall \"A Garden World.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 1.51,
+      "adjustedRarity": 4
+    },
+    {
+      "name": "The Imperial Menagerie",
+      "totalRedeemed": 0,
+      "globalRarity": 1.519,
+      "adjustedRarity": 4
+    },
+    {
+      "name": "Four Times a Ruler",
+      "totalRedeemed": 0,
+      "globalRarity": 1.537,
+      "adjustedRarity": 4.1
+    },
+    {
+      "name": "The Wolves Unleashed",
+      "totalRedeemed": 0,
+      "globalRarity": 1.565,
+      "adjustedRarity": 4.1
+    },
+    {
+      "name": "Return TYRANT++ Tracks the number of final bosses defeated in the Escalation Protocol.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.572,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Cradle of Invention You can find this rare emblem only in chests hidden in Hellas Basin.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.585,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Point of Contact",
+      "totalRedeemed": 0,
+      "globalRarity": 1.587,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Reborn In Flames",
+      "totalRedeemed": 0,
+      "globalRarity": 1.588,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Parts of a Whole Earn bonus Captain's Coins for completing strikes, Crucible, and Gambit activities with this emblem equipped.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.594,
+      "adjustedRarity": 4.2
+    },
+    {
+      "name": "Valus Intrigue You can find this rare emblem only once you reach a certain score in the Nightfall \"Tree of Probabilities.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 1.618,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Burnished Blade",
+      "totalRedeemed": 0,
+      "globalRarity": 1.622,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Orbital Cartographer",
+      "totalRedeemed": 0,
+      "globalRarity": 1.643,
+      "adjustedRarity": 4.3
+    },
+    {
+      "name": "Universal Hero",
+      "totalRedeemed": 0,
+      "globalRarity": 1.647,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Light Unbridled",
+      "totalRedeemed": 0,
+      "globalRarity": 1.652,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Sigil of the New Monarch",
+      "totalRedeemed": 0,
+      "globalRarity": 1.654,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Flawless Empyrean",
+      "totalRedeemed": 0,
+      "globalRarity": 1.655,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Light for the Lost",
+      "totalRedeemed": 0,
+      "globalRarity": 1.655,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "Points of Light",
+      "totalRedeemed": 0,
+      "globalRarity": 1.667,
+      "adjustedRarity": 4.4
+    },
+    {
+      "name": "And Still We Stood",
+      "totalRedeemed": 0,
+      "globalRarity": 1.684,
+      "adjustedRarity": 4.5
+    },
+    {
+      "name": "Sister of Shapes",
+      "totalRedeemed": 0,
+      "globalRarity": 1.72,
+      "adjustedRarity": 4.5
+    },
+    {
+      "name": "The Golden Standard",
+      "totalRedeemed": 0,
+      "globalRarity": 1.769,
+      "adjustedRarity": 4.7
+    },
+    {
+      "name": "Purifying Light You can find this rare emblem once you reach a certain score in the Nightfall \"Strange Terrain.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 1.769,
+      "adjustedRarity": 4.7
+    },
+    {
+      "name": "Secret Treasure",
+      "totalRedeemed": 0,
+      "globalRarity": 1.774,
+      "adjustedRarity": 4.7
+    },
+    {
+      "name": "Settled Differences",
+      "totalRedeemed": 0,
+      "globalRarity": 1.816,
+      "adjustedRarity": 4.8
+    },
+    {
+      "name": "One Orbit Remains",
+      "totalRedeemed": 0,
+      "globalRarity": 1.831,
+      "adjustedRarity": 4.8
+    },
+    {
+      "name": "Good Dog",
+      "totalRedeemed": 0,
+      "globalRarity": 1.905,
+      "adjustedRarity": 5
+    },
+    {
+      "name": "The Visionary",
+      "totalRedeemed": 0,
+      "globalRarity": 1.915,
+      "adjustedRarity": 5.1
+    },
+    {
+      "name": "Outlawed and Unsanctioned You can find this rare emblem only once you reach a certain score in the Nightfall \"The Arms Dealer.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 1.928,
+      "adjustedRarity": 5.1
+    },
+    {
+      "name": "Shattered Fortress",
+      "totalRedeemed": 0,
+      "globalRarity": 1.969,
+      "adjustedRarity": 5.2
+    },
+    {
+      "name": "Recovered Memories",
+      "totalRedeemed": 0,
+      "globalRarity": 1.994,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "Humanity's Cradle You can find this rare emblem only in chests hidden in the European Dead Zone.",
+      "totalRedeemed": 0,
+      "globalRarity": 1.998,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "Regicide",
+      "totalRedeemed": 0,
+      "globalRarity": 2.006,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "Gather Your Fireteam",
+      "totalRedeemed": 0,
+      "globalRarity": 2.018,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "Benighted Omen",
+      "totalRedeemed": 0,
+      "globalRarity": 2.02,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "The Flow, the Metal",
+      "totalRedeemed": 0,
+      "globalRarity": 2.023,
+      "adjustedRarity": 5.3
+    },
+    {
+      "name": "The Craftening",
+      "totalRedeemed": 0,
+      "globalRarity": 2.047,
+      "adjustedRarity": 5.4
+    },
+    {
+      "name": "Light of the Dark Sun",
+      "totalRedeemed": 0,
+      "globalRarity": 2.053,
+      "adjustedRarity": 5.4
+    },
+    {
+      "name": "Operation Intrepid You can find this rare emblem only once you reach a certain score in the Nightfall \"The Pyramidion.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 2.064,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Terrors Uprooted",
+      "totalRedeemed": 0,
+      "globalRarity": 2.075,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Numbers of Power",
+      "totalRedeemed": 0,
+      "globalRarity": 2.093,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Terminal Circuit",
+      "totalRedeemed": 0,
+      "globalRarity": 2.093,
+      "adjustedRarity": 5.5
+    },
+    {
+      "name": "Wormslayer This rare emblem is awarded by opening both Golden Age vaults in Hellas Basin.",
+      "totalRedeemed": 0,
+      "globalRarity": 2.111,
+      "adjustedRarity": 5.6
+    },
+    {
+      "name": "Accolades on Accolades",
+      "totalRedeemed": 0,
+      "globalRarity": 2.122,
+      "adjustedRarity": 5.6
+    },
+    {
+      "name": "Lore Scholar",
+      "totalRedeemed": 0,
+      "globalRarity": 2.149,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Secret Victories",
+      "totalRedeemed": 0,
+      "globalRarity": 2.151,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Victorious Oddment",
+      "totalRedeemed": 0,
+      "globalRarity": 2.152,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Stories We Remember",
+      "totalRedeemed": 0,
+      "globalRarity": 2.158,
+      "adjustedRarity": 5.7
+    },
+    {
+      "name": "Never Lost, Always Found",
+      "totalRedeemed": 0,
+      "globalRarity": 2.189,
+      "adjustedRarity": 5.8
+    },
+    {
+      "name": "Amethyst Stronghold",
+      "totalRedeemed": 0,
+      "globalRarity": 2.237,
+      "adjustedRarity": 5.9
+    },
+    {
+      "name": "Sweet Dreams",
+      "totalRedeemed": 0,
+      "globalRarity": 2.263,
+      "adjustedRarity": 6
+    },
+    {
+      "name": "Emperor's Envy",
+      "totalRedeemed": 0,
+      "globalRarity": 2.278,
+      "adjustedRarity": 6
+    },
+    {
+      "name": "Honor of the Vanguard",
+      "totalRedeemed": 0,
+      "globalRarity": 2.3,
+      "adjustedRarity": 6.1
+    },
+    {
+      "name": "Emblem of the Worthy",
+      "totalRedeemed": 0,
+      "globalRarity": 2.309,
+      "adjustedRarity": 6.1
+    },
+    {
+      "name": "The Forsaken",
+      "totalRedeemed": 0,
+      "globalRarity": 2.312,
+      "adjustedRarity": 6.1
+    },
+    {
+      "name": "Maleficarum Interrupted You can find this rare emblem once you reach a certain score in the Nightfall \"Strange Terrain.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 2.323,
+      "adjustedRarity": 6.1
+    },
+    {
+      "name": "Kadi 55-30's Blessing",
+      "totalRedeemed": 0,
+      "globalRarity": 2.367,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Prophetic Arsenal",
+      "totalRedeemed": 0,
+      "globalRarity": 2.371,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Spark of the Machine",
+      "totalRedeemed": 0,
+      "globalRarity": 2.373,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "King No More",
+      "totalRedeemed": 0,
+      "globalRarity": 2.376,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Arcology Interface",
+      "totalRedeemed": 0,
+      "globalRarity": 2.376,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Ghost Board",
+      "totalRedeemed": 0,
+      "globalRarity": 2.379,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Jade Rabbit Redux",
+      "totalRedeemed": 0,
+      "globalRarity": 2.379,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Ace of Spades",
+      "totalRedeemed": 0,
+      "globalRarity": 2.385,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Coordinate Mathematics",
+      "totalRedeemed": 0,
+      "globalRarity": 2.385,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Try the Special",
+      "totalRedeemed": 0,
+      "globalRarity": 2.388,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Hollow Sleep",
+      "totalRedeemed": 0,
+      "globalRarity": 2.391,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Smoldering Flame",
+      "totalRedeemed": 0,
+      "globalRarity": 2.391,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Against the Dark",
+      "totalRedeemed": 0,
+      "globalRarity": 2.391,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Telstar Graphics",
+      "totalRedeemed": 0,
+      "globalRarity": 2.393,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Way of the Wolf",
+      "totalRedeemed": 0,
+      "globalRarity": 2.395,
+      "adjustedRarity": 6.3
+    },
+    {
+      "name": "Wander On",
+      "totalRedeemed": 0,
+      "globalRarity": 2.406,
+      "adjustedRarity": 6.4
+    },
+    {
+      "name": "Dawn Chaser",
+      "totalRedeemed": 0,
+      "globalRarity": 2.441,
+      "adjustedRarity": 6.5
+    },
+    {
+      "name": "The Deepest Truth",
+      "totalRedeemed": 0,
+      "globalRarity": 2.466,
+      "adjustedRarity": 6.5
+    },
+    {
+      "name": "Hellas Basin",
+      "totalRedeemed": 0,
+      "globalRarity": 2.467,
+      "adjustedRarity": 6.5
+    },
+    {
+      "name": "Search and Rescue You can find this rare emblem only once you reach a certain score in the Nightfall \"Savathûn's Song.\"",
+      "totalRedeemed": 0,
+      "globalRarity": 2.497,
+      "adjustedRarity": 6.6
+    },
+    {
+      "name": "Starlit Welcome",
+      "totalRedeemed": 0,
+      "globalRarity": 2.52,
+      "adjustedRarity": 6.7
+    },
+    {
+      "name": "Fields of Glass",
+      "totalRedeemed": 0,
+      "globalRarity": 2.545,
+      "adjustedRarity": 6.7
+    },
+    {
+      "name": "Stalking Shades",
+      "totalRedeemed": 0,
+      "globalRarity": 2.56,
+      "adjustedRarity": 6.8
+    },
+    {
+      "name": "Drink at the Well",
+      "totalRedeemed": 0,
+      "globalRarity": 2.564,
+      "adjustedRarity": 6.8
+    },
+    {
+      "name": "Pillory Partition",
+      "totalRedeemed": 0,
+      "globalRarity": 2.566,
+      "adjustedRarity": 6.8
+    },
+    {
+      "name": "Exodus Crash",
+      "totalRedeemed": 0,
+      "globalRarity": 2.594,
+      "adjustedRarity": 6.9
+    },
+    {
+      "name": "The Hollowed Lair",
+      "totalRedeemed": 0,
+      "globalRarity": 2.594,
+      "adjustedRarity": 6.9
+    },
+    {
+      "name": "Delicious Benefactor",
+      "totalRedeemed": 0,
+      "globalRarity": 2.621,
+      "adjustedRarity": 6.9
+    },
+    {
+      "name": "Will of the Thousands",
+      "totalRedeemed": 0,
+      "globalRarity": 2.623,
+      "adjustedRarity": 6.9
+    },
+    {
+      "name": "Luminous Tapestry",
+      "totalRedeemed": 0,
+      "globalRarity": 2.663,
+      "adjustedRarity": 7
+    },
+    {
+      "name": "Salvation's Downfall",
+      "totalRedeemed": 0,
+      "globalRarity": 2.686,
+      "adjustedRarity": 7.1
+    },
+    {
+      "name": "Inherent Truth",
+      "totalRedeemed": 0,
+      "globalRarity": 2.715,
+      "adjustedRarity": 7.2
+    },
+    {
+      "name": "Renewed Triumph",
+      "totalRedeemed": 0,
+      "globalRarity": 2.766,
+      "adjustedRarity": 7.3
+    },
+    {
+      "name": "Crypt Reawakened",
+      "totalRedeemed": 0,
+      "globalRarity": 2.87,
+      "adjustedRarity": 7.6
+    },
+    {
+      "name": "Hunting Grounds",
+      "totalRedeemed": 0,
+      "globalRarity": 2.881,
+      "adjustedRarity": 7.6
+    },
+    {
+      "name": "Sanctuary of Nefele",
+      "totalRedeemed": 0,
+      "globalRarity": 2.908,
+      "adjustedRarity": 7.7
+    },
+    {
+      "name": "The Corrupted",
+      "totalRedeemed": 0,
+      "globalRarity": 2.942,
+      "adjustedRarity": 7.8
+    },
+    {
+      "name": "Legend of Saint-14",
+      "totalRedeemed": 0,
+      "globalRarity": 2.998,
+      "adjustedRarity": 7.9
+    },
+    {
+      "name": "A Higher Truth",
+      "totalRedeemed": 0,
+      "globalRarity": 3.042,
+      "adjustedRarity": 8
+    },
+    {
+      "name": "Sandswept Crusader",
+      "totalRedeemed": 0,
+      "globalRarity": 3.047,
+      "adjustedRarity": 8.1
+    },
+    {
+      "name": "Prismatic Horizon",
+      "totalRedeemed": 0,
+      "globalRarity": 3.06,
+      "adjustedRarity": 8.1
+    },
+    {
+      "name": "Second Chances",
+      "totalRedeemed": 0,
+      "globalRarity": 3.093,
+      "adjustedRarity": 8.2
+    },
+    {
+      "name": "Warden of Nothing",
+      "totalRedeemed": 0,
+      "globalRarity": 3.114,
+      "adjustedRarity": 8.2
+    },
+    {
+      "name": "Paracausal Path",
+      "totalRedeemed": 0,
+      "globalRarity": 3.122,
+      "adjustedRarity": 8.3
+    },
+    {
+      "name": "Edge of Arrival",
+      "totalRedeemed": 0,
+      "globalRarity": 3.14,
+      "adjustedRarity": 8.3
+    },
+    {
+      "name": "Battle Colors",
+      "totalRedeemed": 0,
+      "globalRarity": 3.17,
+      "adjustedRarity": 8.4
+    },
+    {
+      "name": "Trailblazer",
+      "totalRedeemed": 0,
+      "globalRarity": 3.201,
+      "adjustedRarity": 8.5
+    },
+    {
+      "name": "Emperor's Shadows",
+      "totalRedeemed": 0,
+      "globalRarity": 3.214,
+      "adjustedRarity": 8.5
+    },
+    {
+      "name": "Victorious Veteran",
+      "totalRedeemed": 0,
+      "globalRarity": 3.227,
+      "adjustedRarity": 8.5
+    },
+    {
+      "name": "Young Wolf",
+      "totalRedeemed": 0,
+      "globalRarity": 3.326,
+      "adjustedRarity": 8.8
+    },
+    {
+      "name": "Settle the Score",
+      "totalRedeemed": 0,
+      "globalRarity": 3.337,
+      "adjustedRarity": 8.8
+    },
+    {
+      "name": "Lucidity",
+      "totalRedeemed": 0,
+      "globalRarity": 3.347,
+      "adjustedRarity": 8.8
+    },
+    {
+      "name": "Neomuna Nights",
+      "totalRedeemed": 0,
+      "globalRarity": 3.351,
+      "adjustedRarity": 8.9
+    },
+    {
+      "name": "Rivals Three",
+      "totalRedeemed": 0,
+      "globalRarity": 3.413,
+      "adjustedRarity": 9
+    },
+    {
+      "name": "Infinite Reflections",
+      "totalRedeemed": 0,
+      "globalRarity": 3.468,
+      "adjustedRarity": 9.2
+    },
+    {
+      "name": "Hardened by Trial",
+      "totalRedeemed": 0,
+      "globalRarity": 3.483,
+      "adjustedRarity": 9.2
+    },
+    {
+      "name": "Persistent Blaze",
+      "totalRedeemed": 0,
+      "globalRarity": 3.484,
+      "adjustedRarity": 9.2
+    },
+    {
+      "name": "Wish No More",
+      "totalRedeemed": 0,
+      "globalRarity": 3.514,
+      "adjustedRarity": 9.3
+    },
+    {
+      "name": "Spirited Rivalry",
+      "totalRedeemed": 0,
+      "globalRarity": 3.626,
+      "adjustedRarity": 9.6
+    },
+    {
+      "name": "Midnight Durance",
+      "totalRedeemed": 0,
+      "globalRarity": 3.637,
+      "adjustedRarity": 9.6
+    },
+    {
+      "name": "Contender's Banner",
+      "totalRedeemed": 0,
+      "globalRarity": 3.652,
+      "adjustedRarity": 9.7
+    },
+    {
+      "name": "Total Eclipse",
+      "totalRedeemed": 0,
+      "globalRarity": 3.731,
+      "adjustedRarity": 9.9
+    },
+    {
+      "name": "Regency",
+      "totalRedeemed": 0,
+      "globalRarity": 3.745,
+      "adjustedRarity": 9.9
+    },
+    {
+      "name": "Kit and Kaboodle",
+      "totalRedeemed": 0,
+      "globalRarity": 3.82,
+      "adjustedRarity": 10.1
+    },
+    {
+      "name": "Veteran of the Hunt",
+      "totalRedeemed": 0,
+      "globalRarity": 3.873,
+      "adjustedRarity": 10.2
+    },
+    {
+      "name": "Astral Location",
+      "totalRedeemed": 0,
+      "globalRarity": 3.918,
+      "adjustedRarity": 10.4
+    },
+    {
+      "name": "Circumflex Diacritic",
+      "totalRedeemed": 0,
+      "globalRarity": 3.962,
+      "adjustedRarity": 10.5
+    },
+    {
+      "name": "Fire of the Crimson Days",
+      "totalRedeemed": 0,
+      "globalRarity": 4.054,
+      "adjustedRarity": 10.7
+    },
+    {
+      "name": "Untangled",
+      "totalRedeemed": 0,
+      "globalRarity": 4.103,
+      "adjustedRarity": 10.8
+    },
+    {
+      "name": "Primeval Prime",
+      "totalRedeemed": 0,
+      "globalRarity": 4.111,
+      "adjustedRarity": 10.9
+    },
+    {
+      "name": "Slayer of Oryx",
+      "totalRedeemed": 0,
+      "globalRarity": 4.122,
+      "adjustedRarity": 10.9
+    },
+    {
+      "name": "Rogue Titan",
+      "totalRedeemed": 0,
+      "globalRarity": 4.146,
+      "adjustedRarity": 11
+    },
+    {
+      "name": "Lake of Shadows",
+      "totalRedeemed": 0,
+      "globalRarity": 4.175,
+      "adjustedRarity": 11
+    },
+    {
+      "name": "Master Gardener",
+      "totalRedeemed": 0,
+      "globalRarity": 4.186,
+      "adjustedRarity": 11.1
+    },
+    {
+      "name": "Light of the Dawning",
+      "totalRedeemed": 0,
+      "globalRarity": 4.239,
+      "adjustedRarity": 11.2
+    },
+    {
+      "name": "Master Cartographer",
+      "totalRedeemed": 0,
+      "globalRarity": 4.278,
+      "adjustedRarity": 11.3
+    },
+    {
+      "name": "Insight Terminus",
+      "totalRedeemed": 0,
+      "globalRarity": 4.292,
+      "adjustedRarity": 11.3
+    },
+    {
+      "name": "Tear of Izanami",
+      "totalRedeemed": 0,
+      "globalRarity": 4.297,
+      "adjustedRarity": 11.4
+    },
+    {
+      "name": "Sanguine Static",
+      "totalRedeemed": 0,
+      "globalRarity": 4.358,
+      "adjustedRarity": 11.5
+    },
+    {
+      "name": "Holy Ground",
+      "totalRedeemed": 0,
+      "globalRarity": 4.359,
+      "adjustedRarity": 11.5
+    },
+    {
+      "name": "Ballet Lover",
+      "totalRedeemed": 0,
+      "globalRarity": 4.359,
+      "adjustedRarity": 11.5
+    },
+    {
+      "name": "Traveler's Flight",
+      "totalRedeemed": 0,
+      "globalRarity": 4.364,
+      "adjustedRarity": 11.5
+    },
+    {
+      "name": "Eagle's Fall Unlocked after you defeat a thousand Warlocks.",
+      "totalRedeemed": 0,
+      "globalRarity": 4.392,
+      "adjustedRarity": 11.6
+    },
+    {
+      "name": "Lion's End Unlocked after you defeat a thousand Titans.",
+      "totalRedeemed": 0,
+      "globalRarity": 4.398,
+      "adjustedRarity": 11.6
+    },
+    {
+      "name": "A Garden World",
+      "totalRedeemed": 0,
+      "globalRarity": 4.507,
+      "adjustedRarity": 11.9
+    },
+    {
+      "name": "Beyond Light",
+      "totalRedeemed": 0,
+      "globalRarity": 4.573,
+      "adjustedRarity": 12.1
+    },
+    {
+      "name": "Steel of Bergusia",
+      "totalRedeemed": 0,
+      "globalRarity": 4.589,
+      "adjustedRarity": 12.1
+    },
+    {
+      "name": "A Hall of Delights",
+      "totalRedeemed": 0,
+      "globalRarity": 4.593,
+      "adjustedRarity": 12.1
+    },
+    {
+      "name": "Gofannon's Hammer",
+      "totalRedeemed": 0,
+      "globalRarity": 4.615,
+      "adjustedRarity": 12.2
+    },
+    {
+      "name": "Absolutely Cursed",
+      "totalRedeemed": 0,
+      "globalRarity": 4.714,
+      "adjustedRarity": 12.5
+    },
+    {
+      "name": "Terror's End",
+      "totalRedeemed": 0,
+      "globalRarity": 4.722,
+      "adjustedRarity": 12.5
+    },
+    {
+      "name": "Tree of Probabilities",
+      "totalRedeemed": 0,
+      "globalRarity": 4.847,
+      "adjustedRarity": 12.8
+    },
+    {
+      "name": "Deep in the Woods",
+      "totalRedeemed": 0,
+      "globalRarity": 4.993,
+      "adjustedRarity": 13.2
+    },
+    {
+      "name": "Cataloguer",
+      "totalRedeemed": 0,
+      "globalRarity": 5.002,
+      "adjustedRarity": 13.2
+    },
+    {
+      "name": "The Inverted Spire",
+      "totalRedeemed": 0,
+      "globalRarity": 5.046,
+      "adjustedRarity": 13.3
+    },
+    {
+      "name": "Strikes of All Stripes",
+      "totalRedeemed": 0,
+      "globalRarity": 5.055,
+      "adjustedRarity": 13.4
+    },
+    {
+      "name": "Embrace His Name",
+      "totalRedeemed": 0,
+      "globalRarity": 5.057,
+      "adjustedRarity": 13.4
+    },
+    {
+      "name": "Serpent's Ruin Unlocked after you defeat a thousand Hunters.",
+      "totalRedeemed": 0,
+      "globalRarity": 5.187,
+      "adjustedRarity": 13.7
+    },
+    {
+      "name": "Struck a Nerve",
+      "totalRedeemed": 0,
+      "globalRarity": 5.197,
+      "adjustedRarity": 13.7
+    },
+    {
+      "name": "The Arms Dealer",
+      "totalRedeemed": 0,
+      "globalRarity": 5.235,
+      "adjustedRarity": 13.8
+    },
+    {
+      "name": "Gone Hunting",
+      "totalRedeemed": 0,
+      "globalRarity": 5.252,
+      "adjustedRarity": 13.9
+    },
+    {
+      "name": "Might of Volundr",
+      "totalRedeemed": 0,
+      "globalRarity": 5.291,
+      "adjustedRarity": 14
+    },
+    {
+      "name": "Rogue Warlock",
+      "totalRedeemed": 0,
+      "globalRarity": 5.297,
+      "adjustedRarity": 14
+    },
+    {
+      "name": "Strange Terrain",
+      "totalRedeemed": 0,
+      "globalRarity": 5.536,
+      "adjustedRarity": 14.6
+    },
+    {
+      "name": "Echo Mesa",
+      "totalRedeemed": 0,
+      "globalRarity": 5.624,
+      "adjustedRarity": 14.9
+    },
+    {
+      "name": "New Pacific Access",
+      "totalRedeemed": 0,
+      "globalRarity": 5.721,
+      "adjustedRarity": 15.1
+    },
+    {
+      "name": "Solarium Yellow",
+      "totalRedeemed": 0,
+      "globalRarity": 5.727,
+      "adjustedRarity": 15.1
+    },
+    {
+      "name": "Cargo Bay Cross",
+      "totalRedeemed": 0,
+      "globalRarity": 5.74,
+      "adjustedRarity": 15.2
+    },
+    {
+      "name": "Data Mine",
+      "totalRedeemed": 0,
+      "globalRarity": 5.972,
+      "adjustedRarity": 15.8
+    },
+    {
+      "name": "Wheel of Misfortune",
+      "totalRedeemed": 0,
+      "globalRarity": 6.092,
+      "adjustedRarity": 16.1
+    },
+    {
+      "name": "The First Wave",
+      "totalRedeemed": 0,
+      "globalRarity": 6.197,
+      "adjustedRarity": 16.4
+    },
+    {
+      "name": "The Pyramidion",
+      "totalRedeemed": 0,
+      "globalRarity": 6.273,
+      "adjustedRarity": 16.6
+    },
+    {
+      "name": "Cold Comfort",
+      "totalRedeemed": 0,
+      "globalRarity": 6.443,
+      "adjustedRarity": 17
+    },
+    {
+      "name": "Savathûn's Song",
+      "totalRedeemed": 0,
+      "globalRarity": 6.466,
+      "adjustedRarity": 17.1
+    },
+    {
+      "name": "Rogue Hunter",
+      "totalRedeemed": 0,
+      "globalRarity": 6.499,
+      "adjustedRarity": 17.2
+    },
+    {
+      "name": "New Pacific Arcology",
+      "totalRedeemed": 0,
+      "globalRarity": 6.616,
+      "adjustedRarity": 17.5
+    },
+    {
+      "name": "Exodus Access",
+      "totalRedeemed": 0,
+      "globalRarity": 6.631,
+      "adjustedRarity": 17.5
+    },
+    {
+      "name": "Transit of Mercury",
+      "totalRedeemed": 0,
+      "globalRarity": 6.651,
+      "adjustedRarity": 17.6
+    },
+    {
+      "name": "Jacobson's Staff",
+      "totalRedeemed": 0,
+      "globalRarity": 6.793,
+      "adjustedRarity": 18
+    },
+    {
+      "name": "Arcadian Valley",
+      "totalRedeemed": 0,
+      "globalRarity": 7.099,
+      "adjustedRarity": 18.8
+    },
+    {
+      "name": "Tangled Anchor",
+      "totalRedeemed": 0,
+      "globalRarity": 7.107,
+      "adjustedRarity": 18.8
+    },
+    {
+      "name": "Fireforged Valor",
+      "totalRedeemed": 0,
+      "globalRarity": 7.268,
+      "adjustedRarity": 19.2
+    },
+    {
+      "name": "True Valor Displays feats of the Crucible across Seasons.",
+      "totalRedeemed": 0,
+      "globalRarity": 7.298,
+      "adjustedRarity": 19.3
+    },
+    {
+      "name": "Holiday Treats",
+      "totalRedeemed": 0,
+      "globalRarity": 7.326,
+      "adjustedRarity": 19.4
+    },
+    {
+      "name": "Eye for an Eye",
+      "totalRedeemed": 0,
+      "globalRarity": 7.658,
+      "adjustedRarity": 20.2
+    },
+    {
+      "name": "Made Shaxx Proud",
+      "totalRedeemed": 0,
+      "globalRarity": 7.883,
+      "adjustedRarity": 20.8
+    },
+    {
+      "name": "Activate ESCALATION",
+      "totalRedeemed": 0,
+      "globalRarity": 8.078,
+      "adjustedRarity": 21.4
+    },
+    {
+      "name": "Laurel Triumphant",
+      "totalRedeemed": 0,
+      "globalRarity": 8.768,
+      "adjustedRarity": 23.2
+    },
+    {
+      "name": "Felwinter Frost",
+      "totalRedeemed": 0,
+      "globalRarity": 8.932,
+      "adjustedRarity": 23.6
+    },
+    {
+      "name": "Shadow Market",
+      "totalRedeemed": 0,
+      "globalRarity": 9.213,
+      "adjustedRarity": 24.4
+    },
+    {
+      "name": "Triumphalism",
+      "totalRedeemed": 0,
+      "globalRarity": 9.364,
+      "adjustedRarity": 24.8
+    },
+    {
+      "name": "Specter of the Gun",
+      "totalRedeemed": 0,
+      "globalRarity": 9.365,
+      "adjustedRarity": 24.8
+    },
+    {
+      "name": "Hero of the Infinite",
+      "totalRedeemed": 0,
+      "globalRarity": 9.588,
+      "adjustedRarity": 25.3
+    },
+    {
+      "name": "Trostland Terminus",
+      "totalRedeemed": 0,
+      "globalRarity": 9.664,
+      "adjustedRarity": 25.5
+    },
+    {
+      "name": "Kay's Command",
+      "totalRedeemed": 0,
+      "globalRarity": 9.691,
+      "adjustedRarity": 25.6
+    },
+    {
+      "name": "IKELOS Imperative",
+      "totalRedeemed": 0,
+      "globalRarity": 9.707,
+      "adjustedRarity": 25.7
+    },
+    {
+      "name": "Technological Singularity",
+      "totalRedeemed": 0,
+      "globalRarity": 9.781,
+      "adjustedRarity": 25.9
+    },
+    {
+      "name": "Dead Zone Camo",
+      "totalRedeemed": 0,
+      "globalRarity": 9.859,
+      "adjustedRarity": 26.1
+    },
+    {
+      "name": "One Path to Victory",
+      "totalRedeemed": 0,
+      "globalRarity": 10.194,
+      "adjustedRarity": 26.9
+    },
+    {
+      "name": "C-T-A-T-O-D-L",
+      "totalRedeemed": 0,
+      "globalRarity": 10.204,
+      "adjustedRarity": 27
+    },
+    {
+      "name": "Give Them War",
+      "totalRedeemed": 0,
+      "globalRarity": 10.205,
+      "adjustedRarity": 27
+    },
+    {
+      "name": "Fight Forever",
+      "totalRedeemed": 0,
+      "globalRarity": 10.277,
+      "adjustedRarity": 27.2
+    },
+    {
+      "name": "At the Vanguard",
+      "totalRedeemed": 0,
+      "globalRarity": 11.202,
+      "adjustedRarity": 29.6
+    },
+    {
+      "name": "Push Forward",
+      "totalRedeemed": 0,
+      "globalRarity": 11.256,
+      "adjustedRarity": 29.8
+    },
+    {
+      "name": "Make Us Proud",
+      "totalRedeemed": 0,
+      "globalRarity": 11.294,
+      "adjustedRarity": 29.9
+    },
+    {
+      "name": "Omolon Upgrade",
+      "totalRedeemed": 0,
+      "globalRarity": 12.474,
+      "adjustedRarity": 33
+    },
+    {
+      "name": "European Dead Zone",
+      "totalRedeemed": 0,
+      "globalRarity": 13.542,
+      "adjustedRarity": 35.8
+    },
+    {
+      "name": "For Valor Displays the number of Crucible Ranks completed across Seasons.",
+      "totalRedeemed": 0,
+      "globalRarity": 14.446,
+      "adjustedRarity": 38.2
+    },
+    {
+      "name": "For Glory Displays your Glory Rank across Seasons.",
+      "totalRedeemed": 0,
+      "globalRarity": 14.446,
+      "adjustedRarity": 38.2
+    },
+    {
+      "name": "SUROS Upgrade",
+      "totalRedeemed": 0,
+      "globalRarity": 14.982,
+      "adjustedRarity": 39.6
+    },
+    {
+      "name": "Hakke Upgrade",
+      "totalRedeemed": 0,
+      "globalRarity": 15.001,
+      "adjustedRarity": 39.7
+    },
+    {
+      "name": "VEIST Upgrade",
+      "totalRedeemed": 0,
+      "globalRarity": 15.01,
+      "adjustedRarity": 39.7
+    },
+    {
+      "name": "High-Risk, High-Reward",
+      "totalRedeemed": 0,
+      "globalRarity": 18.492,
+      "adjustedRarity": 48.9
+    },
+    {
+      "name": "Rally the Flag",
+      "totalRedeemed": 0,
+      "globalRarity": 20.465,
+      "adjustedRarity": 54.1
+    },
+    {
+      "name": "Crossroads Emblem",
+      "totalRedeemed": 0,
+      "globalRarity": 26.608,
+      "adjustedRarity": 70.3
+    },
+    {
+      "name": "Storm's Surge",
+      "totalRedeemed": 0,
+      "globalRarity": 31.021,
+      "adjustedRarity": 82
+    },
+    {
+      "name": "Blade's Blast",
+      "totalRedeemed": 0,
+      "globalRarity": 31.212,
+      "adjustedRarity": 82.5
+    },
+    {
+      "name": "Breaker's Blaze",
+      "totalRedeemed": 0,
+      "globalRarity": 31.256,
+      "adjustedRarity": 82.6
+    },
+    {
+      "name": "Sentinel's Shove",
+      "totalRedeemed": 0,
+      "globalRarity": 32.669,
+      "adjustedRarity": 86.4
+    },
+    {
+      "name": "Striker's Slam",
+      "totalRedeemed": 0,
+      "globalRarity": 37.459,
+      "adjustedRarity": 99
+    },
+    {
+      "name": "Lion's Roar Show that your strength is unstoppable.",
+      "totalRedeemed": 0,
+      "globalRarity": 38.371,
+      "adjustedRarity": 101.4
+    },
+    {
+      "name": "Titan's Pride",
+      "totalRedeemed": 0,
+      "globalRarity": 39.926,
+      "adjustedRarity": 105.5
+    },
+    {
+      "name": "Walker's Warp",
+      "totalRedeemed": 0,
+      "globalRarity": 43.483,
+      "adjustedRarity": 114.9
+    },
+    {
+      "name": "Eagle's Flight Show that your power cannot be contained.",
+      "totalRedeemed": 0,
+      "globalRarity": 43.485,
+      "adjustedRarity": 115
+    },
+    {
+      "name": "Strider's Slash",
+      "totalRedeemed": 0,
+      "globalRarity": 44.491,
+      "adjustedRarity": 117.6
+    },
+    {
+      "name": "Warlock's Flight",
+      "totalRedeemed": 0,
+      "globalRarity": 44.914,
+      "adjustedRarity": 118.7
+    },
+    {
+      "name": "Stalker's Shot",
+      "totalRedeemed": 0,
+      "globalRarity": 45.83,
+      "adjustedRarity": 121.1
+    },
+    {
+      "name": "Slinger's Sight",
+      "totalRedeemed": 0,
+      "globalRarity": 54.171,
+      "adjustedRarity": 143.2
+    },
+    {
+      "name": "Serpent's Strike Show that they can't kill what they can't catch.",
+      "totalRedeemed": 0,
+      "globalRarity": 54.922,
+      "adjustedRarity": 145.2
+    },
+    {
+      "name": "Hunter's Wit",
+      "totalRedeemed": 0,
+      "globalRarity": 56.21,
+      "adjustedRarity": 148.6
+    },
+    {
+      "name": "Titan's Triumph",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Playin' the Odds",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Hunter's Hoard",
+      "totalRedeemed": 0,
+      "globalRarity": 92.445,
+      "adjustedRarity": 244.4
+    },
+    {
+      "name": "Warlock's Wisdom",
+      "totalRedeemed": 0,
+      "globalRarity": 92.447,
+      "adjustedRarity": 244.4
+    }
+  ]
+}

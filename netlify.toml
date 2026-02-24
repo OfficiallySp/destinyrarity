@@ -5,7 +5,6 @@
 [functions]
   included_files = ["data/**"]
   node_bundler = "esbuild"
-  format = "esm"
 
 [[redirects]]
   from = "/api/auth-login"

@@ -98,7 +98,7 @@
 
   function render() {
     fetch('/api/get-rarest-items', { credentials: 'include' })
-      .then((r) => {
+      .then(async (r) => {
         if (r.status === 401) {
           // #region agent log
           fetch('http://127.0.0.1:7373/ingest/5ec052d7-2eb7-4035-9181-a1f067304a0b',{method:'POST',headers:{'Content-Type':'application/json','X-Debug-Session-Id':'5ae389'},body:JSON.stringify({sessionId:'5ae389',location:'app.js:401',message:'dashboard redirecting to home',data:{status:401},hypothesisId:'H3,H5',timestamp:Date.now()})}).catch(()=>{});
@@ -106,7 +106,16 @@
           window.location.href = '/';
           return null;
         }
-        return r.json();
+        const ct = r.headers.get('Content-Type') || '';
+        const text = await r.text();
+        if (!ct.includes('application/json') || text.trim().startsWith('<')) {
+          throw new Error(r.ok ? 'Invalid response format' : `Request failed (${r.status})`);
+        }
+        try {
+          return JSON.parse(text);
+        } catch (_) {
+          throw new Error('Invalid response format');
+        }
       })
       .then((data) => {
         loading.hidden = true;

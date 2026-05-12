@@ -97,13 +97,13 @@
   }
 
   function render() {
-    fetch('/api/get-rarest-items', { credentials: 'include' })
+    fetch('api/get-rarest-items', { credentials: 'include' })
       .then(async (r) => {
         if (r.status === 401) {
           // #region agent log
           fetch('http://127.0.0.1:7373/ingest/5ec052d7-2eb7-4035-9181-a1f067304a0b',{method:'POST',headers:{'Content-Type':'application/json','X-Debug-Session-Id':'5ae389'},body:JSON.stringify({sessionId:'5ae389',location:'app.js:401',message:'dashboard redirecting to home',data:{status:401},hypothesisId:'H3,H5',timestamp:Date.now()})}).catch(()=>{});
           // #endregion
-          window.location.href = '/';
+          window.location.href = './';
           return null;
         }
         const text = await r.text();

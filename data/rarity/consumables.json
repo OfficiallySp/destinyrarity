@@ -2,136 +2,172 @@
   "category": "consumables",
   "items": [
     {
-      "name": "Phosphor Ascent Once purchased for Silver, you may claim this item again from Collections. Claim a Holochip Extractor from Collections to end the effect early.",
-      "totalRedeemed": 5935,
-      "globalRarity": 0.008,
-      "adjustedRarity": 0
+      "name": "Afterburners",
+      "totalRedeemed": 3,
+      "globalRarity": 0.000414749303677394,
+      "adjustedRarity": 0.0011003064683606325
     },
     {
-      "name": "Aurochs Once purchased for Silver, you may claim this item again from Collections. Claim a Holochip Extractor from Collections to end the effect early.",
-      "totalRedeemed": 6402,
-      "globalRarity": 0.009,
-      "adjustedRarity": 0
+      "name": "Bubble Trouble",
+      "totalRedeemed": 165,
+      "globalRarity": 0.022811211702256674,
+      "adjustedRarity": 0.060516855759834794
     },
     {
-      "name": "Terrordactyl Once purchased for Silver, you may claim this item again from Collections. Claim a Holochip Extractor from Collections to end the effect early.",
-      "totalRedeemed": 10038,
-      "globalRarity": 0.014,
-      "adjustedRarity": 0
+      "name": "Graceful Impala",
+      "totalRedeemed": 227,
+      "globalRarity": 0.031382697311589484,
+      "adjustedRarity": 0.0832565227726212
     },
     {
-      "name": "Stag Lord Once purchased for Silver, you may claim this item again from Collections. Claim a Holochip Extractor from Collections to end the effect early.",
-      "totalRedeemed": 12329,
-      "globalRarity": 0.017,
-      "adjustedRarity": 0
+      "name": "Raven's Wings",
+      "totalRedeemed": 543,
+      "globalRarity": 0.07506962396560832,
+      "adjustedRarity": 0.19915547077327447
     },
     {
-      "name": "Aurora Once purchased for Silver, you may claim this item again from Collections. Claim a Holochip Extractor from Collections to end the effect early.",
-      "totalRedeemed": 15555,
-      "globalRarity": 0.022,
-      "adjustedRarity": 0.1
+      "name": "Vivid Spectrum",
+      "totalRedeemed": 850,
+      "globalRarity": 0.117512302708595,
+      "adjustedRarity": 0.3117534993688459
     },
     {
-      "name": "Infernal Once purchased for Silver, you may claim this item again from Collections. Claim a Holochip Extractor from Collections to end the effect early.",
-      "totalRedeemed": 16827,
-      "globalRarity": 0.023,
-      "adjustedRarity": 0.1
+      "name": "Color Bearer",
+      "totalRedeemed": 3452,
+      "globalRarity": 0.4772381987647881,
+      "adjustedRarity": 1.266085976260301
     },
     {
-      "name": "Flutter By Once purchased for Silver, you may claim this item again from Collections. Claim a Holochip Extractor from Collections to end the effect early.",
-      "totalRedeemed": 21859,
-      "globalRarity": 0.03,
-      "adjustedRarity": 0.1
+      "name": "Wicked Kudu",
+      "totalRedeemed": 3956,
+      "globalRarity": 0.5469160817825903,
+      "adjustedRarity": 1.4509374629448875
     },
     {
-      "name": "Ardent Adoration Once purchased for Silver, you may claim this item again from Collections. Claim a Holochip Extractor from Collections to end the effect early.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.195,
-      "adjustedRarity": 0.5
+      "name": "Aurochs",
+      "totalRedeemed": 6570,
+      "globalRarity": 0.908300975053493,
+      "adjustedRarity": 2.4096711657097853
     },
     {
-      "name": "Taking Flight Once purchased for Silver, you may claim this item again from Collections. Claim a Holochip Extractor from Collections to end the effect early.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.197,
-      "adjustedRarity": 0.5
+      "name": "Phosphor Ascent",
+      "totalRedeemed": 7178,
+      "globalRarity": 0.9923568339321115,
+      "adjustedRarity": 2.632666609964206
     },
     {
-      "name": "Holochip Extractor Removes Active Holochip Effect",
-      "totalRedeemed": 0,
-      "globalRarity": 0.962,
-      "adjustedRarity": 2.5
+      "name": "Terrordactyl",
+      "totalRedeemed": 10160,
+      "globalRarity": 1.4046176417874412,
+      "adjustedRarity": 3.726371239514675
     },
     {
-      "name": "Small Rice Cake A tasty gift.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.26,
-      "adjustedRarity": 6
+      "name": "Stag Lord",
+      "totalRedeemed": 14860,
+      "globalRarity": 2.054391550882025,
+      "adjustedRarity": 5.450184706612999
     },
     {
-      "name": "Holochip Extractor Removes active Holochip effect.",
-      "totalRedeemed": 0,
-      "globalRarity": 10.204,
-      "adjustedRarity": 27
+      "name": "Aurora",
+      "totalRedeemed": 15732,
+      "globalRarity": 2.1749453484842545,
+      "adjustedRarity": 5.770007120083156
     },
     {
-      "name": "Charge of Light—Tier II This object hums with the power of the Light. This offering to the Blind Well will provide a medium charge to the mechanism.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "name": "Infernal",
+      "totalRedeemed": 18000,
+      "globalRarity": 2.488495822064364,
+      "adjustedRarity": 6.601838810163795
     },
     {
-      "name": "Charge of Light—Tier I The Light barely radiates from this object, but it's there. This offering to the Blind Well will provide a small charge to the mechanism.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "name": "Flutter By",
+      "totalRedeemed": 22979,
+      "globalRarity": 3.176841416400946,
+      "adjustedRarity": 8.427980778819657
     },
     {
-      "name": "Raid Banner Can be used before any raid encounter to allow fireteam members to gain Super energy and Heavy ammo.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "name": "Ardent Adoration",
+      "totalRedeemed": 147197,
+      "globalRarity": 20.349951084467126,
+      "adjustedRarity": 53.98727040776
     },
     {
-      "name": "Qualichor A strange device of tube, glass, and chitin. Fynch might be able to identify it.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "name": "Taking Flight",
+      "totalRedeemed": 151742,
+      "globalRarity": 20.978296279538377,
+      "adjustedRarity": 55.65423470732637
     },
     {
-      "name": "Tincture of Queensfoil The viscous liquid within swirls and writhes, as if searching for escape.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "name": "Small Rice Cake",
+      "totalRedeemed": 1929736,
+      "globalRarity": 266.7855540937332,
+      "adjustedRarity": 707.7670010094578
     },
     {
-      "name": "Hymn of Desecration Greatly increases the chance of a weapon drop from your next Necropolis or Chamber of Suffering encounter in the Pit of Heresy. Effect lasts until the dungeon encounter is completed.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "name": "Holochip Extractor",
+      "totalRedeemed": 8359791,
+      "globalRarity": 1155.7391653795153,
+      "adjustedRarity": 3066.110703814333
     },
     {
-      "name": "Polymorphic Shellcode A Shellcode that is constantly adapting to shield the bearer from VexNet defenses.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "name": "Charge of Light—Tier III",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
     },
     {
-      "name": "Unstable Charge of Light The charge pulses and arcs with the Traveler's energy as well as something far more sinister. This offering to the Blind Well will provide a very large charge to the mechanism.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "name": "Charge of Light—Tier I",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
     },
     {
-      "name": "Refined Qualichor Use to bring the nearly-forgotten memory of a great treasure into the present.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "name": "Refined Qualichor",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
     },
     {
-      "name": "Charge of Light—Tier III You can feel the energy contained within radiating from the orb. This offering to Blind Well will provide a large charge to the mechanism.",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "name": "Raid Banner",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Polymorphic Shellcode",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Unstable Charge of Light",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Charge of Light—Tier II",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Hymn of Desecration",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Tincture of Queensfoil",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Qualichor",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
     }
   ]
 }

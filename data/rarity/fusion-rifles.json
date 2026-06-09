@@ -2,430 +2,448 @@
   "category": "fusion-rifles",
   "items": [
     {
+      "name": "Accelerando-42",
+      "totalRedeemed": 2528,
+      "globalRarity": 0.3494954132321507,
+      "adjustedRarity": 0.9271915840052263
+    },
+    {
       "name": "Exile's Curse (Adept)",
-      "totalRedeemed": 79412,
-      "globalRarity": 0.111,
-      "adjustedRarity": 0.3
+      "totalRedeemed": 79497,
+      "globalRarity": 10.990441798147264,
+      "adjustedRarity": 29.157021105088397
     },
     {
       "name": "Finite Maybe",
-      "totalRedeemed": 0,
-      "globalRarity": 0.168,
-      "adjustedRarity": 0.4
+      "totalRedeemed": 132103,
+      "globalRarity": 18.26320908789826,
+      "adjustedRarity": 48.45126179661488
     },
     {
       "name": "Burden of Guilt (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.227,
-      "adjustedRarity": 0.6
+      "totalRedeemed": 162839,
+      "globalRarity": 22.512453953841057,
+      "adjustedRarity": 59.72426833379235
     },
     {
       "name": "Afterlight (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.297,
-      "adjustedRarity": 0.8
+      "totalRedeemed": 213410,
+      "globalRarity": 29.503882965930888,
+      "adjustedRarity": 78.27213447094753
+    },
+    {
+      "name": "TAHOMA 01",
+      "totalRedeemed": 217905,
+      "globalRarity": 30.125315672607517,
+      "adjustedRarity": 79.92076032937454
     },
     {
       "name": "Midha's Reckoning (Harrowed)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.456,
-      "adjustedRarity": 1.2
+      "totalRedeemed": 329743,
+      "globalRarity": 45.58689321416498,
+      "adjustedRarity": 120.93945193221333
     },
     {
       "name": "Deliverance (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.459,
-      "adjustedRarity": 1.2
+      "totalRedeemed": 331099,
+      "globalRarity": 45.77435989942717,
+      "adjustedRarity": 121.43679045591236
+    },
+    {
+      "name": "The Beacon",
+      "totalRedeemed": 380600,
+      "globalRarity": 52.617861659872055,
+      "adjustedRarity": 139.59221395268557
     },
     {
       "name": "Loaded Question (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.726,
-      "adjustedRarity": 1.9
+      "totalRedeemed": 521637,
+      "globalRarity": 72.1161941741216,
+      "adjustedRarity": 191.3201884120784
     },
     {
       "name": "Exile's Curse",
-      "totalRedeemed": 0,
-      "globalRarity": 0.794,
-      "adjustedRarity": 2.1
+      "totalRedeemed": 570591,
+      "globalRarity": 78.8840733115293,
+      "adjustedRarity": 209.2749893627872
     },
     {
       "name": "PLUG ONE.1 (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.884,
-      "adjustedRarity": 2.3
+      "totalRedeemed": 635333,
+      "globalRarity": 87.83463978442327,
+      "adjustedRarity": 233.02033648765524
     },
     {
       "name": "VS Gravitic Arrest",
-      "totalRedeemed": 0,
-      "globalRarity": 0.964,
-      "adjustedRarity": 2.5
+      "totalRedeemed": 704185,
+      "globalRarity": 97.35341280335523,
+      "adjustedRarity": 258.27310347417733
     },
     {
       "name": "Gallant Charge",
-      "totalRedeemed": 0,
-      "globalRarity": 1.014,
-      "adjustedRarity": 2.7
+      "totalRedeemed": 728633,
+      "globalRarity": 100.73334312879024,
+      "adjustedRarity": 267.2398676536709
     },
     {
       "name": "The Emperor's Envy",
-      "totalRedeemed": 0,
-      "globalRarity": 1.016,
-      "adjustedRarity": 2.7
+      "totalRedeemed": 729996,
+      "globalRarity": 100.92177756242766,
+      "adjustedRarity": 267.7397735591294
     },
     {
       "name": "Burden of Guilt",
-      "totalRedeemed": 0,
-      "globalRarity": 1.167,
-      "adjustedRarity": 3.1
+      "totalRedeemed": 841276,
+      "globalRarity": 116.30621173350113,
+      "adjustedRarity": 308.55380815885314
     },
     {
       "name": "Lionfish-4fr",
-      "totalRedeemed": 0,
-      "globalRarity": 1.179,
-      "adjustedRarity": 3.1
+      "totalRedeemed": 918866,
+      "globalRarity": 127.03301122427746,
+      "adjustedRarity": 337.01140111888697
     },
     {
       "name": "Resounding",
-      "totalRedeemed": 0,
-      "globalRarity": 1.262,
-      "adjustedRarity": 3.3
-    },
-    {
-      "name": "Monody-44",
-      "totalRedeemed": 0,
-      "globalRarity": 1.497,
-      "adjustedRarity": 4
+      "totalRedeemed": 935481,
+      "globalRarity": 129.33003111781076,
+      "adjustedRarity": 343.105265109491
     },
     {
       "name": "Tempered Dynamo",
-      "totalRedeemed": 0,
-      "globalRarity": 1.613,
-      "adjustedRarity": 4.3
+      "totalRedeemed": 1159921,
+      "globalRarity": 160.35880902359554,
+      "adjustedRarity": 425.4228596957777
     },
     {
       "name": "Vex Mythoclast",
-      "totalRedeemed": 0,
-      "globalRarity": 1.658,
-      "adjustedRarity": 4.4
+      "totalRedeemed": 1199590,
+      "globalRarity": 165.84303906612172,
+      "adjustedRarity": 439.9722121269104
     },
     {
       "name": "Afterlight",
-      "totalRedeemed": 0,
-      "globalRarity": 1.685,
-      "adjustedRarity": 4.5
+      "totalRedeemed": 1219154,
+      "globalRarity": 168.54775752516989,
+      "adjustedRarity": 447.1476773759128
     },
     {
       "name": "Loaded Question",
-      "totalRedeemed": 0,
-      "globalRarity": 1.705,
-      "adjustedRarity": 4.5
-    },
-    {
-      "name": "Nox Sidereal IV",
-      "totalRedeemed": 0,
-      "globalRarity": 1.709,
-      "adjustedRarity": 4.5
+      "totalRedeemed": 1225339,
+      "globalRarity": 169.40283233958476,
+      "adjustedRarity": 449.4161425448497
     },
     {
       "name": "Deliverance",
-      "totalRedeemed": 0,
-      "globalRarity": 1.72,
-      "adjustedRarity": 4.5
+      "totalRedeemed": 1240185,
+      "globalRarity": 171.4552883937163,
+      "adjustedRarity": 454.86119248794364
     },
     {
       "name": "Midha's Reckoning",
-      "totalRedeemed": 0,
-      "globalRarity": 2.054,
-      "adjustedRarity": 5.4
+      "totalRedeemed": 1483654,
+      "globalRarity": 205.1148211327268,
+      "adjustedRarity": 544.158031003042
     },
     {
       "name": "One Thousand Voices",
-      "totalRedeemed": 0,
-      "globalRarity": 2.078,
-      "adjustedRarity": 5.5
-    },
-    {
-      "name": "Axial Lacuna",
-      "totalRedeemed": 0,
-      "globalRarity": 2.116,
-      "adjustedRarity": 5.6
+      "totalRedeemed": 1496995,
+      "globalRarity": 206.95921128618016,
+      "adjustedRarity": 549.0510938678417
     },
     {
       "name": "Dream Breaker",
-      "totalRedeemed": 0,
-      "globalRarity": 2.131,
-      "adjustedRarity": 5.6
+      "totalRedeemed": 1533429,
+      "globalRarity": 211.99620332957423,
+      "adjustedRarity": 562.4139491572588
+    },
+    {
+      "name": "Axial Lacuna",
+      "totalRedeemed": 1538253,
+      "globalRarity": 212.66312020988747,
+      "adjustedRarity": 564.1832419583827
     },
     {
       "name": "The Epicurean",
-      "totalRedeemed": 0,
-      "globalRarity": 2.157,
-      "adjustedRarity": 5.7
+      "totalRedeemed": 1554890,
+      "globalRarity": 214.9631815983144,
+      "adjustedRarity": 570.285174863088
+    },
+    {
+      "name": "Monody-44",
+      "totalRedeemed": 1558660,
+      "globalRarity": 215.484383223269,
+      "adjustedRarity": 571.6678933249945
     },
     {
       "name": "Zealot's Reward",
-      "totalRedeemed": 0,
-      "globalRarity": 2.254,
-      "adjustedRarity": 6
+      "totalRedeemed": 1626885,
+      "globalRarity": 224.9164736377324,
+      "adjustedRarity": 596.6906962596292
     },
     {
       "name": "Pressurized Precision",
-      "totalRedeemed": 0,
-      "globalRarity": 2.284,
-      "adjustedRarity": 6
+      "totalRedeemed": 1643005,
+      "globalRarity": 227.14505989615895,
+      "adjustedRarity": 602.6030096829536
     },
     {
       "name": "Conjecture TSc",
-      "totalRedeemed": 0,
-      "globalRarity": 2.316,
-      "adjustedRarity": 6.1
+      "totalRedeemed": 1663709,
+      "globalRarity": 230.00738309060455,
+      "adjustedRarity": 610.1965913899331
+    },
+    {
+      "name": "Nox Sidereal IV",
+      "totalRedeemed": 1801504,
+      "globalRarity": 249.05750985734673,
+      "adjustedRarity": 660.7355013258509
     },
     {
       "name": "Coriolis Force",
-      "totalRedeemed": 0,
-      "globalRarity": 2.845,
-      "adjustedRarity": 7.5
+      "totalRedeemed": 2048670,
+      "globalRarity": 283.2281519882556,
+      "adjustedRarity": 751.3882841787923
     },
     {
       "name": "Iterative Loop",
-      "totalRedeemed": 0,
-      "globalRarity": 2.875,
-      "adjustedRarity": 7.6
+      "totalRedeemed": 2079173,
+      "globalRarity": 287.4451846582795,
+      "adjustedRarity": 762.5758335802605
     },
     {
       "name": "PLUG ONE.1",
-      "totalRedeemed": 0,
-      "globalRarity": 2.951,
-      "adjustedRarity": 7.8
+      "totalRedeemed": 2120332,
+      "globalRarity": 293.1354068549654,
+      "adjustedRarity": 777.6716715573455
     },
     {
       "name": "Bastion",
-      "totalRedeemed": 0,
-      "globalRarity": 3.082,
-      "adjustedRarity": 8.1
+      "totalRedeemed": 2224867,
+      "globalRarity": 307.5873463416042,
+      "adjustedRarity": 816.0118504473719
     },
     {
       "name": "Techeun Force",
-      "totalRedeemed": 0,
-      "globalRarity": 3.091,
-      "adjustedRarity": 8.2
-    },
-    {
-      "name": "Cruoris FR4",
-      "totalRedeemed": 0,
-      "globalRarity": 3.291,
-      "adjustedRarity": 8.7
+      "totalRedeemed": 2225975,
+      "globalRarity": 307.74052708442906,
+      "adjustedRarity": 816.4182303030195
     },
     {
       "name": "Scatter Signal",
-      "totalRedeemed": 0,
-      "globalRarity": 3.389,
-      "adjustedRarity": 9
+      "totalRedeemed": 2435867,
+      "globalRarity": 336.7580473669143,
+      "adjustedRarity": 893.400072055403
     },
     {
       "name": "Glacioclasm",
-      "totalRedeemed": 0,
-      "globalRarity": 3.439,
-      "adjustedRarity": 9.1
+      "totalRedeemed": 2470937,
+      "globalRarity": 341.606466726903,
+      "adjustedRarity": 906.2626546705386
     },
     {
       "name": "The Eremite",
-      "totalRedeemed": 0,
-      "globalRarity": 3.455,
-      "adjustedRarity": 9.1
+      "totalRedeemed": 2490320,
+      "globalRarity": 344.2861619779627,
+      "adjustedRarity": 913.3717347626167
+    },
+    {
+      "name": "Cruoris FR4",
+      "totalRedeemed": 2508228,
+      "globalRarity": 346.7619388213809,
+      "adjustedRarity": 919.9398308410842
     },
     {
       "name": "Likely Suspect",
-      "totalRedeemed": 0,
-      "globalRarity": 3.613,
-      "adjustedRarity": 9.6
+      "totalRedeemed": 2604413,
+      "globalRarity": 360.05949274611766,
+      "adjustedRarity": 955.21749006084
     },
     {
       "name": "The Wizened Rebuke",
-      "totalRedeemed": 0,
-      "globalRarity": 3.855,
-      "adjustedRarity": 10.2
+      "totalRedeemed": 2769565,
+      "globalRarity": 382.89171841309394,
+      "adjustedRarity": 1015.7900946817383
     },
     {
       "name": "Delicate Tomb",
-      "totalRedeemed": 0,
-      "globalRarity": 4.136,
-      "adjustedRarity": 10.9
+      "totalRedeemed": 2984358,
+      "globalRarity": 412.5868008080201,
+      "adjustedRarity": 1094.5694704346001
     },
     {
       "name": "Royal Executioner",
-      "totalRedeemed": 0,
-      "globalRarity": 4.34,
-      "adjustedRarity": 11.5
+      "totalRedeemed": 3118396,
+      "globalRarity": 431.11752319679033,
+      "adjustedRarity": 1143.7304299033076
     },
     {
       "name": "Null Composure",
-      "totalRedeemed": 0,
-      "globalRarity": 4.528,
-      "adjustedRarity": 12
+      "totalRedeemed": 3260181,
+      "globalRarity": 450.7192665374235,
+      "adjustedRarity": 1195.7327474421452
     },
     {
       "name": "Critical Sass",
-      "totalRedeemed": 0,
-      "globalRarity": 4.789,
-      "adjustedRarity": 12.7
+      "totalRedeemed": 3442708,
+      "globalRarity": 475.9535819215313,
+      "adjustedRarity": 1262.6779603589655
     },
     {
       "name": "Jötunn",
-      "totalRedeemed": 0,
-      "globalRarity": 4.936,
-      "adjustedRarity": 13
+      "totalRedeemed": 3557100,
+      "globalRarity": 491.7682493702862,
+      "adjustedRarity": 1304.633379535202
     },
     {
       "name": "Iota Draconis",
-      "totalRedeemed": 0,
-      "globalRarity": 5.455,
-      "adjustedRarity": 14.4
+      "totalRedeemed": 3928336,
+      "globalRarity": 543.0915402036131,
+      "adjustedRarity": 1440.791170231311
     },
     {
       "name": "Tessellation",
-      "totalRedeemed": 0,
-      "globalRarity": 5.62,
-      "adjustedRarity": 14.9
+      "totalRedeemed": 4231670,
+      "globalRarity": 585.027395297506,
+      "adjustedRarity": 1552.0446243225458
     },
     {
       "name": "Nox Perennial V",
-      "totalRedeemed": 0,
-      "globalRarity": 6.682,
-      "adjustedRarity": 17.7
+      "totalRedeemed": 4802643,
+      "globalRarity": 663.9642800203703,
+      "adjustedRarity": 1761.4597193756374
     },
     {
       "name": "Riptide",
-      "totalRedeemed": 0,
-      "globalRarity": 6.837,
-      "adjustedRarity": 18.1
+      "totalRedeemed": 5024535,
+      "globalRarity": 694.640797517565,
+      "adjustedRarity": 1842.8427870014634
     },
     {
       "name": "Aurvandil FR6",
-      "totalRedeemed": 0,
-      "globalRarity": 7.079,
-      "adjustedRarity": 18.7
+      "totalRedeemed": 5085137,
+      "globalRarity": 703.0190099513842,
+      "adjustedRarity": 1865.069711199994
     },
     {
       "name": "Elatha FR4",
-      "totalRedeemed": 0,
-      "globalRarity": 7.169,
-      "adjustedRarity": 19
+      "totalRedeemed": 5149503,
+      "globalRarity": 711.9175945115505,
+      "adjustedRarity": 1888.6771532474943
     },
     {
       "name": "Trinary System",
-      "totalRedeemed": 0,
-      "globalRarity": 7.182,
-      "adjustedRarity": 19
+      "totalRedeemed": 5165657,
+      "globalRarity": 714.1508812620854,
+      "adjustedRarity": 1894.6019368107934
     },
     {
       "name": "Nox Echo III",
-      "totalRedeemed": 0,
-      "globalRarity": 7.211,
-      "adjustedRarity": 19.1
+      "totalRedeemed": 5179766,
+      "globalRarity": 716.1014472372802,
+      "adjustedRarity": 1899.7766781314933
     },
     {
       "name": "Nox Veneris II",
-      "totalRedeemed": 0,
-      "globalRarity": 7.336,
-      "adjustedRarity": 19.4
+      "totalRedeemed": 5270566,
+      "globalRarity": 728.6545261619161,
+      "adjustedRarity": 1933.0792872405418
     },
     {
       "name": "Shock and Awe",
-      "totalRedeemed": 0,
-      "globalRarity": 7.836,
-      "adjustedRarity": 20.7
+      "totalRedeemed": 5629461,
+      "globalRarity": 778.2716766096821,
+      "adjustedRarity": 2064.710783894638
     },
     {
       "name": "Proelium FR3",
-      "totalRedeemed": 0,
-      "globalRarity": 7.866,
-      "adjustedRarity": 20.8
+      "totalRedeemed": 5650474,
+      "globalRarity": 781.1767189824064,
+      "adjustedRarity": 2072.417697167859
     },
     {
       "name": "Hollow Words",
-      "totalRedeemed": 0,
-      "globalRarity": 7.998,
-      "adjustedRarity": 21.1
+      "totalRedeemed": 5745411,
+      "globalRarity": 794.3017371968134,
+      "adjustedRarity": 2107.2376288967766
     },
     {
       "name": "Erentil FR4",
-      "totalRedeemed": 0,
-      "globalRarity": 8.17,
-      "adjustedRarity": 21.6
+      "totalRedeemed": 5868767,
+      "globalRarity": 811.3556755649563,
+      "adjustedRarity": 2152.480763800475
     },
     {
       "name": "Cartesian Coordinate",
-      "totalRedeemed": 0,
-      "globalRarity": 8.245,
-      "adjustedRarity": 21.8
+      "totalRedeemed": 5923564,
+      "globalRarity": 818.9313480961596,
+      "adjustedRarity": 2172.5785949827273
     },
     {
       "name": "Timelines' Vertex",
-      "totalRedeemed": 0,
-      "globalRarity": 9.574,
-      "adjustedRarity": 25.3
+      "totalRedeemed": 6883823,
+      "globalRarity": 951.6869319628099,
+      "adjustedRarity": 2524.7716579832313
     },
     {
       "name": "Telesto",
-      "totalRedeemed": 0,
-      "globalRarity": 11.018,
-      "adjustedRarity": 29.1
+      "totalRedeemed": 7961367,
+      "globalRarity": 1100.657139856728,
+      "adjustedRarity": 2919.9812023642944
     },
     {
       "name": "Main Ingredient",
-      "totalRedeemed": 0,
-      "globalRarity": 12.888,
-      "adjustedRarity": 34.1
+      "totalRedeemed": 9286198,
+      "globalRarity": 1283.8147181034697,
+      "adjustedRarity": 3405.887908625856
     },
     {
       "name": "Snorri FR5",
-      "totalRedeemed": 0,
-      "globalRarity": 13.025,
-      "adjustedRarity": 34.4
+      "totalRedeemed": 9410591,
+      "globalRarity": 1301.012021480917,
+      "adjustedRarity": 3451.511382798784
     },
     {
       "name": "Merciless",
-      "totalRedeemed": 0,
-      "globalRarity": 13.485,
-      "adjustedRarity": 35.6
+      "totalRedeemed": 9733815,
+      "globalRarity": 1345.697664458191,
+      "adjustedRarity": 3570.0598687752495
     },
     {
       "name": "Nox Cordis II",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
     },
     {
       "name": "Nox Lumen II",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
     },
     {
       "name": "Parsec TSu",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Nox Reve II",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
     },
     {
       "name": "Equinox Tsu",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Nox Reve II",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
     },
     {
       "name": "Nox Calyx II",
-      "totalRedeemed": 0,
-      "globalRarity": 92.446,
-      "adjustedRarity": 244.4
+      "totalRedeemed": 66945776,
+      "globalRarity": 9255.237993380932,
+      "adjustedRarity": 24553.623454073997
     }
   ]
 }

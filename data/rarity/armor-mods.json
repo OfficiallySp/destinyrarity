@@ -1,4 +1,1151 @@
 {
   "category": "armor-mods",
-  "items": []
+  "items": [
+    {
+      "name": "Riven's Curse",
+      "totalRedeemed": 30,
+      "globalRarity": 0.00414749303677394,
+      "adjustedRarity": 0.011003064683606326
+    },
+    {
+      "name": "Transcendent Blessing",
+      "totalRedeemed": 552299,
+      "globalRarity": 76.35520855724036,
+      "adjustedRarity": 202.56605405636967
+    },
+    {
+      "name": "Specialist Armorer",
+      "totalRedeemed": 2397189,
+      "globalRarity": 331.41082284436953,
+      "adjustedRarity": 879.214187527652
+    },
+    {
+      "name": "Bulwark Armorer",
+      "totalRedeemed": 2398226,
+      "globalRarity": 331.554187853674,
+      "adjustedRarity": 879.5945267968821
+    },
+    {
+      "name": "Grenadier Armorer",
+      "totalRedeemed": 2398226,
+      "globalRarity": 331.554187853674,
+      "adjustedRarity": 879.5945267968821
+    },
+    {
+      "name": "Paragon Armorer",
+      "totalRedeemed": 2398248,
+      "globalRarity": 331.55722934856766,
+      "adjustedRarity": 879.6025957109833
+    },
+    {
+      "name": "Gunner Armorer",
+      "totalRedeemed": 2398478,
+      "globalRarity": 331.5890267951829,
+      "adjustedRarity": 879.6869525402244
+    },
+    {
+      "name": "Brawler Armorer",
+      "totalRedeemed": 2398941,
+      "globalRarity": 331.6530364377171,
+      "adjustedRarity": 879.8567665051747
+    },
+    {
+      "name": "Lesser Core Harvest (Gambit)",
+      "totalRedeemed": 4960593,
+      "globalRarity": 685.8008308589851,
+      "adjustedRarity": 1819.390854934825
+    },
+    {
+      "name": "Greater Core Harvest (Gambit)",
+      "totalRedeemed": 5129116,
+      "globalRarity": 709.0990964935269,
+      "adjustedRarity": 1881.199837257338
+    },
+    {
+      "name": "Modularity (Gambit)",
+      "totalRedeemed": 5217634,
+      "globalRarity": 721.3366894478321,
+      "adjustedRarity": 1913.6654799127869
+    },
+    {
+      "name": "Lesser Core Harvest (Crucible)",
+      "totalRedeemed": 5645573,
+      "globalRarity": 780.4991568699655,
+      "adjustedRarity": 2070.6201631673803
+    },
+    {
+      "name": "Greater Core Harvest (Crucible)",
+      "totalRedeemed": 5937606,
+      "globalRarity": 820.8726513369056,
+      "adjustedRarity": 2177.7287627923006
+    },
+    {
+      "name": "Modularity (Crucible)",
+      "totalRedeemed": 6071400,
+      "globalRarity": 839.36964078231,
+      "adjustedRarity": 2226.800230668248
+    },
+    {
+      "name": "Lesser Core Harvest (Vanguard)",
+      "totalRedeemed": 6131331,
+      "globalRarity": 847.6550876218735,
+      "adjustedRarity": 2248.7810529866883
+    },
+    {
+      "name": "Core Harvest",
+      "totalRedeemed": 6361705,
+      "globalRarity": 879.5042396503321,
+      "adjustedRarity": 2333.2750537673924
+    },
+    {
+      "name": "Greater Core Harvest (Vanguard)",
+      "totalRedeemed": 6407838,
+      "globalRarity": 885.8821161925151,
+      "adjustedRarity": 2350.1951998690197
+    },
+    {
+      "name": "Modularity (Vanguard)",
+      "totalRedeemed": 6524259,
+      "globalRarity": 901.9772924203236,
+      "adjustedRarity": 2392.894792986691
+    },
+    {
+      "name": "Mobility Armorer",
+      "totalRedeemed": 7542674,
+      "globalRarity": 1042.7729297885282,
+      "adjustedRarity": 2766.417663645188
+    },
+    {
+      "name": "Resilience Armorer",
+      "totalRedeemed": 7556950,
+      "globalRarity": 1044.746583474961,
+      "adjustedRarity": 2771.653655359294
+    },
+    {
+      "name": "Intellect Armorer",
+      "totalRedeemed": 7567073,
+      "globalRarity": 1046.1460858753364,
+      "adjustedRarity": 2775.3664561523656
+    },
+    {
+      "name": "Strength Armorer",
+      "totalRedeemed": 7573188,
+      "globalRarity": 1046.9914832059987,
+      "adjustedRarity": 2777.6092475037076
+    },
+    {
+      "name": "Recovery Armorer",
+      "totalRedeemed": 7573365,
+      "globalRarity": 1047.0159534149157,
+      "adjustedRarity": 2777.6741655853402
+    },
+    {
+      "name": "Discipline Armorer",
+      "totalRedeemed": 7598538,
+      "globalRarity": 1050.496114822073,
+      "adjustedRarity": 2786.906837161355
+    },
+    {
+      "name": "Perfected Resource Detector",
+      "totalRedeemed": 9879096,
+      "globalRarity": 1365.7827289873762,
+      "adjustedRarity": 3623.3444101185505
+    },
+    {
+      "name": "Supercharged Glimmer Booster",
+      "totalRedeemed": 9889235,
+      "globalRarity": 1367.184443384038,
+      "adjustedRarity": 3627.0630792127868
+    },
+    {
+      "name": "Expert Tracker",
+      "totalRedeemed": 9896508,
+      "globalRarity": 1368.18993394592,
+      "adjustedRarity": 3629.7305888609153
+    },
+    {
+      "name": "Blinding Light",
+      "totalRedeemed": 9904060,
+      "globalRarity": 1369.2339961930438,
+      "adjustedRarity": 3632.500427010602
+    },
+    {
+      "name": "Ultimate Glimmer Booster",
+      "totalRedeemed": 9924133,
+      "globalRarity": 1372.0090837839493,
+      "adjustedRarity": 3639.862577590403
+    },
+    {
+      "name": "Wombo Detector",
+      "totalRedeemed": 9930059,
+      "globalRarity": 1372.82835190848,
+      "adjustedRarity": 3642.036049634238
+    },
+    {
+      "name": "Radiant Light",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Super Font",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Powerful Friends",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Emergency Reinforcement",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Health Font",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Charged Up",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Elemental Charge",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Stasis Weapon Surge",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Kinetic Weapon Surge",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Void Weapon Surge",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Solar Weapon Surge",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Weapons Font",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Strand Weapon Surge",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Arc Weapon Surge",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Stacks on Stacks",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Bulwark Finisher",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Time Dilation",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Special Finisher",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Powerful Attraction",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Snapload Finisher",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Empowered Finish",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Restorative Finisher",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Class Font",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Benevolent Finisher",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Utility Finisher",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Healthy Finisher",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Explosive Finisher",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Proximity Ward",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Utility Kickstart",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "One-Two Finisher",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.417015162072,
+      "adjustedRarity": 20434.077136838256
+    },
+    {
+      "name": "Melee Kickstart",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.4445950665695,
+      "adjustedRarity": 20434.086130341115
+    },
+    {
+      "name": "Grenade Kickstart",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.4445950665695,
+      "adjustedRarity": 20434.086130341115
+    },
+    {
+      "name": "Melee Font",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.4445950665695,
+      "adjustedRarity": 20434.086130341115
+    },
+    {
+      "name": "Grenade Font",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.4445950665695,
+      "adjustedRarity": 20434.086130341115
+    },
+    {
+      "name": "Shield Break Charge",
+      "totalRedeemed": 55713779,
+      "globalRarity": 7702.4445950665695,
+      "adjustedRarity": 20434.086130341115
+    },
+    {
+      "name": "Harmonic Targeting",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Void Siphon",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Kinetic Siphon",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Strand Targeting",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Void Targeting",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Stasis Targeting",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Arc Siphon",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Stasis Siphon",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Arc Targeting",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Strand Siphon",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Kinetic Targeting",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Solar Targeting",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Harmonic Siphon",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Solar Siphon",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Unflinching Solar Aim",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Stasis Ammo Generation",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Unflinching Void Aim",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Arc Ammo Generation",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Void Ammo Generation",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Strand Ammo Generation",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Unflinching Arc Aim",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Kinetic Ammo Generation",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Unflinching Strand Aim",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Unflinching Harmonic Aim",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Lucent Blades",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Solar Ammo Generation",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Harmonic Ammo Generation",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Unflinching Stasis Aim",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Unflinching Kinetic Aim",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Strand Scavenger",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Arc Scavenger",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Void Holster",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Harmonic Holster",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Harmonic Scavenger",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Arc Holster",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Solar Scavenger",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Strand Holster",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Kinetic Scavenger",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Void Scavenger",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Solar Holster",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Stasis Holster",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Stasis Scavenger",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Kinetic Holster",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Reaper",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.786716995481,
+      "adjustedRarity": 20517.299183341536
+    },
+    {
+      "name": "Solar Loader",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.814409224899,
+      "adjustedRarity": 20517.30821347231
+    },
+    {
+      "name": "Kinetic Dexterity",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.814409224899,
+      "adjustedRarity": 20517.30821347231
+    },
+    {
+      "name": "Arc Dexterity",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.814409224899,
+      "adjustedRarity": 20517.30821347231
+    },
+    {
+      "name": "Strand Loader",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.814409224899,
+      "adjustedRarity": 20517.30821347231
+    },
+    {
+      "name": "Solar Dexterity",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.814409224899,
+      "adjustedRarity": 20517.30821347231
+    },
+    {
+      "name": "Strand Dexterity",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.814409224899,
+      "adjustedRarity": 20517.30821347231
+    },
+    {
+      "name": "Stasis Loader",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.814409224899,
+      "adjustedRarity": 20517.30821347231
+    },
+    {
+      "name": "Stasis Dexterity",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.814409224899,
+      "adjustedRarity": 20517.30821347231
+    },
+    {
+      "name": "Void Loader",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.814409224899,
+      "adjustedRarity": 20517.30821347231
+    },
+    {
+      "name": "Harmonic Loader",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.814409224899,
+      "adjustedRarity": 20517.30821347231
+    },
+    {
+      "name": "Arc Loader",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.814409224899,
+      "adjustedRarity": 20517.30821347231
+    },
+    {
+      "name": "Void Dexterity",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.814409224899,
+      "adjustedRarity": 20517.30821347231
+    },
+    {
+      "name": "Harmonic Dexterity",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.814409224899,
+      "adjustedRarity": 20517.30821347231
+    },
+    {
+      "name": "Kinetic Loader",
+      "totalRedeemed": 55940685,
+      "globalRarity": 7733.814409224899,
+      "adjustedRarity": 20517.30821347231
+    },
+    {
+      "name": "Minor Super Mod",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Health Mod",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Melee Mod",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Minor Melee Mod",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Minor Weapons Mod",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Minor Class Mod",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Super Mod",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Class Mod",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Weapons Mod",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Minor Grenade Mod",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Minor Health Mod",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Grenade Mod",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Special Ammo Scout",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Hands-On",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Dynamo",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Special Ammo Finder",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Heavy Ammo Finder",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Ashes to Assets",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Heavy Ammo Scout",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Power Preservation",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Sniper Damage Resistance",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Melee Damage Resistance",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Stasis Resistance",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Solar Resistance",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Concussive Dampener",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Arc Resistance",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Void Resistance",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Harmonic Resistance",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Absolution",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Innervation",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Orbs of Restoration",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Insulation",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Recuperation",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Invigoration",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Better Already",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Outreach",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Distribution",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Bomber",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7766.99832048652,
+      "adjustedRarity": 20605.4076908708
+    },
+    {
+      "name": "Impact Induction",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7767.02613163612,
+      "adjustedRarity": 20605.416759780142
+    },
+    {
+      "name": "Focusing Strike",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7767.02613163612,
+      "adjustedRarity": 20605.416759780142
+    },
+    {
+      "name": "Bolstering Detonation",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7767.02613163612,
+      "adjustedRarity": 20605.416759780142
+    },
+    {
+      "name": "Heavy Handed",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7767.02613163612,
+      "adjustedRarity": 20605.416759780142
+    },
+    {
+      "name": "Firepower",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7767.02613163612,
+      "adjustedRarity": 20605.416759780142
+    },
+    {
+      "name": "Momentum Transfer",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7767.02613163612,
+      "adjustedRarity": 20605.416759780142
+    },
+    {
+      "name": "Fastball",
+      "totalRedeemed": 56180914,
+      "globalRarity": 7767.02613163612,
+      "adjustedRarity": 20605.416759780142
+    },
+    {
+      "name": "Prosperity (Vanguard)",
+      "totalRedeemed": 64835557,
+      "globalRarity": 8963.500706428664,
+      "adjustedRarity": 23779.660915621498
+    },
+    {
+      "name": "Prosperity (Crucible)",
+      "totalRedeemed": 64835557,
+      "globalRarity": 8963.500706428664,
+      "adjustedRarity": 23779.660915621498
+    },
+    {
+      "name": "Prosperity (Gambit)",
+      "totalRedeemed": 64835557,
+      "globalRarity": 8963.500706428664,
+      "adjustedRarity": 23779.660915621498
+    },
+    {
+      "name": "Standard Glimmer Booster",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Meager Glimmer Booster",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Prodigious Glimmer Booster",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Bountiful Harvest",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Public Defender",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Flickering Light",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Burning Light",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Cache Finder",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Stable Resource Detector",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Enhanced Resource Detector",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Makeshift Resource Detector",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Loot Seeker",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Prize Pursuant",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Treasure Hunter",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Combo Detector",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Destabilized Resource Detector",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.0426464589,
+      "adjustedRarity": 24553.1052097274
+    },
+    {
+      "name": "Considerable Glimmer Booster",
+      "totalRedeemed": 66945776,
+      "globalRarity": 9255.237993380932,
+      "adjustedRarity": 24553.623454073997
+    },
+    {
+      "name": "Guiding Light",
+      "totalRedeemed": 66945776,
+      "globalRarity": 9255.237993380932,
+      "adjustedRarity": 24553.623454073997
+    },
+    {
+      "name": "Little Light",
+      "totalRedeemed": 66945776,
+      "globalRarity": 9255.237993380932,
+      "adjustedRarity": 24553.623454073997
+    },
+    {
+      "name": "Hopeful Light",
+      "totalRedeemed": 66945776,
+      "globalRarity": 9255.237993380932,
+      "adjustedRarity": 24553.623454073997
+    }
+  ]
 }

@@ -3,255 +3,255 @@
   "items": [
     {
       "name": "Adept Shield Duration",
-      "totalRedeemed": 0,
-      "globalRarity": 0.304,
-      "adjustedRarity": 0.8
+      "totalRedeemed": 241096,
+      "globalRarity": 33.33151811104512,
+      "adjustedRarity": 88.42651555787843
     },
     {
       "name": "Adept Icarus Grip",
-      "totalRedeemed": 0,
-      "globalRarity": 1.017,
-      "adjustedRarity": 2.7
+      "totalRedeemed": 741194,
+      "globalRarity": 102.47005854430593,
+      "adjustedRarity": 271.8469106596797
     },
     {
       "name": "Taken Spec",
-      "totalRedeemed": 0,
-      "globalRarity": 1.753,
-      "adjustedRarity": 4.6
+      "totalRedeemed": 1259222,
+      "globalRarity": 174.08742118835013,
+      "adjustedRarity": 461.8434722012094
     },
     {
       "name": "Adept Big Ones Spec",
-      "totalRedeemed": 0,
-      "globalRarity": 1.782,
-      "adjustedRarity": 4.7
+      "totalRedeemed": 1279690,
+      "globalRarity": 176.9171218581948,
+      "adjustedRarity": 469.3504981180171
     },
     {
       "name": "Adept Impact",
-      "totalRedeemed": 0,
-      "globalRarity": 2.147,
-      "adjustedRarity": 5.7
+      "totalRedeemed": 1547134,
+      "globalRarity": 213.89125054423835,
+      "adjustedRarity": 567.4406407452744
     },
     {
       "name": "Adept Projectile Speed",
-      "totalRedeemed": 0,
-      "globalRarity": 2.152,
-      "adjustedRarity": 5.7
+      "totalRedeemed": 1551025,
+      "globalRarity": 214.42918123147527,
+      "adjustedRarity": 568.8677385487871
     },
     {
       "name": "Adept Blast Radius",
-      "totalRedeemed": 0,
-      "globalRarity": 2.155,
-      "adjustedRarity": 5.7
+      "totalRedeemed": 1552599,
+      "globalRarity": 214.64678670608617,
+      "adjustedRarity": 569.4450328028938
     },
     {
       "name": "Adept Charge Time",
-      "totalRedeemed": 0,
-      "globalRarity": 2.156,
-      "adjustedRarity": 5.7
+      "totalRedeemed": 1553376,
+      "globalRarity": 214.7542069435529,
+      "adjustedRarity": 569.7300122409122
     },
     {
       "name": "Adept Counterbalance",
-      "totalRedeemed": 0,
-      "globalRarity": 2.202,
-      "adjustedRarity": 5.8
+      "totalRedeemed": 1586955,
+      "globalRarity": 219.39650315191298,
+      "adjustedRarity": 582.0457452514889
     },
     {
       "name": "Adept Stability",
-      "totalRedeemed": 0,
-      "globalRarity": 2.209,
-      "adjustedRarity": 5.8
+      "totalRedeemed": 1590483,
+      "globalRarity": 219.8842490950052,
+      "adjustedRarity": 583.3397059430316
     },
     {
       "name": "Adept Targeting",
-      "totalRedeemed": 0,
-      "globalRarity": 2.21,
-      "adjustedRarity": 5.8
-    },
-    {
-      "name": "Adept Handling",
-      "totalRedeemed": 0,
-      "globalRarity": 2.21,
-      "adjustedRarity": 5.8
+      "totalRedeemed": 1591864,
+      "globalRarity": 220.07517232272926,
+      "adjustedRarity": 583.8462137987631
     },
     {
       "name": "Adept Range",
-      "totalRedeemed": 0,
-      "globalRarity": 2.211,
-      "adjustedRarity": 5.8
+      "totalRedeemed": 1592317,
+      "globalRarity": 220.13779956542226,
+      "adjustedRarity": 584.0123601120479
+    },
+    {
+      "name": "Adept Handling",
+      "totalRedeemed": 1592603,
+      "globalRarity": 220.17733906080898,
+      "adjustedRarity": 584.1172560184485
     },
     {
       "name": "Adept Mag",
-      "totalRedeemed": 0,
-      "globalRarity": 2.211,
-      "adjustedRarity": 5.8
+      "totalRedeemed": 1592695,
+      "globalRarity": 220.190058059325,
+      "adjustedRarity": 584.1509987575703
     },
     {
       "name": "Adept Reload",
-      "totalRedeemed": 0,
-      "globalRarity": 2.216,
-      "adjustedRarity": 5.9
+      "totalRedeemed": 1596967,
+      "globalRarity": 220.7806619904163,
+      "adjustedRarity": 585.717835513316
     },
     {
       "name": "Radar Booster",
-      "totalRedeemed": 0,
-      "globalRarity": 4.816,
-      "adjustedRarity": 12.7
+      "totalRedeemed": 3459914,
+      "globalRarity": 478.3330546904908,
+      "adjustedRarity": 1268.9888639791673
     },
     {
       "name": "Quick Access Sling",
-      "totalRedeemed": 0,
-      "globalRarity": 5.107,
-      "adjustedRarity": 13.5
+      "totalRedeemed": 3668602,
+      "globalRarity": 507.18416732428733,
+      "adjustedRarity": 1345.5291329124661
     },
     {
       "name": "Sprint Grip",
-      "totalRedeemed": 0,
-      "globalRarity": 5.208,
-      "adjustedRarity": 13.8
+      "totalRedeemed": 3741560,
+      "globalRarity": 517.2706096474516,
+      "adjustedRarity": 1372.287858573911
     },
     {
       "name": "Sweaty Confetti",
-      "totalRedeemed": 0,
-      "globalRarity": 6.186,
-      "adjustedRarity": 16.4
+      "totalRedeemed": 4531198,
+      "globalRarity": 626.4380504103405,
+      "adjustedRarity": 1661.9025219946725
     },
     {
       "name": "Radar Tuner",
-      "totalRedeemed": 0,
-      "globalRarity": 6.648,
-      "adjustedRarity": 17.6
+      "totalRedeemed": 4775877,
+      "globalRarity": 660.2649182135907,
+      "adjustedRarity": 1751.6431705337861
     },
     {
       "name": "Icarus Grip",
-      "totalRedeemed": 0,
-      "globalRarity": 6.869,
-      "adjustedRarity": 18.2
+      "totalRedeemed": 4934905,
+      "globalRarity": 682.2505366484187,
+      "adjustedRarity": 1809.9696957193482
     },
     {
       "name": "Freehand Grip",
-      "totalRedeemed": 0,
-      "globalRarity": 6.912,
-      "adjustedRarity": 18.3
+      "totalRedeemed": 4965585,
+      "globalRarity": 686.4920461535405,
+      "adjustedRarity": 1821.2221656786828
     },
     {
       "name": "Minor Spec",
-      "totalRedeemed": 0,
-      "globalRarity": 7.109,
-      "adjustedRarity": 18.8
+      "totalRedeemed": 5106119,
+      "globalRarity": 705.9208693866825,
+      "adjustedRarity": 1872.7656667629435
     },
     {
       "name": "Targeting Adjuster",
-      "totalRedeemed": 0,
-      "globalRarity": 7.155,
-      "adjustedRarity": 18.9
+      "totalRedeemed": 5140063,
+      "globalRarity": 710.6136268391551,
+      "adjustedRarity": 1885.2152704232972
     },
     {
       "name": "Counterbalance Stock",
-      "totalRedeemed": 0,
-      "globalRarity": 7.186,
-      "adjustedRarity": 19
+      "totalRedeemed": 5162170,
+      "globalRarity": 713.6699192325622,
+      "adjustedRarity": 1893.3234305729388
     },
     {
       "name": "Boss Spec",
-      "totalRedeemed": 0,
-      "globalRarity": 7.488,
-      "adjustedRarity": 19.8
+      "totalRedeemed": 5378684,
+      "globalRarity": 743.6029762401228,
+      "adjustedRarity": 1972.734032945017
     },
     {
       "name": "Backup Mag",
-      "totalRedeemed": 0,
-      "globalRarity": 7.622,
-      "adjustedRarity": 20.1
+      "totalRedeemed": 5475278,
+      "globalRarity": 756.9570951820309,
+      "adjustedRarity": 2008.1617084095524
     },
     {
       "name": "Major Spec",
-      "totalRedeemed": 0,
-      "globalRarity": 7.812,
-      "adjustedRarity": 20.7
+      "totalRedeemed": 5611371,
+      "globalRarity": 775.7719502368077,
+      "adjustedRarity": 2058.0763887933763
     },
     {
-      "name": "Anti-Flinch",
-      "totalRedeemed": 0,
-      "globalRarity": 11.047,
-      "adjustedRarity": 29.2
-    },
-    {
-      "name": "CQC Optics: High",
-      "totalRedeemed": 0,
-      "globalRarity": 11.047,
-      "adjustedRarity": 29.2
-    },
-    {
-      "name": "Edge",
-      "totalRedeemed": 0,
-      "globalRarity": 11.047,
-      "adjustedRarity": 29.2
+      "name": "Bandolier",
+      "totalRedeemed": 8915038,
+      "globalRarity": 1232.5038596976121,
+      "adjustedRarity": 3269.758711907611
     },
     {
       "name": "Tension",
-      "totalRedeemed": 0,
-      "globalRarity": 11.047,
-      "adjustedRarity": 29.2
+      "totalRedeemed": 8915414,
+      "globalRarity": 1232.5558416915471,
+      "adjustedRarity": 3269.8966170153262
+    },
+    {
+      "name": "Anti-Flinch",
+      "totalRedeemed": 8915414,
+      "globalRarity": 1232.5558416915471,
+      "adjustedRarity": 3269.8966170153262
     },
     {
       "name": "Marksman Optics: High",
-      "totalRedeemed": 0,
-      "globalRarity": 11.047,
-      "adjustedRarity": 29.2
+      "totalRedeemed": 8915414,
+      "globalRarity": 1232.5558416915471,
+      "adjustedRarity": 3269.8966170153262
     },
     {
-      "name": "Bandolier Grants slightly increased ammo generation and magazine size.",
-      "totalRedeemed": 0,
-      "globalRarity": 11.047,
-      "adjustedRarity": 29.2
+      "name": "Edge",
+      "totalRedeemed": 8915414,
+      "globalRarity": 1232.5558416915471,
+      "adjustedRarity": 3269.8966170153262
     },
     {
       "name": "Tactical",
-      "totalRedeemed": 0,
-      "globalRarity": 11.047,
-      "adjustedRarity": 29.2
+      "totalRedeemed": 8915439,
+      "globalRarity": 1232.559297941144,
+      "adjustedRarity": 3269.9057862379136
     },
     {
       "name": "Ballistics",
-      "totalRedeemed": 0,
-      "globalRarity": 11.047,
-      "adjustedRarity": 29.2
-    },
-    {
-      "name": "Stunloader",
-      "totalRedeemed": 0,
-      "globalRarity": 11.048,
-      "adjustedRarity": 29.2
+      "totalRedeemed": 8915589,
+      "globalRarity": 1232.5800354387245,
+      "adjustedRarity": 3269.9608015734393
     },
     {
       "name": "Synergy",
-      "totalRedeemed": 0,
-      "globalRarity": 11.048,
-      "adjustedRarity": 29.2
+      "totalRedeemed": 8915614,
+      "globalRarity": 1232.583491688321,
+      "adjustedRarity": 3269.9699707960262
+    },
+    {
+      "name": "CQC Optics: High",
+      "totalRedeemed": 8915802,
+      "globalRarity": 1232.6094826852886,
+      "adjustedRarity": 3270.038923349884
     },
     {
       "name": "Aerodynamics",
-      "totalRedeemed": 0,
-      "globalRarity": 11.048,
-      "adjustedRarity": 29.2
+      "totalRedeemed": 8916015,
+      "globalRarity": 1232.6389299318528,
+      "adjustedRarity": 3270.117045126329
     },
     {
-      "name": "Abundant Ammo Grants slightly increased ammo generation.",
-      "totalRedeemed": 0,
-      "globalRarity": 11.048,
-      "adjustedRarity": 29.2
+      "name": "Abundant Ammo",
+      "totalRedeemed": 8916015,
+      "globalRarity": 1232.6389299318528,
+      "adjustedRarity": 3270.117045126329
     },
     {
-      "name": "Marksman Optics: Low",
-      "totalRedeemed": 0,
-      "globalRarity": 11.048,
-      "adjustedRarity": 29.2
+      "name": "Stunloader",
+      "totalRedeemed": 8916015,
+      "globalRarity": 1232.6389299318528,
+      "adjustedRarity": 3270.117045126329
     },
     {
       "name": "CQC Optics: Low",
-      "totalRedeemed": 0,
-      "globalRarity": 11.048,
-      "adjustedRarity": 29.2
+      "totalRedeemed": 8916040,
+      "globalRarity": 1232.6423861814496,
+      "adjustedRarity": 3270.126214348916
+    },
+    {
+      "name": "Marksman Optics: Low",
+      "totalRedeemed": 8916403,
+      "globalRarity": 1232.6925709255943,
+      "adjustedRarity": 3270.2593514608866
     }
   ]
 }

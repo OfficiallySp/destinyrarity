@@ -1,12 +1,11 @@
 import { randomBytes } from 'crypto';
+import { getSiteUrl } from './lib/site-url.js';
 
 const BUNGIE_AUTH_URL = 'https://www.bungie.net/en/oauth/authorize';
 
 export const handler = async (event) => {
   const clientId = process.env.BUNGIE_CLIENT_ID;
-  const siteUrl = process.env.SITE_URL || (event.headers['x-forwarded-proto'] && event.headers['x-forwarded-host']
-    ? `${event.headers['x-forwarded-proto']}://${event.headers['x-forwarded-host']}`
-    : 'http://localhost:8888');
+  const siteUrl = getSiteUrl(event);
 
   if (!clientId) {
     return { statusCode: 500, body: 'BUNGIE_CLIENT_ID not configured' };

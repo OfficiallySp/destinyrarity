@@ -3,135 +3,141 @@
   "items": [
     {
       "name": "Incisor (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.179,
-      "adjustedRarity": 0.5
+      "totalRedeemed": 166656,
+      "globalRarity": 23.040153317886595,
+      "adjustedRarity": 61.124224930369856
+    },
+    {
+      "name": "Action Item",
+      "totalRedeemed": 192836,
+      "globalRarity": 26.659532241311318,
+      "adjustedRarity": 70.72623271093032
     },
     {
       "name": "Acasia's Dejection (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.506,
-      "adjustedRarity": 1.3
+      "totalRedeemed": 364204,
+      "globalRarity": 50.35111846550721,
+      "adjustedRarity": 133.57867233427194
     },
     {
       "name": "Unsworn",
-      "totalRedeemed": 0,
-      "globalRarity": 0.752,
-      "adjustedRarity": 2
+      "totalRedeemed": 561507,
+      "globalRarity": 77.62821241999417,
+      "adjustedRarity": 205.94326137659124
     },
     {
       "name": "Incisor",
-      "totalRedeemed": 0,
-      "globalRarity": 0.913,
-      "adjustedRarity": 2.4
-    },
-    {
-      "name": "Keraunios",
-      "totalRedeemed": 0,
-      "globalRarity": 1.058,
-      "adjustedRarity": 2.8
+      "totalRedeemed": 674438,
+      "globalRarity": 93.2408969578581,
+      "adjustedRarity": 247.3628313027361
     },
     {
       "name": "Warlord's Spear",
-      "totalRedeemed": 0,
-      "globalRarity": 1.109,
-      "adjustedRarity": 2.9
+      "totalRedeemed": 803141,
+      "globalRarity": 111.03405683492198,
+      "adjustedRarity": 294.5670791018756
     },
     {
       "name": "Ribbontail",
-      "totalRedeemed": 0,
-      "globalRarity": 1.164,
-      "adjustedRarity": 3.1
+      "totalRedeemed": 841735,
+      "globalRarity": 116.36966837696376,
+      "adjustedRarity": 308.7221550485123
+    },
+    {
+      "name": "Keraunios",
+      "totalRedeemed": 945855,
+      "globalRarity": 130.76423420992717,
+      "adjustedRarity": 346.910124877082
     },
     {
       "name": "The Navigator",
-      "totalRedeemed": 0,
-      "globalRarity": 1.362,
-      "adjustedRarity": 3.6
+      "totalRedeemed": 982459,
+      "globalRarity": 135.82472871386298,
+      "adjustedRarity": 360.3353308663729
     },
     {
       "name": "Microcosm",
-      "totalRedeemed": 0,
-      "globalRarity": 1.393,
-      "adjustedRarity": 3.7
+      "totalRedeemed": 1012837,
+      "globalRarity": 140.02448016290026,
+      "adjustedRarity": 371.47703416499263
     },
     {
       "name": "Acasia's Dejection",
-      "totalRedeemed": 0,
-      "globalRarity": 1.69,
-      "adjustedRarity": 4.5
+      "totalRedeemed": 1221020,
+      "globalRarity": 168.80573159205724,
+      "adjustedRarity": 447.8320679992331
     },
     {
       "name": "Chronophage",
-      "totalRedeemed": 0,
-      "globalRarity": 1.802,
-      "adjustedRarity": 4.8
+      "totalRedeemed": 1310730,
+      "globalRarity": 181.20811826969026,
+      "adjustedRarity": 480.73489909144394
     },
     {
       "name": "Divinity",
-      "totalRedeemed": 0,
-      "globalRarity": 2.128,
-      "adjustedRarity": 5.6
+      "totalRedeemed": 1533277,
+      "globalRarity": 211.97518936485457,
+      "adjustedRarity": 562.3582002961952
     },
     {
       "name": "Ruinous Effigy",
-      "totalRedeemed": 0,
-      "globalRarity": 2.747,
-      "adjustedRarity": 7.3
+      "totalRedeemed": 1984940,
+      "globalRarity": 274.4174942804688,
+      "adjustedRarity": 728.0141071025846
     },
     {
       "name": "Ager's Scepter",
-      "totalRedeemed": 0,
-      "globalRarity": 3.163,
-      "adjustedRarity": 8.4
+      "totalRedeemed": 2282356,
+      "globalRarity": 315.53518724797414,
+      "adjustedRarity": 837.0970233005667
     },
     {
       "name": "Lodestar",
-      "totalRedeemed": 0,
-      "globalRarity": 3.187,
-      "adjustedRarity": 8.4
+      "totalRedeemed": 2339584,
+      "globalRarity": 323.4469449649241,
+      "adjustedRarity": 858.086469491014
     },
     {
       "name": "Path of Least Resistance",
-      "totalRedeemed": 0,
-      "globalRarity": 3.255,
-      "adjustedRarity": 8.6
+      "totalRedeemed": 2341648,
+      "globalRarity": 323.7322924858541,
+      "adjustedRarity": 858.8434803412462
     },
     {
       "name": "Hollow Denial",
-      "totalRedeemed": 0,
-      "globalRarity": 3.483,
-      "adjustedRarity": 9.2
+      "totalRedeemed": 2504711,
+      "globalRarity": 346.27571438770315,
+      "adjustedRarity": 918.6499048913428
     },
     {
       "name": "Appetence",
-      "totalRedeemed": 0,
-      "globalRarity": 3.92,
-      "adjustedRarity": 10.4
+      "totalRedeemed": 2817224,
+      "globalRarity": 389.480564101081,
+      "adjustedRarity": 1033.269930006938
     },
     {
       "name": "Wavesplitter",
-      "totalRedeemed": 0,
-      "globalRarity": 8.013,
-      "adjustedRarity": 21.2
+      "totalRedeemed": 5794905,
+      "globalRarity": 801.144271208883,
+      "adjustedRarity": 2125.39048501179
     },
     {
       "name": "Retraced Path",
-      "totalRedeemed": 0,
-      "globalRarity": 8.132,
-      "adjustedRarity": 21.5
+      "totalRedeemed": 5874774,
+      "globalRarity": 812.1861419206864,
+      "adjustedRarity": 2154.6839441189554
     },
     {
       "name": "Prometheus Lens",
-      "totalRedeemed": 0,
-      "globalRarity": 11.772,
-      "adjustedRarity": 31.1
+      "totalRedeemed": 8503171,
+      "globalRarity": 1175.5614170999368,
+      "adjustedRarity": 3118.6980176255156
     },
     {
       "name": "Coldheart",
-      "totalRedeemed": 0,
-      "globalRarity": 16.713,
-      "adjustedRarity": 44.2
+      "totalRedeemed": 12050902,
+      "globalRarity": 1666.0344043948385,
+      "adjustedRarity": 4419.895140060028
     }
   ]
 }

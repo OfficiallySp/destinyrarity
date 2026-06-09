@@ -10,19 +10,24 @@ function getApiKey() {
   return key;
 }
 
-export async function exchangeCodeForToken(code) {
+export async function exchangeCodeForToken(code, redirectUri) {
+  const params = {
+    grant_type: 'authorization_code',
+    code,
+    client_id: process.env.BUNGIE_CLIENT_ID,
+    client_secret: process.env.BUNGIE_CLIENT_SECRET,
+  };
+  if (redirectUri) {
+    params.redirect_uri = redirectUri;
+  }
+
   const res = await fetch(`${BUNGIE_BASE}/Platform/App/OAuth/Token/`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/x-www-form-urlencoded',
       'X-API-Key': getApiKey(),
     },
-    body: new URLSearchParams({
-      grant_type: 'authorization_code',
-      code,
-      client_id: process.env.BUNGIE_CLIENT_ID,
-      client_secret: process.env.BUNGIE_CLIENT_SECRET,
-    }),
+    body: new URLSearchParams(params),
   });
 
   const data = await res.json();

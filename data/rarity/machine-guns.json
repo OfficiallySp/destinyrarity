@@ -3,291 +3,297 @@
   "items": [
     {
       "name": "Song of Ir Yût (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.218,
-      "adjustedRarity": 0.6
+      "totalRedeemed": 158802,
+      "globalRarity": 21.954339640859175,
+      "adjustedRarity": 58.243622596201725
     },
     {
       "name": "Unwavering Duty (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.253,
-      "adjustedRarity": 0.7
+      "totalRedeemed": 181862,
+      "globalRarity": 25.142379288459416,
+      "adjustedRarity": 66.70131164966712
     },
     {
-      "name": "Watchful Eye (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.503,
-      "adjustedRarity": 1.3
+      "name": "DIABLERETS 06",
+      "totalRedeemed": 191655,
+      "globalRarity": 26.49625926543032,
+      "adjustedRarity": 70.29307873121901
     },
     {
       "name": "Corrective Measure (Timelost)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.513,
-      "adjustedRarity": 1.4
+      "totalRedeemed": 371706,
+      "globalRarity": 51.38826822423648,
+      "adjustedRarity": 136.33017204281907
     },
     {
-      "name": "Bitter End",
-      "totalRedeemed": 0,
-      "globalRarity": 0.522,
-      "adjustedRarity": 1.4
+      "name": "Watchful Eye (Adept)",
+      "totalRedeemed": 385685,
+      "globalRarity": 53.32086172960524,
+      "adjustedRarity": 141.45723341655685
     },
     {
       "name": "Qullim's Terminus (Harrowed)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.541,
-      "adjustedRarity": 1.4
+      "totalRedeemed": 390188,
+      "globalRarity": 53.943400434425016,
+      "adjustedRarity": 143.10879342556615
     },
     {
       "name": "Terminus Horizon (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.56,
-      "adjustedRarity": 1.5
+      "totalRedeemed": 402761,
+      "globalRarity": 55.68161476613697,
+      "adjustedRarity": 147.72017783446557
+    },
+    {
+      "name": "Bitter End",
+      "totalRedeemed": 456020,
+      "globalRarity": 63.04465915432175,
+      "adjustedRarity": 167.25391856727188
     },
     {
       "name": "Bane of Sorrow",
-      "totalRedeemed": 0,
-      "globalRarity": 0.974,
-      "adjustedRarity": 2.6
+      "totalRedeemed": 699875,
+      "globalRarity": 96.75755630373872,
+      "adjustedRarity": 256.6923298479659
     },
     {
       "name": "Song of Ir Yût",
-      "totalRedeemed": 0,
-      "globalRarity": 1.1,
-      "adjustedRarity": 2.9
-    },
-    {
-      "name": "Qua Vinctus IV",
-      "totalRedeemed": 0,
-      "globalRarity": 1.14,
-      "adjustedRarity": 3
+      "totalRedeemed": 800692,
+      "globalRarity": 110.69548315335334,
+      "adjustedRarity": 293.66886225487053
     },
     {
       "name": "THE SWARM (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 1.143,
-      "adjustedRarity": 3
-    },
-    {
-      "name": "Service of Luzaku",
-      "totalRedeemed": 0,
-      "globalRarity": 1.317,
-      "adjustedRarity": 3.5
+      "totalRedeemed": 821508,
+      "globalRarity": 113.57329032180287,
+      "adjustedRarity": 301.30352207000215
     },
     {
       "name": "Edgewise",
-      "totalRedeemed": 0,
-      "globalRarity": 1.366,
-      "adjustedRarity": 3.6
+      "totalRedeemed": 991414,
+      "globalRarity": 137.06275538533998,
+      "adjustedRarity": 363.61974567442934
+    },
+    {
+      "name": "Qua Vinctus IV",
+      "totalRedeemed": 1125291,
+      "globalRarity": 155.57121956147947,
+      "adjustedRarity": 412.7216553626681
     },
     {
       "name": "Unwavering Duty",
-      "totalRedeemed": 0,
-      "globalRarity": 1.579,
-      "adjustedRarity": 4.2
+      "totalRedeemed": 1155026,
+      "globalRarity": 159.68207640976192,
+      "adjustedRarity": 423.62752630823593
     },
     {
       "name": "Ulterior Observation",
-      "totalRedeemed": 0,
-      "globalRarity": 1.609,
-      "adjustedRarity": 4.3
+      "totalRedeemed": 1250112,
+      "globalRarity": 172.82769383958484,
+      "adjustedRarity": 458.50210659174894
+    },
+    {
+      "name": "Service of Luzaku",
+      "totalRedeemed": 1257258,
+      "globalRarity": 173.81562668094438,
+      "adjustedRarity": 461.123036599384
     },
     {
       "name": "Speleologist",
-      "totalRedeemed": 0,
-      "globalRarity": 1.832,
-      "adjustedRarity": 4.8
+      "totalRedeemed": 1335670,
+      "globalRarity": 184.6560674809283,
+      "adjustedRarity": 489.8821135317487
     },
     {
       "name": "Fixed Odds",
-      "totalRedeemed": 0,
-      "globalRarity": 1.98,
-      "adjustedRarity": 5.2
+      "totalRedeemed": 1427225,
+      "globalRarity": 197.31352498032288,
+      "adjustedRarity": 523.4616331020012
     },
     {
       "name": "Qullim's Terminus",
-      "totalRedeemed": 0,
-      "globalRarity": 2.016,
-      "adjustedRarity": 5.3
+      "totalRedeemed": 1455767,
+      "globalRarity": 201.25944985550964,
+      "adjustedRarity": 533.9299488419842
     },
     {
       "name": "21% Delirium",
-      "totalRedeemed": 0,
-      "globalRarity": 2.212,
-      "adjustedRarity": 5.8
+      "totalRedeemed": 1600745,
+      "globalRarity": 221.3026247050234,
+      "adjustedRarity": 587.1033592319802
     },
     {
       "name": "Commemoration",
-      "totalRedeemed": 0,
-      "globalRarity": 2.321,
-      "adjustedRarity": 6.1
+      "totalRedeemed": 1672427,
+      "globalRarity": 231.21264456709105,
+      "adjustedRarity": 613.3940819869892
     },
     {
       "name": "Terminus Horizon",
-      "totalRedeemed": 0,
-      "globalRarity": 2.483,
-      "adjustedRarity": 6.6
+      "totalRedeemed": 1786951,
+      "globalRarity": 247.04556098520766,
+      "adjustedRarity": 655.3979146478335
     },
     {
       "name": "Watchful Eye",
-      "totalRedeemed": 0,
-      "globalRarity": 2.682,
-      "adjustedRarity": 7.1
+      "totalRedeemed": 1933964,
+      "globalRarity": 267.3700741123826,
+      "adjustedRarity": 709.3176995922007
     },
     {
       "name": "Pro Memoria",
-      "totalRedeemed": 0,
-      "globalRarity": 2.837,
-      "adjustedRarity": 7.5
+      "totalRedeemed": 2064147,
+      "globalRarity": 285.36784364592734,
+      "adjustedRarity": 757.064765249065
     },
     {
       "name": "THE SWARM",
-      "totalRedeemed": 0,
-      "globalRarity": 2.881,
-      "adjustedRarity": 7.6
+      "totalRedeemed": 2080111,
+      "globalRarity": 287.5748629405626,
+      "adjustedRarity": 762.9198627360346
     },
     {
       "name": "Eleatic Principle",
-      "totalRedeemed": 0,
-      "globalRarity": 3.125,
-      "adjustedRarity": 8.3
+      "totalRedeemed": 2253477,
+      "globalRarity": 311.54267220100763,
+      "adjustedRarity": 826.5051064673044
     },
     {
       "name": "Thermal Erosion",
-      "totalRedeemed": 0,
-      "globalRarity": 3.158,
-      "adjustedRarity": 8.3
+      "totalRedeemed": 2273179,
+      "globalRarity": 314.26646912802494,
+      "adjustedRarity": 833.7311858138514
     },
     {
       "name": "Circular Logic",
-      "totalRedeemed": 0,
-      "globalRarity": 3.187,
-      "adjustedRarity": 8.4
-    },
-    {
-      "name": "Heir Apparent",
-      "totalRedeemed": 0,
-      "globalRarity": 3.287,
-      "adjustedRarity": 8.7
+      "totalRedeemed": 2301881,
+      "globalRarity": 318.2345139660745,
+      "adjustedRarity": 844.2581845654804
     },
     {
       "name": "Retrofit Escapade",
-      "totalRedeemed": 0,
-      "globalRarity": 3.295,
-      "adjustedRarity": 8.7
+      "totalRedeemed": 2370485,
+      "globalRarity": 327.7190010425692,
+      "adjustedRarity": 869.4199928839513
+    },
+    {
+      "name": "Heir Apparent",
+      "totalRedeemed": 2396963,
+      "globalRarity": 331.3795783968258,
+      "adjustedRarity": 879.1312977737024
     },
     {
       "name": "Corrective Measure",
-      "totalRedeemed": 0,
-      "globalRarity": 3.373,
-      "adjustedRarity": 8.9
+      "totalRedeemed": 2439311,
+      "globalRarity": 337.2341795675359,
+      "adjustedRarity": 894.6632238810809
     },
     {
       "name": "Chain of Command",
-      "totalRedeemed": 0,
-      "globalRarity": 3.571,
-      "adjustedRarity": 9.4
+      "totalRedeemed": 2576088,
+      "globalRarity": 356.14356807056356,
+      "adjustedRarity": 944.8287631554017
     },
     {
       "name": "Archon's Thunder",
-      "totalRedeemed": 0,
-      "globalRarity": 3.598,
-      "adjustedRarity": 9.5
+      "totalRedeemed": 2584612,
+      "globalRarity": 357.322009092079,
+      "adjustedRarity": 947.955100600837
     },
     {
       "name": "Deterministic Chaos",
-      "totalRedeemed": 0,
-      "globalRarity": 3.732,
-      "adjustedRarity": 9.9
+      "totalRedeemed": 2702050,
+      "globalRarity": 373.5577853338342,
+      "adjustedRarity": 991.0276976112824
     },
     {
       "name": "Planck's Stride",
-      "totalRedeemed": 0,
-      "globalRarity": 3.785,
-      "adjustedRarity": 10
+      "totalRedeemed": 2727932,
+      "globalRarity": 377.135965826427,
+      "adjustedRarity": 1000.5204082826524
     },
     {
       "name": "Xenophage",
-      "totalRedeemed": 0,
-      "globalRarity": 3.897,
-      "adjustedRarity": 10.3
+      "totalRedeemed": 2804056,
+      "globalRarity": 387.66009115747295,
+      "adjustedRarity": 1028.4403181484804
     },
     {
       "name": "Temporal Clause",
-      "totalRedeemed": 0,
-      "globalRarity": 3.998,
-      "adjustedRarity": 10.6
+      "totalRedeemed": 2872530,
+      "globalRarity": 397.1266057641416,
+      "adjustedRarity": 1053.5544465199894
     },
     {
       "name": "Grand Overture",
-      "totalRedeemed": 0,
-      "globalRarity": 4.265,
-      "adjustedRarity": 11.3
-    },
-    {
-      "name": "Qua Furor V",
-      "totalRedeemed": 0,
-      "globalRarity": 4.34,
-      "adjustedRarity": 11.5
+      "totalRedeemed": 3086013,
+      "globalRarity": 426.6405809631286,
+      "adjustedRarity": 1131.8533551150003
     },
     {
       "name": "A Fine Memorial",
-      "totalRedeemed": 0,
-      "globalRarity": 4.593,
-      "adjustedRarity": 12.1
+      "totalRedeemed": 3306660,
+      "globalRarity": 457.14497749929734,
+      "adjustedRarity": 1212.7797955564563
+    },
+    {
+      "name": "Qua Furor V",
+      "totalRedeemed": 3346680,
+      "globalRarity": 462.6777332103537,
+      "adjustedRarity": 1227.457883844387
     },
     {
       "name": "Shattered Cipher",
-      "totalRedeemed": 0,
-      "globalRarity": 4.659,
-      "adjustedRarity": 12.3
+      "totalRedeemed": 3357258,
+      "globalRarity": 464.1401392551201,
+      "adjustedRarity": 1231.337564451827
     },
     {
       "name": "Qua Xaphan V",
-      "totalRedeemed": 0,
-      "globalRarity": 5.417,
-      "adjustedRarity": 14.3
+      "totalRedeemed": 4051693,
+      "globalRarity": 560.145616821524,
+      "adjustedRarity": 1486.034671903832
     },
     {
       "name": "Avalanche",
-      "totalRedeemed": 0,
-      "globalRarity": 5.917,
-      "adjustedRarity": 15.6
+      "totalRedeemed": 4251111,
+      "globalRarity": 587.7151090351034,
+      "adjustedRarity": 1559.1749770063457
     },
     {
       "name": "Hammerhead",
-      "totalRedeemed": 0,
-      "globalRarity": 6.152,
-      "adjustedRarity": 16.3
+      "totalRedeemed": 4419781,
+      "globalRarity": 611.0336973855254,
+      "adjustedRarity": 1621.0378743458084
     },
     {
       "name": "Marcato-45",
-      "totalRedeemed": 0,
-      "globalRarity": 6.929,
-      "adjustedRarity": 18.3
+      "totalRedeemed": 4979551,
+      "globalRarity": 688.4217699586904,
+      "adjustedRarity": 1826.3440582772187
     },
     {
       "name": "Seventh Seraph SAW",
-      "totalRedeemed": 0,
-      "globalRarity": 7.167,
-      "adjustedRarity": 18.9
+      "totalRedeemed": 5154124,
+      "globalRarity": 712.5564466889816,
+      "adjustedRarity": 1890.371991977592
     },
     {
       "name": "Recurrent Impact",
-      "totalRedeemed": 0,
-      "globalRarity": 8.487,
-      "adjustedRarity": 22.4
+      "totalRedeemed": 6145479,
+      "globalRarity": 849.611045338016,
+      "adjustedRarity": 2253.970098291477
     },
     {
       "name": "Thunderlord",
-      "totalRedeemed": 0,
-      "globalRarity": 11.983,
-      "adjustedRarity": 31.7
+      "totalRedeemed": 8647116,
+      "globalRarity": 1195.4617799392176,
+      "adjustedRarity": 3171.4925558215728
     },
     {
       "name": "Exitus Mk.I",
-      "totalRedeemed": 0,
-      "globalRarity": 25.634,
-      "adjustedRarity": 67.8
+      "totalRedeemed": 18823915,
+      "globalRarity": 2602.401879577484,
+      "adjustedRarity": 6904.025144790245
     }
   ]
 }

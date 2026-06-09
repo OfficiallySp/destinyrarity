@@ -1,6 +1,6 @@
 # Destiny Rarity Checker
 
-See your rarest Destiny 2 items — emblems, titles, shaders, and more. Rarity data is sourced from [warmind.io](https://warmind.io) (Charlemagne).
+See your rarest Destiny 2 items — emblems, titles, shaders, and more. Rarity data is sourced from the [Charlemagne API](https://warmind.io) (warmind.io).
 
 ## Setup
 
@@ -28,11 +28,13 @@ SITE_URL=https://your-site.netlify.app
 
 ### 3. Rarity Data (Pre-scraped)
 
-Rarity data is already in `data/rarity/`. To refresh:
+Rarity data is already in `data/rarity/`. To refresh after a Destiny 2 update:
 
 ```bash
 npm run scrape
 ```
+
+This pulls live rarity stats from `https://api.warmind.io/in` (Charlemagne). No API key is required.
 
 ### 4. Bungie Manifest (Required for item names)
 
@@ -42,7 +44,7 @@ The manifest maps collectible hashes to names and includes item types for correc
 npm run manifest
 ```
 
-This requires `BUNGIE_API_KEY` in `.env`. Commit the generated `data/manifest/*.json` files. Re-run if you see weapons in wrong categories or too many items in titles.
+This requires `BUNGIE_API_KEY` in `.env`. Commit the generated `data/manifest/*.json` files. Re-run after major Destiny 2 updates (e.g. Monument of Triumph / 9.7.0) so new collectibles and titles resolve correctly.
 
 ### 5. Local Development
 

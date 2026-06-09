@@ -2,382 +2,394 @@
   "category": "rocket-launchers",
   "items": [
     {
+      "name": "Crux Celeritas IV",
+      "totalRedeemed": 2464,
+      "globalRarity": 0.34064864783708226,
+      "adjustedRarity": 0.9037187770939126
+    },
+    {
       "name": "The Button",
-      "totalRedeemed": 21596,
-      "globalRarity": 0.03,
-      "adjustedRarity": 0.1
+      "totalRedeemed": 21612,
+      "globalRarity": 2.987864682246356,
+      "adjustedRarity": 7.926611286750665
     },
     {
       "name": "Whirling Ovation",
-      "totalRedeemed": 55280,
-      "globalRarity": 0.077,
-      "adjustedRarity": 0.2
-    },
-    {
-      "name": "The When and Where",
-      "totalRedeemed": 0,
-      "globalRarity": 0.162,
-      "adjustedRarity": 0.4
+      "totalRedeemed": 60403,
+      "globalRarity": 8.350730631210746,
+      "adjustedRarity": 22.153946953248216
     },
     {
       "name": "Tomorrow's Answer (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.163,
-      "adjustedRarity": 0.4
+      "totalRedeemed": 117365,
+      "globalRarity": 16.225742107710698,
+      "adjustedRarity": 43.045841831829165
+    },
+    {
+      "name": "The When and Where",
+      "totalRedeemed": 127794,
+      "globalRarity": 17.6675540997127,
+      "adjustedRarity": 46.87087556815725
     },
     {
       "name": "Pit Launcher",
-      "totalRedeemed": 0,
-      "globalRarity": 0.195,
-      "adjustedRarity": 0.5
+      "totalRedeemed": 140465,
+      "globalRarity": 19.419323181183344,
+      "adjustedRarity": 51.51820536708459
     },
     {
       "name": "Cold Comfort (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.254,
-      "adjustedRarity": 0.7
+      "totalRedeemed": 182919,
+      "globalRarity": 25.288599843226965,
+      "adjustedRarity": 67.08901582274407
+    },
+    {
+      "name": "Micromort",
+      "totalRedeemed": 192191,
+      "globalRarity": 26.570456281029493,
+      "adjustedRarity": 70.48969784434097
     },
     {
       "name": "Hezen Vengeance (Timelost)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.515,
-      "adjustedRarity": 1.4
+      "totalRedeemed": 373538,
+      "globalRarity": 51.64172671094482,
+      "adjustedRarity": 137.0021528239066
     },
     {
       "name": "Broadsword Launcher",
-      "totalRedeemed": 0,
-      "globalRarity": 0.621,
-      "adjustedRarity": 1.6
+      "totalRedeemed": 446439,
+      "globalRarity": 61.72030912814089,
+      "adjustedRarity": 163.7399785418138
     },
     {
       "name": "BrayTech Osprey (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.63,
-      "adjustedRarity": 1.7
+      "totalRedeemed": 453022,
+      "globalRarity": 62.63041060894914,
+      "adjustedRarity": 166.15441876486952
     },
     {
       "name": "Folded Root",
-      "totalRedeemed": 0,
-      "globalRarity": 0.872,
-      "adjustedRarity": 2.3
+      "totalRedeemed": 630437,
+      "globalRarity": 87.1580810050595,
+      "adjustedRarity": 231.22473809852067
     },
     {
       "name": "Heretic's Fervor",
-      "totalRedeemed": 0,
-      "globalRarity": 1.036,
-      "adjustedRarity": 2.7
+      "totalRedeemed": 759530,
+      "globalRarity": 105.00522219630643,
+      "adjustedRarity": 278.572046577167
     },
     {
       "name": "Tomorrow's Answer",
-      "totalRedeemed": 0,
-      "globalRarity": 1.158,
-      "adjustedRarity": 3.1
+      "totalRedeemed": 832036,
+      "globalRarity": 115.02919575964876,
+      "adjustedRarity": 305.1649985463111
     },
     {
       "name": "Eyes of Tomorrow",
-      "totalRedeemed": 0,
-      "globalRarity": 1.427,
-      "adjustedRarity": 3.8
+      "totalRedeemed": 1028148,
+      "globalRarity": 142.1417313215911,
+      "adjustedRarity": 377.09279757774027
     },
     {
       "name": "Crowning Duologue",
-      "totalRedeemed": 0,
-      "globalRarity": 1.489,
-      "adjustedRarity": 3.9
+      "totalRedeemed": 1069922,
+      "globalRarity": 147.9169978048485,
+      "adjustedRarity": 392.4142051241368
     },
     {
       "name": "Bellowing Giant",
-      "totalRedeemed": 0,
-      "globalRarity": 1.592,
-      "adjustedRarity": 4.2
+      "totalRedeemed": 1145813,
+      "globalRarity": 158.40894850817807,
+      "adjustedRarity": 420.24867010483246
     },
     {
       "name": "Haliaetus",
-      "totalRedeemed": 0,
-      "globalRarity": 1.713,
-      "adjustedRarity": 4.5
+      "totalRedeemed": 1243173,
+      "globalRarity": 171.86899410615626,
+      "adjustedRarity": 455.9572984075368
     },
     {
       "name": "Pyroclastic Flow",
-      "totalRedeemed": 0,
-      "globalRarity": 1.983,
-      "adjustedRarity": 5.2
-    },
-    {
-      "name": "Cynosure",
-      "totalRedeemed": 0,
-      "globalRarity": 2.222,
-      "adjustedRarity": 5.9
+      "totalRedeemed": 1425142,
+      "globalRarity": 197.02625619960838,
+      "adjustedRarity": 522.6978836952812
     },
     {
       "name": "Cold Comfort",
-      "totalRedeemed": 0,
-      "globalRarity": 2.262,
-      "adjustedRarity": 6
+      "totalRedeemed": 1630557,
+      "globalRarity": 225.42493395750375,
+      "adjustedRarity": 598.0377345868178
+    },
+    {
+      "name": "Cynosure",
+      "totalRedeemed": 1634958,
+      "globalRarity": 226.03337336461863,
+      "adjustedRarity": 599.6518848863267
     },
     {
       "name": "BrayTech Osprey",
-      "totalRedeemed": 0,
-      "globalRarity": 2.674,
-      "adjustedRarity": 7.1
-    },
-    {
-      "name": "The Hothead (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 2.723,
-      "adjustedRarity": 7.2
+      "totalRedeemed": 1920869,
+      "globalRarity": 265.56064428659425,
+      "adjustedRarity": 704.5151719308469
     },
     {
       "name": "Faith-Keeper",
-      "totalRedeemed": 0,
-      "globalRarity": 2.745,
-      "adjustedRarity": 7.3
+      "totalRedeemed": 1982177,
+      "globalRarity": 274.03649140574845,
+      "adjustedRarity": 727.0010448148054
+    },
+    {
+      "name": "The Hothead (Adept)",
+      "totalRedeemed": 2058009,
+      "globalRarity": 284.52028534356566,
+      "adjustedRarity": 754.8138704254326
     },
     {
       "name": "Hezen Vengeance",
-      "totalRedeemed": 0,
-      "globalRarity": 2.859,
-      "adjustedRarity": 7.6
+      "totalRedeemed": 2067009,
+      "globalRarity": 285.7645377098537,
+      "adjustedRarity": 758.1147912833243
     },
     {
       "name": "Tiebreaker",
-      "totalRedeemed": 0,
-      "globalRarity": 3.027,
-      "adjustedRarity": 8
+      "totalRedeemed": 2174654,
+      "globalRarity": 300.64648726197333,
+      "adjustedRarity": 797.5956385886304
     },
     {
       "name": "Pentatonic-48",
-      "totalRedeemed": 0,
-      "globalRarity": 3.034,
-      "adjustedRarity": 8
+      "totalRedeemed": 2179989,
+      "globalRarity": 301.38405241465625,
+      "adjustedRarity": 799.5523511193918
     },
     {
       "name": "Morrigan-D",
-      "totalRedeemed": 0,
-      "globalRarity": 3.191,
-      "adjustedRarity": 8.4
+      "totalRedeemed": 2292445,
+      "globalRarity": 316.9311239816883,
+      "adjustedRarity": 840.7977240077331
     },
     {
       "name": "Semiotician",
-      "totalRedeemed": 0,
-      "globalRarity": 3.206,
-      "adjustedRarity": 8.5
+      "totalRedeemed": 2311429,
+      "globalRarity": 319.55566697297854,
+      "adjustedRarity": 847.7604664039793
     },
     {
       "name": "Ascendancy",
-      "totalRedeemed": 0,
-      "globalRarity": 3.329,
-      "adjustedRarity": 8.8
+      "totalRedeemed": 2403231,
+      "globalRarity": 332.24731760964244,
+      "adjustedRarity": 881.4305926924435
     },
     {
       "name": "Hoosegow XE5837",
-      "totalRedeemed": 0,
-      "globalRarity": 3.384,
-      "adjustedRarity": 8.9
+      "totalRedeemed": 2431393,
+      "globalRarity": 336.1407215140207,
+      "adjustedRarity": 891.7595408257708
     },
     {
       "name": "Bump in the Night",
-      "totalRedeemed": 0,
-      "globalRarity": 3.518,
-      "adjustedRarity": 9.3
+      "totalRedeemed": 2528887,
+      "globalRarity": 349.6192926472302,
+      "adjustedRarity": 927.5173161723593
     },
     {
       "name": "Truth",
-      "totalRedeemed": 0,
-      "globalRarity": 3.622,
-      "adjustedRarity": 9.6
+      "totalRedeemed": 2620786,
+      "globalRarity": 362.3243535593975,
+      "adjustedRarity": 961.2230190522916
     },
     {
       "name": "The Hothead",
-      "totalRedeemed": 0,
-      "globalRarity": 3.848,
-      "adjustedRarity": 10.2
+      "totalRedeemed": 2767765,
+      "globalRarity": 382.6442389532475,
+      "adjustedRarity": 1015.1303575825214
     },
     {
       "name": "Apex Predator",
-      "totalRedeemed": 0,
-      "globalRarity": 4.158,
-      "adjustedRarity": 11
+      "totalRedeemed": 2990995,
+      "globalRarity": 413.5058451450786,
+      "adjustedRarity": 1097.0041979277626
     },
     {
       "name": "Deathbringer",
-      "totalRedeemed": 0,
-      "globalRarity": 4.339,
-      "adjustedRarity": 11.5
+      "totalRedeemed": 3125696,
+      "globalRarity": 432.1282938107859,
+      "adjustedRarity": 1146.4083468698598
     },
     {
       "name": "Sins of the Past",
-      "totalRedeemed": 0,
-      "globalRarity": 4.358,
-      "adjustedRarity": 11.5
+      "totalRedeemed": 3130838,
+      "globalRarity": 432.8391766627252,
+      "adjustedRarity": 1148.2942729866684
     },
     {
       "name": "Curtain Call",
-      "totalRedeemed": 0,
-      "globalRarity": 4.693,
-      "adjustedRarity": 12.4
+      "totalRedeemed": 3371196,
+      "globalRarity": 466.06873335786537,
+      "adjustedRarity": 1236.4501324934618
     },
     {
       "name": "Gjallarhorn",
-      "totalRedeemed": 0,
-      "globalRarity": 4.731,
-      "adjustedRarity": 12.5
+      "totalRedeemed": 3419886,
+      "globalRarity": 472.8001386594837,
+      "adjustedRarity": 1254.308114334656
     },
     {
       "name": "Roar of the Bear",
-      "totalRedeemed": 0,
-      "globalRarity": 4.786,
-      "adjustedRarity": 12.7
+      "totalRedeemed": 3438327,
+      "globalRarity": 475.34961175800794,
+      "adjustedRarity": 1261.0717011724762
     },
     {
       "name": "Code Duello",
-      "totalRedeemed": 0,
-      "globalRarity": 4.895,
-      "adjustedRarity": 12.9
+      "totalRedeemed": 3527284,
+      "globalRarity": 487.6479403966619,
+      "adjustedRarity": 1293.6983697008623
     },
     {
       "name": "Shining Sphere",
-      "totalRedeemed": 0,
-      "globalRarity": 5.005,
-      "adjustedRarity": 13.2
+      "totalRedeemed": 3595202,
+      "globalRarity": 497.0376217537231,
+      "adjustedRarity": 1318.60858557045
     },
     {
       "name": "Dragon's Breath",
-      "totalRedeemed": 0,
-      "globalRarity": 5.236,
-      "adjustedRarity": 13.8
+      "totalRedeemed": 3785872,
+      "globalRarity": 523.39779938485,
+      "adjustedRarity": 1388.5404277898072
     },
     {
       "name": "Scipio-D",
-      "totalRedeemed": 0,
-      "globalRarity": 5.717,
-      "adjustedRarity": 15.1
+      "totalRedeemed": 4110098,
+      "globalRarity": 568.2221291306396,
+      "adjustedRarity": 1507.4564684643408
     },
     {
       "name": "Blowout",
-      "totalRedeemed": 0,
-      "globalRarity": 5.774,
-      "adjustedRarity": 15.3
+      "totalRedeemed": 4150989,
+      "globalRarity": 573.875320631738,
+      "adjustedRarity": 1522.45401899768
     },
     {
       "name": "Countess SA/2",
-      "totalRedeemed": 0,
-      "globalRarity": 5.969,
-      "adjustedRarity": 15.8
+      "totalRedeemed": 4288535,
+      "globalRarity": 592.8910912954551,
+      "adjustedRarity": 1572.9016256998548
     },
     {
       "name": "Classical-42",
-      "totalRedeemed": 0,
-      "globalRarity": 6.283,
-      "adjustedRarity": 16.6
+      "totalRedeemed": 4514309,
+      "globalRarity": 624.1044061561571,
+      "adjustedRarity": 1655.7085263409267
     },
     {
       "name": "Red Herring",
-      "totalRedeemed": 0,
-      "globalRarity": 6.684,
-      "adjustedRarity": 17.7
+      "totalRedeemed": 4830029,
+      "globalRarity": 667.7527791655416,
+      "adjustedRarity": 1771.5048300357682
     },
     {
       "name": "Heretic",
-      "totalRedeemed": 0,
-      "globalRarity": 7.054,
-      "adjustedRarity": 18.6
+      "totalRedeemed": 5095799,
+      "globalRarity": 704.4955515420276,
+      "adjustedRarity": 1868.9810229693107
     },
     {
       "name": "Hoosegow",
-      "totalRedeemed": 0,
-      "globalRarity": 7.488,
-      "adjustedRarity": 19.8
+      "totalRedeemed": 5379619,
+      "globalRarity": 743.7337411642357,
+      "adjustedRarity": 1973.0773960678475
     },
     {
       "name": "Blue Shift",
-      "totalRedeemed": 0,
-      "globalRarity": 7.959,
-      "adjustedRarity": 21
-    },
-    {
-      "name": "Crux Termination IV",
-      "totalRedeemed": 0,
-      "globalRarity": 8.288,
-      "adjustedRarity": 21.9
+      "totalRedeemed": 5717599,
+      "globalRarity": 790.4595650262393,
+      "adjustedRarity": 2097.037977351208
     },
     {
       "name": "Sleepless",
-      "totalRedeemed": 0,
-      "globalRarity": 8.323,
-      "adjustedRarity": 22
+      "totalRedeemed": 5993607,
+      "globalRarity": 828.6177435945092,
+      "adjustedRarity": 2198.269151145095
     },
     {
       "name": "Mos Epoch III",
-      "totalRedeemed": 0,
-      "globalRarity": 8.397,
-      "adjustedRarity": 22.2
+      "totalRedeemed": 6031216,
+      "globalRarity": 833.8171977327012,
+      "adjustedRarity": 2212.062965872256
+    },
+    {
+      "name": "Crux Termination IV",
+      "totalRedeemed": 6057667,
+      "globalRarity": 837.4740554372216,
+      "adjustedRarity": 2221.7643722736
     },
     {
       "name": "Two-Tailed Fox",
-      "totalRedeemed": 0,
-      "globalRarity": 9.071,
-      "adjustedRarity": 24
-    },
-    {
-      "name": "Subzero Salvo",
-      "totalRedeemed": 0,
-      "globalRarity": 9.747,
-      "adjustedRarity": 25.8
+      "totalRedeemed": 6552872,
+      "globalRarity": 905.9362768869631,
+      "adjustedRarity": 2403.3902070994077
     },
     {
       "name": "Royal Entry",
-      "totalRedeemed": 0,
-      "globalRarity": 9.774,
-      "adjustedRarity": 25.8
+      "totalRedeemed": 7037903,
+      "globalRarity": 972.991940161747,
+      "adjustedRarity": 2581.2845342798614
+    },
+    {
+      "name": "Subzero Salvo",
+      "totalRedeemed": 7045488,
+      "globalRarity": 974.040568406002,
+      "adjustedRarity": 2584.066477025096
     },
     {
       "name": "Zenobia-D",
-      "totalRedeemed": 0,
-      "globalRarity": 12.031,
-      "adjustedRarity": 31.8
+      "totalRedeemed": 8641549,
+      "globalRarity": 1194.6964212937867,
+      "adjustedRarity": 3169.4521487325987
     },
     {
       "name": "Palmyra-B",
-      "totalRedeemed": 0,
-      "globalRarity": 12.174,
-      "adjustedRarity": 32.2
+      "totalRedeemed": 8751267,
+      "globalRarity": 1209.8649636409411,
+      "adjustedRarity": 3209.6933081421726
     },
     {
       "name": "The Wardcliff Coil",
-      "totalRedeemed": 0,
-      "globalRarity": 13.512,
-      "adjustedRarity": 35.7
+      "totalRedeemed": 9749234,
+      "globalRarity": 1347.8341637773167,
+      "adjustedRarity": 3575.716651007465
     },
     {
       "name": "Bad Omens",
-      "totalRedeemed": 0,
-      "globalRarity": 13.709,
-      "adjustedRarity": 36.2
+      "totalRedeemed": 9852333,
+      "globalRarity": 1362.087627634198,
+      "adjustedRarity": 3613.5301665105517
     },
     {
       "name": "Reginar-B",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
-    },
-    {
-      "name": "Butler RS/2",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.075785821753,
+      "adjustedRarity": 24553.116016108346
     },
     {
       "name": "Weaver-C",
-      "totalRedeemed": 0,
-      "globalRarity": 92.444,
-      "adjustedRarity": 244.4
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.075785821753,
+      "adjustedRarity": 24553.116016108346
+    },
+    {
+      "name": "Butler RS/2",
+      "totalRedeemed": 66944363,
+      "globalRarity": 9255.075785821753,
+      "adjustedRarity": 24553.116016108346
     },
     {
       "name": "Cup-Bearer SA/2",
-      "totalRedeemed": 0,
-      "globalRarity": 92.446,
-      "adjustedRarity": 244.4
+      "totalRedeemed": 66945776,
+      "globalRarity": 9255.27113344326,
+      "adjustedRarity": 24553.634260683033
     }
   ]
 }

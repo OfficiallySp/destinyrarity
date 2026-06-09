@@ -2,610 +2,664 @@
   "category": "finishers",
   "items": [
     {
-      "name": "Shotput Through The Heart [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 446,
-      "globalRarity": 0.001,
-      "adjustedRarity": 0
+      "name": "Power Chord",
+      "totalRedeemed": 96,
+      "globalRarity": 0.013271977717676608,
+      "adjustedRarity": 0.03520980698754024
     },
     {
-      "name": "Crossfaded [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 850,
-      "globalRarity": 0.001,
-      "adjustedRarity": 0
+      "name": "Butter Side Up",
+      "totalRedeemed": 149,
+      "globalRarity": 0.02059921541597724,
+      "adjustedRarity": 0.05464855459524475
     },
     {
-      "name": "Dink Fast [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 953,
-      "globalRarity": 0.001,
-      "adjustedRarity": 0
+      "name": "Lumberjacked",
+      "totalRedeemed": 521,
+      "globalRarity": 0.07202812907197409,
+      "adjustedRarity": 0.19108655667196317
     },
     {
-      "name": "Understood Ending [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 1031,
-      "globalRarity": 0.001,
-      "adjustedRarity": 0
+      "name": "You Were Already Dead",
+      "totalRedeemed": 537,
+      "globalRarity": 0.07424012535825353,
+      "adjustedRarity": 0.1969548578365532
     },
     {
-      "name": "Splashy Surprise [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 1128,
-      "globalRarity": 0.002,
-      "adjustedRarity": 0
+      "name": "Touché",
+      "totalRedeemed": 544,
+      "globalRarity": 0.07520787373350078,
+      "adjustedRarity": 0.19952223959606133
     },
     {
-      "name": "Ether Cane Pain [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 1148,
-      "globalRarity": 0.002,
-      "adjustedRarity": 0
+      "name": "Pop Goes The Enemy",
+      "totalRedeemed": 585,
+      "globalRarity": 0.08087611421709183,
+      "adjustedRarity": 0.2145597613303233
     },
     {
-      "name": "Spare Bowl [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 1237,
-      "globalRarity": 0.002,
-      "adjustedRarity": 0
+      "name": "Shotput Through The Heart",
+      "totalRedeemed": 596,
+      "globalRarity": 0.08239686166390896,
+      "adjustedRarity": 0.218594218380979
     },
     {
-      "name": "Cooked [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 2016,
-      "globalRarity": 0.003,
-      "adjustedRarity": 0
+      "name": "Cleft in Twain",
+      "totalRedeemed": 860,
+      "globalRarity": 0.11889480038751964,
+      "adjustedRarity": 0.31542118759671467
     },
     {
-      "name": "Gyroscopic Force Finish critically wounded combatants.",
-      "totalRedeemed": 2177,
-      "globalRarity": 0.003,
-      "adjustedRarity": 0
+      "name": "Crossfaded",
+      "totalRedeemed": 1054,
+      "globalRarity": 0.14571525535865779,
+      "adjustedRarity": 0.38657433921736883
     },
     {
-      "name": "Boom! [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 2268,
-      "globalRarity": 0.003,
-      "adjustedRarity": 0
+      "name": "Understood Ending",
+      "totalRedeemed": 1162,
+      "globalRarity": 0.16064623029104397,
+      "adjustedRarity": 0.42618537207835167
     },
     {
-      "name": "Green Thump [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 3296,
-      "globalRarity": 0.005,
-      "adjustedRarity": 0
+      "name": "Dink Fast",
+      "totalRedeemed": 1189,
+      "globalRarity": 0.1643789740241405,
+      "adjustedRarity": 0.4360881302935973
     },
     {
-      "name": "Armaments Deployed [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 3383,
-      "globalRarity": 0.005,
-      "adjustedRarity": 0
+      "name": "Splashy Surprise",
+      "totalRedeemed": 1228,
+      "globalRarity": 0.16977071497194662,
+      "adjustedRarity": 0.45039211438228555
     },
     {
-      "name": "Stone-Cold Smash [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 3488,
-      "globalRarity": 0.005,
-      "adjustedRarity": 0
+      "name": "Ether Cane Pain",
+      "totalRedeemed": 1271,
+      "globalRarity": 0.17571545499132263,
+      "adjustedRarity": 0.46616317376212135
     },
     {
-      "name": "Served [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 3566,
-      "globalRarity": 0.005,
-      "adjustedRarity": 0
+      "name": "Drop Pod Payback",
+      "totalRedeemed": 1320,
+      "globalRarity": 0.1824896936180534,
+      "adjustedRarity": 0.48413484607867835
     },
     {
-      "name": "Rain of Arrows [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 3868,
-      "globalRarity": 0.005,
-      "adjustedRarity": 0
+      "name": "Spare Bowl",
+      "totalRedeemed": 1351,
+      "globalRarity": 0.18677543642271976,
+      "adjustedRarity": 0.49550467958507144
     },
     {
-      "name": "Improvised Hammer [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 4457,
-      "globalRarity": 0.006,
-      "adjustedRarity": 0
+      "name": "Overrun",
+      "totalRedeemed": 2086,
+      "globalRarity": 0.28838901582368137,
+      "adjustedRarity": 0.7650797643334264
     },
     {
-      "name": "Colony Crush [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 5385,
-      "globalRarity": 0.007,
-      "adjustedRarity": 0
+      "name": "Cooked",
+      "totalRedeemed": 2142,
+      "globalRarity": 0.29613100282565935,
+      "adjustedRarity": 0.7856188184094917
     },
     {
-      "name": "Power Pitch [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 5689,
-      "globalRarity": 0.008,
-      "adjustedRarity": 0
+      "name": "Gyroscopic Force",
+      "totalRedeemed": 2315,
+      "globalRarity": 0.3200482126710557,
+      "adjustedRarity": 0.8490698247516214
     },
     {
-      "name": "Bashing Pumpkins [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 5753,
-      "globalRarity": 0.008,
-      "adjustedRarity": 0
+      "name": "Boom!",
+      "totalRedeemed": 2991,
+      "globalRarity": 0.4135050557663619,
+      "adjustedRarity": 1.0970055489555506
     },
     {
-      "name": "Force Damage [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 6348,
-      "globalRarity": 0.009,
-      "adjustedRarity": 0
+      "name": "Armaments Deployed",
+      "totalRedeemed": 3515,
+      "globalRarity": 0.4859479341420134,
+      "adjustedRarity": 1.2891924120958747
     },
     {
-      "name": "Chill Out [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 6388,
-      "globalRarity": 0.009,
-      "adjustedRarity": 0
+      "name": "Stone-Cold Smash",
+      "totalRedeemed": 3618,
+      "globalRarity": 0.5001876602349372,
+      "adjustedRarity": 1.3269696008429226
     },
     {
-      "name": "Cartwheel Kick [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 6819,
-      "globalRarity": 0.009,
-      "adjustedRarity": 0
+      "name": "Green Thump",
+      "totalRedeemed": 3679,
+      "globalRarity": 0.5086208960763776,
+      "adjustedRarity": 1.3493424990329221
     },
     {
-      "name": "Fatal Uppercut [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 7000,
-      "globalRarity": 0.01,
-      "adjustedRarity": 0
+      "name": "Served",
+      "totalRedeemed": 3757,
+      "globalRarity": 0.5194043779719898,
+      "adjustedRarity": 1.3779504672102987
     },
     {
-      "name": "Bigby's Fist [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 7661,
-      "globalRarity": 0.011,
-      "adjustedRarity": 0
+      "name": "Rain of Arrows",
+      "totalRedeemed": 4102,
+      "globalRarity": 0.5671005478948902,
+      "adjustedRarity": 1.5044857110717715
     },
     {
-      "name": "Paracausal Pitch [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 7941,
-      "globalRarity": 0.011,
-      "adjustedRarity": 0
+      "name": "Improvised Hammer",
+      "totalRedeemed": 4575,
+      "globalRarity": 0.632492688108026,
+      "adjustedRarity": 1.6779673642499646
     },
     {
-      "name": "No Ammo? No Problem [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 8377,
-      "globalRarity": 0.012,
-      "adjustedRarity": 0
+      "name": "Colony Crush",
+      "totalRedeemed": 5516,
+      "globalRarity": 0.7625857196948352,
+      "adjustedRarity": 2.023096826492416
     },
     {
-      "name": "Completely Trashed [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 8388,
-      "globalRarity": 0.012,
-      "adjustedRarity": 0
+      "name": "Power Pitch",
+      "totalRedeemed": 5806,
+      "globalRarity": 0.80267815238365,
+      "adjustedRarity": 2.129459785100611
     },
     {
-      "name": "Snow Throw [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 9022,
-      "globalRarity": 0.013,
-      "adjustedRarity": 0
+      "name": "Bashing Pumpkins",
+      "totalRedeemed": 5874,
+      "globalRarity": 0.8120791366003376,
+      "adjustedRarity": 2.1544000650501185
     },
     {
-      "name": "Riot Control [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 9097,
-      "globalRarity": 0.013,
-      "adjustedRarity": 0
+      "name": "Force Damage",
+      "totalRedeemed": 6453,
+      "globalRarity": 0.8921257522100746,
+      "adjustedRarity": 2.3667592134437205
     },
     {
-      "name": "Beam of Light [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 9121,
-      "globalRarity": 0.013,
-      "adjustedRarity": 0
+      "name": "Chill Out",
+      "totalRedeemed": 6519,
+      "globalRarity": 0.9012502368909773,
+      "adjustedRarity": 2.3909659557476544
     },
     {
-      "name": "Autonomous Counterstrike [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 10052,
-      "globalRarity": 0.014,
-      "adjustedRarity": 0
+      "name": "Fatal Uppercut",
+      "totalRedeemed": 7125,
+      "globalRarity": 0.9850295962338109,
+      "adjustedRarity": 2.6132278623565024
     },
     {
-      "name": "Rocket Punch [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 11631,
-      "globalRarity": 0.016,
-      "adjustedRarity": 0
+      "name": "Cartwheel Kick",
+      "totalRedeemed": 7276,
+      "globalRarity": 1.0059053111855731,
+      "adjustedRarity": 2.6686099545973208
     },
     {
-      "name": "Chalice, Overflowing [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 13258,
-      "globalRarity": 0.018,
-      "adjustedRarity": 0
+      "name": "Bigby's Fist",
+      "totalRedeemed": 7714,
+      "globalRarity": 1.0664587095224725,
+      "adjustedRarity": 2.829254698977973
     },
     {
-      "name": "Axed Question [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 13906,
-      "globalRarity": 0.019,
-      "adjustedRarity": 0.1
+      "name": "Paracausal Pitch",
+      "totalRedeemed": 8264,
+      "globalRarity": 1.1424960818633283,
+      "adjustedRarity": 3.0309775515107558
     },
     {
-      "name": "Instinctive Archery [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 14106,
-      "globalRarity": 0.02,
-      "adjustedRarity": 0.1
+      "name": "Snow Throw",
+      "totalRedeemed": 9147,
+      "globalRarity": 1.2645706269123744,
+      "adjustedRarity": 3.3548344220315682
     },
     {
-      "name": "Sidearm Smackdown [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 15035,
-      "globalRarity": 0.021,
-      "adjustedRarity": 0.1
+      "name": "No Ammo? No Problem",
+      "totalRedeemed": 9284,
+      "globalRarity": 1.283510845113642,
+      "adjustedRarity": 3.4050817507533706
     },
     {
-      "name": "Slapshot [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 15604,
-      "globalRarity": 0.022,
-      "adjustedRarity": 0.1
+      "name": "Riot Control",
+      "totalRedeemed": 9428,
+      "globalRarity": 1.303418811690157,
+      "adjustedRarity": 3.457896461234681
     },
     {
-      "name": "Unblockable [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 17034,
-      "globalRarity": 0.024,
-      "adjustedRarity": 0.1
+      "name": "Completely Trashed",
+      "totalRedeemed": 9857,
+      "globalRarity": 1.3627279621160246,
+      "adjustedRarity": 3.6152402862102515
     },
     {
-      "name": "Outlaw Diplomacy [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 17349,
-      "globalRarity": 0.024,
-      "adjustedRarity": 0.1
+      "name": "Beam of Light",
+      "totalRedeemed": 10631,
+      "globalRarity": 1.4697332824647922,
+      "adjustedRarity": 3.8991193550472945
     },
     {
-      "name": "Unlimited Power [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 17492,
-      "globalRarity": 0.024,
-      "adjustedRarity": 0.1
+      "name": "Autonomous Counterstrike",
+      "totalRedeemed": 11456,
+      "globalRarity": 1.5837893409760755,
+      "adjustedRarity": 4.201703633846469
     },
     {
-      "name": "Knockout Punch [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 18024,
-      "globalRarity": 0.025,
-      "adjustedRarity": 0.1
+      "name": "Rocket Punch",
+      "totalRedeemed": 11752,
+      "globalRarity": 1.624711272272245,
+      "adjustedRarity": 4.310267205391384
     },
     {
-      "name": "Lightning Kick [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 18185,
-      "globalRarity": 0.025,
-      "adjustedRarity": 0.1
+      "name": "Chalice, Overflowing",
+      "totalRedeemed": 13375,
+      "globalRarity": 1.8490906455617153,
+      "adjustedRarity": 4.905533004774486
     },
     {
-      "name": "Hadoken [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 21009,
-      "globalRarity": 0.029,
-      "adjustedRarity": 0.1
+      "name": "Axed Question",
+      "totalRedeemed": 14044,
+      "globalRarity": 1.941579740281774,
+      "adjustedRarity": 5.150901347218907
     },
     {
-      "name": "Boot to the Head [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 21946,
-      "globalRarity": 0.031,
-      "adjustedRarity": 0.1
+      "name": "Sidearm Smackdown",
+      "totalRedeemed": 15177,
+      "globalRarity": 2.0982167273039365,
+      "adjustedRarity": 5.566450423436439
     },
     {
-      "name": "Spinning Bird Kick [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 22788,
-      "globalRarity": 0.032,
-      "adjustedRarity": 0.1
+      "name": "Instinctive Archery",
+      "totalRedeemed": 15381,
+      "globalRarity": 2.1264196799539996,
+      "adjustedRarity": 5.641271263284962
     },
     {
-      "name": "Omni Strike [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 26620,
-      "globalRarity": 0.037,
-      "adjustedRarity": 0.1
+      "name": "Slapshot",
+      "totalRedeemed": 15712,
+      "globalRarity": 2.172180353126405,
+      "adjustedRarity": 5.762671743627419
     },
     {
-      "name": "The Spins [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 27009,
-      "globalRarity": 0.038,
-      "adjustedRarity": 0.1
+      "name": "Unblockable",
+      "totalRedeemed": 17172,
+      "globalRarity": 2.3740250142494035,
+      "adjustedRarity": 6.29815422489626
     },
     {
-      "name": "Resonant Lunge [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 28067,
-      "globalRarity": 0.039,
-      "adjustedRarity": 0.1
+      "name": "Outlaw Diplomacy",
+      "totalRedeemed": 18099,
+      "globalRarity": 2.502182549085718,
+      "adjustedRarity": 6.6381489236196956
     },
     {
-      "name": "Keyboard Warrior [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 28364,
-      "globalRarity": 0.039,
-      "adjustedRarity": 0.1
+      "name": "Knockout Punch",
+      "totalRedeemed": 18227,
+      "globalRarity": 2.519878519375954,
+      "adjustedRarity": 6.685095332936417
     },
     {
-      "name": "Aerial Snap Kick [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 28463,
-      "globalRarity": 0.04,
-      "adjustedRarity": 0.1
+      "name": "Unlimited Power",
+      "totalRedeemed": 18335,
+      "globalRarity": 2.53480949430834,
+      "adjustedRarity": 6.724706365797399
     },
     {
-      "name": "Set and Spike [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 30043,
-      "globalRarity": 0.042,
-      "adjustedRarity": 0.1
+      "name": "Lightning Kick",
+      "totalRedeemed": 18565,
+      "globalRarity": 2.566606940923607,
+      "adjustedRarity": 6.809063195038381
     },
     {
-      "name": "From Nowhere [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 34499,
-      "globalRarity": 0.048,
-      "adjustedRarity": 0.1
+      "name": "Hadoken",
+      "totalRedeemed": 21440,
+      "globalRarity": 2.9640750236144426,
+      "adjustedRarity": 7.863523560550653
     },
     {
-      "name": "Perfect Strike [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 36690,
-      "globalRarity": 0.051,
-      "adjustedRarity": 0.1
+      "name": "Boot to the Head",
+      "totalRedeemed": 22714,
+      "globalRarity": 3.140205227909443,
+      "adjustedRarity": 8.330787040781134
     },
     {
-      "name": "Energy Overload [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 36696,
-      "globalRarity": 0.051,
-      "adjustedRarity": 0.1
+      "name": "Spinning Bird Kick",
+      "totalRedeemed": 23316,
+      "globalRarity": 3.2234315881807065,
+      "adjustedRarity": 8.551581872098836
     },
     {
-      "name": "I Am the Boss Now [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 44727,
-      "globalRarity": 0.062,
-      "adjustedRarity": 0.2
+      "name": "Omni Strike",
+      "totalRedeemed": 26649,
+      "globalRarity": 3.6842180645662914,
+      "adjustedRarity": 9.774022358447498
     },
     {
-      "name": "Overhead Heel Crush [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 46681,
-      "globalRarity": 0.065,
-      "adjustedRarity": 0.2
+      "name": "The Spins",
+      "totalRedeemed": 27147,
+      "globalRarity": 3.7530664489767394,
+      "adjustedRarity": 9.956673232195364
     },
     {
-      "name": "Up My Sleeve [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 47562,
-      "globalRarity": 0.066,
-      "adjustedRarity": 0.2
+      "name": "Aerial Snap Kick",
+      "totalRedeemed": 28611,
+      "globalRarity": 3.9554641091713068,
+      "adjustedRarity": 10.493622788755351
     },
     {
-      "name": "Happy Trails [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 48234,
-      "globalRarity": 0.067,
-      "adjustedRarity": 0.2
+      "name": "Resonant Lunge",
+      "totalRedeemed": 29327,
+      "globalRarity": 4.054450942982311,
+      "adjustedRarity": 10.756229265870756
     },
     {
-      "name": "Shuffle and Scat [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 51904,
-      "globalRarity": 0.072,
-      "adjustedRarity": 0.2
+      "name": "Keyboard Warrior",
+      "totalRedeemed": 29821,
+      "globalRarity": 4.122746328321189,
+      "adjustedRarity": 10.937413064327473
     },
     {
-      "name": "One-Inch Punch [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 53241,
-      "globalRarity": 0.074,
-      "adjustedRarity": 0.2
+      "name": "Set and Spike",
+      "totalRedeemed": 30154,
+      "globalRarity": 4.16878350102938,
+      "adjustedRarity": 11.059547082315504
     },
     {
-      "name": "Clock Cleaner [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 58053,
-      "globalRarity": 0.081,
-      "adjustedRarity": 0.2
+      "name": "From Nowhere",
+      "totalRedeemed": 34524,
+      "globalRarity": 4.77293498671945,
+      "adjustedRarity": 12.662326837894158
     },
     {
-      "name": "Whirling Chaos [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 63651,
-      "globalRarity": 0.089,
-      "adjustedRarity": 0.2
+      "name": "Perfect Strike",
+      "totalRedeemed": 36715,
+      "globalRarity": 5.075840228171841,
+      "adjustedRarity": 13.465917328620208
     },
     {
-      "name": "Grand Slam [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 71582,
-      "globalRarity": 0.1,
-      "adjustedRarity": 0.3
+      "name": "Energy Overload",
+      "totalRedeemed": 36855,
+      "globalRarity": 5.095195195676786,
+      "adjustedRarity": 13.517264963810371
     },
     {
-      "name": "Perfect Ten [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 74159,
-      "globalRarity": 0.103,
-      "adjustedRarity": 0.3
+      "name": "I Am the Boss Now",
+      "totalRedeemed": 44876,
+      "globalRarity": 6.2040965839422455,
+      "adjustedRarity": 16.459117691383916
     },
     {
-      "name": "Phalanx Blast [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.123,
-      "adjustedRarity": 0.3
+      "name": "Overhead Heel Crush",
+      "totalRedeemed": 46837,
+      "globalRarity": 6.4752043787793685,
+      "adjustedRarity": 17.17835135286898
     },
     {
-      "name": "Captain's Clash [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.128,
-      "adjustedRarity": 0.3
+      "name": "Up My Sleeve",
+      "totalRedeemed": 47612,
+      "globalRarity": 6.58234794889603,
+      "adjustedRarity": 17.46259719052881
     },
     {
-      "name": "Ding! [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.138,
-      "adjustedRarity": 0.4
+      "name": "Happy Trails",
+      "totalRedeemed": 48365,
+      "globalRarity": 6.686450024119055,
+      "adjustedRarity": 17.73877411408733
     },
     {
-      "name": "Flash Kick [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.151,
-      "adjustedRarity": 0.4
+      "name": "Shuffle and Scat",
+      "totalRedeemed": 52028,
+      "globalRarity": 7.192858923909153,
+      "adjustedRarity": 19.082248311955663
     },
     {
-      "name": "This… Is… TRIALS! [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.153,
-      "adjustedRarity": 0.4
+      "name": "One-Inch Punch",
+      "totalRedeemed": 53358,
+      "globalRarity": 7.376731115206131,
+      "adjustedRarity": 19.57005084626221
     },
     {
-      "name": "Savage Haymaker [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.185,
-      "adjustedRarity": 0.5
+      "name": "Clock Cleaner",
+      "totalRedeemed": 58297,
+      "globalRarity": 8.059546718827013,
+      "adjustedRarity": 21.381522062006596
     },
     {
-      "name": "Give 'Em the Chair [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.202,
-      "adjustedRarity": 0.5
+      "name": "Whirling Chaos",
+      "totalRedeemed": 63708,
+      "globalRarity": 8.80761621289314,
+      "adjustedRarity": 23.366108162106393
     },
     {
-      "name": "Gladiator's Bladerush [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.205,
-      "adjustedRarity": 0.5
+      "name": "Grand Slam",
+      "totalRedeemed": 71712,
+      "globalRarity": 9.914167355104427,
+      "adjustedRarity": 26.301725819692557
     },
     {
-      "name": "Birthday Blade [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.242,
-      "adjustedRarity": 0.6
+      "name": "Perfect Ten",
+      "totalRedeemed": 74322,
+      "globalRarity": 10.274999249303761,
+      "adjustedRarity": 27.258992447166307
     },
     {
-      "name": "Flood of Anger [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.246,
-      "adjustedRarity": 0.7
+      "name": "Phalanx Blast",
+      "totalRedeemed": 89402,
+      "globalRarity": 12.359805749122128,
+      "adjustedRarity": 32.789866294792425
     },
     {
-      "name": "All Four Barrels [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.246,
-      "adjustedRarity": 0.7
+      "name": "Captain's Clash",
+      "totalRedeemed": 92563,
+      "globalRarity": 12.79681326543021,
+      "adjustedRarity": 33.94922254362174
     },
     {
-      "name": "Whirlwind [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.294,
-      "adjustedRarity": 0.8
+      "name": "Ding!",
+      "totalRedeemed": 99261,
+      "globalRarity": 13.722810210773936,
+      "adjustedRarity": 36.40584011864825
     },
     {
-      "name": "Fist of Fury [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.324,
-      "adjustedRarity": 0.9
+      "name": "Flash Kick",
+      "totalRedeemed": 108864,
+      "globalRarity": 15.050422731845275,
+      "adjustedRarity": 39.92792112387063
     },
     {
-      "name": "Iron Severance [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.328,
-      "adjustedRarity": 0.9
+      "name": "This… Is… TRIALS!",
+      "totalRedeemed": 109717,
+      "globalRarity": 15.168349783857545,
+      "adjustedRarity": 40.24077492970784
     },
     {
-      "name": "Golden Age Dropkick [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.544,
-      "adjustedRarity": 1.4
+      "name": "Savage Haymaker",
+      "totalRedeemed": 132857,
+      "globalRarity": 18.36744941288918,
+      "adjustedRarity": 48.72780548899618
     },
     {
-      "name": "From Orbit [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.798,
-      "adjustedRarity": 2.1
+      "name": "Give 'Em the Chair",
+      "totalRedeemed": 146097,
+      "globalRarity": 20.197876339785413,
+      "adjustedRarity": 53.583824702694436
     },
     {
-      "name": "Deadly Trap [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.949,
-      "adjustedRarity": 2.5
+      "name": "Gladiator's Bladerush",
+      "totalRedeemed": 148612,
+      "globalRarity": 20.54557450603496,
+      "adjustedRarity": 54.50624829200345
     },
     {
-      "name": "Dead and Buried [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.188,
-      "adjustedRarity": 3.1
+      "name": "Birthday Blade",
+      "totalRedeemed": 182178,
+      "globalRarity": 25.186066215113435,
+      "adjustedRarity": 66.81721059766777
     },
     {
-      "name": "Through the Heart [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.627,
-      "adjustedRarity": 4.3
+      "name": "Flood of Anger",
+      "totalRedeemed": 184963,
+      "globalRarity": 25.571091818693947,
+      "adjustedRarity": 67.83866176912923
     },
     {
-      "name": "Arcane Banishment [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.185,
-      "adjustedRarity": 5.8
+      "name": "All Four Barrels",
+      "totalRedeemed": 185890,
+      "globalRarity": 25.699249353530256,
+      "adjustedRarity": 68.17865646785266
     },
     {
-      "name": "Written in Stone [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.289,
-      "adjustedRarity": 6.1
+      "name": "Whirlwind",
+      "totalRedeemed": 211378,
+      "globalRarity": 29.222959437573405,
+      "adjustedRarity": 77.5268602230446
     },
     {
-      "name": "Valkyrian Impaler [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.361,
-      "adjustedRarity": 6.2
+      "name": "Fist of Fury",
+      "totalRedeemed": 241004,
+      "globalRarity": 33.31874706115556,
+      "adjustedRarity": 88.39275336692862
     },
     {
-      "name": "Stylish Draw [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.405,
-      "adjustedRarity": 6.4
+      "name": "Iron Severance",
+      "totalRedeemed": 243452,
+      "globalRarity": 33.65718249295631,
+      "adjustedRarity": 89.2906034451109
     },
     {
-      "name": "The Kellbreaker [Finisher] : Finish critically wounded combatants with a skull-smashing head butt.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.446,
-      "adjustedRarity": 6.5
+      "name": "Golden Age Dropkick",
+      "totalRedeemed": 398708,
+      "globalRarity": 55.12128845686881,
+      "adjustedRarity": 146.23366379571036
     },
     {
-      "name": "White Whale [Finisher] : Finish critically wounded opponents.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.609,
-      "adjustedRarity": 6.9
+      "name": "From Orbit",
+      "totalRedeemed": 577201,
+      "globalRarity": 79.7979042772985,
+      "adjustedRarity": 211.6993312814085
     },
     {
-      "name": "Shield Slam [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.636,
-      "adjustedRarity": 7
+      "name": "Dead and Buried",
+      "totalRedeemed": 876310,
+      "globalRarity": 121.14965410184573,
+      "adjustedRarity": 321.40318709636864
     },
     {
-      "name": "Swing of the Scythe [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.695,
-      "adjustedRarity": 7.1
+      "name": "Deadly Trap",
+      "totalRedeemed": 920579,
+      "globalRarity": 127.26983307667726,
+      "adjustedRarity": 337.6396761123209
     },
     {
-      "name": "Security Breach [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.718,
-      "adjustedRarity": 7.2
+      "name": "Through the Heart",
+      "totalRedeemed": 1175333,
+      "globalRarity": 162.4895144463542,
+      "adjustedRarity": 431.0755007925691
     },
     {
-      "name": "Like a Moth to a… [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.854,
-      "adjustedRarity": 7.5
+      "name": "Arcane Banishment",
+      "totalRedeemed": 1574630,
+      "globalRarity": 217.69223201651164,
+      "adjustedRarity": 577.5251914249009
     },
     {
-      "name": "Flintlock Fury [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.91,
-      "adjustedRarity": 7.7
+      "name": "Written in Stone",
+      "totalRedeemed": 1650077,
+      "globalRarity": 228.12276225469446,
+      "adjustedRarity": 605.1967987977024
     },
     {
-      "name": "The Final Slice [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.954,
-      "adjustedRarity": 7.8
+      "name": "Valkyrian Impaler",
+      "totalRedeemed": 1700072,
+      "globalRarity": 235.0345594004782,
+      "adjustedRarity": 623.5334060929324
     },
     {
-      "name": "Silencing Shot [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.007,
-      "adjustedRarity": 7.9
+      "name": "Stylish Draw",
+      "totalRedeemed": 1730276,
+      "globalRarity": 239.21025538990222,
+      "adjustedRarity": 634.6112916163872
     },
     {
-      "name": "Belgian Flying Kick [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.184,
-      "adjustedRarity": 8.4
+      "name": "The Kellbreaker",
+      "totalRedeemed": 1760601,
+      "globalRarity": 243.40267960124123,
+      "adjustedRarity": 645.7335561673993
     },
     {
-      "name": "Revolution Blade [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.193,
-      "adjustedRarity": 8.4
+      "name": "White Whale",
+      "totalRedeemed": 1878423,
+      "globalRarity": 259.6915437538672,
+      "adjustedRarity": 688.9469924057947
     },
     {
-      "name": "Wake Up! [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.219,
-      "adjustedRarity": 8.5
+      "name": "Shield Slam",
+      "totalRedeemed": 1897437,
+      "globalRarity": 262.3202248405745,
+      "adjustedRarity": 695.9207348022644
     },
     {
-      "name": "Censered [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.689,
-      "adjustedRarity": 9.8
+      "name": "Swing of the Scythe",
+      "totalRedeemed": 1944887,
+      "globalRarity": 268.880176327072,
+      "adjustedRarity": 713.3239154435018
     },
     {
-      "name": "Field Work [Finisher] : Finish critically wounded combatants.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.967,
-      "adjustedRarity": 10.5
+      "name": "Security Breach",
+      "totalRedeemed": 1954283,
+      "globalRarity": 270.17917114618956,
+      "adjustedRarity": 716.7700753024072
+    },
+    {
+      "name": "Like a Moth to a…",
+      "totalRedeemed": 2053426,
+      "globalRarity": 283.8856678843522,
+      "adjustedRarity": 753.1326366999667
+    },
+    {
+      "name": "Flintlock Fury",
+      "totalRedeemed": 2094550,
+      "globalRarity": 289.5710513391619,
+      "adjustedRarity": 768.2156377682542
+    },
+    {
+      "name": "The Final Slice",
+      "totalRedeemed": 2131641,
+      "globalRarity": 294.6988734800613,
+      "adjustedRarity": 781.8194601742423
+    },
+    {
+      "name": "Silencing Shot",
+      "totalRedeemed": 2164657,
+      "globalRarity": 299.26332781679895,
+      "adjustedRarity": 793.9286996273739
+    },
+    {
+      "name": "Belgian Flying Kick",
+      "totalRedeemed": 2290587,
+      "globalRarity": 316.673121087497,
+      "adjustedRarity": 840.1158974809252
+    },
+    {
+      "name": "Revolution Blade",
+      "totalRedeemed": 2295753,
+      "globalRarity": 317.3873193884295,
+      "adjustedRarity": 842.0106252194422
+    },
+    {
+      "name": "Wake Up!",
+      "totalRedeemed": 2316989,
+      "globalRarity": 320.3231914593939,
+      "adjustedRarity": 849.7993279401445
+    },
+    {
+      "name": "Censered",
+      "totalRedeemed": 2654038,
+      "globalRarity": 366.9201374777812,
+      "adjustedRarity": 973.4183928916387
+    },
+    {
+      "name": "Field Work",
+      "totalRedeemed": 2851485,
+      "globalRarity": 394.21713939884467,
+      "adjustedRarity": 1045.8357966444394
     }
   ]
 }

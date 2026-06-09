@@ -1,7 +1,7 @@
 {
   "name": "destinyrarity",
   "version": "1.0.0",
-  "description": "Destiny 2 Rarity Checker - See your rarest items from warmind.io data",
+  "description": "Destiny 2 Rarity Checker - See your rarest items from Charlemagne (warmind.io) data",
   "type": "module",
   "scripts": {
     "scrape": "node scripts/scrape-warmind.js",

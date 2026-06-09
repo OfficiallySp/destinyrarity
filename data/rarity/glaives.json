@@ -3,147 +3,147 @@
   "items": [
     {
       "name": "Forthcoming Deviance (Adept)",
-      "totalRedeemed": 63113,
-      "globalRarity": 0.088,
-      "adjustedRarity": 0.2
+      "totalRedeemed": 63998,
+      "globalRarity": 8.847708645581957,
+      "adjustedRarity": 23.472471120714587
     },
     {
       "name": "Unexpected Resurgence (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.17,
-      "adjustedRarity": 0.4
+      "totalRedeemed": 122153,
+      "globalRarity": 16.88762389736824,
+      "adjustedRarity": 44.80191200988545
     },
     {
       "name": "Greasy Luck (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.243,
-      "adjustedRarity": 0.6
+      "totalRedeemed": 174963,
+      "globalRarity": 24.188594139769297,
+      "adjustedRarity": 64.17097354126045
     },
     {
       "name": "Refusal of the Call (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.295,
-      "adjustedRarity": 0.8
+      "totalRedeemed": 212077,
+      "globalRarity": 29.319596025330235,
+      "adjustedRarity": 77.78323163017262
     },
     {
       "name": "The Heron",
-      "totalRedeemed": 0,
-      "globalRarity": 0.392,
-      "adjustedRarity": 1
+      "totalRedeemed": 285598,
+      "globalRarity": 39.483857210552124,
+      "adjustedRarity": 104.74844225028666
     },
     {
       "name": "Rake Angle (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.414,
-      "adjustedRarity": 1.1
+      "totalRedeemed": 297806,
+      "globalRarity": 41.17161037698334,
+      "adjustedRarity": 109.22595603886884
     },
     {
       "name": "Lubrae's Ruin (Adept)",
-      "totalRedeemed": 0,
-      "globalRarity": 0.462,
-      "adjustedRarity": 1.2
+      "totalRedeemed": 333198,
+      "globalRarity": 46.06454616223345,
+      "adjustedRarity": 122.206638214942
     },
     {
       "name": "Forthcoming Deviance",
-      "totalRedeemed": 0,
-      "globalRarity": 0.535,
-      "adjustedRarity": 1.4
+      "totalRedeemed": 388822,
+      "globalRarity": 53.7545512514839,
+      "adjustedRarity": 142.60778721363928
     },
     {
       "name": "Edge of Action",
-      "totalRedeemed": 0,
-      "globalRarity": 0.766,
-      "adjustedRarity": 2
-    },
-    {
-      "name": "Rake Angle",
-      "totalRedeemed": 0,
-      "globalRarity": 0.833,
-      "adjustedRarity": 2.2
+      "totalRedeemed": 553980,
+      "globalRarity": 76.58760641706759,
+      "adjustedRarity": 203.18259244747438
     },
     {
       "name": "Edge of Intent",
-      "totalRedeemed": 0,
-      "globalRarity": 0.835,
-      "adjustedRarity": 2.2
+      "totalRedeemed": 604206,
+      "globalRarity": 83.53133925923451,
+      "adjustedRarity": 221.60392334076812
+    },
+    {
+      "name": "Rake Angle",
+      "totalRedeemed": 605459,
+      "globalRarity": 83.70456621840377,
+      "adjustedRarity": 222.06348467572008
     },
     {
       "name": "Edge of Concurrence",
-      "totalRedeemed": 0,
-      "globalRarity": 0.861,
-      "adjustedRarity": 2.3
+      "totalRedeemed": 622303,
+      "globalRarity": 86.03324530878444,
+      "adjustedRarity": 228.2413387267422
     },
     {
       "name": "Unexpected Resurgence",
-      "totalRedeemed": 0,
-      "globalRarity": 1.031,
-      "adjustedRarity": 2.7
+      "totalRedeemed": 740583,
+      "globalRarity": 102.38542785510518,
+      "adjustedRarity": 271.62275508597406
     },
     {
       "name": "Backfang",
-      "totalRedeemed": 0,
-      "globalRarity": 1.061,
-      "adjustedRarity": 2.8
+      "totalRedeemed": 783041,
+      "globalRarity": 108.25523650028343,
+      "adjustedRarity": 287.1950257638593
     },
     {
       "name": "Lubrae's Ruin",
-      "totalRedeemed": 0,
-      "globalRarity": 1.639,
-      "adjustedRarity": 4.3
+      "totalRedeemed": 1181512,
+      "globalRarity": 163.3437597621617,
+      "adjustedRarity": 433.3417653485692
     },
     {
       "name": "Refusal of the Call",
-      "totalRedeemed": 0,
-      "globalRarity": 1.679,
-      "adjustedRarity": 4.4
+      "totalRedeemed": 1220618,
+      "globalRarity": 168.75015518536446,
+      "adjustedRarity": 447.6846269324728
     },
     {
       "name": "Greasy Luck",
-      "totalRedeemed": 0,
-      "globalRarity": 2.079,
-      "adjustedRarity": 5.5
-    },
-    {
-      "name": "Winterbite",
-      "totalRedeemed": 0,
-      "globalRarity": 2.346,
-      "adjustedRarity": 6.2
+      "totalRedeemed": 1499114,
+      "globalRarity": 207.2521625443443,
+      "adjustedRarity": 549.828277003327
     },
     {
       "name": "Albedo Wing",
-      "totalRedeemed": 0,
-      "globalRarity": 2.357,
-      "adjustedRarity": 6.2
+      "totalRedeemed": 1693235,
+      "globalRarity": 234.08934573739742,
+      "adjustedRarity": 621.0258076515386
+    },
+    {
+      "name": "Winterbite",
+      "totalRedeemed": 1694345,
+      "globalRarity": 234.24280297975807,
+      "adjustedRarity": 621.4329210448319
     },
     {
       "name": "Vexcalibur",
-      "totalRedeemed": 0,
-      "globalRarity": 2.533,
-      "adjustedRarity": 6.7
+      "totalRedeemed": 1834441,
+      "globalRarity": 253.6110424624208,
+      "adjustedRarity": 672.8157660419823
     },
     {
       "name": "Ecliptic Distaff",
-      "totalRedeemed": 0,
-      "globalRarity": 2.721,
-      "adjustedRarity": 7.2
+      "totalRedeemed": 1976016,
+      "globalRarity": 273.1837533517965,
+      "adjustedRarity": 724.7410621280345
     },
     {
       "name": "Nezarec's Whisper",
-      "totalRedeemed": 0,
-      "globalRarity": 3.843,
-      "adjustedRarity": 10.2
+      "totalRedeemed": 2762097,
+      "globalRarity": 381.8592691464731,
+      "adjustedRarity": 1013.051065113166
     },
     {
       "name": "Judgment of Kelgorath",
-      "totalRedeemed": 0,
-      "globalRarity": 6.785,
-      "adjustedRarity": 17.9
+      "totalRedeemed": 4918299,
+      "globalRarity": 679.9536951757412,
+      "adjustedRarity": 1803.8787343438767
     },
     {
       "name": "The Enigma",
-      "totalRedeemed": 0,
-      "globalRarity": 10.896,
-      "adjustedRarity": 28.8
+      "totalRedeemed": 7868561,
+      "globalRarity": 1087.8267318976998,
+      "adjustedRarity": 2885.9428549967356
     }
   ]
 }

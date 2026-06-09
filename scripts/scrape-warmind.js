@@ -1,11 +1,10 @@
 #!/usr/bin/env node
 /**
- * Scrapes warmind.io analytics pages for item rarity data.
+ * Fetches item rarity data from the Charlemagne (warmind.io) API.
  * Run: npm run scrape
  * Output: data/rarity/*.json
  */
 
-import { load } from 'cheerio';
 import { writeFileSync, mkdirSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -13,18 +12,42 @@ import { fileURLToPath } from 'url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = join(__dirname, '..', 'data', 'rarity');
 
-const BASE_URL = 'https://warmind.io';
-
-// Rate limiting delays (ms) to avoid being blocked
-const DELAY_BETWEEN_PAGES = 2000;   // 2s between pagination pages
-const DELAY_BETWEEN_CATEGORIES = 3000;  // 3s between categories
-const DELAY_BEFORE_FIRST_FETCH = 1000;  // 1s before first request of each category
+const API_BASE = 'https://api.warmind.io/in';
+const DELAY_BETWEEN_REQUESTS = 500;
 
 function delay(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
-// Item categories from warmind.io/analytics/item/
+function slugToTypeName(slug) {
+  return slug
+    .replace(/-/g, ' ')
+    .replace(/\w\S*/g, (word) => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase());
+}
+
+function typeNameToSlug(typeName) {
+  return typeName.trim().replace(/\s+/g, '-').toLowerCase();
+}
+
+// Slugs that do not resolve via the default title-case mapping.
+const CATEGORY_API_TYPES = {
+  bows: ['Combat Bows'],
+  sparrows: ['Vehicles'],
+  vehicles: ['Vehicles'],
+  'armor-mods': [
+    'General Armor Mods',
+    'Helmet Armor Mods',
+    'Arms Armor Mods',
+    'Chest Armor Mods',
+    'Leg Armor Mods',
+    'Class Item Armor Mods',
+    'Activity Ghost Mods',
+    'Economic Ghost Mods',
+    'Experience Ghost Mods',
+    'Tracking Ghost Mods',
+  ],
+};
+
 const ITEM_CATEGORIES = [
   'emblems',
   'shaders',
@@ -60,121 +83,95 @@ const ITEM_CATEGORIES = [
   'swords',
 ];
 
-async function fetchPage(url) {
-  const res = await fetch(url, {
-    headers: { 'User-Agent': 'DestinyRarity/1.0 (scraper)' },
+async function fetchApi(path) {
+  const res = await fetch(`${API_BASE}${path}`, {
+    headers: { Accept: 'application/json', 'User-Agent': 'DestinyRarity/1.1' },
   });
-  if (!res.ok) throw new Error(`HTTP ${res.status}: ${url}`);
-  return res.text();
+  if (!res.ok) throw new Error(`HTTP ${res.status}: ${path}`);
+  const json = await res.json();
+  if (json.errorCode !== 0) {
+    throw new Error(json.errorMessage || `API error ${json.errorCode}`);
+  }
+  return json.response;
 }
 
-function parseItemPage(html, category) {
-  const $ = load(html);
-  const items = [];
+function parseItem(entry) {
+  const common = entry?.rarityCommon;
+  if (!common?.name) return null;
 
-  // warmind.io structure: each item is in a .panel with panel-heading (h5) and panel-body (stats)
-  $('.panel').each((_, el) => {
-    const $panel = $(el);
-    const $h5 = $panel.find('h5[id$="-name"]').first();
-    const name = $h5.text().trim().replace(/\s+/g, ' ');
-    if (!name || name === 'Next Page' || name.startsWith('Page:')) return;
-
-    const text = $panel.text();
-
-    const redeemedMatch = text.match(/Total Redeemed:\s*([\d,]+)/i) || text.match(/Total Earned:\s*([\d,]+)/i);
-    const globalMatch = text.match(/Global Rarity:\s*([\d.]+)%/i);
-    const adjustedMatch = text.match(/Adjusted Rarity:\s*([\d.]+)%/i);
-
-    const totalRedeemed = redeemedMatch ? parseInt(redeemedMatch[1].replace(/,/g, ''), 10) : 0;
-    const globalRarity = globalMatch ? parseFloat(globalMatch[1]) : 0;
-    const adjustedRarity = adjustedMatch ? parseFloat(adjustedMatch[1]) : 0;
-
-    items.push({
-      name,
-      totalRedeemed,
-      globalRarity,
-      adjustedRarity,
-    });
-  });
-
-  return items;
+  return {
+    name: common.name,
+    totalRedeemed: common.cardinality ?? 0,
+    globalRarity: (common.globalRarity?.floatValue ?? 0) * 100,
+    adjustedRarity: (common.adjustedRarity?.floatValue ?? 0) * 100,
+  };
 }
 
-function parseTitlePage(html) {
-  const $ = load(html);
-  const items = [];
+function parseTitle(entry) {
+  if (!entry?.title) return null;
 
-  // Titles use .panel with h4 for name
-  $('.panel').each((_, el) => {
-    const $panel = $(el);
-    const $h4 = $panel.find('h4').first();
-    const name = $h4.text().trim();
-    if (!name) return;
-
-    const text = $panel.text();
-
-    const earnedMatch = text.match(/Total Earned:\s*([\d,]+)/i);
-    const globalMatch = text.match(/Global Rarity:\s*([\d.]+)%/i);
-    const adjustedMatch = text.match(/Adjusted Rarity:\s*([\d.]+)%/i);
-
-    const totalRedeemed = earnedMatch ? parseInt(earnedMatch[1].replace(/,/g, ''), 10) : 0;
-    const globalRarity = globalMatch ? parseFloat(globalMatch[1]) : 0;
-    const adjustedRarity = adjustedMatch ? parseFloat(adjustedMatch[1]) : 0;
-
-    items.push({
-      name,
-      totalRedeemed,
-      globalRarity,
-      adjustedRarity,
-    });
-  });
-
-  return items;
+  return {
+    name: entry.title,
+    totalRedeemed: entry.totalEarned ?? 0,
+    globalRarity: (entry.percentTotalPop ?? 0) * 100,
+    adjustedRarity: (entry.percentMinOnePop ?? 0) * 100,
+  };
 }
 
-async function scrapeCategory(category, isTitle = false) {
+async function fetchItemTypes() {
+  const response = await fetchApi('/rarity/itemTypes');
+  const types = (response?.types || []).filter(Boolean);
+  const bySlug = new Map(types.map((type) => [typeNameToSlug(type), type]));
+  return { types, bySlug };
+}
+
+async function fetchCategoryItems(apiTypes) {
   const allItems = [];
-  let page = 1;
-  let hasMore = true;
 
-  while (hasMore) {
-    const url = isTitle
-      ? `${BASE_URL}/analytics/title${page > 1 ? `?page=${page}` : ''}`
-      : `${BASE_URL}/analytics/item/${category}${page > 1 ? `?page=${page}` : ''}`;
-
-    // Delay before each request to avoid rate limiting
-    if (page === 1) {
-      await delay(DELAY_BEFORE_FIRST_FETCH);
-    } else {
-      await delay(DELAY_BETWEEN_PAGES);
-    }
-
-    console.log(`  Fetching ${url}...`);
-    const html = await fetchPage(url);
-
-    const items = isTitle ? parseTitlePage(html) : parseItemPage(html, category);
-
-    if (items.length === 0) {
-      hasMore = false;
-      break;
-    }
-
-    // Filter out "Next Page" and pagination items
-    const validItems = items.filter(
-      (i) => i.name && !i.name.startsWith('Page') && i.name !== 'Next Page'
-    );
-    allItems.push(...validItems);
-
-    // Check if there's a next page
-    const hasNextPage = html.includes('Next Page') || html.includes('page=' + (page + 1));
-    if (!hasNextPage || validItems.length < 10) {
-      hasMore = false;
-    } else {
-      page++;
+  for (const apiType of apiTypes) {
+    await delay(DELAY_BETWEEN_REQUESTS);
+    const response = await fetchApi(`/rarity/items/${encodeURIComponent(apiType)}`);
+    const itemList = Array.isArray(response?.itemList) ? response.itemList : [];
+    for (const entry of itemList) {
+      const item = parseItem(entry);
+      if (item) allItems.push(item);
     }
   }
 
-  return allItems;
+  return Array.from(new Map(allItems.map((item) => [item.name, item])).values())
+    .sort((a, b) => a.globalRarity - b.globalRarity);
+}
+
+function resolveApiTypes(category, typeIndex) {
+  if (CATEGORY_API_TYPES[category]) {
+    return CATEGORY_API_TYPES[category];
+  }
+
+  const direct = typeIndex.bySlug.get(category);
+  if (direct) return [direct];
+
+  const fallback = slugToTypeName(category);
+  if (typeIndex.types.includes(fallback)) return [fallback];
+
+  throw new Error(`No API item type found for category "${category}"`);
+}
+
+async function scrapeTitles() {
+  const response = await fetchApi('/sealAnalytics');
+  const seals = Object.values(response?.sealAnalytics || {});
+  const byName = new Map();
+
+  for (const seal of seals) {
+    const title = parseTitle(seal);
+    if (!title) continue;
+
+    const existing = byName.get(title.name);
+    if (!existing || title.globalRarity < existing.globalRarity) {
+      byName.set(title.name, title);
+    }
+  }
+
+  return [...byName.values()].sort((a, b) => a.globalRarity - b.globalRarity);
 }
 
 async function main() {
@@ -182,39 +179,37 @@ async function main() {
     mkdirSync(DATA_DIR, { recursive: true });
   }
 
-  // Scrape titles (different URL structure)
-  console.log('Scraping titles...');
-  const titles = await scrapeCategory('title', true);
-  const titlesUnique = Array.from(
-    new Map(titles.map((t) => [t.name, t])).values()
-  ).sort((a, b) => a.globalRarity - b.globalRarity);
+  console.log('Fetching item type index...');
+  const typeIndex = await fetchItemTypes();
+  console.log(`  ${typeIndex.types.length} item types available`);
+
+  console.log('Fetching titles...');
+  const titles = await scrapeTitles();
   writeFileSync(
     join(DATA_DIR, 'titles.json'),
-    JSON.stringify({ category: 'titles', items: titlesUnique }, null, 2)
+    JSON.stringify({ category: 'titles', items: titles }, null, 2)
   );
-  console.log(`  Saved ${titlesUnique.length} titles`);
+  console.log(`  Saved ${titles.length} titles`);
 
-  // Scrape item categories
   for (const category of ITEM_CATEGORIES) {
-    console.log(`Scraping ${category}...`);
+    console.log(`Fetching ${category}...`);
     try {
-      const items = await scrapeCategory(category);
-      const unique = Array.from(
-        new Map(items.map((i) => [i.name, i])).values()
-      ).sort((a, b) => a.globalRarity - b.globalRarity);
-
+      const apiTypes = resolveApiTypes(category, typeIndex);
+      const items = await fetchCategoryItems(apiTypes);
       writeFileSync(
         join(DATA_DIR, `${category}.json`),
-        JSON.stringify({ category, items: unique }, null, 2)
+        JSON.stringify({ category, items }, null, 2)
       );
-      console.log(`  Saved ${unique.length} items`);
+      console.log(`  Saved ${items.length} items (${apiTypes.join(', ')})`);
     } catch (err) {
-      console.error(`  Error scraping ${category}:`, err.message);
+      console.error(`  Error fetching ${category}:`, err.message);
     }
-    await delay(DELAY_BETWEEN_CATEGORIES);
   }
 
   console.log('Done!');
 }
 
-main().catch(console.error);
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});

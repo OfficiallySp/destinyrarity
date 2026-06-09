@@ -2,1102 +2,1138 @@
   "category": "transmat-effects",
   "items": [
     {
-      "name": "Animating Love Modifications for your ship's transmat systems, so you'll always arrive in style.",
+      "name": "War Beast Entrance",
+      "totalRedeemed": 2,
+      "globalRarity": 0.00027649953578492937,
+      "adjustedRarity": 0.000733537645573755
+    },
+    {
+      "name": "Starting Line Entrance",
+      "totalRedeemed": 9,
+      "globalRarity": 0.001244247911032182,
+      "adjustedRarity": 0.0033009194050818975
+    },
+    {
+      "name": "Lucent Flutter Entrance",
+      "totalRedeemed": 393,
+      "globalRarity": 0.05433215878173862,
+      "adjustedRarity": 0.14414014735524286
+    },
+    {
+      "name": "Animating Love",
       "totalRedeemed": 461,
-      "globalRarity": 0.001,
-      "adjustedRarity": 0
+      "globalRarity": 0.06373314299842622,
+      "adjustedRarity": 0.16908042730475054
     },
     {
-      "name": "Elemental Contestant Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 23718,
-      "globalRarity": 0.033,
-      "adjustedRarity": 0.1
+      "name": "Ensign Entrance",
+      "totalRedeemed": 476,
+      "globalRarity": 0.0658068895168132,
+      "adjustedRarity": 0.17458195964655368
     },
     {
-      "name": "Luminous Cocoon Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 24077,
-      "globalRarity": 0.034,
-      "adjustedRarity": 0.1
+      "name": "Excalibur Entrance",
+      "totalRedeemed": 1511,
+      "globalRarity": 0.20889539928551415,
+      "adjustedRarity": 0.5541876912309719
     },
     {
-      "name": "Shattered Records Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 27064,
-      "globalRarity": 0.038,
-      "adjustedRarity": 0.1
+      "name": "Luminous Cocoon",
+      "totalRedeemed": 24139,
+      "globalRarity": 3.337211147156205,
+      "adjustedRarity": 8.853432613252437
     },
     {
-      "name": "Peppermint Burst Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 28862,
-      "globalRarity": 0.04,
-      "adjustedRarity": 0.1
+      "name": "Shattered Records Entrance",
+      "totalRedeemed": 27136,
+      "globalRarity": 3.7515457015299223,
+      "adjustedRarity": 9.952638775144708
     },
     {
-      "name": "Celebratory Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 38385,
-      "globalRarity": 0.053,
-      "adjustedRarity": 0.1
+      "name": "Peppermint Burst",
+      "totalRedeemed": 29004,
+      "globalRarity": 4.009796267953045,
+      "adjustedRarity": 10.637762936110596
     },
     {
-      "name": "Pyrotechnic Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 51497,
-      "globalRarity": 0.072,
-      "adjustedRarity": 0.2
+      "name": "Elemental Contestant Entrance",
+      "totalRedeemed": 32038,
+      "globalRarity": 4.429246063738783,
+      "adjustedRarity": 11.750539544445981
     },
     {
-      "name": "Proud Sigil Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 52762,
-      "globalRarity": 0.073,
-      "adjustedRarity": 0.2
+      "name": "Celebratory Entrance",
+      "totalRedeemed": 38449,
+      "globalRarity": 5.315565325697374,
+      "adjustedRarity": 14.10189446733265
     },
     {
-      "name": "Hallowed Geometry Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 56826,
-      "globalRarity": 0.079,
-      "adjustedRarity": 0.2
+      "name": "Pyrotechnic Entrance",
+      "totalRedeemed": 51542,
+      "globalRarity": 7.125669536713415,
+      "adjustedRarity": 18.90399866408124
     },
     {
-      "name": "Stalwart Sigil Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 57090,
-      "globalRarity": 0.079,
-      "adjustedRarity": 0.2
+      "name": "Proud Sigil",
+      "totalRedeemed": 52842,
+      "globalRarity": 7.305394234973618,
+      "adjustedRarity": 19.38079813370418
     },
     {
-      "name": "Cellular Division Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 57958,
-      "globalRarity": 0.081,
-      "adjustedRarity": 0.2
+      "name": "Hallowed Geometry",
+      "totalRedeemed": 56888,
+      "globalRarity": 7.864752795866531,
+      "adjustedRarity": 20.864744790699884
     },
     {
-      "name": "Witchfire Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 64298,
-      "globalRarity": 0.09,
-      "adjustedRarity": 0.2
+      "name": "Cellular Division",
+      "totalRedeemed": 57995,
+      "globalRarity": 8.01779528892349,
+      "adjustedRarity": 21.27075787752496
     },
     {
-      "name": "Surprising Gift Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 71158,
-      "globalRarity": 0.099,
-      "adjustedRarity": 0.3
+      "name": "Stalwart Sigil",
+      "totalRedeemed": 64643,
+      "globalRarity": 8.936879745872595,
+      "adjustedRarity": 23.70903701141212
     },
     {
-      "name": "Sugar Rush Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 73697,
-      "globalRarity": 0.103,
-      "adjustedRarity": 0.3
+      "name": "Surprising Gift",
+      "totalRedeemed": 71328,
+      "globalRarity": 9.86107944423372,
+      "adjustedRarity": 26.1608865917424
     },
     {
-      "name": "Festive Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 73846,
-      "globalRarity": 0.103,
-      "adjustedRarity": 0.3
+      "name": "Sugar Rush",
+      "totalRedeemed": 73844,
+      "globalRarity": 10.20891586025116,
+      "adjustedRarity": 27.08367694987418
     },
     {
-      "name": "Confetti Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.118,
-      "adjustedRarity": 0.3
+      "name": "Festive Entrance",
+      "totalRedeemed": 74000,
+      "globalRarity": 10.230482824042387,
+      "adjustedRarity": 27.140892886228933
     },
     {
-      "name": "Piled High Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.128,
-      "adjustedRarity": 0.3
+      "name": "Witchfire Entrance",
+      "totalRedeemed": 87830,
+      "globalRarity": 12.142477113995174,
+      "adjustedRarity": 32.21330570537145
     },
     {
-      "name": "Gift Stack Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.144,
-      "adjustedRarity": 0.4
+      "name": "Piled High",
+      "totalRedeemed": 91856,
+      "globalRarity": 12.699070679530235,
+      "adjustedRarity": 33.689916985911424
     },
     {
-      "name": "Colorful Motes Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.155,
-      "adjustedRarity": 0.4
+      "name": "Gift Stack Entrance",
+      "totalRedeemed": 103821,
+      "globalRarity": 14.353229152363575,
+      "adjustedRarity": 38.078305950556405
     },
     {
-      "name": "Baroque Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.169,
-      "adjustedRarity": 0.4
+      "name": "Confetti Entrance",
+      "totalRedeemed": 114261,
+      "globalRarity": 15.796556729160907,
+      "adjustedRarity": 41.907372460451406
     },
     {
-      "name": "Peach Spotlight Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.205,
-      "adjustedRarity": 0.5
+      "name": "Colorful Motes Effects",
+      "totalRedeemed": 117496,
+      "globalRarity": 16.243794728293032,
+      "adjustedRarity": 43.09386960216696
     },
     {
-      "name": "Contender's Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.214,
-      "adjustedRarity": 0.6
+      "name": "Baroque Entrance",
+      "totalRedeemed": 121329,
+      "globalRarity": 16.77370608862485,
+      "adjustedRarity": 44.49969449990906
     },
     {
-      "name": "Pumpkin Bomb Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.216,
-      "adjustedRarity": 0.6
+      "name": "Peach Spotlight Effects",
+      "totalRedeemed": 147341,
+      "globalRarity": 20.36985905104364,
+      "adjustedRarity": 54.04008511824132
     },
     {
-      "name": "Renewal Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.237,
-      "adjustedRarity": 0.6
+      "name": "Pumpkin Bomb",
+      "totalRedeemed": 155531,
+      "globalRarity": 21.502124650082926,
+      "adjustedRarity": 57.043921776865844
     },
     {
-      "name": "Highly Commendable Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.244,
-      "adjustedRarity": 0.6
+      "name": "Contender's Entrance",
+      "totalRedeemed": 161659,
+      "globalRarity": 22.34931922772795,
+      "adjustedRarity": 59.29148112290383
     },
     {
-      "name": "Reanimated Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.254,
-      "adjustedRarity": 0.7
+      "name": "Highly Commendable",
+      "totalRedeemed": 181177,
+      "globalRarity": 25.04767819745307,
+      "adjustedRarity": 66.45007500605811
     },
     {
-      "name": "Phosphene Stimulus Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.274,
-      "adjustedRarity": 0.7
+      "name": "Reanimated Entrance",
+      "totalRedeemed": 182653,
+      "globalRarity": 25.251734854862352,
+      "adjustedRarity": 66.99142578849153
     },
     {
-      "name": "Inflorescence Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.28,
-      "adjustedRarity": 0.7
+      "name": "Renewal Entrance",
+      "totalRedeemed": 188294,
+      "globalRarity": 26.031601795543747,
+      "adjustedRarity": 69.0603687178323
     },
     {
-      "name": "Beach Ball Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.286,
-      "adjustedRarity": 0.8
+      "name": "Phosphene Stimulus",
+      "totalRedeemed": 202924,
+      "globalRarity": 28.05419589981051,
+      "adjustedRarity": 74.42619659520433
     },
     {
-      "name": "Wireframe Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.29,
-      "adjustedRarity": 0.8
+      "name": "Beach Ball Effects",
+      "totalRedeemed": 205765,
+      "globalRarity": 28.446963490392996,
+      "adjustedRarity": 75.46818682074185
     },
     {
-      "name": "Orrery Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.314,
-      "adjustedRarity": 0.8
+      "name": "Inflorescence",
+      "totalRedeemed": 207183,
+      "globalRarity": 28.64300166126451,
+      "adjustedRarity": 75.98826501145363
     },
     {
-      "name": "Sweet Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.333,
-      "adjustedRarity": 0.9
+      "name": "Victorious Entrance",
+      "totalRedeemed": 207387,
+      "globalRarity": 28.671204613914576,
+      "adjustedRarity": 76.06308585130216
     },
     {
-      "name": "Worm God Incarnation Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.338,
-      "adjustedRarity": 0.9
+      "name": "Orrery Entrance",
+      "totalRedeemed": 237451,
+      "globalRarity": 32.82754563583363,
+      "adjustedRarity": 87.08962373956683
     },
     {
-      "name": "Cookie Crisis Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.353,
-      "adjustedRarity": 0.9
+      "name": "Sweet Entrance",
+      "totalRedeemed": 239558,
+      "globalRarity": 33.118837896783056,
+      "adjustedRarity": 87.86240564917881
     },
     {
-      "name": "Sandcastle Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.361,
-      "adjustedRarity": 1
+      "name": "Worm God Incarnation",
+      "totalRedeemed": 243028,
+      "globalRarity": 33.59856459136991,
+      "adjustedRarity": 89.13509346424927
     },
     {
-      "name": "Looming Moon Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.364,
-      "adjustedRarity": 1
+      "name": "Cookie Crisis",
+      "totalRedeemed": 254968,
+      "globalRarity": 35.249266820005936,
+      "adjustedRarity": 93.51431320832458
     },
     {
-      "name": "Snowy Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.422,
-      "adjustedRarity": 1.1
+      "name": "Sandcastle Effects",
+      "totalRedeemed": 259617,
+      "globalRarity": 35.89198999093801,
+      "adjustedRarity": 95.21942146546077
     },
     {
-      "name": "Loot Chest Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.428,
-      "adjustedRarity": 1.1
+      "name": "Looming Moon",
+      "totalRedeemed": 261421,
+      "globalRarity": 36.141392572216006,
+      "adjustedRarity": 95.88107242176831
     },
     {
-      "name": "Crystalline Breakout Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.443,
-      "adjustedRarity": 1.2
+      "name": "Snowy Entrance",
+      "totalRedeemed": 303385,
+      "globalRarity": 41.9429058320554,
+      "adjustedRarity": 111.27215930119682
     },
     {
-      "name": "Burning Determination Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.451,
-      "adjustedRarity": 1.2
+      "name": "Loot Chest Effects",
+      "totalRedeemed": 307855,
+      "globalRarity": 42.56088229453472,
+      "adjustedRarity": 112.91161593905417
     },
     {
-      "name": "Lattice Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.531,
-      "adjustedRarity": 1.4
+      "name": "Crystalline Breakout",
+      "totalRedeemed": 323009,
+      "globalRarity": 44.65591927717712,
+      "adjustedRarity": 118.4696306795665
     },
     {
-      "name": "Bones Akimbo Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.557,
-      "adjustedRarity": 1.5
+      "name": "Wireframe Entrance",
+      "totalRedeemed": 345669,
+      "globalRarity": 47.788659017620375,
+      "adjustedRarity": 126.78061220391716
     },
     {
-      "name": "Capsule Gang Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.559,
-      "adjustedRarity": 1.5
+      "name": "Burning Determination",
+      "totalRedeemed": 345881,
+      "globalRarity": 47.81796796841358,
+      "adjustedRarity": 126.85836719434798
     },
     {
-      "name": "Vex Incursion Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.56,
-      "adjustedRarity": 1.5
+      "name": "Lattice Entrance",
+      "totalRedeemed": 385704,
+      "globalRarity": 53.32348847519519,
+      "adjustedRarity": 141.4642020241898
     },
     {
-      "name": "Shadow Legion Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.627,
-      "adjustedRarity": 1.7
+      "name": "Bones Akimbo",
+      "totalRedeemed": 401043,
+      "globalRarity": 55.444101664897715,
+      "adjustedRarity": 147.0900689969177
     },
     {
-      "name": "Paraversal Singularity Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.629,
-      "adjustedRarity": 1.7
+      "name": "Vex Incursion Entrance",
+      "totalRedeemed": 406924,
+      "globalRarity": 56.25714854987329,
+      "adjustedRarity": 149.24703644372732
     },
     {
-      "name": "Repair Data Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.63,
-      "adjustedRarity": 1.7
+      "name": "Capsule Gang Entrance",
+      "totalRedeemed": 407858,
+      "globalRarity": 56.38627383308486,
+      "adjustedRarity": 149.5895985242103
     },
     {
-      "name": "Ghost Purple Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.633,
-      "adjustedRarity": 1.7
+      "name": "Paraversal Singularity",
+      "totalRedeemed": 452267,
+      "globalRarity": 62.52580777542133,
+      "adjustedRarity": 165.87743517535273
     },
     {
-      "name": "Dreaming Shimmer Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.649,
-      "adjustedRarity": 1.7
+      "name": "Shadow Legion Entrance",
+      "totalRedeemed": 460424,
+      "globalRarity": 63.653511132120165,
+      "adjustedRarity": 168.8691684628253
     },
     {
-      "name": "Unspun Fate Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.651,
-      "adjustedRarity": 1.7
+      "name": "Ghost Purple",
+      "totalRedeemed": 460502,
+      "globalRarity": 63.66429461401577,
+      "adjustedRarity": 168.89777643100265
     },
     {
-      "name": "Swirling Leaf Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.661,
-      "adjustedRarity": 1.7
+      "name": "Repair Data",
+      "totalRedeemed": 462708,
+      "globalRarity": 63.96927360198655,
+      "adjustedRarity": 169.70686845407053
     },
     {
-      "name": "Signal Intercept Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.672,
-      "adjustedRarity": 1.8
+      "name": "Dreaming Shimmer",
+      "totalRedeemed": 470390,
+      "globalRarity": 65.03130831893647,
+      "adjustedRarity": 172.5243865507193
     },
     {
-      "name": "Umbral Harbinger Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.698,
-      "adjustedRarity": 1.8
+      "name": "Unspun Fate",
+      "totalRedeemed": 477690,
+      "globalRarity": 66.04053162455146,
+      "adjustedRarity": 175.2017989570635
     },
     {
-      "name": "Spring Breeze Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.704,
-      "adjustedRarity": 1.9
+      "name": "Swirling Leaf Entrance",
+      "totalRedeemed": 478639,
+      "globalRarity": 66.17173065428142,
+      "adjustedRarity": 175.54986256988826
     },
     {
-      "name": "Resurrected Shadow Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.735,
-      "adjustedRarity": 1.9
+      "name": "Signal Intercept",
+      "totalRedeemed": 488487,
+      "globalRarity": 67.5332143684864,
+      "adjustedRarity": 179.16180193669342
     },
     {
-      "name": "Cyber Class Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.737,
-      "adjustedRarity": 1.9
+      "name": "Spring Breeze Effects",
+      "totalRedeemed": 505833,
+      "globalRarity": 69.93129484234909,
+      "adjustedRarity": 185.52377393675462
     },
     {
-      "name": "Northern Lights Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.738,
-      "adjustedRarity": 2
+      "name": "Umbral Harbinger",
+      "totalRedeemed": 508616,
+      "globalRarity": 70.31604394639382,
+      "adjustedRarity": 186.54449157057047
     },
     {
-      "name": "Shocking Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.747,
-      "adjustedRarity": 2
+      "name": "Northern Lights",
+      "totalRedeemed": 531301,
+      "globalRarity": 73.45223993103438,
+      "adjustedRarity": 194.8646423154908
     },
     {
-      "name": "Cannon Fodder Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.75,
-      "adjustedRarity": 2
+      "name": "Cyber Class Entrance",
+      "totalRedeemed": 534483,
+      "globalRarity": 73.8921506924682,
+      "adjustedRarity": 196.03170070959865
     },
     {
-      "name": "Warmind Techno Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.78,
-      "adjustedRarity": 2.1
+      "name": "Shocking Entrance",
+      "totalRedeemed": 537199,
+      "globalRarity": 74.26763706206414,
+      "adjustedRarity": 197.02784483228783
     },
     {
-      "name": "Spring Fountain Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.788,
-      "adjustedRarity": 2.1
+      "name": "Resurrected Shadow",
+      "totalRedeemed": 541923,
+      "globalRarity": 74.92072896558814,
+      "adjustedRarity": 198.76046075113302
     },
     {
-      "name": "Cherry Blossom Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.818,
-      "adjustedRarity": 2.2
+      "name": "Cannon Fodder",
+      "totalRedeemed": 542706,
+      "globalRarity": 75.02897853384793,
+      "adjustedRarity": 199.04764073937514
     },
     {
-      "name": "Subjugator Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.833,
-      "adjustedRarity": 2.2
+      "name": "Warmind Techno",
+      "totalRedeemed": 563233,
+      "globalRarity": 77.86683151937656,
+      "adjustedRarity": 206.57630436472135
     },
     {
-      "name": "Harpy Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.847,
-      "adjustedRarity": 2.2
+      "name": "Spring Fountain Effects",
+      "totalRedeemed": 571837,
+      "globalRarity": 79.05633252232333,
+      "adjustedRarity": 209.73198331597965
     },
     {
-      "name": "End of the Rainbow Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.847,
-      "adjustedRarity": 2.2
+      "name": "Cherry Blossom Entrance",
+      "totalRedeemed": 594258,
+      "globalRarity": 82.15603056824028,
+      "adjustedRarity": 217.95530709168423
     },
     {
-      "name": "Vitreous Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.865,
-      "adjustedRarity": 2.3
+      "name": "Subjugator Entrance",
+      "totalRedeemed": 602238,
+      "globalRarity": 83.25926371602215,
+      "adjustedRarity": 220.8821222975235
     },
     {
-      "name": "Chrysallis Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.875,
-      "adjustedRarity": 2.3
+      "name": "Harpy Entrance",
+      "totalRedeemed": 612068,
+      "globalRarity": 84.61825893440509,
+      "adjustedRarity": 224.48745982551856
     },
     {
-      "name": "Fiery Spirit Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.888,
-      "adjustedRarity": 2.3
+      "name": "End of the Rainbow",
+      "totalRedeemed": 613030,
+      "globalRarity": 84.75125521111762,
+      "adjustedRarity": 224.8402914330395
     },
     {
-      "name": "Ketch Flight Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.91,
-      "adjustedRarity": 2.4
+      "name": "Vitreous Entrance",
+      "totalRedeemed": 627551,
+      "globalRarity": 86.75878009068411,
+      "adjustedRarity": 230.16614150872778
     },
     {
-      "name": "Phalanx Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.932,
-      "adjustedRarity": 2.5
+      "name": "Chrysallis Entrance",
+      "totalRedeemed": 632108,
+      "globalRarity": 87.38878428297008,
+      "adjustedRarity": 231.83750703416757
     },
     {
-      "name": "Heretical Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.937,
-      "adjustedRarity": 2.5
+      "name": "Fiery Spirit",
+      "totalRedeemed": 638965,
+      "globalRarity": 88.3367629414087,
+      "adjustedRarity": 234.3524408520172
     },
     {
-      "name": "Daito Capsule Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 0.943,
-      "adjustedRarity": 2.5
+      "name": "Ketch Flight Entrance",
+      "totalRedeemed": 660785,
+      "globalRarity": 91.35337287682226,
+      "adjustedRarity": 242.35533656522685
     },
     {
-      "name": "Ossified Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.046,
-      "adjustedRarity": 2.8
+      "name": "Heretical Entrance",
+      "totalRedeemed": 677419,
+      "globalRarity": 93.65301951594553,
+      "adjustedRarity": 248.45616916346378
     },
     {
-      "name": "Vex Gate Arrival Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.053,
-      "adjustedRarity": 2.8
+      "name": "Daito Capsule Entrance",
+      "totalRedeemed": 686258,
+      "globalRarity": 94.87500921434702,
+      "adjustedRarity": 251.69803878807699
     },
     {
-      "name": "Cabal Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.116,
-      "adjustedRarity": 3
+      "name": "Ossified Entrance",
+      "totalRedeemed": 754934,
+      "globalRarity": 104.36945027412993,
+      "adjustedRarity": 276.8862544617886
     },
     {
-      "name": "Prismatic Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.118,
-      "adjustedRarity": 3
+      "name": "Vex Gate Arrival",
+      "totalRedeemed": 759407,
+      "globalRarity": 104.98784148591294,
+      "adjustedRarity": 278.5268114061143
     },
     {
-      "name": "Box of Tricks Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.136,
-      "adjustedRarity": 3
+      "name": "Cabal Entrance",
+      "totalRedeemed": 805400,
+      "globalRarity": 111.34636306059105,
+      "adjustedRarity": 295.3956098725512
     },
     {
-      "name": "Heartbreaking Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.153,
-      "adjustedRarity": 3
+      "name": "Prismatic Entrance",
+      "totalRedeemed": 808574,
+      "globalRarity": 111.78516782388175,
+      "adjustedRarity": 296.55973411607664
     },
     {
-      "name": "Eternal Summer Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.18,
-      "adjustedRarity": 3.1
+      "name": "Box of Tricks",
+      "totalRedeemed": 818764,
+      "globalRarity": 113.19393295870597,
+      "adjustedRarity": 300.297108420275
     },
     {
-      "name": "Harpy's Cry Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.186,
-      "adjustedRarity": 3.1
+      "name": "Heartbreaking Entrance",
+      "totalRedeemed": 831232,
+      "globalRarity": 114.9176310647892,
+      "adjustedRarity": 304.8699821027817
     },
     {
-      "name": "Bat Wing Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.237,
-      "adjustedRarity": 3.3
+      "name": "Harpy's Cry",
+      "totalRedeemed": 854803,
+      "globalRarity": 118.17631634378249,
+      "adjustedRarity": 313.5150900246912
     },
     {
-      "name": "Cabal Shield Breaker Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.28,
-      "adjustedRarity": 3.4
+      "name": "Eternal Summer",
+      "totalRedeemed": 859700,
+      "globalRarity": 118.85332545715188,
+      "adjustedRarity": 315.3111569498786
     },
     {
-      "name": "Minotaur Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.285,
-      "adjustedRarity": 3.4
+      "name": "Bat Wing Entrance",
+      "totalRedeemed": 889253,
+      "globalRarity": 122.93902084767791,
+      "adjustedRarity": 326.1502759696992
     },
     {
-      "name": "Blind Clutch Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.29,
-      "adjustedRarity": 3.4
+      "name": "Phalanx Entrance",
+      "totalRedeemed": 901324,
+      "globalRarity": 124.60783379590782,
+      "adjustedRarity": 330.57754242955957
     },
     {
-      "name": "Eldritch Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.306,
-      "adjustedRarity": 3.5
+      "name": "Minotaur Effects",
+      "totalRedeemed": 928038,
+      "globalRarity": 128.30103809538716,
+      "adjustedRarity": 340.3754047614882
     },
     {
-      "name": "Cold and Bright Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.32,
-      "adjustedRarity": 3.5
+      "name": "Cabal Shield Breaker",
+      "totalRedeemed": 931027,
+      "globalRarity": 128.71426665161772,
+      "adjustedRarity": 341.4716767727982
     },
     {
-      "name": "Shining Winter Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.33,
-      "adjustedRarity": 3.5
+      "name": "Blind Clutch",
+      "totalRedeemed": 931265,
+      "globalRarity": 128.74717009637612,
+      "adjustedRarity": 341.55896775262147
     },
     {
-      "name": "Shattered Shrieker Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.335,
-      "adjustedRarity": 3.5
+      "name": "Eldritch Effects",
+      "totalRedeemed": 941727,
+      "globalRarity": 130.19353916806708,
+      "adjustedRarity": 345.39610317661777
     },
     {
-      "name": "Murder of Crows Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.371,
-      "adjustedRarity": 3.6
+      "name": "Cold and Bright",
+      "totalRedeemed": 948299,
+      "globalRarity": 131.10211664265637,
+      "adjustedRarity": 347.80650787997314
     },
     {
-      "name": "Pyramid Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.373,
-      "adjustedRarity": 3.6
+      "name": "Shining Winter",
+      "totalRedeemed": 955288,
+      "globalRarity": 132.0683442704568,
+      "adjustedRarity": 350.3698551824307
     },
     {
-      "name": "Soulsknot Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.38,
-      "adjustedRarity": 3.6
+      "name": "Shattered Shrieker",
+      "totalRedeemed": 965326,
+      "globalRarity": 133.45609544056137,
+      "adjustedRarity": 354.0514806255653
     },
     {
-      "name": "Stasis Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.385,
-      "adjustedRarity": 3.7
+      "name": "Murder of Crows",
+      "totalRedeemed": 985352,
+      "globalRarity": 136.22468529237585,
+      "adjustedRarity": 361.3963930706953
     },
     {
-      "name": "Tiger Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.395,
-      "adjustedRarity": 3.7
+      "name": "Pyramid Entrance",
+      "totalRedeemed": 989277,
+      "globalRarity": 136.76731563135377,
+      "adjustedRarity": 362.8359607001338
     },
     {
-      "name": "Shower of Gifts Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.43,
-      "adjustedRarity": 3.8
+      "name": "Soulsknot",
+      "totalRedeemed": 991939,
+      "globalRarity": 137.13533651348354,
+      "adjustedRarity": 363.81229930639245
     },
     {
-      "name": "Warsat Arrival Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.445,
-      "adjustedRarity": 3.8
+      "name": "Stasis Entrance",
+      "totalRedeemed": 1004696,
+      "globalRarity": 138.8989888024877,
+      "adjustedRarity": 368.4911691786847
     },
     {
-      "name": "Arachnophile Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.457,
-      "adjustedRarity": 3.9
+      "name": "Tiger Effects",
+      "totalRedeemed": 1005231,
+      "globalRarity": 138.97295242831015,
+      "adjustedRarity": 368.68739049887563
     },
     {
-      "name": "Howling Blizzard Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.463,
-      "adjustedRarity": 3.9
+      "name": "Shower of Gifts",
+      "totalRedeemed": 1027606,
+      "globalRarity": 142.06629098490407,
+      "adjustedRarity": 376.89384290873204
     },
     {
-      "name": "SIVA Emergence Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.566,
-      "adjustedRarity": 4.1
+      "name": "Arachnophile",
+      "totalRedeemed": 1046705,
+      "globalRarity": 144.70672330188222,
+      "adjustedRarity": 383.89876065513863
     },
     {
-      "name": "Gold Plating Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.57,
-      "adjustedRarity": 4.2
+      "name": "Howling Blizzard",
+      "totalRedeemed": 1051430,
+      "globalRarity": 145.35995345517415,
+      "adjustedRarity": 385.63174334280654
     },
     {
-      "name": "Champion Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.579,
-      "adjustedRarity": 4.2
+      "name": "Warsat Arrival",
+      "totalRedeemed": 1061146,
+      "globalRarity": 146.70318820001734,
+      "adjustedRarity": 389.1952692250039
     },
     {
-      "name": "Division Computed Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.602,
-      "adjustedRarity": 4.2
+      "name": "Gold Plating",
+      "totalRedeemed": 1131585,
+      "globalRarity": 156.44136360059463,
+      "adjustedRarity": 415.0300983332888
     },
     {
-      "name": "Up in Smoke Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.727,
-      "adjustedRarity": 4.6
+      "name": "Champion Entrance",
+      "totalRedeemed": 1143767,
+      "globalRarity": 158.12552227306068,
+      "adjustedRarity": 419.49807613247856
     },
     {
-      "name": "Nightmare Emergence Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.959,
-      "adjustedRarity": 5.2
+      "name": "SIVA Emergence",
+      "totalRedeemed": 1152106,
+      "globalRarity": 159.2783870875159,
+      "adjustedRarity": 422.55656134569824
     },
     {
-      "name": "Jade Coin Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 1.993,
-      "adjustedRarity": 5.3
+      "name": "Division Computed",
+      "totalRedeemed": 1159609,
+      "globalRarity": 160.3156750960131,
+      "adjustedRarity": 425.30842782306826
     },
     {
-      "name": "Sterile Neutrino Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.036,
-      "adjustedRarity": 5.4
+      "name": "Up in Smoke",
+      "totalRedeemed": 1247831,
+      "globalRarity": 172.5123461190221,
+      "adjustedRarity": 457.6655069069721
     },
     {
-      "name": "Big Red Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.053,
-      "adjustedRarity": 5.4
+      "name": "Nightmare Emergence",
+      "totalRedeemed": 1417278,
+      "globalRarity": 195.93835453909657,
+      "adjustedRarity": 519.8133836217402
     },
     {
-      "name": "Defiant Vexsplosion Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.108,
-      "adjustedRarity": 5.6
+      "name": "Jade Coin Effects",
+      "totalRedeemed": 1434648,
+      "globalRarity": 198.33975300738868,
+      "adjustedRarity": 526.1841580735482
     },
     {
-      "name": "Beyond Sight Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.124,
-      "adjustedRarity": 5.6
+      "name": "Sterile Neutrino Effects",
+      "totalRedeemed": 1465066,
+      "globalRarity": 202.5450344471417,
+      "adjustedRarity": 537.3405321250794
     },
     {
-      "name": "Twin Snake Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.134,
-      "adjustedRarity": 5.6
+      "name": "Big Red Entrance",
+      "totalRedeemed": 1477142,
+      "globalRarity": 204.21453864421107,
+      "adjustedRarity": 541.7696324290538
     },
     {
-      "name": "King's Wings Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.184,
-      "adjustedRarity": 5.8
+      "name": "Defiant Vexsplosion",
+      "totalRedeemed": 1515772,
+      "globalRarity": 209.555127177897,
+      "adjustedRarity": 555.9379120533108
     },
     {
-      "name": "Illicit Transmat Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.201,
-      "adjustedRarity": 5.8
+      "name": "Beyond Sight",
+      "totalRedeemed": 1528176,
+      "globalRarity": 211.26997729883513,
+      "adjustedRarity": 560.4873125311593
     },
     {
-      "name": "Darkblade Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.225,
-      "adjustedRarity": 5.9
+      "name": "Twin Snake Effects",
+      "totalRedeemed": 1535641,
+      "globalRarity": 212.30201181615234,
+      "adjustedRarity": 563.2252417932634
     },
     {
-      "name": "Ice Ball Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.286,
-      "adjustedRarity": 6
+      "name": "King's Wings Entrance",
+      "totalRedeemed": 1573023,
+      "globalRarity": 217.4700646395085,
+      "adjustedRarity": 576.9357939266823
     },
     {
-      "name": "Seraph Reboot Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.293,
-      "adjustedRarity": 6.1
+      "name": "Illicit Transmat Effects",
+      "totalRedeemed": 1586710,
+      "globalRarity": 219.36228921265263,
+      "adjustedRarity": 581.9557588041664
     },
     {
-      "name": "Guiding Light Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.298,
-      "adjustedRarity": 6.1
+      "name": "Darkblade Effects",
+      "totalRedeemed": 1601083,
+      "globalRarity": 221.34935312657103,
+      "adjustedRarity": 587.2273270940822
     },
     {
-      "name": "The Past Unearthed Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.332,
-      "adjustedRarity": 6.2
+      "name": "Ice Ball Effects",
+      "totalRedeemed": 1642404,
+      "globalRarity": 227.06197178565554,
+      "adjustedRarity": 602.3825816204587
     },
     {
-      "name": "Signal Processed Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.427,
-      "adjustedRarity": 6.4
+      "name": "Seraph Reboot Entrance",
+      "totalRedeemed": 1648254,
+      "globalRarity": 227.87073292782648,
+      "adjustedRarity": 604.5281792337621
     },
     {
-      "name": "Gladitorial Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.429,
-      "adjustedRarity": 6.4
+      "name": "Guiding Light",
+      "totalRedeemed": 1654892,
+      "globalRarity": 228.78843488709668,
+      "adjustedRarity": 606.9627906794212
     },
     {
-      "name": "Methane Burst Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.495,
-      "adjustedRarity": 6.6
+      "name": "The Past Unearthed",
+      "totalRedeemed": 1678151,
+      "globalRarity": 232.00398623850748,
+      "adjustedRarity": 615.4934667286213
     },
     {
-      "name": "Egregore Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.503,
-      "adjustedRarity": 6.6
+      "name": "Gladitorial Entrance",
+      "totalRedeemed": 1747560,
+      "globalRarity": 241.59976437815556,
+      "adjustedRarity": 640.9505239494356
     },
     {
-      "name": "House of Light Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.527,
-      "adjustedRarity": 6.7
+      "name": "Signal Processed",
+      "totalRedeemed": 1750867,
+      "globalRarity": 242.05695636057598,
+      "adjustedRarity": 642.1634284463919
     },
     {
-      "name": "Only the Finest Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.61,
-      "adjustedRarity": 6.9
+      "name": "Methane Burst",
+      "totalRedeemed": 1794945,
+      "globalRarity": 248.15072962974006,
+      "adjustedRarity": 658.3298646171919
     },
     {
-      "name": "Reef Awoken Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.62,
-      "adjustedRarity": 6.9
+      "name": "Egregore Entrance",
+      "totalRedeemed": 1801204,
+      "globalRarity": 249.016034926979,
+      "adjustedRarity": 660.6254706790149
     },
     {
-      "name": "Reef Shimmer Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.654,
-      "adjustedRarity": 7
+      "name": "House of Light Entrance",
+      "totalRedeemed": 1816794,
+      "globalRarity": 251.1713488084225,
+      "adjustedRarity": 666.3433966262623
     },
     {
-      "name": "Reef Oracle Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.678,
-      "adjustedRarity": 7.1
+      "name": "Only the Finest",
+      "totalRedeemed": 1878773,
+      "globalRarity": 259.73993117262955,
+      "adjustedRarity": 689.0753614937702
     },
     {
-      "name": "Stalker's Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.692,
-      "adjustedRarity": 7.1
+      "name": "Reef Awoken",
+      "totalRedeemed": 1885294,
+      "globalRarity": 260.6414579090563,
+      "adjustedRarity": 691.4670609871634
     },
     {
-      "name": "Lucent Shrieker Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.693,
-      "adjustedRarity": 7.1
+      "name": "Reef Shimmer",
+      "totalRedeemed": 1911493,
+      "globalRarity": 264.263463578071,
+      "adjustedRarity": 701.0760373753568
     },
     {
-      "name": "Thar Be Treasure! Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.75,
-      "adjustedRarity": 7.3
+      "name": "Reef Oracle",
+      "totalRedeemed": 1926492,
+      "globalRarity": 266.33707184669004,
+      "adjustedRarity": 706.5772029483372
     },
     {
-      "name": "Yellow Dawning Lanterns Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.754,
-      "adjustedRarity": 7.3
+      "name": "Lucent Shrieker Entrance",
+      "totalRedeemed": 1936551,
+      "globalRarity": 267.7277262619204,
+      "adjustedRarity": 710.2665305367505
     },
     {
-      "name": "Green Dawning Lanterns Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.756,
-      "adjustedRarity": 7.3
+      "name": "Stalker's Entrance",
+      "totalRedeemed": 1936857,
+      "globalRarity": 267.7700306908955,
+      "adjustedRarity": 710.3787617965232
     },
     {
-      "name": "Blackheart Growth Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.768,
-      "adjustedRarity": 7.3
+      "name": "Thar Be Treasure!",
+      "totalRedeemed": 1976968,
+      "globalRarity": 273.3153671308301,
+      "adjustedRarity": 725.0902260473276
     },
     {
-      "name": "Silver Dawning Lanterns Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.773,
-      "adjustedRarity": 7.3
+      "name": "Yellow Dawning Lanterns",
+      "totalRedeemed": 1978283,
+      "globalRarity": 273.4971655756087,
+      "adjustedRarity": 725.5725270492924
     },
     {
-      "name": "Purple Dawning Lanterns Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.786,
-      "adjustedRarity": 7.4
+      "name": "Green Dawning Lanterns",
+      "totalRedeemed": 1980224,
+      "globalRarity": 273.76550837508796,
+      "adjustedRarity": 726.2844253343218
     },
     {
-      "name": "Resonant Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.799,
-      "adjustedRarity": 7.4
+      "name": "Blackheart Growth",
+      "totalRedeemed": 1990660,
+      "globalRarity": 275.20828295281376,
+      "adjustedRarity": 730.1120247689255
     },
     {
-      "name": "Traveler Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 2.843,
-      "adjustedRarity": 7.5
+      "name": "Silver Dawning Lanterns",
+      "totalRedeemed": 1991993,
+      "globalRarity": 275.3925698934144,
+      "adjustedRarity": 730.6009276097004
     },
     {
-      "name": "Vex Invasion Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.037,
-      "adjustedRarity": 8
+      "name": "Purple Dawning Lanterns",
+      "totalRedeemed": 2001348,
+      "globalRarity": 276.68589647204846,
+      "adjustedRarity": 734.0320499468717
     },
     {
-      "name": "Plesiohedral State Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.082,
-      "adjustedRarity": 8.1
+      "name": "Resonant Entrance",
+      "totalRedeemed": 2015060,
+      "globalRarity": 278.5815772893899,
+      "adjustedRarity": 739.0611840449254
     },
     {
-      "name": "Luminous Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.101,
-      "adjustedRarity": 8.2
+      "name": "Traveler Entrance",
+      "totalRedeemed": 2044646,
+      "globalRarity": 282.6718349222564,
+      "adjustedRarity": 749.912406435898
     },
     {
-      "name": "AI-COM/RSPN: REBOOT Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.447,
-      "adjustedRarity": 9.1
+      "name": "Vex Invasion Effects",
+      "totalRedeemed": 2183881,
+      "globalRarity": 301.9210413547637,
+      "adjustedRarity": 800.9794634766289
     },
     {
-      "name": "Corrupt Ether Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.473,
-      "adjustedRarity": 9.2
+      "name": "Plesiohedral State",
+      "totalRedeemed": 2215902,
+      "globalRarity": 306.34793717244827,
+      "adjustedRarity": 812.7237679510873
     },
     {
-      "name": "Manifested Power Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.558,
-      "adjustedRarity": 9.4
+      "name": "Luminous Entrance",
+      "totalRedeemed": 2229787,
+      "globalRarity": 308.2675351996352,
+      "adjustedRarity": 817.8163530554832
     },
     {
-      "name": "Vex Arrival Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.594,
-      "adjustedRarity": 9.5
+      "name": "AI-COM/RSPN: REBOOT",
+      "totalRedeemed": 2480721,
+      "globalRarity": 342.95910245596286,
+      "adjustedRarity": 909.8511208326854
     },
     {
-      "name": "Fallen Arrival Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.622,
-      "adjustedRarity": 9.6
+      "name": "Corrupt Ether",
+      "totalRedeemed": 2500224,
+      "globalRarity": 345.6553876791697,
+      "adjustedRarity": 917.0042131834979
     },
     {
-      "name": "Reflection Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.7,
-      "adjustedRarity": 9.8
+      "name": "Manifested Power",
+      "totalRedeemed": 2556862,
+      "globalRarity": 353.48557803306306,
+      "adjustedRarity": 937.777265768501
     },
     {
-      "name": "Cabal Arrival Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.72,
-      "adjustedRarity": 9.8
+      "name": "Vex Arrival",
+      "totalRedeemed": 2586426,
+      "globalRarity": 357.5727941710358,
+      "adjustedRarity": 948.6204192453724
     },
     {
-      "name": "Wayfinder's Entrance Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.729,
-      "adjustedRarity": 9.9
+      "name": "Fallen Arrival",
+      "totalRedeemed": 2603775,
+      "globalRarity": 359.97128939420224,
+      "adjustedRarity": 954.9834915519019
     },
     {
-      "name": "Celebrate Newness Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.763,
-      "adjustedRarity": 9.9
+      "name": "Reflection Effects",
+      "totalRedeemed": 2660050,
+      "globalRarity": 367.7512950823507,
+      "adjustedRarity": 975.6234070542334
     },
     {
-      "name": "Dominus Ghaul Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 3.939,
-      "adjustedRarity": 10.4
+      "name": "Cabal Arrival",
+      "totalRedeemed": 2674926,
+      "globalRarity": 369.80789862951895,
+      "adjustedRarity": 981.0794600620111
     },
     {
-      "name": "Green Class Sigil Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.077,
-      "adjustedRarity": 10.8
+      "name": "Wayfinder's Entrance",
+      "totalRedeemed": 2680616,
+      "globalRarity": 370.59453980882716,
+      "adjustedRarity": 983.1663746636684
     },
     {
-      "name": "Traveler's Wake Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.118,
-      "adjustedRarity": 10.9
+      "name": "Celebrate Newness",
+      "totalRedeemed": 2707421,
+      "globalRarity": 374.30032483718463,
+      "adjustedRarity": 992.9976129584708
     },
     {
-      "name": "Yellow Class Sigil Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.181,
-      "adjustedRarity": 11.1
+      "name": "Dominus Ghaul Effects",
+      "totalRedeemed": 2838027,
+      "globalRarity": 392.3565740225479,
+      "adjustedRarity": 1040.8998218273737
     },
     {
-      "name": "Pink Class Sigil Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.195,
-      "adjustedRarity": 11.1
+      "name": "Green Class Sigil",
+      "totalRedeemed": 2931260,
+      "globalRarity": 405.246014632466,
+      "adjustedRarity": 1075.0947794822625
     },
     {
-      "name": "Purple Class Sigil Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.202,
-      "adjustedRarity": 11.1
+      "name": "Traveler's Wake Effects",
+      "totalRedeemed": 2962143,
+      "globalRarity": 409.515582214289,
+      "adjustedRarity": 1086.4217010363895
     },
     {
-      "name": "Hive Arrival Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.443,
-      "adjustedRarity": 11.7
+      "name": "Yellow Class Sigil",
+      "totalRedeemed": 3005089,
+      "globalRarity": 415.45285674619885,
+      "adjustedRarity": 1102.172954899795
     },
     {
-      "name": "Green Beam Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.594,
-      "adjustedRarity": 12.1
+      "name": "Pink Class Sigil",
+      "totalRedeemed": 3016211,
+      "globalRarity": 416.99047066469876,
+      "adjustedRarity": 1106.2521577468306
     },
     {
-      "name": "Gold Beam Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.69,
-      "adjustedRarity": 12.4
+      "name": "Purple Class Sigil",
+      "totalRedeemed": 3021110,
+      "globalRarity": 417.667756277604,
+      "adjustedRarity": 1108.0489582096636
     },
     {
-      "name": "Purple Beam Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.692,
-      "adjustedRarity": 12.4
+      "name": "Hive Arrival",
+      "totalRedeemed": 3205086,
+      "globalRarity": 443.10239557538813,
+      "adjustedRarity": 1175.525619150702
     },
     {
-      "name": "Silver Beam Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.732,
-      "adjustedRarity": 12.5
+      "name": "Green Beam Effects",
+      "totalRedeemed": 3301629,
+      "globalRarity": 456.4494429170303,
+      "adjustedRarity": 1210.9345816090154
     },
     {
-      "name": "Taken Arrival Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.748,
-      "adjustedRarity": 12.6
+      "name": "Gold Beam Effects",
+      "totalRedeemed": 3370384,
+      "globalRarity": 465.9548057084767,
+      "adjustedRarity": 1236.1517720197273
     },
     {
-      "name": "Green Spotlight Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.867,
-      "adjustedRarity": 12.9
+      "name": "Purple Beam Effects",
+      "totalRedeemed": 3372357,
+      "globalRarity": 466.22757250052854,
+      "adjustedRarity": 1236.8754069070858
     },
     {
-      "name": "Yellow Spotlight Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.872,
-      "adjustedRarity": 12.9
+      "name": "Silver Beam Effects",
+      "totalRedeemed": 3401489,
+      "globalRarity": 470.2550647387718,
+      "adjustedRarity": 1247.5601162525131
     },
     {
-      "name": "Amethyst Rabbit Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.919,
-      "adjustedRarity": 13
+      "name": "Taken Arrival",
+      "totalRedeemed": 3424816,
+      "globalRarity": 473.4800170743993,
+      "adjustedRarity": 1256.1157325816628
     },
     {
-      "name": "Ghost Gold Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.947,
-      "adjustedRarity": 13.1
+      "name": "Green Spotlight Effects",
+      "totalRedeemed": 3497611,
+      "globalRarity": 483.5439089281313,
+      "adjustedRarity": 1282.8146690364333
     },
     {
-      "name": "Crucible Blue Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.973,
-      "adjustedRarity": 13.1
+      "name": "Yellow Spotlight Effects",
+      "totalRedeemed": 3501188,
+      "globalRarity": 484.03842834788264,
+      "adjustedRarity": 1284.126601115542
     },
     {
-      "name": "Purple Spotlight Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.98,
-      "adjustedRarity": 13.2
+      "name": "Amethyst Rabbit",
+      "totalRedeemed": 3536323,
+      "globalRarity": 488.89583394278435,
+      "adjustedRarity": 1297.0130237041592
     },
     {
-      "name": "Crucible Green Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 4.995,
-      "adjustedRarity": 13.2
+      "name": "Ghost Gold",
+      "totalRedeemed": 3555738,
+      "globalRarity": 491.57995318641656,
+      "adjustedRarity": 1304.133840398566
     },
     {
-      "name": "Ghost White Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.002,
-      "adjustedRarity": 13.2
+      "name": "Crucible Blue",
+      "totalRedeemed": 3574088,
+      "globalRarity": 494.1168364272433,
+      "adjustedRarity": 1310.8640482967055
     },
     {
-      "name": "Coral Rabbit Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.024,
-      "adjustedRarity": 13.3
+      "name": "Purple Spotlight Effects",
+      "totalRedeemed": 3579282,
+      "globalRarity": 494.83490572167676,
+      "adjustedRarity": 1312.7690455622603
     },
     {
-      "name": "Crucible Pink Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.076,
-      "adjustedRarity": 13.4
+      "name": "Crucible Green",
+      "totalRedeemed": 3589776,
+      "globalRarity": 496.28569878594027,
+      "adjustedRarity": 1316.617917588586
     },
     {
-      "name": "Silver Spotlight Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.313,
-      "adjustedRarity": 14
+      "name": "Ghost White",
+      "totalRedeemed": 3595163,
+      "globalRarity": 497.030450285577,
+      "adjustedRarity": 1318.593701236939
     },
     {
-      "name": "Crucible Gold Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.405,
-      "adjustedRarity": 14.3
+      "name": "Coral Rabbit",
+      "totalRedeemed": 3611364,
+      "globalRarity": 499.2702347752028,
+      "adjustedRarity": 1324.535722934909
     },
     {
-      "name": "Guardian Gold Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.446,
-      "adjustedRarity": 14.4
+      "name": "Crucible Pink",
+      "totalRedeemed": 3648514,
+      "globalRarity": 504.40621365240787,
+      "adjustedRarity": 1338.1611847014415
     },
     {
-      "name": "Guardian White Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.485,
-      "adjustedRarity": 14.5
+      "name": "Silver Spotlight Effects",
+      "totalRedeemed": 3817905,
+      "globalRarity": 527.8244800854803,
+      "adjustedRarity": 1400.2885223621336
     },
     {
-      "name": "Ghost Blue Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.492,
-      "adjustedRarity": 14.5
+      "name": "Crucible Gold",
+      "totalRedeemed": 3883781,
+      "globalRarity": 536.9318217951643,
+      "adjustedRarity": 1424.4497853320418
     },
     {
-      "name": "Guardian Green Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.495,
-      "adjustedRarity": 14.5
+      "name": "Guardian Gold",
+      "totalRedeemed": 3913874,
+      "globalRarity": 541.0921720603524,
+      "adjustedRarity": 1435.4869595161674
     },
     {
-      "name": "Guardian Blue Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.497,
-      "adjustedRarity": 14.5
+      "name": "Guardian White",
+      "totalRedeemed": 3941308,
+      "globalRarity": 544.8849161927142,
+      "adjustedRarity": 1445.5488954005025
     },
     {
-      "name": "Ghost Green Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.501,
-      "adjustedRarity": 14.5
+      "name": "Ghost Blue",
+      "totalRedeemed": 3946849,
+      "globalRarity": 545.6509581566063,
+      "adjustedRarity": 1447.5811614475647
     },
     {
-      "name": "Crucible White Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.502,
-      "adjustedRarity": 14.5
+      "name": "Guardian Green",
+      "totalRedeemed": 3948491,
+      "globalRarity": 545.8779642754859,
+      "adjustedRarity": 1448.1833958545806
     },
     {
-      "name": "Ghost Pink Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.537,
-      "adjustedRarity": 14.6
+      "name": "Guardian Blue",
+      "totalRedeemed": 3949751,
+      "globalRarity": 546.0521589830303,
+      "adjustedRarity": 1448.6455245712923
     },
     {
-      "name": "Solar Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.843,
-      "adjustedRarity": 15.4
+      "name": "Crucible White",
+      "totalRedeemed": 3953712,
+      "globalRarity": 546.5997663136524,
+      "adjustedRarity": 1450.098295878351
     },
     {
-      "name": "Void Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.89,
-      "adjustedRarity": 15.6
+      "name": "Ghost Green",
+      "totalRedeemed": 3953963,
+      "globalRarity": 546.6344670053934,
+      "adjustedRarity": 1450.1903548528705
     },
     {
-      "name": "Arc Effects Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 5.908,
-      "adjustedRarity": 15.6
+      "name": "Ghost Pink",
+      "totalRedeemed": 3980017,
+      "globalRarity": 550.2364264580636,
+      "adjustedRarity": 1459.7461497617599
     },
     {
-      "name": "Guardian Pink Modifications for your ship's transmat systems, so you'll always arrive in style.",
-      "totalRedeemed": 0,
-      "globalRarity": 7.169,
-      "adjustedRarity": 19
+      "name": "Solar Effects",
+      "totalRedeemed": 4198541,
+      "globalRarity": 580.4473187369965,
+      "adjustedRarity": 1539.8939399924395
+    },
+    {
+      "name": "Void Effects",
+      "totalRedeemed": 4233247,
+      "globalRarity": 585.2454151814725,
+      "adjustedRarity": 1552.6230187560807
+    },
+    {
+      "name": "Arc Effects",
+      "totalRedeemed": 4245424,
+      "globalRarity": 586.9288826050989,
+      "adjustedRarity": 1557.0891627111566
+    },
+    {
+      "name": "Guardian Pink",
+      "totalRedeemed": 5150560,
+      "globalRarity": 712.0637245162128,
+      "adjustedRarity": 1889.0648278931799
     }
   ]
 }

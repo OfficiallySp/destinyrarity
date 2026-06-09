@@ -1,5 +1,6 @@
 import { exchangeCodeForToken, getMembershipData } from './lib/bungie-api.js';
 import { encrypt, COOKIE_NAME, getCookieOpts } from './lib/cookie.js';
+import { getSiteUrl } from './lib/site-url.js';
 import { appendFileSync } from 'fs';
 import { join } from 'path';
 
@@ -10,9 +11,7 @@ function debugLog(payload) {
 }
 
 export const handler = async (event) => {
-  const siteUrl = process.env.SITE_URL || (event.headers['x-forwarded-proto'] && event.headers['x-forwarded-host']
-    ? `${event.headers['x-forwarded-proto']}://${event.headers['x-forwarded-host']}`
-    : 'http://localhost:8888');
+  const siteUrl = getSiteUrl(event);
 
   const params = event.queryStringParameters || {};
   const code = params.code;
@@ -60,7 +59,7 @@ export const handler = async (event) => {
   }
 
   try {
-    const tokenData = await exchangeCodeForToken(code);
+    const tokenData = await exchangeCodeForToken(code, `${siteUrl}/api/auth-callback`);
     const membershipData = await getMembershipData(tokenData.accessToken);
     const expiresAt = Date.now() + tokenData.expiresIn * 1000;
 

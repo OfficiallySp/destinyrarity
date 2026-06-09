@@ -3,537 +3,537 @@
   "items": [
     {
       "name": "Giving",
-      "totalRedeemed": 0,
-      "globalRarity": 0.134,
-      "adjustedRarity": 0.4
+      "totalRedeemed": 96714,
+      "globalRarity": 13.370688051951829,
+      "adjustedRarity": 35.47167992701007
     },
     {
       "name": "Heart Sign",
-      "totalRedeemed": 0,
-      "globalRarity": 0.605,
-      "adjustedRarity": 1.6
+      "totalRedeemed": 437247,
+      "globalRarity": 60.44929626167651,
+      "adjustedRarity": 160.36856745709383
     },
     {
       "name": "Icecapade",
-      "totalRedeemed": 0,
-      "globalRarity": 0.832,
-      "adjustedRarity": 2.2
+      "totalRedeemed": 598006,
+      "globalRarity": 82.67419069830125,
+      "adjustedRarity": 219.32995663948947
     },
     {
       "name": "Flaunting Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 0.848,
-      "adjustedRarity": 2.2
+      "totalRedeemed": 610007,
+      "globalRarity": 84.3333261627787,
+      "adjustedRarity": 223.73154928175478
     },
     {
       "name": "Luxurious Toast",
-      "totalRedeemed": 0,
-      "globalRarity": 0.924,
-      "adjustedRarity": 2.4
+      "totalRedeemed": 663832,
+      "globalRarity": 91.77461991959062,
+      "adjustedRarity": 243.47288116825845
     },
     {
       "name": "Honest Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 0.927,
-      "adjustedRarity": 2.5
+      "totalRedeemed": 669787,
+      "globalRarity": 92.59789728739025,
+      "adjustedRarity": 245.65698950795434
     },
     {
       "name": "Excited Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 0.992,
-      "adjustedRarity": 2.6
+      "totalRedeemed": 715687,
+      "globalRarity": 98.94356163365437,
+      "adjustedRarity": 262.491678473872
     },
     {
       "name": "Vengeful Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 1.095,
-      "adjustedRarity": 2.9
+      "totalRedeemed": 787250,
+      "globalRarity": 108.83712977334284,
+      "adjustedRarity": 288.7387557389693
     },
     {
       "name": "Yes",
-      "totalRedeemed": 0,
-      "globalRarity": 1.201,
-      "adjustedRarity": 3.2
+      "totalRedeemed": 862960,
+      "globalRarity": 119.30401970048132,
+      "adjustedRarity": 316.5068233121638
     },
     {
       "name": "Nope",
-      "totalRedeemed": 0,
-      "globalRarity": 1.235,
-      "adjustedRarity": 3.3
-    },
-    {
-      "name": "Amour Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 1.356,
-      "adjustedRarity": 3.6
+      "totalRedeemed": 886969,
+      "globalRarity": 122.62325837781151,
+      "adjustedRarity": 325.31257597845394
     },
     {
       "name": "Cranking Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 1.407,
-      "adjustedRarity": 3.7
+      "totalRedeemed": 1013138,
+      "globalRarity": 140.06609334303587,
+      "adjustedRarity": 371.5874315806515
     },
     {
       "name": "Please",
-      "totalRedeemed": 0,
-      "globalRarity": 1.413,
-      "adjustedRarity": 3.7
+      "totalRedeemed": 1014941,
+      "globalRarity": 140.315357674546,
+      "adjustedRarity": 372.2487157681362
+    },
+    {
+      "name": "Amour Dance",
+      "totalRedeemed": 1027156,
+      "globalRarity": 142.00407858935247,
+      "adjustedRarity": 376.7287969384779
     },
     {
       "name": "Shoulder Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 1.463,
-      "adjustedRarity": 3.9
-    },
-    {
-      "name": "Bureaucratic Walk",
-      "totalRedeemed": 0,
-      "globalRarity": 1.492,
-      "adjustedRarity": 3.9
+      "totalRedeemed": 1059705,
+      "globalRarity": 146.50397028448427,
+      "adjustedRarity": 388.666755351368
     },
     {
       "name": "Thank You",
-      "totalRedeemed": 0,
-      "globalRarity": 1.493,
-      "adjustedRarity": 3.9
+      "totalRedeemed": 1072589,
+      "globalRarity": 148.28518029401081,
+      "adjustedRarity": 393.3922048641541
+    },
+    {
+      "name": "Bureaucratic Walk",
+      "totalRedeemed": 1073641,
+      "globalRarity": 148.43061904983367,
+      "adjustedRarity": 393.778045665726
     },
     {
       "name": "Funky Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 1.5,
-      "adjustedRarity": 4
+      "totalRedeemed": 1079724,
+      "globalRarity": 149.27159238792353,
+      "adjustedRarity": 396.0091004147385
     },
     {
       "name": "Shuffle Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 1.562,
-      "adjustedRarity": 4.1
+      "totalRedeemed": 1125335,
+      "globalRarity": 155.57730255126677,
+      "adjustedRarity": 412.7377931908708
     },
     {
       "name": "Trendy Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 1.658,
-      "adjustedRarity": 4.4
+      "totalRedeemed": 1192840,
+      "globalRarity": 164.9098531328476,
+      "adjustedRarity": 437.496522573099
     },
     {
       "name": "Dancy Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 1.709,
-      "adjustedRarity": 4.5
+      "totalRedeemed": 1230792,
+      "globalRarity": 170.1567083239024,
+      "adjustedRarity": 451.41613293550654
     },
     {
       "name": "Overnight Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 1.713,
-      "adjustedRarity": 4.5
+      "totalRedeemed": 1232993,
+      "globalRarity": 170.46099606303372,
+      "adjustedRarity": 452.2233911144605
     },
     {
       "name": "Cower",
-      "totalRedeemed": 0,
-      "globalRarity": 1.731,
-      "adjustedRarity": 4.6
+      "totalRedeemed": 1243227,
+      "globalRarity": 171.87584418764519,
+      "adjustedRarity": 455.97690324686135
     },
     {
       "name": "Odd Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 1.733,
-      "adjustedRarity": 4.6
+      "totalRedeemed": 1247394,
+      "globalRarity": 172.45193097045308,
+      "adjustedRarity": 457.50522893141425
     },
     {
       "name": "Yawn",
-      "totalRedeemed": 0,
-      "globalRarity": 1.755,
-      "adjustedRarity": 4.6
+      "totalRedeemed": 1260915,
+      "globalRarity": 174.3212060821271,
+      "adjustedRarity": 462.4643101843157
     },
     {
       "name": "Odder Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 1.773,
-      "adjustedRarity": 4.7
+      "totalRedeemed": 1275568,
+      "globalRarity": 176.3469799310554,
+      "adjustedRarity": 467.8385737446118
     },
     {
       "name": "Timely Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 1.796,
-      "adjustedRarity": 4.7
+      "totalRedeemed": 1292185,
+      "globalRarity": 178.64427632412446,
+      "adjustedRarity": 473.9331712728613
     },
     {
       "name": "Collaborative Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 2.016,
-      "adjustedRarity": 5.3
+      "totalRedeemed": 1450957,
+      "globalRarity": 200.59446847194687,
+      "adjustedRarity": 532.1657908043794
     },
     {
       "name": "Freaky Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 2.021,
-      "adjustedRarity": 5.3
+      "totalRedeemed": 1453861,
+      "globalRarity": 200.99594579790656,
+      "adjustedRarity": 533.2308874657525
     },
     {
       "name": "Synced Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 2.066,
-      "adjustedRarity": 5.5
+      "totalRedeemed": 1485872,
+      "globalRarity": 205.42145911791226,
+      "adjustedRarity": 544.9715242519832
     },
     {
       "name": "Laugh",
-      "totalRedeemed": 0,
-      "globalRarity": 2.129,
-      "adjustedRarity": 5.6
+      "totalRedeemed": 1529640,
+      "globalRarity": 211.47237495902965,
+      "adjustedRarity": 561.0242620877193
     },
     {
       "name": "Whoa There",
-      "totalRedeemed": 0,
-      "globalRarity": 2.146,
-      "adjustedRarity": 5.7
+      "totalRedeemed": 1541708,
+      "globalRarity": 213.14077315795595,
+      "adjustedRarity": 565.4504282411114
     },
     {
       "name": "Cry",
-      "totalRedeemed": 0,
-      "globalRarity": 2.174,
-      "adjustedRarity": 5.7
+      "totalRedeemed": 1561543,
+      "globalRarity": 215.882957304103,
+      "adjustedRarity": 572.7252878410891
     },
     {
       "name": "Floss Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 2.202,
-      "adjustedRarity": 5.8
+      "totalRedeemed": 1584590,
+      "globalRarity": 219.06919970472057,
+      "adjustedRarity": 581.1782088998582
     },
     {
       "name": "Sweeping",
-      "totalRedeemed": 0,
-      "globalRarity": 2.239,
-      "adjustedRarity": 5.9
+      "totalRedeemed": 1610623,
+      "globalRarity": 222.66825591226515,
+      "adjustedRarity": 590.726301663469
     },
     {
       "name": "Cheer",
-      "totalRedeemed": 0,
-      "globalRarity": 2.254,
-      "adjustedRarity": 6
+      "totalRedeemed": 1619174,
+      "globalRarity": 223.85042967751363,
+      "adjustedRarity": 593.8625418671196
     },
     {
       "name": "Grooving Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 2.259,
-      "adjustedRarity": 6
+      "totalRedeemed": 1626128,
+      "globalRarity": 224.81181856343778,
+      "adjustedRarity": 596.4130522607795
     },
     {
       "name": "Watch Your Back",
-      "totalRedeemed": 0,
-      "globalRarity": 2.274,
-      "adjustedRarity": 6
+      "totalRedeemed": 1633354,
+      "globalRarity": 225.81081138622875,
+      "adjustedRarity": 599.0633237742375
     },
     {
       "name": "Blowing a Kiss",
-      "totalRedeemed": 0,
-      "globalRarity": 2.286,
-      "adjustedRarity": 6
+      "totalRedeemed": 1642499,
+      "globalRarity": 227.07510551360534,
+      "adjustedRarity": 602.4174246586235
     },
     {
       "name": "Dancehall",
-      "totalRedeemed": 0,
-      "globalRarity": 2.712,
-      "adjustedRarity": 7.2
+      "totalRedeemed": 1950712,
+      "globalRarity": 269.6854812250456,
+      "adjustedRarity": 715.4603438362354
     },
     {
       "name": "Curtain Call",
-      "totalRedeemed": 0,
-      "globalRarity": 2.72,
-      "adjustedRarity": 7.2
+      "totalRedeemed": 1955224,
+      "globalRarity": 270.30926417777636,
+      "adjustedRarity": 717.1152047646498
     },
     {
       "name": "Awaken the Warmind",
-      "totalRedeemed": 0,
-      "globalRarity": 2.723,
-      "adjustedRarity": 7.2
+      "totalRedeemed": 1957344,
+      "globalRarity": 270.60235368570835,
+      "adjustedRarity": 717.892754668958
     },
     {
       "name": "Home Run",
-      "totalRedeemed": 0,
-      "globalRarity": 2.725,
-      "adjustedRarity": 7.2
+      "totalRedeemed": 1960396,
+      "globalRarity": 271.02429197731624,
+      "adjustedRarity": 719.0121331161035
     },
     {
       "name": "Disco Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 2.766,
-      "adjustedRarity": 7.3
+      "totalRedeemed": 1988912,
+      "globalRarity": 274.96662235853773,
+      "adjustedRarity": 729.4709128666941
     },
     {
       "name": "Mic Drop",
-      "totalRedeemed": 0,
-      "globalRarity": 2.784,
-      "adjustedRarity": 7.4
+      "totalRedeemed": 2002514,
+      "globalRarity": 276.84709570141104,
+      "adjustedRarity": 734.4597023942412
     },
     {
       "name": "Flowing Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 2.94,
-      "adjustedRarity": 7.8
+      "totalRedeemed": 2113789,
+      "globalRarity": 292.23083862364507,
+      "adjustedRarity": 775.271903149851
     },
     {
       "name": "Slow Clap",
-      "totalRedeemed": 0,
-      "globalRarity": 2.948,
-      "adjustedRarity": 7.8
+      "totalRedeemed": 2117791,
+      "globalRarity": 292.78411419475066,
+      "adjustedRarity": 776.7397119786441
     },
     {
       "name": "Celebratory Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 2.99,
-      "adjustedRarity": 7.9
+      "totalRedeemed": 2150571,
+      "globalRarity": 297.31594158626564,
+      "adjustedRarity": 788.762393989598
     },
     {
       "name": "Fireworks",
-      "totalRedeemed": 0,
-      "globalRarity": 3.031,
-      "adjustedRarity": 8
+      "totalRedeemed": 2179392,
+      "globalRarity": 301.3004381466944,
+      "adjustedRarity": 799.3330382311385
     },
     {
       "name": "Shadow Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 3.214,
-      "adjustedRarity": 8.5
+      "totalRedeemed": 2314114,
+      "globalRarity": 319.92572337670305,
+      "adjustedRarity": 848.7448675746322
     },
     {
       "name": "Confused",
-      "totalRedeemed": 0,
-      "globalRarity": 3.277,
-      "adjustedRarity": 8.7
+      "totalRedeemed": 2355899,
+      "globalRarity": 325.7024899280896,
+      "adjustedRarity": 864.0703028347821
     },
     {
       "name": "Selfie",
-      "totalRedeemed": 0,
-      "globalRarity": 3.402,
-      "adjustedRarity": 9
+      "totalRedeemed": 2447036,
+      "globalRarity": 338.3021590245052,
+      "adjustedRarity": 897.4965130371096
     },
     {
       "name": "Salty",
-      "totalRedeemed": 0,
-      "globalRarity": 3.511,
-      "adjustedRarity": 9.3
+      "totalRedeemed": 2524132,
+      "globalRarity": 348.96066312994265,
+      "adjustedRarity": 925.7729221986867
     },
     {
       "name": "Six Shooter",
-      "totalRedeemed": 0,
-      "globalRarity": 3.654,
-      "adjustedRarity": 9.7
+      "totalRedeemed": 2627105,
+      "globalRarity": 363.1966564791334,
+      "adjustedRarity": 963.5402081875197
     },
     {
       "name": "Popcorn",
-      "totalRedeemed": 0,
-      "globalRarity": 3.659,
-      "adjustedRarity": 9.7
+      "totalRedeemed": 2633168,
+      "globalRarity": 364.0348648218655,
+      "adjustedRarity": 965.7639275600767
     },
     {
       "name": "Dust Off",
-      "totalRedeemed": 0,
-      "globalRarity": 3.708,
-      "adjustedRarity": 9.8
+      "totalRedeemed": 2669471,
+      "globalRarity": 369.0537461456656,
+      "adjustedRarity": 979.0787361337086
     },
     {
       "name": "Hold On",
-      "totalRedeemed": 0,
-      "globalRarity": 3.783,
-      "adjustedRarity": 10
+      "totalRedeemed": 2719255,
+      "globalRarity": 375.936372590424,
+      "adjustedRarity": 997.3379552073305
     },
     {
       "name": "Flip Out",
-      "totalRedeemed": 0,
-      "globalRarity": 3.829,
-      "adjustedRarity": 10.1
+      "totalRedeemed": 2753958,
+      "globalRarity": 380.73405428559624,
+      "adjustedRarity": 1010.0659336645035
     },
     {
       "name": "Victory Taunt",
-      "totalRedeemed": 0,
-      "globalRarity": 3.849,
-      "adjustedRarity": 10.2
+      "totalRedeemed": 2770582,
+      "globalRarity": 383.0323184270406,
+      "adjustedRarity": 1016.1630985745127
     },
     {
       "name": "Spicy Ramen",
-      "totalRedeemed": 0,
-      "globalRarity": 3.972,
-      "adjustedRarity": 10.5
+      "totalRedeemed": 2854893,
+      "globalRarity": 394.6882946078222,
+      "adjustedRarity": 1047.085744792497
     },
     {
       "name": "Don the Hat",
-      "totalRedeemed": 0,
-      "globalRarity": 4.004,
-      "adjustedRarity": 10.6
+      "totalRedeemed": 2883178,
+      "globalRarity": 398.59868929266054,
+      "adjustedRarity": 1057.459800945024
     },
     {
       "name": "Sick",
-      "totalRedeemed": 0,
-      "globalRarity": 4.012,
-      "adjustedRarity": 10.6
+      "totalRedeemed": 2887095,
+      "globalRarity": 399.1402136334953,
+      "adjustedRarity": 1058.89643442388
     },
     {
       "name": "Shiver",
-      "totalRedeemed": 0,
-      "globalRarity": 4.044,
-      "adjustedRarity": 10.7
+      "totalRedeemed": 2911395,
+      "globalRarity": 402.4996829932822,
+      "adjustedRarity": 1067.8089168176011
     },
     {
       "name": "Salute",
-      "totalRedeemed": 0,
-      "globalRarity": 4.079,
-      "adjustedRarity": 10.8
+      "totalRedeemed": 2930262,
+      "globalRarity": 405.10804136410934,
+      "adjustedRarity": 1074.7287441971212
     },
     {
       "name": "Zeus-Like Physique",
-      "totalRedeemed": 0,
-      "globalRarity": 4.137,
-      "adjustedRarity": 10.9
+      "totalRedeemed": 2977844,
+      "globalRarity": 411.68624181996864,
+      "adjustedRarity": 1092.1803383229665
     },
     {
       "name": "Humbug",
-      "totalRedeemed": 0,
-      "globalRarity": 4.437,
-      "adjustedRarity": 11.7
+      "totalRedeemed": 3192281,
+      "globalRarity": 441.33210729752506,
+      "adjustedRarity": 1170.829144374916
     },
     {
       "name": "Huddle Up",
-      "totalRedeemed": 0,
-      "globalRarity": 4.438,
-      "adjustedRarity": 11.7
+      "totalRedeemed": 3193352,
+      "globalRarity": 441.4801727989379,
+      "adjustedRarity": 1171.2219537841206
     },
     {
       "name": "Opulent Clap",
-      "totalRedeemed": 0,
-      "globalRarity": 4.519,
-      "adjustedRarity": 11.9
+      "totalRedeemed": 3251915,
+      "globalRarity": 449.57649395602425,
+      "adjustedRarity": 1192.7010363529887
     },
     {
       "name": "Good Idea",
-      "totalRedeemed": 0,
-      "globalRarity": 4.619,
-      "adjustedRarity": 12.2
+      "totalRedeemed": 3324675,
+      "globalRarity": 459.63554706788,
+      "adjustedRarity": 1219.387135898962
     },
     {
       "name": "Get Up",
-      "totalRedeemed": 0,
-      "globalRarity": 4.627,
-      "adjustedRarity": 12.2
+      "totalRedeemed": 3331491,
+      "globalRarity": 460.577857485835,
+      "adjustedRarity": 1221.8870321950772
     },
     {
       "name": "Cool, Dude",
-      "totalRedeemed": 0,
-      "globalRarity": 4.678,
-      "adjustedRarity": 12.4
-    },
-    {
-      "name": "Call Me",
-      "totalRedeemed": 0,
-      "globalRarity": 4.687,
-      "adjustedRarity": 12.4
+      "totalRedeemed": 3367120,
+      "globalRarity": 465.5035584660757,
+      "adjustedRarity": 1234.954638582151
     },
     {
       "name": "Can-Do Attitude",
-      "totalRedeemed": 0,
-      "globalRarity": 4.691,
-      "adjustedRarity": 12.4
+      "totalRedeemed": 3373245,
+      "globalRarity": 466.350338294417,
+      "adjustedRarity": 1237.2010976217207
+    },
+    {
+      "name": "Call Me",
+      "totalRedeemed": 3373368,
+      "globalRarity": 466.36734301586785,
+      "adjustedRarity": 1237.2462101869235
     },
     {
       "name": "Air Quotes",
-      "totalRedeemed": 0,
-      "globalRarity": 4.72,
-      "adjustedRarity": 12.5
+      "totalRedeemed": 3397957,
+      "globalRarity": 469.7667665585756,
+      "adjustedRarity": 1246.26468877043
     },
     {
       "name": "Applause",
-      "totalRedeemed": 0,
-      "globalRarity": 4.758,
-      "adjustedRarity": 12.6
+      "totalRedeemed": 3424004,
+      "globalRarity": 473.3677582628706,
+      "adjustedRarity": 1255.8179162975596
     },
     {
       "name": "Impatience",
-      "totalRedeemed": 0,
-      "globalRarity": 4.764,
-      "adjustedRarity": 12.6
+      "totalRedeemed": 3427896,
+      "globalRarity": 473.9058263595082,
+      "adjustedRarity": 1257.2453805558462
     },
     {
       "name": "Sadness",
-      "totalRedeemed": 0,
-      "globalRarity": 4.901,
-      "adjustedRarity": 13
+      "totalRedeemed": 3527016,
+      "globalRarity": 487.60914335300924,
+      "adjustedRarity": 1293.5995062704815
     },
     {
       "name": "Gallop",
-      "totalRedeemed": 0,
-      "globalRarity": 4.931,
-      "adjustedRarity": 13
+      "totalRedeemed": 3548900,
+      "globalRarity": 490.6346012735679,
+      "adjustedRarity": 1301.6258751883495
     },
     {
       "name": "Sneaky",
-      "totalRedeemed": 0,
-      "globalRarity": 7.474,
-      "adjustedRarity": 19.8
+      "totalRedeemed": 5375375,
+      "globalRarity": 743.1443460849573,
+      "adjustedRarity": 1971.5199607880115
     },
     {
       "name": "You're the Guardian",
-      "totalRedeemed": 0,
-      "globalRarity": 9.292,
-      "adjustedRarity": 24.6
+      "totalRedeemed": 6682533,
+      "globalRarity": 923.8586361837358,
+      "adjustedRarity": 2450.944761644461
     },
     {
       "name": "Play Dead",
-      "totalRedeemed": 0,
-      "globalRarity": 9.797,
-      "adjustedRarity": 25.9
+      "totalRedeemed": 7043250,
+      "globalRarity": 973.727677708602,
+      "adjustedRarity": 2583.2445110936746
     },
     {
       "name": "Graceful Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 34.237,
-      "adjustedRarity": 90.5
+      "totalRedeemed": 24759749,
+      "globalRarity": 3423.029552325685,
+      "adjustedRarity": 9081.103993228568
     },
     {
       "name": "City Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 36.845,
-      "adjustedRarity": 97.4
+      "totalRedeemed": 26653690,
+      "globalRarity": 3684.866455977707,
+      "adjustedRarity": 9775.74250422637
     },
     {
       "name": "Titan Sit",
-      "totalRedeemed": 0,
-      "globalRarity": 38.371,
-      "adjustedRarity": 101.4
+      "totalRedeemed": 27759548,
+      "globalRarity": 3837.751067799732,
+      "adjustedRarity": 10181.33674105582
     },
     {
       "name": "Titan Wave",
-      "totalRedeemed": 0,
-      "globalRarity": 38.371,
-      "adjustedRarity": 101.4
-    },
-    {
-      "name": "Warlock Wave",
-      "totalRedeemed": 0,
-      "globalRarity": 43.485,
-      "adjustedRarity": 115
+      "totalRedeemed": 27759548,
+      "globalRarity": 3837.751067799732,
+      "adjustedRarity": 10181.33674105582
     },
     {
       "name": "Warlock Sit",
-      "totalRedeemed": 0,
-      "globalRarity": 43.485,
-      "adjustedRarity": 115
+      "totalRedeemed": 31462898,
+      "globalRarity": 4349.738345724292,
+      "adjustedRarity": 11539.610060923602
+    },
+    {
+      "name": "Warlock Wave",
+      "totalRedeemed": 31462898,
+      "globalRarity": 4349.738345724292,
+      "adjustedRarity": 11539.610060923602
     },
     {
       "name": "Popping Dance",
-      "totalRedeemed": 0,
-      "globalRarity": 47.993,
-      "adjustedRarity": 126.9
+      "totalRedeemed": 34768215,
+      "globalRarity": 4806.697653785309,
+      "adjustedRarity": 12751.897285951056
     },
     {
       "name": "Hunter Wave",
-      "totalRedeemed": 0,
-      "globalRarity": 54.921,
-      "adjustedRarity": 145.2
+      "totalRedeemed": 39710042,
+      "globalRarity": 5489.904089500024,
+      "adjustedRarity": 14564.40535715746
     },
     {
       "name": "Hunter Sit",
-      "totalRedeemed": 0,
-      "globalRarity": 54.921,
-      "adjustedRarity": 145.2
+      "totalRedeemed": 39710290,
+      "globalRarity": 5489.938375442462,
+      "adjustedRarity": 14564.496315825514
     }
   ]
 }

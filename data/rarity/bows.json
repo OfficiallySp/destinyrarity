@@ -1,4 +1,293 @@
 {
   "category": "bows",
-  "items": []
+  "items": [
+    {
+      "name": "Convened Recurve",
+      "totalRedeemed": 12906,
+      "globalRarity": 1.7842515044201492,
+      "adjustedRarity": 4.733518426887441
+    },
+    {
+      "name": "Non-Denouement (Adept)",
+      "totalRedeemed": 63529,
+      "globalRarity": 8.78286950444039,
+      "adjustedRarity": 23.30045654282754
+    },
+    {
+      "name": "Opaque Hourglass",
+      "totalRedeemed": 132374,
+      "globalRarity": 18.30067477499712,
+      "adjustedRarity": 48.55065614759012
+    },
+    {
+      "name": "Heirloom",
+      "totalRedeemed": 183399,
+      "globalRarity": 25.354869181710132,
+      "adjustedRarity": 67.26503533029054
+    },
+    {
+      "name": "Anamnesis (Adept)",
+      "totalRedeemed": 212735,
+      "globalRarity": 29.410564372603474,
+      "adjustedRarity": 78.02456551556638
+    },
+    {
+      "name": "Whistler's Whim (Adept)",
+      "totalRedeemed": 272791,
+      "globalRarity": 37.713292433153335,
+      "adjustedRarity": 100.05123393685511
+    },
+    {
+      "name": "King Orfeo",
+      "totalRedeemed": 404954,
+      "globalRarity": 55.98479650712515,
+      "adjustedRarity": 148.52450186283718
+    },
+    {
+      "name": "Non-Denouement",
+      "totalRedeemed": 441148,
+      "globalRarity": 60.988608606225014,
+      "adjustedRarity": 161.79933263478546
+    },
+    {
+      "name": "Pre Astyanax IV (Adept)",
+      "totalRedeemed": 540044,
+      "globalRarity": 74.66095765171819,
+      "adjustedRarity": 198.07130213311646
+    },
+    {
+      "name": "Hushed Whisper",
+      "totalRedeemed": 550614,
+      "globalRarity": 76.12225769834156,
+      "adjustedRarity": 201.94804858997375
+    },
+    {
+      "name": "Whistler's Whim",
+      "totalRedeemed": 858209,
+      "globalRarity": 118.64719505322424,
+      "adjustedRarity": 314.7643046351033
+    },
+    {
+      "name": "Submersion",
+      "totalRedeemed": 883301,
+      "globalRarity": 122.11615822918196,
+      "adjustedRarity": 323.9672679364717
+    },
+    {
+      "name": "A Good Shout",
+      "totalRedeemed": 893606,
+      "globalRarity": 123.54082208731381,
+      "adjustedRarity": 327.7468206552905
+    },
+    {
+      "name": "The Vow",
+      "totalRedeemed": 990434,
+      "globalRarity": 136.92727061280536,
+      "adjustedRarity": 363.2603122280982
+    },
+    {
+      "name": "Hierarchy of Needs",
+      "totalRedeemed": 1068048,
+      "globalRarity": 147.65738809801113,
+      "adjustedRarity": 391.72670763987895
+    },
+    {
+      "name": "Fortunate Star",
+      "totalRedeemed": 1102918,
+      "globalRarity": 152.47815750442138,
+      "adjustedRarity": 404.5159364904573
+    },
+    {
+      "name": "Vengeful Whisper",
+      "totalRedeemed": 1250847,
+      "globalRarity": 172.9293074189858,
+      "adjustedRarity": 458.77168167649734
+    },
+    {
+      "name": "Anamnesis",
+      "totalRedeemed": 1287490,
+      "globalRarity": 177.99519366386934,
+      "adjustedRarity": 472.2111916498769
+    },
+    {
+      "name": "Mercury-A",
+      "totalRedeemed": 1451327,
+      "globalRarity": 200.6456208860671,
+      "adjustedRarity": 532.3014952688106
+    },
+    {
+      "name": "Accrued Redemption",
+      "totalRedeemed": 1620328,
+      "globalRarity": 224.00996990966152,
+      "adjustedRarity": 594.2857930886157
+    },
+    {
+      "name": "Fel Taradiddle",
+      "totalRedeemed": 1687284,
+      "globalRarity": 233.26662136866938,
+      "adjustedRarity": 618.8431663871338
+    },
+    {
+      "name": "Wish-Keeper",
+      "totalRedeemed": 1711096,
+      "globalRarity": 236.55862484172476,
+      "adjustedRarity": 627.5766655953349
+    },
+    {
+      "name": "Point of the Stag",
+      "totalRedeemed": 1750695,
+      "globalRarity": 242.03317740049846,
+      "adjustedRarity": 642.1003442088726
+    },
+    {
+      "name": "Hush",
+      "totalRedeemed": 1796104,
+      "globalRarity": 248.3109611107274,
+      "adjustedRarity": 658.7549496828019
+    },
+    {
+      "name": "The Spiteful Fang",
+      "totalRedeemed": 1893115,
+      "globalRarity": 261.7227093437433,
+      "adjustedRarity": 694.3355599501796
+    },
+    {
+      "name": "Tripwire Canary",
+      "totalRedeemed": 1963787,
+      "globalRarity": 271.4930969402395,
+      "adjustedRarity": 720.2558461941738
+    },
+    {
+      "name": "Tyranny of Heaven",
+      "totalRedeemed": 2122033,
+      "globalRarity": 293.3705697101505,
+      "adjustedRarity": 778.295545324906
+    },
+    {
+      "name": "Pre Astyanax IV",
+      "totalRedeemed": 2258930,
+      "globalRarity": 312.29654818532526,
+      "adjustedRarity": 828.5050968579611
+    },
+    {
+      "name": "Lethophobia",
+      "totalRedeemed": 2467224,
+      "globalRarity": 341.09314533871833,
+      "adjustedRarity": 904.900842031531
+    },
+    {
+      "name": "Under Your Skin",
+      "totalRedeemed": 2630337,
+      "globalRarity": 363.6434797289619,
+      "adjustedRarity": 964.7256050227671
+    },
+    {
+      "name": "Raconteur",
+      "totalRedeemed": 2966432,
+      "globalRarity": 410.1085354687798,
+      "adjustedRarity": 1087.9947725173226
+    },
+    {
+      "name": "Wish-Ender",
+      "totalRedeemed": 3010566,
+      "globalRarity": 416.2100507249458,
+      "adjustedRarity": 1104.1817477421987
+    },
+    {
+      "name": "Leviathan's Breath",
+      "totalRedeemed": 3040759,
+      "globalRarity": 420.3842259669231,
+      "adjustedRarity": 1115.2555988086028
+    },
+    {
+      "name": "Verglas Curve",
+      "totalRedeemed": 3241499,
+      "globalRarity": 448.13648437365646,
+      "adjustedRarity": 1188.8807722948407
+    },
+    {
+      "name": "Wolftone Draw",
+      "totalRedeemed": 3321889,
+      "globalRarity": 459.2503832145316,
+      "adjustedRarity": 1218.3653179586777
+    },
+    {
+      "name": "Neoptolemus II",
+      "totalRedeemed": 3340485,
+      "globalRarity": 461.8212758982599,
+      "adjustedRarity": 1225.1857509872225
+    },
+    {
+      "name": "Ticuu's Divination",
+      "totalRedeemed": 3364974,
+      "globalRarity": 465.20687446417844,
+      "adjustedRarity": 1234.1675526884503
+    },
+    {
+      "name": "Imperial Needle",
+      "totalRedeemed": 3510340,
+      "globalRarity": 485.3036902236345,
+      "adjustedRarity": 1287.4832693816875
+    },
+    {
+      "name": "Biting Winds",
+      "totalRedeemed": 4567991,
+      "globalRarity": 631.5236954848677,
+      "adjustedRarity": 1675.3966815710512
+    },
+    {
+      "name": "Le Monarque",
+      "totalRedeemed": 4703609,
+      "globalRarity": 650.272852506908,
+      "adjustedRarity": 1725.137135779762
+    },
+    {
+      "name": "Strident Whistle",
+      "totalRedeemed": 5688254,
+      "globalRarity": 786.3997952133839,
+      "adjustedRarity": 2086.274223292747
+    },
+    {
+      "name": "Trinity Ghoul",
+      "totalRedeemed": 6195318,
+      "globalRarity": 856.5012755200084,
+      "adjustedRarity": 2272.249489650352
+    },
+    {
+      "name": "Whispering Slab",
+      "totalRedeemed": 6644791,
+      "globalRarity": 918.6408134439382,
+      "adjustedRarity": 2437.1021727348384
+    },
+    {
+      "name": "Lunulata-4b",
+      "totalRedeemed": 6787780,
+      "globalRarity": 938.4090095051139,
+      "adjustedRarity": 2489.5460799363113
+    },
+    {
+      "name": "Subtle Calamity",
+      "totalRedeemed": 7139477,
+      "globalRarity": 987.0310381235902,
+      "adjustedRarity": 2618.537574603988
+    },
+    {
+      "name": "No Turning Back",
+      "totalRedeemed": 8197500,
+      "globalRarity": 1133.3024722984792,
+      "adjustedRarity": 3006.5874247954284
+    },
+    {
+      "name": "Holless-IV",
+      "totalRedeemed": 9407891,
+      "globalRarity": 1300.6387471076075,
+      "adjustedRarity": 3450.521106977259
+    },
+    {
+      "name": "Arsenic Bite-4b",
+      "totalRedeemed": 9839774,
+      "globalRarity": 1360.3464716143087,
+      "adjustedRarity": 3608.9223264689244
+    }
+  ]
 }

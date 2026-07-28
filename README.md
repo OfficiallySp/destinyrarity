@@ -9,7 +9,7 @@ See your rarest Destiny 2 items — emblems, titles, shaders, and more. Rarity d
 Register an application at [bungie.net/en/Application](https://www.bungie.net/en/Application):
 
 - **Application Type**: Confidential
-- **Redirect URL**: `https://your-site.netlify.app/api/auth-callback` (or `http://localhost:8888/api/auth-callback` for local dev)
+- **Redirect URL**: `https://lightledger.officiallysp.net/api/auth-callback` (or `http://localhost:8888/api/auth-callback` for local dev). This must match the domain you actually visit — the app deploys to its own subdomain, not to a path under officiallysp.net.
 - **OAuth2 Scopes**: Enable `ReadBasicUserProfile` and `ReadDestinyInventoryAndVault`
 
 Save your **API Key**, **Client ID**, and **Client Secret**.
@@ -23,7 +23,7 @@ BUNGIE_API_KEY=your_api_key
 BUNGIE_CLIENT_ID=your_client_id
 BUNGIE_CLIENT_SECRET=your_client_secret
 COOKIE_SECRET=your_32_byte_hex  # Generate: node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
-SITE_URL=https://your-site.netlify.app
+SITE_URL=http://localhost:8888  # Local-dev fallback only; in production OAuth uses the request's own host
 ```
 
 ### 3. Rarity Data (Pre-scraped)
